@@ -7,3 +7,4 @@ adapter-transformers==2.3.0
 googletrans~=2.4.0
 nltk~=3.6.7
 torch~=1.12.0
+lexicalrichness~=0.1.9
