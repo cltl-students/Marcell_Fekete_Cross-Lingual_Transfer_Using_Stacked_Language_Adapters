@@ -21,7 +21,7 @@ def merge_scores(metric="accuracy"):
     Merges scores into a single dataframe,
     one row per language.
 
-    @help from Shahrin Rahman Maimuna
+    @ with help from Shahrin Rahman Maimuna
 
     :param metric: 'accuracy', 'k_3_accuracy', or 'mean reciprocal rank'
     :return: None

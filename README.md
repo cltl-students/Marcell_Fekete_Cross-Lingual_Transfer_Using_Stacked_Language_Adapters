@@ -1,9 +1,9 @@
 # Cross-lingual Transfer Using Stacked Language Adapters
-Repository containing the code for the Research Masters thesis project, Cross-lingual Transfer Using Stacked Language Adapters. Repository created by Marcell Fekete.
+Repository containing the code for the Research Masters thesis project, Cross-lingual Transfer Using Stacked Language Adapters.
+
+This work was carried out by Marcell Fekete as part of an internship project with TAUS.
 
 # Overview
-This repository assumes a Python project, with an Open License (MIT style). If any of these aspects are different from your project please make sure to change those accordingly.
-Please feel free to clone/fork this repository and use it as a template for your thesis.
 
 # Project structure
 
