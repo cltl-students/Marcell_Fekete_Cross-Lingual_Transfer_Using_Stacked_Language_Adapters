@@ -1,3 +1,9 @@
+"""
+Main script to carry out the experiments.
+@author: Marcell Fekete
+"""
+
+
 import os
 import types
 import joblib

@@ -1,3 +1,9 @@
+"""
+Functions that aggregate results across languages.
+@author: Marcell Fekete
+"""
+
+
 import os
 import json
 import glob
@@ -37,9 +43,8 @@ def merge_scores(metric="accuracy"):
     print(concat_df)
 
 
-# order in which the experiments should be arranged
+# order in which the experiments should be arranged in the table
 desired_order = ["no-lang", "target-lang", "low-ttr", "high-ttr", "low-mattr", "high-mattr"]
-
 
 # looping through all language pairs
 for language_pair in language_pairs:
@@ -69,7 +74,6 @@ for language_pair in language_pairs:
     df.to_csv(output_path, sep=";")
 
     print(df)
-
 
 merge_scores("accuracy")
 merge_scores("k_3_accuracy")

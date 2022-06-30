@@ -1,3 +1,9 @@
+"""
+Functions used to prepare and carry out experiments.
+@author: Marcell Fekete
+"""
+
+
 import os
 import re
 import faiss
@@ -151,8 +157,6 @@ def load_lang_adapters(lang_adapters, model):
         model.set_active_adapters(*lang_adapters)
 
     print("Adapter setup   {}   added and activated".format(model.active_adapters))
-
-    # print("Adapters {} added and activated.".format(*lang_adapters))
 
 
 def load_config_list(config_line, multiconfig=False):

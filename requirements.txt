@@ -1,0 +1,7 @@
+joblib~=1.1.0
+numpy~=1.23.0
+pandas~=1.4.3
+tqdm~=4.64.0
+matplotlib~=3.5.2
+adapter-transformers==2.3.0
+googletrans~=2.4.0

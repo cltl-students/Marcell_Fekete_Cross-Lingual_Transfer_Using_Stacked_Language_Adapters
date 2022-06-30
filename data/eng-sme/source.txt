@@ -1,0 +1,1000 @@
+Because I love you.
+Bedouins live in the desert.
+But why?
+Can you help me?
+David is at home.
+David is at home.
+Do you want coffee?
+He goes to junior high.
+He invited her.
+He invited me.
+He likes girls.
+He lives here.
+He speaks English a little.
+How is it going?
+How is it going?
+I am Tom.
+I don't eat meat.
+I don't know.
+I have a cat.
+I have many books.
+I know.
+I'm happy today
+I'm Melanie.
+I'm Tom.
+I only have two children.
+I saw Nils as well
+I saw Nils too
+I speak English.
+I want to learn.
+My name is Tom.
+My name's Tom.
+No worries!
+Once I thought I was wrong. Turns out I was mistaken.
+See you.
+She has red flowers.
+She invited him.
+Thanks.
+Thank you.
+Thank you very much!
+Thank you very much!
+The boy has a horse.
+The future is uncertain.
+The girl has a white horse.
+There is an old house on this street.
+Tom invited me.
+Turtles don't have teeth.
+Water is life.
+We are often in Tromsø.
+We both have almost missed the bus.
+Welcome to Tatoeba!
+What is your name?
+What's your name?
+When are you going back?
+When will you come again?
+Where are you from?
+Where did you learn Latin?
+Where do you come from?
+Who are you?
+Would you like some coffee?
+You are a doctor.
+You are welcome!
+You are welcome.
+You learn English.
+Usenet News ReaderName
+Share Hot New Stuff
+Bass Up
+Panjshirafghanistan. kgm
+Current statustab-style
+Sets the color of Word Wrap-related markers: Static Word Wrap A vertical line which shows the column where text is going to be wrapped Dynamic Word Wrap An arrow shown to the left of visually-wrapped lines
+Label
+Copying files within %1 is not supported.
+handedness
+minutes
+MpegTV
+_Open…
+Turkish
+Korean
+undo-type
+Thick Paper
+America/ Edmonton
+Translations
+Ömnögov ĭ
+If you have checked the option to automatically select icons, this slider allows you to select how long the mouse pointer must be paused over the icon before it is selected.
+Flatten
+Solid Colours
+FluxboxComment
+does not contain
+of Pagumen
+Subject:
+ARABIC("IV ") returns 4
+Queue:
+Circle
+Could not Launch Mail Client
+Title:
+Antarctica/ Casey
+Battleball
+Call Stack
+Persian
+Delete to the end of the word
+Enter the path to the htdig database folder.
+Triesen
+Assigns a lower priority to the selected service, moving it down in the list.
+& Number:
+Arch Cpaper size
+Flip horizontally
+Check the document for validity
+Out of developermarker
+Regina
+Thermal Zone
+Launch Feedback You can configure the application-launch feedback here.
+Listing folders is not supported for protocol %1.
+Open in separate window
+1 hour
+No window decoration plugin library was found.
+Lower Cassette
+Black Levels
+Faroese
+Welcome to %s at %n
+Vietnamese
+Malformed URL %1.
+Users
+Malay
+Discard Changes?
+& Sign Message
+February
+& Terminal options:
+History
+Change text colour:
+Glossy Paper
+Show the complete document path in the window caption
+Collaborate
+The GESTEP() function returns 1 if x greater or equals y, otherwise returns 0. y defaults to 0.
+%1 seconds
+5 Bin Mailbox with Stapler
+Act on:
+New command
+Ascoli Piceno
+Education
+Install/update
+Oroomieh Lakeiran. kgm
+May
+SMPTE240M
+Who do you want to sign as?
+Sipaliwinisweden. kgm
+Images
+No public key to verify the signature
+IMARGUMENT("12 ") returns" #Div/ 0 "
+You must enter a sound file when %1 is selected as the default sound type@title: tab
+Table
+Japanese Kaku envelope #4
+Scroll upQWebPage
+All Artists
+Space
+_Send
+Description: %1
+_Open…
+Denmark
+Open file
+Public
+No selection
+Remove
+Increase Font Size
+Job Spooling
+Format
+Pixmap Cache
+Configure general Konqueror behaviourName
+Exiting...
+Nearest Size and Scale
+KNewStuff contributions
+Composer
+Unable to test printer:
+Body
+Mendoza (MZ)
+Red
+'%1 'does not appear to be a folder. Please move the file out of the way.
+NotesName
+Unmount
+Audio element playback controls and status display
+Try to keep the window below other windows
+Keep & Above Others
+sets the application name
+Egerhungary. kgm
+Mirror pages along vertical axis
+Rear
+Fonts
+Preview
+Comment:
+Do n't export
+Bangladesh
+Highlighting for Ferite
+Type:
+File
+Background
+& Other...
+All
+The LARGE() function returns the k-th largest value from the data set.
+Lock Screenbackground, style
+VI: NORMAL MODE
+Save Image
+The DOLLAR() function converts a number to text using currency format, with the decimals rounded to the specified place. Although the name is DOLLAR, this function will do the conversion according to the current locale.
+Click this button to move the currently-selected filter down one in the list above. This is useful since the order of the filters in the list determines the order in which they are tried on messages: The topmost filter gets tried first. If you have clicked this button accidentally, you can undo this by clicking on the Up button.
+File Selection
+Bevel
+The screen will turn to a custom color for the amount of time specified below.
+ERROR: Parse error for argument 2 (count)
+Kwajalein
+Password
+This means that the contents of the requested file or folder %1 could not be retrieved, as read access could not be obtained.
+Configure Display...
+Nineteen countries participated in the first semi-final. 
+Paper Tray
+Équateur
+Untitled Document
+Please enter your password in order to save your settings:
+'Asirsaudi_arabia. kgm
+To & Desktop
+& Embedding
+Command
+Title
+%1 File
+Kon Tum
+Export vCard 3.0...
+Fonts@title: tab
+kcmclock
+Random
+Network Settings
+Import
+Conversion
+Italian
+You may have encountered a bug in the program.
+Select a JavaScript policy for the above host or domain.
+KDE (new)
+Text
+Mocapuertorico. kgm
+File Extension of Source
+Printing Status - %1
+CRL not available.
+CHARTOASCII(value)
+Abort
+Embedded Java Applet ViewerName
+Târgu Jiuromania. kgm
+WEEKS("2002-19-02 ";" 2002-19-02 "; 1) returns 0, because there is not a whole week in between, starting at the first day of the week (monday or sunday, depending on your local settings)
+Browsing
+Cyan
+Red
+Bataanphilippines. kgm
+& Permissions
+WirelessQShortcut
+Done
+Uliastaymongolia. kgm
+Standard deviation of the distribution
+The nspluginscan executable cannot be found. Netscape plugins will not be scanned.
+Plugin
+Profile
+Round Corners
+Home
+Folder Listing Unavailable
+equal to or less than
+and
+Guinea-Bissau Peso
+August
+Window to Desktop 15
+Date@title: column
+Test...
+Alū ksne
+Press F8 or Shift+F8 to switch to the next/ previous frame.
+Position
+Com-10 Env
+Print as & timetable view
+Change
+Enter the text (in English if possible) that you wish to submit for the bug report. If you press "Send", a mail message will be sent to the maintainer of this program.
+Albums
+Status
+Beershebaitaly. kgm
+Add Horizontal Guide
+Original author
+PERMUT(total; permutated)
+Configuration
+Used Space
+Not Ukraineukraine. kgm
+Co_mmand:
+Drop Sensor Here
+Text: Write
+Australia/ ACT
+San Luis (SL)
+IMDIV(1.2; "3.4+5i") returns "0.111597-0.164114i"
+Name
+Error: Unable to open configuration file "smb. conf"
+Opaque background image for tooltips
+The Common Desktop Environment, a proprietary industry standard desktop environment
+Main Toolbar
+GNU Krell MonitorsName
+& Tableprotected visibility
+Clarendonjamaica. kgm
+No such highlighting '%1 '
+Sounds
+Images
+Any
+Total
+Another window is activated
+Connecting
+Remove
+Resize Image?
+Gambier Islands
+Radius %1 (z)
+Search & metainfo sections:
+1200 DPI
+Cyrillic/Ukrainian
+Description
+Keep & Above Others
+Small black
+7 3/ 4 Envelope 3 7/ 8 x 7 1/ 2 in
+90 Degrees
+Another link to %sst
+Set as & Default
+Blue Green
+Mobile Phone
+Information
+Do you really want to reset all toolbars of this application to their default? The changes will be applied immediately.
+Window Actions
+Hide panel
+General
+Matagalpa
+All Files
+Opening files is not supported with protocol %1.
+The width of the box outline
+Short
+WordReference. com Translation: French to English
+Conversation ID
+Folders
+KCachegrind
+Mesore
+Lampangthailand. kgm
+Information
+Skåne County
+Sheet Properties
+The ERFC() function returns the complementary error function.
+DB-208A (1 Tray)
+Autosum
+Creating folder %1
+_Blue:
+Error opening %1 for writing.
+Gujarati
+No dithering
+_Send
+Edit
+V.120 V.24 rate ISDN
+Negative lookahead
+360x180 dpi
+Delete operation completed.
+600 DPI Photo
+Flatness:
+ACOSH(0) equals NaN
+Select all
+Kapoita
+The TAN() function returns the tangent of x, where x is given in radians.
+Click here to modify the way this application will run, launch feedback, D-Bus options or to run it as a different user.
+2880 x 1440 DPI
+_Key:
+Plugin
+Nabunturanphilippines. kgm
+Active layer
+Overview
+About KuickShow
+Centre
+Parsing document
+Luboš Luň ák
+Shanbe
+& Background
+Force session locking
+This is how the time will be displayed.
+Unable to create new process. The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached.
+Position:
+Duration
+Palette
+Message List - New Messages
+Shut Down
+& Encrypt Message
+German
+Sodipodi
+Edit...
+Anti-aliasing
+Ali Bayramli cityazerbaijan. kgm
+Scope
+Account Info
+Unlocking failed
+KDE Application
+Other Addresses
+Line: %1
+Riveruruguay. kgm
+Original:
+Date
+Terminal
+End:
+left
+Name
+malcolm. hunter@gmx. co. uk
+Rufiyaa
+Region
+Japanese Long Envelope Number 3
+The default cursor theme in KDE 2 and 3
+Large
+Scroll Up
+Add & platform name
+OCT2BIN("55 ") returns" 101101 "
+Västmanland County
+& Resource folders are in account:
+#10 Envelopepaper size
+DMIN(Database; "Header"; Conditions)
+User & Info
+Double Top (Landscape)
+& Bookmark This Page
+RelationshipsGenericName
+Insert Smart Newline
+Check that the device is ready; removable drives must contain media, and portable devices must be connected and powered on.; and try again.
+Back Forward
+Path
+& Background Color...
+Micronesia, Federated States ofName
+Your emails
+Page UpQShortcut
+Filters
+Are you sure?
+Developer (HTML rendering engine, JavaScript)
+Type
+General Settings
+Docking in System Tray
+Formosa
+Extra parameters:
+Zoom _Out
+Kardzhalibulgaria. kgm
+Size:
+Ubuntu Software Centre
+Disks
+Error
+Window to Desktop 1
+What to do when archiving
+LightCoral
+High Quality
+Ecasound Effektrack
+Mobile Number
+Central European
+Accessibility
+Automatic
+& Send
+Mounting
+Installed
+When selected, vi commands will override Kate 's built-in commands. For example: Ctrl+R will redo, and override the standard action (showing the search and replace dialogue).
+Open Folder
+& Automatic Spellchecking
+Export
+ZAngbandGenericName
+Override
+Remove selected tag
+Protect Document
+Program
+Yes
+Quettapakistan. kgm
+Play if stopped, pause if playing
+Guimarasphilippines. kgm
+Top value
+Developer (Netscape plugin support)
+No classname specified.
+Invalid Filenames
+A certificate with that name already exists. Are you sure that you wish to replace it?
+Restore & previous session
+Could not find a usable proxy configuration script
+Jul
+B2 JIS
+Accelerators removed
+This certificate is not relevant.
+& Select Printer
+Sibiu
+Edit Account
+REGEXP("15, 20, 26, 41 ";" ([0-9]+), *[0-9]+$ ";" "; 1) =" 26 "
+wireless: is not enabled
+KataTudoQuery
+Forwarded
+The CODE() function returns a numeric code for the first character in a text string.
+Language
+BIN2OCT(value)
+Bafoussamcanada. kgm
+United States
+Pagadian City
+Ad Dhahirahoman. kgm
+Username
+Logout
+Move Up
+The automatically started session will be locked immediately (provided it is a KDE session). This can be used to obtain a super-fast login restricted to one user. @title: group
+Retalhuleu
+Views
+BelgiumName
+Position:
+Albanian
+Add value
+prc 16kpaper size
+Only on Hover
+Albums Without Cover
+Kalomozambia_districts. kgm
+Transmission aborted.
+KAppfinder
+Moscow+03 - Novosibirsk
+Configure Completion Order...
+Summaries
+Find:
+CAD
+Found a cyclic link while copying %1.
+Rivneukraine. kgm
+Show in toolbar
+Large Address - 1 4/ 10 x 3 1/ 2 "
+Unselect All
+Humacaopuertorico. kgm
+The RAND() function returns a pseudo-random number between 0 and 1.
+Height
+360x360dpi, plain paper, greyscale
+Pages
+ask
+Show/ hide advanced options
+View Attachment: %1
+Saint Barthelemy (France)
+Right Cartridge
+SVN Add@item: inmenu
+Applications to be excluded from sessions:
+The socket operation is not supported
+_Find...
+& Enable output file
+Kurdish
+Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.
+& Completion mode:
+60 Degrees
+& Homepage:
+Status
+Mauren
+& Name:
+Christian Gebauer
+There is more than one matching man page.
+PKR
+Rain
+Window One Desktop Down
+For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).
+Incorrect number of arguments.
+Status
+Signature Algorithm:
+The Alt key has been locked and is now active for all of the following keypresses.
+Large
+Is Admin
+undo-type
+pictures
+Regularly archive events
+When selected, the window borders are drawn using the titlebar colors; otherwise, they are drawn using normal border colors.
+Sort & Increasing
+_Insert
+You do not have read/ write permission to your sent-mail folder.
+Document List
+Unable to modify settings of printer %1.
+Daily
+This is a player message
+Open & Destination
+User Interface
+And
+Reply Subject Prefixes
+Install/update
+The rating could not be submitted.
+General Character Properties
+Install/update
+ACPI
+Transient window (a dialogue) is removedName
+Create a new tab in an existing window rather than creating a new window
+Kalomo
+A floating point value, greater than zero
+Alternate Background
+Contrast
+Check this option if the text mode application offers relevant information on exit. Keeping the terminal emulator open allows you to retrieve this information.
+_View
+Misspelt Words
+Change to Desktop 15Comment
+Personal Information
+GuatemalaName
+KAlarm
+Clanbomber
+From & Clipboard...
+Select columns:
+No Color Adjustment
+Monufia
+Copyright 2000-2007, KDE developers
+Burn
+The Platform Plugin failed. This is a fallback to use the first ALSA device available.
+Print management as normal user Some print management operations may need administrator privileges. Use the "Administrator Mode" button below to start this print management tool with administrator privileges.
+Type: XXXXXXX
+Forty-three countries participate in the contest, equalling the record of the 2008 and 2011 editions. 
+Debug Information
+Select the index you want to reference
+Al Madinah
+Auto Spell Check
+Do you want to resign?
+Ha Noivietnam. kgm
+Password:
+Christian Gebauer
+Plasma Data EngineComment
+Remember
+Sindh
+Has Attachment
+May
+_Zoom (%s)
+(2) System Calls
+Laguna
+Number:
+Maintainer
+Accessibility
+Undefined
+Alta Ribagorça
+Ask for name and folder when adding bookmarks
+Could not open the file for reading (check read permissions).
+North
+Pack Window to the Right
+& Use custom margins
+Although unlikely, a hardware error may have occurred.
+TAN(Float)
+Run To...
+unknown
+MEDIAN(12; 7; 8; 2) equals 7.5
+Puerto Princesa Cityphilippines. kgm
+Letter, 600x600 DPI
+Six Colour Enhanced Composite
+Write-only
+Lock
+Script Manager
+Mukdahan
+Al-Fashirsudan. kgm
+^Install Kubuntu Netbook
+UNIX SchemeName
+Perform a case sensitive search: entering the pattern'Joe' will not match'joe' or'JOE', only'Joe'.
+Check that no applications are accessing the device, and try again.
+NextJobOnSameSheet
+Atlantic/ Canary
+Detach Tab
+Always
+Others
+Kerman
+paper size
+Unable to find the KDM theme archive %1.
+Summary
+Not Algeria
+Cursor
+Percentage
+Get Hot New Stuff!
+Guatemala
+Postcards
+Store Password
+Not capable
+Country code:
+SHORTWEEKDAY
+LRD
+Can View/ Read & Modify/ Write
+Iraq
+Remember password
+Scene Modeler
+Show list
+Job Separation
+Charging
+Window MinimiseComment
+Device
+Import & Galeon Bookmarks...
+Users
+Suggestion List
+Gradient Blue-RedComment
+Transparency
+PCL3GUI
+Open of %1 failed.
+Kabuntalan
+Yes
+Enumerated ListStyle name
+Images for widgets
+What color links should be that have not yet been clicked on
+Type:
+Unable to find a running CUPS server
+Memory
+Digits
+Start & time:
+Technical Details
+& Create New Folder...
+General
+Status
+Mörönmongolia. kgm
+End of Paragraph
+Unknown
+Zero or one occurrences
+Switch User
+Low Saxon
+Group
+The Dash
+Articles
+Blue Heading
+Enable background
+Colorful
+Text layer
+Catañopuertorico. kgm
+SinhalaName
+Schema and text selection improvements
+dict. cc Translation: English to German
+Left Margin
+MNT
+Sending messages
+Save As
+Text Only
+Could not open thumbnail '%s': %sundo-type
+Show file in separate viewer
+Use _Web Browser
+Nothing
+Normal text:
+Debug Information
+America/ Tijuana
+Music
+OKHalftoneMode
+day(s)
+Automatic
+Show Columns
+ATM Networking
+Insert File...
+Work Address
+Encrypt this part
+SRA0
+KWord AmiPro Export FilterName
+June
+Trujillo Alto
+Chinese Traditional
+Configure...
+Close Current View
+Fetching cover for %1...
+& Clean Indentation
+No media in device for %1
+Teleorman
+Black:
+Comment: %1Bitrate: 160 kbits/ s
+Square
+Turks And Caicos Islands
+Vercelliitalyprovince. kgm
+Attachment Title
+No profiles available
+The command does not contain the required tag %1.
+Angry
+Anniversary
+This function returns -1 if the number is negative, 0 if the number is null and 1 if the number is positive.
+Text: Backspace
+Web BrowsingName
+Clear History?
+^Install Ubuntu Studio
+Default
+A4x6paper size
+Cached information (e. g. favicons, web-pages)
+Advanced Permissions
+Surname
+none
+Continue from the end?
+Show applications by & name:
+andrew_coles@yahoo. co. uk
+No Busy Cursor
+Width must be at least 1.
+Group: %1
+ChessMailGenericName
+Data you requested to be saved could not be written. Please choose how you want to proceed.
+If this flag is set, the group of this folder will be set for all new files.
+3-passes x-weaving
+Unable to create directory %1.
+Overwrite & Destination
+1200dpi
+XScorchComment
+10x15paper size
+SodipodiName
+Romanian
+Imperial
+Move Left
+ISO B3Page size
+'Error 'message box
+Mantova
+Xfig
+Failed to open scriptfile "%1"
+Do you want to disable showing the introduction in the webbrowsing profile?
+Transmission PreferencesGerund
+Use customised bell
+Dual
+Filter Settings
+OpenPGP Message - Unchecked Signature
+Set Reply-To To
+4 Winds
+undo-type
+General
+40 - 56 MB Total RAM
+& occurrence(s)@info: whatsthis
+All
+Plain Text Import Dialog
+Medium
+paging
+Gwembezambia_districts. kgm
+CONVERT(3; "lbm"; "kg") equals 1.3608
+Begin:
+Properties
+Zambezizambia_districts. kgm
+The HEX2BIN() function returns the value formatted as a binary number.
+File to open
+MMK
+Freehand
+An information message is being shown
+Tiny
+IMSUM(value; value;...)
+Former co-maintainer
+Adrar
+Bad
+Any
+& Resume
+Right to Left
+Telephones:
+Document to open
+_Password:
+Africa, NorthernName
+Moscow+07 - Amur River
+JIS B5
+Time Remaining:
+Prompt every time a popup window is requested.
+Black and Green (Cyan, Yellow, Black)
+11 Extra Bins
+Mouse Navigation
+Global Alternate
+MySpace
+An autosaved file for an unnamed document exists in %1. This file is dated %2 Do you want to open it?
+Plymouth
+Custom 4
+Expire Folder
+Copy the selected text or item(s) to the clipboard
+Choose application-launch feedback styleName
+Use Fixed Font
+Lock
+Small Icons
+Wood
+The program on your computer which provides access to the %1 protocol has unexpectedly terminated.
+& With empty fields
+Choukei 2 Envelopepaper size
+%1 Colors
+As in _Preferences
+MarathiName
+User Agent
+htdig
+OCT2BIN("12 ") returns" 1010 "
+Description
+Médéaalgeria. kgm
+Home Folder
+INTRATE(settlement; maturity; investment; redemption; basis)
+Error
+Double click on menu button:
+Edit Main Project...
+Africa/ Tripoli
+New Profile
+Memory
+The Num Lock key has been activated.
+Skew Image
+SAO/ R96R
+Examples
+Done
+Color (High Quality)
+XBM
+File
+Print a box displaying typographical conventions for the document type, as defined by the syntax highlighting being used.
+Africa, Southern
+Show logo
+Run & command
+Reply To...
+Normal
+Selection Text
+& Close Tab
+Enter new forward prefix:
+None
+Sétifalgeria. kgm
+Preparing
+Celtic
+180x180 DPI
+Red:
+Cancel
+Consolidate
+Crotone
+Original author
+Yambiosudan. kgm
+Edit...
+Pick Date@info: tooltip
+This page contains changes that have not been submitted. Reloading the page will discard these changes.
+Scroll Page Down
+Apurevenezuela. kgm
+(body part)
+Persian
+Settings
+Moved all messages to the trash
+lesser
+Not Bangladeshbangladesh. kgm
+No target filename has been given.
+Add an attachment to the mail. This can be repeated
+& Username:
+& Report Bugs or Wishes
+2880 x 720 DPI FOL
+If you have selected something within the current document, this will no longer be selected.
+Bookmarks
+Applications
+If this is ticked, KDM will alphabetically sort the user list. Otherwise users are listed in the order they appear in the password file.
+IEX
+New Profile
+& Volume:
+Traditional menu based application launcherName
+Applications
+Sleep %s
+Close
+built-in
+& Upper limit:
+Large (256x256)undo-type
+Events
+Focus window:
+Mailbox - Option
+Bad
+The prefix %1 cannot be bound.
+YCbCr
+Printer
+JB7paper size
+Mail Summary SetupComment
+Paste From File
+Surname:
+Create global database
+ACPI
+Internal Error Please send a full bug report at http: / /bugs. kde. org %1
+KNode
+Page Up
+Details
+Description:
+KDE Icon Editor
+Money:
+Andrew Turner
+204x98 DPI
+Nyalasudan. kgm
+Decrease Font Sizes
+Wanica
+Encrypt (delete markup)
+Login Name: %1 (uid: %2)
+Light
+Ł ódź
+Status & desctab-style
+Accessible Color Scheme
+One Column Portrait
+Entire Page
+Turkish
+of Elul
+not in
+Lebanese Pound
+The Win key is now active.
+LOGNORMDIST(0.1; 0; 1) equals 0.01
+Disconnect
+Navigate to this column
+Day
+Main Toolbar
+Length
+Kidapawan City
+Retain original aspect ratio
+Remember
+Kasaï orientalzaire2006. kgm
+Cyrillic/Russian
+Max clients:
+Aborted
+DSTDEVP(Database; "Header"; Conditions)
+NAME
+Black for any colour
+ChinaName
+Advanced
+default
+Open Link
+Enables the reporting of errors that occur when JavaScript code is executed.
+Host
+Draw background color
+Sets the view as 'linked '. A linked view follows folder changes made in other linked views.
+Qalyubiaegypt. kgm
+Keep above others
+Minsk(City)belarus. kgm
+Adamstown
+NetscapeName
+text 40x25 (7)
+Password echo type
+Not rated
+_Login
+Grouping Method
+CHIDIST(13.27; 5) returns 0.021
+Unknown
+Do Not Start@title: window
+Green (Cyan and Yellow)
+Forever
+Qt plugins
+Last. fm: Skip Current Track
+Photons
+Shortcut
+VarP
+GESTEP(4; 3) returns 1
+Duraznouruguay. kgm
+B5paper size
+America, CentralName
+Company:
+Change to Desktop 2Comment
+& Remove Theme
