@@ -1,0 +1,1000 @@
+The artificial satellite orbits the earth.
+Don't play the ape!
+Okay, wait outside.
+In Yoshkar-Ola there are five theaters.
+How many theaters are there in Yoshkar-Ola?
+Who's complaining?
+Whose textbook is this?
+The glass dropped from his hand.
+A huge scandal happened.
+Cookie is the cutest of all the dogs.
+Where is the nearest subway station?
+There are cats on Mars, too.
+We shall not forget.
+We got used to late-hour work.
+The earth moves around the sun.
+Which one is correct?
+Why don't you come dancing with me?
+Why were you silent all the time?
+What does he see?
+What do you want to do tomorrow?
+I know your father very well.
+I speak Mari.
+I was singing.
+I live in the city.
+I am watching this video.
+I cannot accept this gift.
+I saw that.
+I remember what he said.
+I remember meeting him in Paris.
+I think France is the most beautiful country in Europe.
+I like to study French.
+I don't like this book.
+We have to do the work in a day.
+That job is pretty much finished.
+Good luck!
+The house is insured against fire.
+The grass is always greener on the other side of the fence.
+The wealth doesn't prolong life.
+Those students really can't read.
+Are you fond of baseball?
+Do you like surprises?
+Were you at the concert?
+Are you going to the meeting?
+Do you speak German or English?
+Who is this?
+What is this?
+You'll feel better if you drink this medicine.
+Tom didn't like that movie at all.
+Tom forgot to feed his dog last night.
+Tom is still missing.
+Tom is getting ready.
+It’s fate.
+He lives in Yoshkar-Ola.
+She lives in Yoshkar-Ola.
+She loves me. But I do not love her.
+She gave me a present.
+How old is he?
+How old is she?
+He is believed to have been killed in action.
+Are you American or French?
+Do you see the rose?
+Did you live here?
+Haven't you had your dinner?
+The moon is a satellite of the earth.
+The moon is the Earth's satellite.
+Although my strength has started to give out, I do not want to show my weakness to people.
+Don't use all the hot water.
+Happy birthday to you!
+Tomorrow's a holiday.
+I will finish it by tomorrow afternoon.
+Country life is healthier than city life.
+/Tools/Pr_eferences
+Pounce When Buddy...
+Ubufox extension for Firefox
+Please open the debug window and try again to see the exact error message.
+Account successfully unregistered
+Never
+Defend your Command
+Use last buddy when scores are equal
+Provides a wrapper around SSL support libraries.
+CTCP PING reply
+Greek
+Auto-join
+Unset Account Idle Time
+Tests the ciphers that ship with libpurple.
+Compose New Message
+_Focused windowsNotification Methods
+/Options/Show Formatting _Toolbars
+Not implemented yet.
+Set Home Phone Number...
+Disco
+Relaxed
+Buddylist loaded successfully!
+Results
+Categories
+Set your home phone number.
+_Set
+Could not query the directory server.
+Registration Required
+Google Talk
+Emails
+Ka-Hing Cheung
+Gadu-Gadu Protocol Plug-in
+Conversations with %s
+Place Closed
+File transfer proxies
+Starts _typing
+umode <usermodesgt;: Set your modes in the network
+Logging started. Future messages in this conversation will be logged.
+Codec:
+Really delete certificate for %s?
+Join whom in chat?
+Version %s
+%s has (retroactively) denied your request to add them to your list for the following reason: %s.
+Trillian Encryption
+users: Show the list of users in the chat.
+A group named '%s' already exists in your buddy list.
+My photos
+Server Statistics
+Search in
+Applications
+Key Length: \t%d bits
+_Report idle time:
+Make the most of the web
+Proxy
+Get AIM Info
+File Transfer
+Remote Connection Failed
+/Tools/System _Log
+Search for Users...
+Memory allocation error
+Other
+The handler for "sip" URLs
+Error displaying MOTD
+Unable to send to chat %s,%s,%s
+/Conversation/Insert Link...
+Indonesian
+Topic too long
+display this help and exit
+Select a person from your address book to add this buddy to, or create a new person.
+Attempting to connect to %s:%hu.
+Couldn't find window
+Browser Selection
+Change XMPP Password
+libfaim maintainerlazy bum
+Message Send Error
+Group Items
+Supports
+Whether the specified command should handle "msnim" URLs
+Chat
+3D Chess
+Password:
+Busy
+time: Displays the current local time at the IRC server.
+ICQ UTF8
+Contact Info
+_Font face
+_Recipient:
+There is no Message of the Day associated with this connection
+Autoaccepted file transfer of "%s" from "%s" completed.
+Certificate Information
+P_lay a sound
+Registration of %s@%s successful
+Log Out
+New mail notifications
+An error occurred while opening the file.
+F_lash window when IMs are received
+Layout
+You have no database of root certificates, so this certificate cannot be validated.
+Login Redirected
+Choose Playlist
+Add new line in Chats
+Electronics
+Suspend
+Buddy Note: %s
+Smile!
+System Log
+%s requires %s, but it failed to unload.
+Penguin Mastermind
+Select a Resource
+Conversations with %s
+User temporarily unavailable
+Please enter the appropriate information about the chat you would like to join.
+Retrieving User Information...
+An ambiguous user ID was entered
+Unable to create connection
+Remove file from playlist
+Playing a game
+Progress
+No valid mirror found
+Install an LTSP server
+Rubbish Bin
+Use Perfect Forward Secrecy
+Alien Arena
+New Conference
+Ubuntu One Music
+New Account
+SIP usernames may not contain whitespaces or @ symbols
+^Try Kubuntu Netbook without installing
+Timestamp
+Invite Group to Conference...
+Open an IM window
+Removing this contact will also remove all the buddies in the contact
+Video Camera
+no channel modes are set on %s
+Printer DefaultGhostScript
+Please wait while TinyURL fetches a shorter URL ...
+Braille Terminal
+Any questions?
+names [channel]: List the users currently in a channel.
+Workspaces
+Minimi_ze new conversation windows
+%s encountered errors migrating your settings from %s to %s. Please investigate and complete the migration by hand. Please report this error at http://developer.pidgin.im
+You must select an account.
+Hebrew
+%s. Try `%s -h' for more information.
+May
+Insert c_ount of new messages into window title
+Balder2D
+Unknown error (%d)
+Smoke
+Would you like to overwrite it?
+Remove Custom Icon
+Certificate Import
+Visit the Pidgin Web Page
+On unread messages
+Buddy Icon
+_More...
+No such channel
+New Buddy Pounce
+Interests
+Galeon
+BZFlag
+XMPP Service Discovery
+I/O error
+(Tap)
+%s (%s)
+Invincible
+Unable to receive offline messages
+Right-click for more unread messages...
+Allow multiple simultaneous logins
+time: Displays the current local time at the IRC server.
+Registration Error
+Replace
+Failed to remove buddy
+Unable to send the message, the conversation couldn't be started.
+_Browse logs folder
+Bitrate
+Log Out
+A file is available for download from: Remote host: %s Remote port: %d
+Accounts
+Removing this contact will also remove all the buddies in the contact
+P_lugin
+Type a user to block.
+Insert Image
+Compose New Message
+Could not open %s: Redirected too many times
+There was a conflict in running the command:
+Select Folder...
+Installed
+Provides a variety of ways of notifying you of unread messages.
+Channel %s does not exist in the network
+The topic for %s is: %s
+Failed to set cmodes for %s
+_Keep
+SOCKS 5
+Change Boot Disk
+Registration Error
+Common name: %s SHA1 fingerprint: %s
+Mobile Number
+Boot loader
+Pets
+The user %s has granted your request to add them to your buddy list.
+Encodings
+Unable to add group: group not found
+Manage Music
+Buxon
+Session Options
+Idle %dm
+Defend your Command
+-- Type space to continue -- R)epl
+Lao
+print job
+/Options/Enable _Logging
+Recent
+Lost
+GStreamer Failure
+The selected file is not a valid plugin.
+Typing notification font
+Format
+Photo
+/Conversation/Remove...
+Logged In
+Not while on AOL
+Places Lived
+_Term:
+eMusic Store
+Date
+Queue full
+_Unset
+Exposure
+Danish
+Title:
+Your selected nickname was rejected by the server. It probably contains invalid characters.
+Techno
+Share
+/Buddies/Get User Info...
+Add Channel Public Key
+Angband (GTK)
+Type the email address of the buddy you are searching for.
+/Tools/Pr_ivacy
+Retrieving...
+Calm
+The SIP/SIMPLE Protocol Plugin
+Move to
+Queue full
+Error communicating with server. Closing connection.
+Please enter a username to check its availability:
+Top
+Custom Smiley Manager
+_Recipient:
+View Splash
+Downloads
+Play
+GG server
+Passport account not yet verified
+Download Details
+Secondary groups
+Message was not sent because the system is unavailable. This normally happens when the user is blocked or does not exist.
+kick <channelgt; <nickgt; [comment]: Kick client from channel
+Invalid input condition
+Status Icon Theme:
+Cancel
+Watching TV
+Reading cache
+Save Playlist…
+May
+E_xecute a command
+Request denied
+Restricted XML
+Last 7 days
+The IRC server received a message it did not understand.
+Pendingprint job
+You have reached your limit for the number of contacts allowed
+A folder with that name already exists
+Server Instructions: %s
+Secure File Transfer
+_Dockable Buddy List
+Office
+Cancelled
+Highlight _misspelled words
+Remove
+Buddy Information
+ayttm
+Unable to buzz, because %s does not support it or does not wish to receive buzzes now.
+_Remove
+/Tools/Mute Sounds
+Event
+/Options/Enable Logging
+Use old-style SSL
+Internet Radio
+Feature Not Implemented
+Pa_ssword:
+High Contrast
+Ban on %s
+Questioning
+Show dates in...
+_Name
+CommandDesktop
+Checks periodically for new releases.
+Either the host name or port number specified for your given proxy type is invalid.
+Buddy Note: %s
+%s has signed off.
+Error
+Unable to remove %s from privacy list (%s).
+True if the command used to handle this type of URL should be run in a terminal.
+You have left this chat.
+Add new line in IMs
+Extended Address
+Avogadro
+Create an event
+Firefox web browser
+Select a PEM certificate
+%s %s. Try `%s -h' for more information.
+Ping timed out
+WATCH
+Message could not be sent, not allowed while invisible:
+Goosing %s...
+Urdu
+Alpha
+0 people in room
+The 'Manual' browser command has been chosen, but no command has been set.
+Out to Lunch
+Print
+Mobile Phone Number
+Remove when a _message gets sent
+%s is on the local list but not on the server list. Do you want this buddy to be added?
+Safely remove
+Invalid country selected. Please try again.
+First name:
+Logging
+Filename
+Please enter the person's information below.
+Buddy logs out
+Save buddylist to file...
+Chat _name:
+Can't guess meta-packag
+User not found
+Remove on switch to conversation ta_b
+The PIN is invalid. It should only consist of digits [0-9].
+Failed to authenticate
+Select Folder...
+Please enter the new name for %s
+Buddy Notes
+Set Nickname...
+Friday
+Highlighted Messages
+GntClipboard
+Friends
+Enter your password:
+Appear Online
+Could not find any information in the user's profile. The user most likely does not exist.
+There is no application configured to open this type of file.
+Change to this status when _idle:
+GIMP Image Editor
+Select a conference server to query
+The required plug-in %s could not be loaded.
+You have mail!
+Alias (optional)
+Buddy list synchronization issue in %s (%s)
+Authorise
+New Buddy Pounce
+Guest Session
+_View Certificate...
+Message of the Day
+Close IMs immediately when the tab is closed
+Obsolete SNAC
+Place tagged
+Time Elapsed:
+Show time in Menu Bar
+%s is typing...
+Account has been disabled
+Unable to add %s to deny list (%s).
+Went away
+Load buddylist from file...
+P_ounce only when my status is not Available
+Torch
+A connection error occurred to MXit. (read stage 0x05)
+Tweets
+%s has stopped typing
+Music Messaging Plugin for collaborative composition.
+none
+Mouse
+Please select your mood from the list
+View MOTD
+Department
+Cell phone
+When a file-transfer request arrives from %s
+Stop
+The text information for when a buddy is online
+Has you
+Name
+Programming
+Password has expired
+Cannot create pounce
+Error Running Editor
+The location of the file.
+Overwrite
+Anagramarama
+Chats
+Allow/Disallow Mobile Pages...
+Boot loader
+Valencian-Catalan
+Darker
+Novell GroupWise Messenger Protocol Plug-in
+'delbuddy' command failed
+Files & Folders
+Unable to add %s to your buddy list. Error creating folder in server side list (%s).
+MXit ID
+Delete
+Work
+Unable to open file.
+Audiobooks Library
+Key Agreement Request
+Hot
+5.1-channel
+_Insert
+On Vacation
+Account type:
+Auto-detect incoming UTF-8
+_Notify buddies that you are typing to them
+Kicked (%s)
+Unable to change server side privacy settings (%s).
+Social
+Merge Groups
+Topic too long.
+User is typing...
+No file transfer session active
+Bot account reached daily IM limit
+The message is too large.
+The certificate is not valid yet. Check that your computer's date and time are accurate.
+The client version you are using is too old. Please upgrade at %s
+%s removed all %s's modes
+Error loading SILC key pair
+Retired Developers
+Sending cookie
+Founder Key Fingerprint:%s
+Group
+Nick or channel is temporarily unavailable.
+Member Since
+%s is trying to send you a group of %d files.
+%s has returned from being idle (%s)
+Cannot detach
+Invalid Directory
+Already there
+Key Agreement Request
+Monitor
+Kannada
+That command only works in IMs, not chats.
+Join User in Chat...
+LibreOffice Calc
+Education
+ICQ Privacy Options
+Unable to establish a connection with %s: %s
+/Tools/Mute _Sounds
+Notify Dialogue
+Turkish
+%s is trying to send you a group of %d files.
+Export Sametime List...
+MacSlow's Cairo-Clock
+(You probably forgot to 'make install'.)
+Joining %s requires an invitation.
+System Shutdown
+Save Playlist...
+_Accept Defaults
+Example
+Certificate Export Error
+SSL Certificate Verification
+ST_UN server:
+Encodings
+_Enable automatic router port forwarding
+Replace with:
+Common name: %s SHA1 fingerprint: %s
+Brewtarget
+Add to chat...
+Invalid Room Name
+support
+Channel Name: %s
+_Port:
+%s cancelled the transfer of %s
+Tests to see that most things are working.
+True if the command specified in the "command" key should handle "aim" URLs.
+st copy)
+To add the buddy you must import his/her public key. Press Import to import a public key.
+Australian English
+That command only works in chats, not IMs.
+Switcher
+Invisible
+Ario
+Hardware requirements
+Engineering
+Select a file to use for text subtitles
+Channel Information
+Proxy _type:
+Set Home Phone Number...
+Timestamp
+Browser Selection
+Forcing Login
+Close conversation
+Incoming
+Sorry, there are no files or folders that match your search.
+Manage Music
+Password:
+_Show system tray icon:
+Change Account Registration at %s
+Malay
+Your IM Image was not sent. You must be Direct Connected to send IM Images.
+Change Address To:
+_Unread Messages
+Error
+Yahoo News
+%s is not a valid room name
+channel modes for %s: %s
+Unable to add user to privacy list (%s).
+Requesting %s's attention...
+Shotwell Photo Manager
+The server could not access the directory
+Select a file
+Slovenian
+no channel modes are set on %s
+Web Aware
+Danish
+A problem occurred when checking for the updates.
+Time Elapsed:
+_Join
+Example: stunserver.org
+Unknown
+Select a file
+Conversation
+Use proxy
+Lastlog
+Open File...
+part [message]: Leave the room.
+Buddy logs in
+Whether the specified command should handle "sip" URLs
+%s is now known as %s
+Autoaccept complete
+%s has stopped typing to you (%s)
+Allow %s to contact you?
+Windows Live Messenger Protocol Plugin
+Failed to store image: %s
+Key Agreement failed
+_Auto-reply:
+_Copy Email Address
+Select an action
+The file '%s' is too large for %s. Please try a smaller image.
+Key Length: \t%d bits
+Type the host name for this certificate.
+zci <classgt; <instancegt;: Send a message to <class,instance,*gt;
+Meebo
+You cannot add the same person twice to a conversation
+minutes
+_Send File...
+Normal
+Really delete certificate for %s?
+Pictures
+Filesystem type
+User Count: %d
+Pidgin smileys
+Co_nversations:
+/_Help
+_Rename
+Use Environmental Settings
+Service unavailable
+Continue running under SSH?
+Browser preferences are configured in GNOME preferences
+Unable to set AIM profile.
+The drive has been successfully ejected
+Launch
+Type the host name for this certificate.
+ONCE SET, THIS CANNOT BE CHANGED!
+Enter the name of a Notes Address Book group in the field below to add the group and its members to your buddy list.
+Policy Violation
+Could not set icon
+%s entered the room.
+Authorization Denied Message:
+Profession
+_Get List
+You have been connecting and disconnecting too frequently. Wait ten minutes and try again. If you continue to try, you will need to wait even longer.
+By status
+WAP Server
+The layout of icons, name, and status of the buddy list
+At %s since %s
+You are about to remove %s from your buddy list. Do you want to continue?
+Blink
+Initiate _Chat
+Plugin need to be loaded before you can configure it.
+Secure File Transfer
+The command used to handle "irc" URLs, if enabled.
+Support for most iPod/iPhone/iPad devices.
+A music messaging session has been requested. Please click the MM icon to accept.
+Keep a personal diary
+_Crop
+Not logged in
+_Password:
+Unable to receive offline messages
+Biniax-2
+Retrieving User Information...
+Gujarati Language Team
+Unknown node type
+Failed to authenticate
+Key Agreement failed
+Jump to markerline
+Unable to parse response from HTTP proxy: %s
+Monday
+/Buddies/Add Buddy...
+Block
+Clear Scrollback
+CdCat
+Songs
+%s has cleared the topic.
+/Buddies/New Instant _Message...
+Tired
+A folder with that name already exists
+Loads .NET plug-ins with Mono.
+%s has sent you a message. (%s)
+Local Time
+Enable Account
+Grateful
+Unable to create listen socket
+Syntax Error: You typed the wrong number of arguments to that command.
+Anniversary
+Cannot join channel
+Enable replacement of last word on send
+Alias
+The selected account is not online.
+Friends
+Icon for Contact/ Icon for Unknown person
+The selected account is not online.
+3D chess for X11
+You can send this image as a file transfer, embed it into this message, or use it as the buddy icon for this user.
+You are currently disconnected. Messages will not be received unless you are logged in.
+XMPP Protocol Plugin
+Pounce Who
+Terminal
+User_name:
+Evil
+Logging stopped. Future messages in this conversation will not be logged.
+Please enter your search criteria below
+Searching
+call: Make an audio call.
+Shy
+Verify Public Key
+Provides SSL support through GNUTLS.
+Bluetooth settings…
+Adun
+Error reading %s: %s.
+Unregistration Error
+Pager port
+Optional information:
+Bangarang
+Search in
+artist
+The default Pidgin buddy list theme
+Voices
+%s has returned from being idle (%s)
+debug <optiongt;: Send various debug information to the current conversation.
+Spooky
+There is no splash-screen currently available
+Mobile Phone
+_Recipient:
+Appear Offline
+Fill out all fields completely.
+A music messaging session has been requested. Please click the MM icon to accept.
+Error 0x%04x: Unable to change email address because the given address is invalid.
+Log format
+/Help/_About
+Bad ticket
+Change XMPP Password
+Greek
+Mouse Gestures
+The command used to handle "msnim" URLs, if enabled.
+Topic
+IRC nick and server may not contain whitespace
+Add friends from MySpace.com
+Colorspace fallback
+_Underline
+Receiving
+%s has paused while typing to you (%s)
+Music Messaging Configuration
+SSL support unavailable
+Request denied
+From last sent message
+Contact Info
+Play Billard Game
+Message received begins conversation
+View All Logs
+_Send
+Depression
+Receiving As:
+_Accept
+Registration Successful
+That command only works in IMs, not chats.
+Cantor
+The required plugin %s was unable to load.
+Block User
+Key to open the first panel menu
+Whether the specified command should handle "icq" URLs
+Could not start the file transfer
+Sorry, there is nothing that matches your search.
+Install
+Lonely
+Games
+The default Pidgin status icon theme
+Safely remove
+Confirm Account
+Cannot detach
+Bittornado Client
+Relaxed
+detach: Detach this session
+State
+AIM Direct IM
+Applications
+Create an event
+Show Buddy _List
+Error running %s
+Your MSN buddy list is temporarily unavailable. Please wait and try again.
+%s has cleared the topic.
+Method:
+Invite to chat
+Raspberry
+Set friendly name for %s.
+Connection timed out
+SOCKS 5
+%s. Try `%s -h' for more information.
+Media Initiation Failed
+Cbrpager
+%s has cleared the topic.
+Accept file transfer request from %s?
+You are not connected.
+Italian
+calibre
+Connect server
+Error contacting the MXit WAP site. Please try again later.
+%s Finch will not attempt to reconnect the account until you correct the error and re-enable the account.
+Screen Sharing
+Group name
+Channels:
+Romanian
+XMPP Console
+Failed to remove buddy
+Sick
+Re-read gtkrc files
+Strikethrough
+Server rate limit exceeded
+Open your personal folder
+/Conversation/Clea_r Scrollback
+The remote user has declined your request.
+Unable to send the message, the conversation couldn't be started.
+%s has become idle.
+Select a conference server to query
+Buddy Add error
+%s has high-fived you!
+Message (Nick Said) Text
+Waiting for Handshake Acknowledgement
+Cancel Presence Notification
+Emails
+Adun
+/Conversation/Join a _Chat...
+Partner
+Retrieving buddy list
+Operating System
+%s is not a valid colour. See '/help msgcolor' for valid colours.
+Enter an alias for this chat.
+Type
+Lets you send raw input to text-based protocols.
+This is a two-sided DVD. You have booted from the second side. Turn the DVD over then continue.
+Drinking
+Room _List
+OEM install (for manufacturers)
+Invite
+You require encryption, but it is not available on this server.
+Please enter the username or alias of the person whose log you would like to view.
+Accessibility
+Failed to change nickname
+Authenticating connection
+Mouse
+The 'Manual' browser command has been chosen, but no command has been set.
+ping: Send PING to the connected server
+Sound
+Humiliated
+Close conversation
+Organization Name
+Bittornado Client
+Certificate Manager
+Authenticating
+Error communicating with server. Closing connection.
+Encodings
+Simplified Chinese
+Defining adjective:
+Cancelled
+Account Confirmation Requested
+Presence
+User lookup
+Instant Messaging
+Run in test mode
+Server too busy
+Changes to privacy settings take effect immediately.
+Personal IM
+The handler for "aim" URLs
+ST_UN server:
+/Conversation/_Get Info
+Filesystem type
+Remove on switch to conversation ta_b
+Delete Log?
+IP Address
+Layout file ({}) or name
+Do you want to report the problem now?
+Select User
+_Edit
+win32 port
+Password (again)
+Browse, search, and purchase music from the Amazon MP3 store.
+Login Redirected
+TinyURL for above: %s
+Too many hits to a FND
+Key agreement cannot be started with yourself
+Alphabetically
+Import from .anyone
+Default Formatting
+No actions available
+Unable to create socket: %s
+Family Name
+Department
+Details
+Screen Display
+Home town
+msgcolour <classgt; <foregroundgt; <backgroundgt;: Set the colour for different classes of messages in the conversation window. <classgt;: receive, send, highlight, action, timestamp <foreground/backgroundgt;: black, red, green, blue, white, grey, darkgrey, magenta, cyan, defaultEXAMPLE: msgcolour send cyan default
+Possible Matches
+File transfer proxies
+/Tools/Privacy
+Required parameters not passed in
+Humbled
+View
+Status / Idle
+%s has set the topic to: %s
+Zephyr Protocol Plugin
+Unable to send to chat %s,%s,%s
+Use name heuristics
+Categories
+buzz: Buzz a user to get their attention
+Buy
+Manual
+There is no music currently available on this computer.
+History Plug-in Requires Logging
+Goosing %s...
+_IM windows
+Authentication failed
+SIP/SIMPLE Protocol Plugin
+Auto-response sent:
+DBus Plug-in Example
+Please enter your current password and your new password.
+%s has invited %s to the chat room %s
+Ret_urn from away
+House
+_More...
+Edit Status
+_Remain in chat after window is closed.
+MXit ID
+_Enable automatic router port forwarding
+Pidgin requires a compatible GTK+ Runtime (which doesn't appear to be already present).$\\rAre you sure you want to skip installing the GTK+ Runtime?
+Unable to canonicalise password
+Failure: Remote does not support proposed KE group
+Error displaying MOTD
+Import from .zephyr.subs
+^Try Mythbuntu without installing
+No matches
+Reboot
+Buddy Comment
+Error occurred during key agreement
+Log Out
+Couldn't find X display
+Alias Buddy
+_Passphrase:
+%s has invited %s to the chat room %s
+Sunday
+Background Colour
+To finish updating your system, please restart it. Click on the notification icon for details.
+User Information
+Send emoticons
+Unable to authenticate: %s
+Your account is currently suspended
+Unknown affiliation: "%s"
+Web Page
+ExtPlacement
+Messages
+Cl_ose conversations with the Escape key
+Drag
+%s became idle
+Armenian
+%s Finch will not attempt to reconnect the account until you correct the error and re-enable the account.
+Reset password
+Left Vertical
+Layout
+Use configuration file
+4-channel
+Test plugin IPC support, as a server.
+Left side
+Pounce Who
+Contact Availability Prediction plugin.
+You have probably requested to set your profile before the login procedure completed. Your profile remains unset; try setting it again when you are fully connected.
+Songs
+Reading challenge
+OCaml
+Greenwich Mean Timetimezone
+Waiting for response...
+/Conversation/Al_ias...
+Password has expired
+Please enter the URL and description of the link that you want to insert. The description is optional.
+Create
+Anki
+Unknown node type
+You do not have permission to uninstall this application.
+role <moderator_BAR_participant_BAR_visitor_BAR_nonegt; [nick1] [nick2] ...: Get the users with a role or set users' role with the room.
+_Cancel
+Saved Statuses
+^Try Lubuntu without installing
+Techno
+Impressed
+prefs: Show the preference window.
+/Conversation/View _Log
+Not allowed when offline
+View Message of the Day
+Use SSL
+September
+Allow MSN Mobile pages?
+Realm
+You are not currently signed on with any protocols that have the ability to chat.
+Unknown.
+Unknown error. You may need to logout and wait five minutes before being able to rejoin a chatroom
