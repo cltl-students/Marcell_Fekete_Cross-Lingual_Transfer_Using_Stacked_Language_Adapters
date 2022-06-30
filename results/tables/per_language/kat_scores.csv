@@ -1,0 +1,4 @@
+;no-lang;target-lang;low-ttr;high-ttr;low-mattr;high-mattr
+accuracy;7.5;10.1;12.2;12.8;12.2;16.3
+k_3_accuracy;14.0;16.9;19.6;20.2;19.6;24.0
+mean reciprocal rank;0.102;0.129;0.154;0.161;0.154;0.196

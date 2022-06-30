@@ -1,0 +1,1001 @@
+	Sentence	Predicted	Gold	K_1_correct	K_3_correct	K_1_scores	K_1_predicted_indices	K_3_predicted_indices	Reciprocal_ranks	True_indices
+0	KAppfinder	KAppfinder	KAppfinder	True	True	0.5717883	500	500, 923, 565	1.0	500
+1	Viidodat	Size:	Scope	False	False	0.89639735	431	431, 954, 927	0	383
+2	1200 čd	1200dpi	1200dpi	True	True	0.83021235	765	765, 306, 841	1.0	765
+3	Mendoza (MZ)	Mendoza (MZ)	Mendoza (MZ)	True	True	0.46981955	172	172, 284, 410	1.0	172
+4	Iranalašgiella	Kurdish	Persian	False	False	0.8584256	526	526, 1, 342	0	97
+5	Geavat & iežat signála	Cached information (e. g. favicons, web-pages)	Use customised bell	False	False	0.99111843	749	749, 611, 207	0	779
+6	Lasit árvvu	Width must be at least 1.	Add value	False	False	1.0142357	757	757, 499, 28	0	494
+7	jeara	Regina	ask	False	False	0.91173005	107	107, 967, 364	0	516
+8	& Vállje čálána	No classname specified.	& Select Printer	False	False	1.1467898	462	462, 286, 395	0	471
+9	Ii gávdnan prográmma « nspluginscan ». Ii sáhte ohcat Netscape- lassemoduvllaid.	The nspluginscan executable cannot be found. Netscape plugins will not be scanned.	The nspluginscan executable cannot be found. Netscape plugins will not be scanned.	True	True	0.6561123	251	251, 527, 632	1.0	251
+10	Sáhttá čájehit/ lohkat ja rievdadit/ čállit	This page contains changes that have not been submitted. Reloading the page will discard these changes.	Can View/ Read & Modify/ Write	False	True	0.8733822	883	883, 653, 356	0.5	653
+11	KDE- prográmma	Qt plugins	KDE Application	False	False	0.775635	988	988, 231, 542	0	386
+12	Čájeheapmi	SHORTWEEKDAY	Browsing	False	True	0.92140913	651	651, 242, 661	0.5	242
+13	Geavaheaddjedieđut	Browsing	User & Info	False	False	0.9937657	242	242, 499, 961	0	409
+14	undo-type	undo-type	Could not open thumbnail '%s': %sundo-type	False	False	0.49388337	546	546, 785, 77	0	705
+15	Badjerádji:	Company:	Max clients:	False	False	0.89553607	997	997, 372, 492	0	960
+16	Go dát lea válljejuvvon, de vi- gohččumat badjelgehččet Kate sisahuksejuvvon gohččumiid. Ovdamearka dihte: Ctrl + R máksá « daga ođđasit », iige čájet ohcan - ja buhttenláseža mii lea standárda.	When selected, vi commands will override Kate 's built-in commands. For example: Ctrl+R will redo, and override the standard action (showing the search and replace dialogue).	When selected, vi commands will override Kate 's built-in commands. For example: Ctrl+R will redo, and override the standard action (showing the search and replace dialogue).	True	True	0.7557163	447	447, 527, 174	1.0	447
+17	Čájet olles dokumeantabálgá namahusholggas	Do you want to disable showing the introduction in the webbrowsing profile?	Show the complete document path in the window caption	False	False	0.9508847	777	777, 611, 728	0	129
+18	Vállje visot	Name	Select all	False	False	0.95315254	395	395, 286, 643	0	353
+19	Eretlaktimin	Plugin	Disconnect	False	False	0.9380988	252	252, 359, 83	0	950
+20	Ovddit máŧasdoalli	Sounds	Former co-maintainer	False	False	0.98592305	295	295, 796, 608	0	805
+21	Gaskageardán	Adrar	Medium	False	False	1.048715	806	806, 373, 243	0	791
+22	Borg	Wood	Jul	False	False	0.6496037	833	833, 585, 807	0	467
+23	& Gidde gilkora	& Send	& Close Tab	False	False	1.0481987	444	444, 580, 680	0	868
+24	Viečča ođđa, somás tiŋggaid!	When will you come again?	Get Hot New Stuff!	False	False	0.9846568	53	53, 56, 60	0	645
+25	Musihkka	Music	Music	True	True	0.8306109	712	712, 295, 938	1.0	712
+26	Amerihká ovttastuvvan stáhtat	Nineteen countries participated in the first semi-final. 	United States	False	False	0.98672307	209	209, 883, 527	0	482
+27	& Kryptere dán oasi	Encrypt this part	Encrypt this part	True	True	1.0274783	720	720, 951, 411	1.0	720
+28	@ item: inmenu	Fonts@title: tab	SVN Add@item: inmenu	False	True	0.8186594	222	222, 521, 788	0.5	521
+29	Speadjalastte siidui ceakkoávssa bokte	Unable to create new process. The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached.	Mirror pages along vertical axis	False	False	1.0282962	371	371, 105, 818	0	182
+30	KDE 2 ja 3 standárda sievánfáddá	The default cursor theme in KDE 2 and 3	The default cursor theme in KDE 2 and 3	True	True	0.73034763	400	400, 231, 289	1.0	400
+31	Čáhci lea eallin.	She invited him.	Water is life.	False	False	0.81238747	35	35, 8, 33	0	46
+32	Namahis dokumeanta	Do you want to disable showing the introduction in the webbrowsing profile?	Untitled Document	False	False	0.9240513	777	777, 834, 861	0	212
+33	Mo manná?	Rain	How is it going?	False	False	1.0280783	537	537, 857, 248	0	14
+34	Ii gávdnan CUPS- bálvá mii lea jođus	Do you want to disable showing the introduction in the webbrowsing profile?	Unable to find a running CUPS server	False	False	0.83360314	777	777, 527, 318	0	675
+35	kcmclock	kcmclock	kcmclock	True	True	0.7443924	223	223, 359, 252	1.0	223
+36	Vuosttaš oassefinálii oassálasttii 19 riikka.	Nineteen countries participated in the first semi-final. 	Nineteen countries participated in the first semi-final. 	True	True	0.8462665	209	209, 589, 562	1.0	209
+37	Seaillut álgoproporšuvnna (mihttogori)	Cached information (e. g. favicons, web-pages)	Retain original aspect ratio	False	True	0.881706	749	749, 956, 846	0.5	956
+38	Sádde láse ovtta čállinbeavddi vulosguvlui	Cached information (e. g. favicons, web-pages)	Window One Desktop Down	False	False	1.0423994	749	749, 28, 777	0	538
+39	(reiveteaksta)	day(s)	(body part)	False	True	0.8508042	714	714, 886, 749	0.5	886
+40	zaire2006. kgm	Clarendonjamaica. kgm	Kasaï orientalzaire2006. kgm	False	False	0.9025841	293	293, 498, 797	0	958
+41	undo-type	undo-type	Add Horizontal Guide	False	False	0.49388337	546	546, 785, 77	0	274
+42	Oktiičatnon	Photons	Connecting	False	False	0.9248707	990	990, 224, 376	0	300
+43	Geavat & iešmeroštuvvon siidoravddaid	Cached information (e. g. favicons, web-pages)	& Use custom margins	False	False	1.0200472	749	749, 207, 527	0	615
+44	Heaittihuvvo...	Test...	Exiting...	False	True	0.69624126	263	263, 726, 166	0.3333333333333333	166
+45	Metralaš mihtut sáhttet geavahit dáid prefivssaid: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E- 01), c (centi, 1E- 02), m (milli, 1E- 03), u (micro, 1E- 06), n (nano, 1E- 09), p (pico, 1E- 12), f (femto, 1E- 15), a (atto, 1E- 18).	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	True	True	0.21411312	539	539, 241, 474	1.0	539
+46	Čálán	Duration	Printer	False	False	0.8953644	373	373, 585, 876	0	917
+47	Oidnen maiddái Niillasa.	She invited him.	I saw Nils as well	False	False	0.84990907	35	35, 33, 8	0	25
+48	Mo hurgá?	What is your name?	How is it going?	False	False	1.0801128	50	50, 46, 51	0	13
+49	1200 čd	1200dpi	1200 DPI	False	True	0.83021235	765	765, 306, 841	0.5	306
+50	Christian Gebauer	Christian Gebauer	Christian Gebauer	True	True	0.5780649	534	534, 597, 931	1.0	534
+51	Muorra	Mukdahan	Wood	False	False	0.8783785	627	627, 238, 107	0	833
+52	Ii leat addon ulbmilfiilanama.	I have many books.	No target filename has been given.	False	False	0.78711474	19	19, 59, 28	0	892
+53	Ivdnecoahkkádusaid ja merkenbuorideamit	Cached information (e. g. favicons, web-pages)	Schema and text selection improvements	False	False	0.9306617	749	749, 527, 632	0	698
+54	IMSUM( árvu; árvu; …)	IMSUM(value; value;...)	IMSUM(value; value;...)	True	True	0.8774098	804	804, 408, 276	1.0	804
+55	Doaimmat   …	Rain	Edit...	False	False	1.0003182	537	537, 957, 599	0	380
+56	Jus leat válljen automáhtalaččat válljet govaža, de válljet man guhká ádjána sieván galgá leat govaža bajábealde ovdalgo dat merkejuvvo.	If you have checked the option to automatically select icons, this slider allows you to select how long the mouse pointer must be paused over the icon before it is selected.	If you have checked the option to automatically select icons, this slider allows you to select how long the mouse pointer must be paused over the icon before it is selected.	True	True	0.80025876	82	82, 527, 897	1.0	82
+57	philippines. kgm	Bataanphilippines. kgm	Kabuntalan	False	False	0.7797446	245	245, 621, 360	0	669
+58	bangladesh. kgm	Not Bangladeshbangladesh. kgm	Not Bangladeshbangladesh. kgm	True	True	0.86323035	891	891, 396, 755	1.0	891
+59	QShortcut	WirelessQShortcut	Page Up	False	False	0.92448604	247	247, 420, 766	0	926
+60	Dán láhkai áigi čájehuvvo.	This page contains changes that have not been submitted. Reloading the page will discard these changes.	This is how the time will be displayed.	False	True	0.9192188	883	883, 370, 562	0.5	370
+61	Láse 1. čállinbeavdái	Reply To...	Window to Desktop 1	False	False	1.0613747	865	865, 989, 221	0	435
+62	Guovttebealát badjin (Veallut)	The boy has a horse.	Double Top (Landscape)	False	False	1.0431068	40	40, 45, 651	0	410
+63	Aktiivalaš láseComment	XScorchComment	Another window is activated	False	False	0.8758142	766	766, 412, 919	0	299
+64	Son hupmá veahá eŋgelasgiela .	He speaks English a little.	He speaks English a little.	True	True	0.76133335	12	12, 62, 1	1.0	12
+65	Oaidnaleapmai.	I know.	See you.	False	True	0.8312719	20	20, 33, 36	0.5	33
+66	_Čoavdaga:	_Password:	_Key:	False	True	0.9369223	813	813, 358, 340	0.5	358
+67	Raba liŋkka	Pixmap Cache	Open Link	False	False	1.0309007	164	164, 579, 40	0	968
+68	Siiddut	Digits	Pages	False	False	0.77883005	677	677, 296, 144	0	515
+69	IEX	IEX	IEX	True	True	0.50209165	901	901, 923, 565	1.0	901
+70	Juogadeami standárdspiehkastat	Width must be at least 1.	Standard deviation of the distribution	False	False	1.0509329	757	757, 818, 207	0	250
+71	Čállinbeavdái	See you.	To & Desktop	False	False	1.0678188	33	33, 582, 40	0	215
+72	ACPI	ACPI	ACPI	True	True	0.45795107	923	923, 565, 992	1.0	923
+73	40 – 56 MB muitu oktiibuot	40 - 56 MB Total RAM	40 - 56 MB Total RAM	True	True	0.8296275	787	787, 371, 527	1.0	787
+74	XBMName	Web BrowsingName	XBM	False	False	0.80452704	744	744, 977, 85	0	859
+75	Liibme fiillas	No dithering	Paste From File	False	False	1.0088995	343	343, 568, 513	0	920
+76	Rulle bajásguvlui	Glossy Paper	Scroll Up	False	False	0.92506874	128	128, 749, 359	0	402
+77	Geavaheaddjit	Undefined	Users	False	False	0.93218994	609	609, 477, 242	0	120
+78	Mun lean ilus odne	I have many books.	I'm happy today	False	False	0.99551296	19	19, 594, 61	0	21
+79	Guorus osiiguin	Logout	& With empty fields	False	False	1.0681847	486	486, 643, 659	0	835
+80	Sajáiduhtte/ođasmahte	Overwrite & Destination	Install/update	False	False	0.98116136	764	764, 594, 632	0	138
+81	Guovddáš AmerihkáName	America, CentralName	America, CentralName	True	True	1.1370509	996	996, 711, 476	1.0	996
+82	philippines. kgm	Bataanphilippines. kgm	Nabunturanphilippines. kgm	False	True	0.7797446	245	245, 621, 360	0.3333333333333333	360
+83	ATM fierbmadatdoaimmat	Browsing	ATM Networking	False	False	1.0908086	242	242, 777, 464	0	717
+84	Ceahkke	Contrast	The Dash	False	False	1.0277928	571	571, 694, 643	0	690
+85	Danne mon ráhkistan du	Do you want to resign?	Because I love you.	False	True	0.8906914	594	594, 53, 0	0.3333333333333333	0
+86	cap-style	undo-type	Bevel	False	False	0.6989722	546	546, 785, 77	0	202
+87	Čále htdig- diehtovuođu máhpa bálgá.	I want to learn.	Enter the path to the htdig database folder.	False	False	0.9445938	28	28, 59, 908	0	99
+88	Stáhtus	Cancel	Status	False	False	0.77051497	876	876, 676, 852	0	541
+89	Vuolil SáksonagiellaName	Web BrowsingName	Low Saxon	False	False	1.2042954	744	744, 633, 697	0	688
+90	Doaimmat diehtu	What to do when archiving	Account Info	False	False	0.9470656	436	436, 28, 17	0	384
+91	undo-type	undo-type	Text layer	False	False	0.49388337	546	546, 785, 77	0	695
+92	MONTHS () - funkšuvdna dieđiha galle mánu leat guovtti dáhtona gaskkas. Goalmmát paramehter mearrida rehkenastinvuogi: Jos paramehteris lea 0, de dieđiha MONTHS () mánuid stuorimus logu dan guovtti beaivvi gaskkas. Jos paramenteris lea 1, de dieđiha dušše galle olles mánu leat dáhtonis nubbái.	This function returns -1 if the number is negative, 0 if the number is null and 1 if the number is positive.	"WEEKS(""2002-19-02 "";"" 2002-19-02 ""; 1) returns 0, because there is not a whole week in between, starting at the first day of the week (monday or sunday, depending on your local settings)"	False	True	0.7422174	742	742, 195, 241	0.3333333333333333	241
+93	Davvi- AfrihkáName	Guinea-Bissau Peso	Africa, NorthernName	False	False	1.0340456	259	259, 303, 862	0	814
+94	Buot	Square	All	False	False	0.7598684	734	734, 585, 833	0	789
+95	& Váldde eret siskkildeami	Data you requested to be saved could not be written. Please choose how you want to proceed.	& Clean Indentation	False	False	1.0717394	760	760, 594, 726	0	729
+96	Válddahus	Program	Description	False	False	0.9139178	455	455, 91, 907	0	308
+97	Reaidorávvagiid duogášgovva	This means that the contents of the requested file or folder %1 could not be retrieved, as read access could not be obtained.	Opaque background image for tooltips	False	False	0.9914336	207	207, 828, 749	0	288
+98	Jearat nama ja máhpa go girjemearkkat lasihuvvojit	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Ask for name and folder when adding bookmarks	False	False	0.84390545	527	527, 760, 861	0	611
+99	Makkár ivdni lea liŋkkain mat eai leat galleduvvon vel.	If you have selected something within the current document, this will no longer be selected.	What color links should be that have not yet been clicked on	False	False	0.75678384	897	897, 527, 229	0	673
+100	Ii sáhttán rahpat skriptafiilla «% 1 »	"Failed to open scriptfile ""%1"""	"Failed to open scriptfile ""%1"""	True	True	0.8090184	776	776, 174, 763	1.0	776
+101	Giittos eatnat!	No worries!	Thank you very much!	False	True	0.9449254	31	31, 39, 38	0.3333333333333333	38
+102	Hálidatgo álgosiidu ii oidno fierpmádatgolganprofiillas?	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Do you want to disable showing the introduction in the webbrowsing profile?	False	True	0.9528178	527	527, 777, 436	0.5	777
+103	Ovdánahtti (HTML čájehanmašiidna, JavaScript)	Developer (HTML rendering engine, JavaScript)	Developer (HTML rendering engine, JavaScript)	True	True	0.67056346	423	423, 289, 969	1.0	423
+104	Máŋge merkejuvvon teavstta/ áđa( id) čuohpusgirjái	Copy the selected text or item(s) to the clipboard	Copy the selected text or item(s) to the clipboard	True	True	0.894454	828	828, 749, 777	1.0	828
+105	Filtii% 1 rabadettiin.	Open of %1 failed.	Open of %1 failed.	True	True	0.8782344	668	668, 341, 119	1.0	668
+106	IMABS( kompleaksa lohku) dieđiha kompleaksa logu norpma. Kompleaksa logu hápmi lea x+yi.	The CODE() function returns a numeric code for the first character in a text string.	"IMARGUMENT(""12 "") returns"" #Div/ 0 """	False	False	0.7592292	478	478, 798, 195	0	146
+107	Resursamáhpat leat konttus:	Width must be at least 1.	& Resource folders are in account:	False	True	0.85156846	757	757, 406, 499	0.5	406
+108	& Geavat standárdan	Glossy Paper	Set as & Default	False	False	1.0410583	128	128, 833, 917	0	314
+109	Čálihangieđaheapmi dábálaš geavaheaddjin Muhtun čálihan gieđahallandoaimmat gáibidit hálddašeaddji vuoigatvuođaid. Geavat « Hálddašandilli » boalu dás vuolábealde álggahit dán reaiddu hálddašanvuoigatvuođaiguin.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	"Print management as normal user Some print management operations may need administrator privileges. Use the ""Administrator Mode"" button below to start this print management tool with administrator privileges."	False	True	0.77662826	527	527, 777, 587	0.3333333333333333	587
+110	Ii sáhttán sáddet sisa árvosáni.	If you have selected something within the current document, this will no longer be selected.	The rating could not be submitted.	False	False	0.9038327	897	897, 19, 760	0	562
+111	Kyrillalaš/Ukrainagiella	Cyrillic/Ukrainian	Cyrillic/Ukrainian	True	True	0.8220475	307	307, 959, 1	1.0	307
+112	Vállje čuolddaid:	The rating could not be submitted.	Select columns:	False	False	1.0504394	562	562, 203, 818	0	581
+113	standárda	Duration	default	False	False	0.8745706	373	373, 833, 689	0	967
+114	htdig	htdig	htdig	True	True	0.57136905	841	841, 765, 173	1.0	841
+115	Peršuvnnalaš dieđut	Transparency	Personal Information	False	False	0.8717209	666	666, 328, 250	0	576
+116	oceania. kgm	Clarendonjamaica. kgm	Adamstown	False	False	0.78519535	293	293, 880, 507	0	976
+117	Arch Cpaper size	Arch Cpaper size	Arch Cpaper size	True	True	0.6579852	103	103, 243, 198	1.0	103
+118	Galle elementta oktiibuot	This is how the time will be displayed.	CHIDIST(13.27; 5) returns 0.021	False	False	0.971504	370	370, 83, 601	0	983
+119	Atlántaáhpi/ Canary	Atlantic/ Canary	Atlantic/ Canary	True	True	0.9441216	634	634, 94, 711	1.0	634
+120	Álo	Daily	Always	False	False	0.73694336	555	555, 427, 443	0	636
+121	Beassansátni:	The boy has a horse.	Password:	False	False	0.9820595	40	40, 42, 499	0	596
+122	Beduinnat orrot sáttoábis.	Bedouins live in the desert.	Bedouins live in the desert.	True	True	0.68669176	1	1, 34, 45	1.0	1
+123	Fiila maid rahpat	Hide panel	File to open	False	False	0.9123957	320	320, 8, 35	0	799
+124	Mu namma lea Tom.	My name is Tom.	My name's Tom.	False	True	0.75673366	29	29, 30, 20	0.5	30
+125	Goargu	Laguna	Surname	False	False	0.73017156	605	605, 427, 825	0	751
+126	NAMA	NAME	NAME	True	True	0.66575766	963	963, 800, 652	1.0	963
+127	Gaskkalduhte	May	Abort	False	False	0.95732117	602	602, 140, 248	0	238
+128	"CONVERT( 3; ""lbm""; ""kg"") dieđiha 1, 3608"	"CONVERT(3; ""lbm""; ""kg"") equals 1.3608"	"CONVERT(3; ""lbm""; ""kg"") equals 1.3608"	True	True	0.39326072	794	794, 949, 983	1.0	794
+129	puertorico. kgm	Clarendonjamaica. kgm	Catañopuertorico. kgm	False	False	0.6638466	293	293, 498, 880	0	696
+130	San Luis (SL)	San Luis (SL)	San Luis (SL)	True	True	0.4253056	284	284, 172, 724	1.0	284
+131	Ii mihkiige	I'm happy today	Nothing	False	False	1.0120866	21	21, 28, 9	0	708
+132	egypt. kgm	Clarendonjamaica. kgm	Qalyubiaegypt. kgm	False	True	0.81781435	293	293, 973, 765	0.5	973
+133	Earát	Images	Others	False	False	0.81047666	144	144, 296, 450	0	637
+134	Mii leat dávjá Romssas.	We are often in Tromsø.	We are often in Tromsø.	True	True	0.79286075	47	47, 5, 4	1.0	47
+135	zambia_ districts. kgm	Kalomozambia_districts. kgm	Kalomozambia_districts. kgm	True	True	0.8695377	498	498, 293, 793	1.0	498
+136	Dus ii leat lohkanvuoigatvuohta du sáddejuvvon e- boasta máhppii.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	You do not have read/ write permission to your sent-mail folder.	False	False	0.8570366	527	527, 760, 371	0	552
+137	Bártnis lea heasta.	The boy has a horse.	The boy has a horse.	True	True	0.74504256	40	40, 42, 8	1.0	40
+138	Kwajalein	Kwajalein	Kwajalein	True	True	0.4415722	205	205, 303, 83	1.0	205
+139	Dárkkis ahte dokumeanta gusto	Do you want to disable showing the introduction in the webbrowsing profile?	Check the document for validity	False	False	1.0373062	777	777, 640, 824	0	105
+140	MikronesiafederašuvdnaName	Micronesia, Federated States ofName	Micronesia, Federated States ofName	True	True	0.8516438	418	418, 259, 303	1.0	418
+141	Oktii gádden ahte ledjen meaddán, muhto feilejin.	I don't know.	Once I thought I was wrong. Turns out I was mistaken.	False	False	0.93034434	17	17, 19, 594	0	32
+142	Lassemoduvla	Paper Tray	Plugin	False	False	1.0563153	210	210, 568, 242	0	359
+143	UNIX- čoahkkáldatName	UNIX SchemeName	UNIX SchemeName	True	True	0.8690164	630	630, 988, 289	1.0	630
+144	IrákaName	GuatemalaName	Iraq	False	False	0.97078407	577	577, 814, 965	0	654
+145	Jienat	Formosa	Sounds	False	False	0.665236	427	427, 907, 144	0	295
+146	Sajádat	Name	Status	False	False	0.86304736	395	395, 286, 107	0	272
+147	Beaivvalaččat	Width must be at least 1.	Daily	False	False	0.9505272	757	757, 651, 883	0	555
+148	Guhttaivnnát buoriduvvon čohkkehus	Cached information (e. g. favicons, web-pages)	Six Colour Enhanced Composite	False	False	0.915259	749	749, 527, 371	0	623
+149	paper size	paper size	#10 Envelopepaper size	False	False	0.50694776	639	639, 995, 401	0	407
+150	& Joatkke	Daily	& Resume	False	False	1.0711501	555	555, 670, 456	0	809
+151	& Geavaheaddjinamma:	Login Name: %1 (uid: %2)	& Username:	False	False	0.96037483	937	937, 728, 154	0	894
+152	Reivelistu – ođđa reivvet	What to do when archiving	Message List - New Messages	False	False	1.0971324	436	436, 889, 673	0	375
+153	Sillit	Tiny	Filters	False	False	0.7890501	803	803, 734, 269	0	421
+154	Guatemala	Guatemala	Guatemala	True	True	0.2687297	646	646, 427, 188	1.0	646
+155	philippines. kgm	Bataanphilippines. kgm	Kidapawan City	False	False	0.7797446	245	245, 621, 360	0	955
+156	Ubuntu Prográmmaguovddáža	Developer (Netscape plugin support)	Ubuntu Software Centre	False	True	0.8982754	461	461, 289, 432	0.3333333333333333	432
+157	Deaddil F8 dahje Shiftnbsp; +F8 mannat ovddit/ čuovvuvaš čájeheapmái.	Press F8 or Shift+F8 to switch to the next/ previous frame.	Press F8 or Shift+F8 to switch to the next/ previous frame.	True	True	0.8608339	265	265, 763, 174	1.0	265
+158	SRA0	SRA0	SRA0	True	True	0.4564283	721	721, 236, 652	1.0	721
+159	Vállje fiilla	The boy has a horse.	File Selection	False	False	1.1398079	40	40, 42, 871	0	201
+160	Fonttat	Formosa	Fonts	False	False	0.6525115	427	427, 107, 734	0	184
+161	Mun dieđán.	I know.	I know.	True	True	0.861393	20	20, 33, 36	1.0	20
+162	Erenoamáš beassanvuoigatvuođat	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Advanced Permissions	False	False	0.95455813	527	527, 897, 686	0	750
+163	Bija árvosáni dán bihtái: 5	Fetching cover for %1...	Last. fm: Skip Current Track	False	False	0.96258473	728	728, 203, 620	0	989
+164	Muitu	Light	Memory	False	False	0.82496977	938	938, 191, 860	0	852
+165	Laddejuvvo	Remove	Charging	False	False	0.9980954	160	160, 301, 446	0	659
+166	italyprovince. kgm	Clarendonjamaica. kgm	Mantova	False	False	0.9106076	293	293, 788, 360	0	774
+167	Iskka mánus guvlui	Only on Hover	Negative lookahead	False	False	1.001194	496	496, 48, 47	0	347
+168	poland. kgm	Clarendonjamaica. kgm	Ł ódź	False	False	0.8184358	293	293, 181, 933	0	939
+169	Váldde eret	Remove	Remove	False	True	1.0285956	160	160, 301, 35	0.5	301
+170	Christian Muehlhaeuser	Christian Gebauer	Andrew Turner	False	False	0.88102615	597	597, 534, 162	0	931
+171	Kommeanta:	Description:	Comment:	False	False	0.831465	928	928, 997, 492	0	186
+172	Geavaheaddjit	Undefined	Users	False	False	0.93218994	609	609, 477, 242	0	663
+173	VI: DÁBÁLAŠ MODUS	SHORTWEEKDAY	VI: NORMAL MODE	False	True	0.8564942	651	651, 197, 89	0.5	197
+174	Lohkka	File	Lock	False	False	0.82031906	191	191, 860, 91	0	831
+175	"BIN2OCT (""1010"") dieđiha « 12 »"	"OCT2BIN(""12 "") returns"" 1010 """	BIN2OCT(value)	False	False	0.5973636	842	842, 404, 146	0	480
+176	Nohkkat %s	Sleep %s	Sleep %s	True	True	0.914775	906	906, 601, 714	1.0	906
+177	KurdagiellaName	GuatemalaName	Kurdish	False	False	1.0162874	577	577, 965, 814	0	526
+178	Várra leat gávdnat dihkki prográmmas.	Width must be at least 1.	You may have encountered a bug in the program.	False	False	0.87650025	757	757, 763, 760	0	229
+179	11 liigelođa	Remember	11 Extra Bins	False	True	1.2317724	599	599, 957, 820	0.3333333333333333	820
+180	%1 sekundda	%1 seconds	%1 seconds	True	True	0.74761534	132	132, 112, 219	1.0	132
+181	Muital meattáhusaid birra mat čuožžilit vuojedettiin JavaScript- koda.	Enter the path to the htdig database folder.	Enables the reporting of errors that occur when JavaScript code is executed.	False	False	0.75883114	99	99, 230, 552	0	969
+182	MarathigiellaName	MarathiName	MarathiName	True	True	0.7562754	839	839, 697, 342	1.0	839
+183	Cyanalit	Cyan	Cyan	True	True	0.5939133	243	243, 486, 605	1.0	243
+184	Giitu.	See you.	Thanks.	False	True	0.6827494	33	33, 20, 36	0.3333333333333333	36
+185	Gerund	Christian Gebauer	Transmission PreferencesGerund	False	False	0.9156518	534	534, 597, 156	0	778
+186	Dokumeantalistu	Document List	Document List	True	True	0.8924074	553	553, 777, 693	1.0	553
+187	Terminála	Memory	Terminal	False	False	0.8093362	676	676, 852, 899	0	392
+188	Jorgal lásku	Charging	Flip horizontally	False	False	1.0975317	659	659, 42, 884	0	104
+189	Gaskaboddosaš vurkejuvvon dieđut (nugo faviconat, fierpmesiiddut)	Cached information (e. g. favicons, web-pages)	Cached information (e. g. favicons, web-pages)	True	True	0.740764	749	749, 527, 969	1.0	749
+190	iran. kgm	Clarendonjamaica. kgm	Kerman	False	False	0.80655885	293	293, 933, 880	0	638
+191	Ii makkárge ivdnimudden	I'm happy today	No Color Adjustment	False	False	0.98177886	21	21, 32, 25	0	582
+192	undo-type	undo-type	undo-type	False	True	0.49388337	546	546, 785, 77	0.5	785
+193	Kyrillalaš/Ruoššagiella	Cyrillic/Russian	Cyrillic/Russian	True	True	0.8244623	959	959, 307, 327	1.0	959
+194	italy. kgm	Clarendonjamaica. kgm	Beershebaitaly. kgm	False	False	0.8202213	293	293, 279, 245	0	273
+195	Juoge ođđa, somás tiŋggaid	I'm happy today	Share Hot New Stuff	False	False	1.045639	21	21, 53, 26	0	64
+196	Gárgadas:	Type:	Queue:	False	False	0.8208865	674	674, 190, 492	0	90
+197	WordReference. com – jorgaleapmi: fránskkagielas eŋgelasgilliiQuery	WordReference. com Translation: French to English	WordReference. com Translation: French to English	True	True	0.67836905	327	327, 527, 749	1.0	327
+198	@ title: tab	Fonts@title: tab	Fonts@title: tab	True	True	0.65530574	222	222, 262, 743	1.0	222
+199	Bálggis	Plugin	Path	False	False	0.7871628	359	359, 252, 421	0	416
+200	Šelges bábir	The girl has a white horse.	Glossy Paper	False	False	1.0663446	42	42, 854, 40	0	128
+201	Gos boađát?	No worries!	Where are you from?	False	False	1.1228029	31	31, 2, 52	0	54
+202	background, style	& Background	Lock Screenbackground, style	False	False	0.7899152	368	368, 547, 619	0	196
+203	Mii du namma lea?	What is your name?	What is your name?	True	True	1.0045204	50	50, 594, 56	1.0	50
+204	Vuolit Cassette	Lower Cassette	Lower Cassette	True	True	0.9367142	114	114, 128, 78	1.0	114
+205	Čállinprográmma	Signature Algorithm:	Composer	False	False	0.7598845	542	542, 369, 982	0	169
+206	saudi_ arabia. kgm	'Asirsaudi_arabia. kgm	'Asirsaudi_arabia. kgm	True	True	0.7314162	214	214, 498, 293	1.0	214
+207	Doaimmat váldoprošeavtta   …	Do you really want to reset all toolbars of this application to their default? The changes will be applied immediately.	Edit Main Project...	False	False	1.0037948	318	318, 436, 749	0	849
+208	Molsso geavaheaddji	Former co-maintainer	Switch User	False	False	1.0365055	805	805, 35, 950	0	687
+209	Čálit bovssa mii čájeha dokumeantašlája typográfalaš njuolggadusaid, nugo lea meroštuvvon dálá syntaksamerkemis.	Print a box displaying typographical conventions for the document type, as defined by the syntax highlighting being used.	Print a box displaying typographical conventions for the document type, as defined by the syntax highlighting being used.	True	True	0.78103113	861	861, 527, 207	1.0	861
+210	Diehtu	Change	Information	False	False	0.9218054	269	269, 126, 803	0	333
+211	Heivet šearpma   …	I want to learn.	Configure Display...	False	False	1.2347027	28	28, 513, 59	0	208
+212	Prográmmaálggaheapmi Dáppe heivehat prográmmaálggahan ávaštusa.	"Print management as normal user Some print management operations may need administrator privileges. Use the ""Administrator Mode"" button below to start this print management tool with administrator privileges."	Launch Feedback You can configure the application-launch feedback here.	False	False	0.8912724	587	587, 527, 371	0	109
+213	protected visibility	handedness	& Tableprotected visibility	False	False	0.73495793	71	71, 608, 442	0	292
+214	Sillenheivehusat	Filter Settings	Filter Settings	True	True	0.9286834	781	781, 319, 854	1.0	781
+215	Luboš Luňák	Luboš Luň ák	Luboš Luň ák	True	True	0.5071062	366	366, 939, 81	1.0	366
+216	Dás válljet jus láserámmain lea seamma ivdnigo namahusholggas.	The screen will turn to a custom color for the amount of time specified below.	When selected, the window borders are drawn using the titlebar colors; otherwise, they are drawn using normal border colors.	False	False	0.98182213	203	203, 897, 818	0	549
+217	2880   ×   1440 čd	360x180 dpi	2880 x 1440 DPI	False	True	0.74261117	348	348, 357, 896	0.5	357
+218	Duppalcoahkkal fálloboalu:	Cached information (e. g. favicons, web-pages)	Double click on menu button:	False	False	0.9758296	749	749, 552, 499	0	848
+219	GuatemalaName	GuatemalaName	GuatemalaName	True	True	0.7440405	577	577, 491, 965	1.0	577
+220	Čájet earáid bajábealde	Saint Barthelemy (France)	Keep & Above Others	False	False	0.9050009	519	519, 45, 28	0	179
+221	Oahpahus	Nothing	Education	False	False	0.9130012	708	708, 608, 442	0	137
+222	Čatnamin	Plugin	Mounting	False	False	0.8852397	252	252, 359, 990	0	445
+223	handedness	handedness	handedness	True	True	0.5280969	71	71, 938, 708	1.0	71
+224	paper size	paper size	Choukei 2 Envelopepaper size	False	False	0.50694776	639	639, 995, 401	0	836
+225	Radius% 1 (z)	Radius %1 (z)	Radius %1 (z)	True	True	0.5679847	304	304, 341, 794	1.0	304
+226	azerbaijan. kgm	Not Ukraineukraine. kgm	Ali Bayramli cityazerbaijan. kgm	False	True	0.9695412	279	279, 382, 975	0.5	382
+227	"IMDIV (""12+i""; ""12- i"") dieđiha « 0, 986207+0, 16551i »"	"IMDIV(1.2; ""3.4+5i"") returns ""0.111597-0.164114i"""	"IMDIV(1.2; ""3.4+5i"") returns ""0.111597-0.164114i"""	True	True	0.51680875	285	285, 404, 241	1.0	285
+228	Oktiibuot	Images	Total	False	False	0.90500116	296	296, 144, 317	0	298
+229	Sáhpánnavigašuvdna	This means that the contents of the requested file or folder %1 could not be retrieved, as read access could not be obtained.	Mouse Navigation	False	False	1.0642543	207	207, 834, 251	0	821
+230	QShortcut	WirelessQShortcut	WirelessQShortcut	True	True	0.92448604	247	247, 420, 766	1.0	247
+231	Teaksta	Square	Text	False	True	0.7826295	734	734, 232, 107	0.5	232
+232	Jugat go gáfe?	Who do you want to sign as?	Would you like some coffee?	False	False	1.1106856	142	142, 799, 436	0	58
+233	mongolia. kgm	Clarendonjamaica. kgm	Ömnögov ĭ	False	False	0.81671596	293	293, 279, 249	0	81
+234	_Čájet (%s)	day(s)	_Zoom (%s)	False	True	0.9481168	714	714, 603, 906	0.5	603
+235	hungary. kgm	Clarendonjamaica. kgm	Egerhungary. kgm	False	True	0.7865772	293	293, 279, 181	0.3333333333333333	181
+236	pagingprocess status	Anti-aliasing	paging	False	False	0.8716426	381	381, 686, 365	0	792
+237	Árkka iešvuođat	Width must be at least 1.	Sheet Properties	False	False	0.9364401	757	757, 41, 897	0	335
+238	Namma	Formosa	Name	False	False	0.720106	427	427, 537, 217	0	286
+239	Automáhtalaš	Transparency	Automatic	False	False	0.8866298	666	666, 963, 950	0	443
+240	Mus lea bussá.	The boy has a horse.	I have a cat.	False	False	0.83324444	40	40, 34, 42	0	18
+241	pakistan. kgm	Quettapakistan. kgm	Quettapakistan. kgm	True	True	0.79694545	457	457, 293, 279	1.0	457
+242	philippines. kgm	Bataanphilippines. kgm	Puerto Princesa Cityphilippines. kgm	False	True	0.7797446	245	245, 621, 360	0.5	621
+243	Boasttočállojuvvon sánit	This page contains changes that have not been submitted. Reloading the page will discard these changes.	Misspelt Words	False	False	0.9044758	883	883, 861, 969	0	574
+244	Japánalaš Kaku konfáluhtta # 4	Japanese Kaku envelope #4	Japanese Kaku envelope #4	True	True	0.87120664	149	149, 89, 327	1.0	149
+245	Gaskkalduvvon	Conversion	Aborted	False	False	0.9895756	227	227, 499, 119	0	961
+246	& Lassáneaddji sorteren	Fetching cover for %1...	Sort & Increasing	False	False	0.959285	728	728, 444, 341	0	550
+247	Viežžamin olggoža% 1: ii   …	Fetching cover for %1...	Fetching cover for %1...	True	True	1.0969561	728	728, 241, 195	1.0	728
+248	Ovdamearkkat	Device	Examples	False	False	1.0004859	661	661, 827, 553	0	856
+249	Gustohis skeaŋkagoartakoda	The screen will turn to a custom color for the amount of time specified below.	ERROR: Parse error for argument 2 (count)	False	False	1.0055864	203	203, 651, 834	0	204
+250	Háliidatgo duođas dan bargat?	Do you want to resign?	Are you sure?	False	False	0.85316753	594	594, 56, 3	0	422
+251	@ title: column	Date@title: column	Date	False	False	0.6780119	262	262, 743, 222	0	391
+252	Win- boallu lea aktiivalaš.	The Win key is now active.	The Win key is now active.	True	True	0.7627096	948	948, 236, 70	1.0	948
+253	Njealječiegahas	Turtles don't have teeth.	Square	False	False	1.2442335	45	45, 104, 42	0	734
+254	Skearruin	Skew Image	Albums	False	False	0.9082508	854	854, 532, 83	0	271
+255	3- geardán, x- gođus	3-passes x-weaving	3-passes x-weaving	True	True	0.8193948	762	762, 241, 285	1.0	762
+256	BahmanaEthiopian month 1 - ShortName	RelationshipsGenericName	of Pagumen	False	False	0.9927442	412	412, 633, 814	0	87
+257	Turks - og Caicos- sullot	Turks And Caicos Islands	Turks And Caicos Islands	True	True	0.4250319	735	735, 303, 418	1.0	735
+258	Gohččočopma	SHORTWEEKDAY	Call Stack	False	False	1.0576754	651	651, 854, 210	0	96
+259	Ja	Red	And	False	False	0.76628065	244	244, 173, 121	0	559
+260	Čájet & earáid bajábealde	I want to learn.	Keep above others	False	False	0.9511659	28	28, 45, 519	0	974
+261	Sirdin gaskkalduvvoi.	See you.	Transmission aborted.	False	False	0.8729191	33	33, 8, 20	0	499
+262	Buhttes ivnnit	Transparency	Solid Colours	False	False	0.99925494	666	666, 18, 40	0	84
+263	Ráhkat gilkora láses mii juo gávdno, alege ráhkat ođđa láse	If you have selected something within the current document, this will no longer be selected.	Create a new tab in an existing window rather than creating a new window	False	False	0.8948684	897	897, 527, 371	0	567
+264	Mátketelefuvdna	Mobile Phone	Mobile Phone	True	True	0.911865	316	316, 672, 990	1.0	316
+265	Girjemearkkat	The future is uncertain.	Bookmarks	False	False	0.8975978	41	41, 84, 845	0	898
+266	DOLLAR( nummir; desimálat)	"ARABIC(""IV "") returns 4"	The DOLLAR() function converts a number to text using currency format, with the decimals rounded to the specified place. Although the name is DOLLAR, this function will do the conversion according to the current locale.	False	False	0.8680935	89	89, 408, 804	0	199
+267	GNU Krell, vuogádatgoziheapmiName	Scroll upQWebPage	GNU Krell MonitorsName	False	False	0.98264325	150	150, 680, 744	0	291
+268	Šládja:	Type:	Type:	False	True	0.8700011	674	674, 190, 492	0.5	190
+269	marker	lesser	Out of developermarker	False	False	0.36998606	890	890, 72, 467	0	106
+270	QShortcut	WirelessQShortcut	Page UpQShortcut	False	True	0.92448604	247	247, 420, 766	0.5	420
+271	^Sajáiduhttit Kubuntu Netbook	^Install Kubuntu Netbook	^Install Kubuntu Netbook	True	True	0.65412676	629	629, 633, 977	1.0	629
+272	Ruhta:	Money:	Money:	True	True	0.7118647	930	930, 41, 728	1.0	930
+273	Teaksta: Čále	Text: Write	Text: Write	True	True	0.9493555	282	282, 743, 393	1.0	282
+274	Ođđa gohččun	SHORTWEEKDAY	New command	False	False	1.0483327	651	651, 242, 277	0	135
+275	Álgovuolggalaš čálli	Cached information (e. g. favicons, web-pages)	Original author	False	False	1.0186362	749	749, 527, 207	0	275
+276	Luoitte dovddana dása	I want to learn.	Drop Sensor Here	False	False	1.211308	28	28, 46, 951	0	281
+277	Bisset čuojaheami	Browsing	Play if stopped, pause if playing	False	False	0.96247935	242	242, 42, 28	0	458
+278	Oidnen maiddái Niillasa.	She invited him.	I saw Nils too	False	False	0.84990907	35	35, 33, 8	0	26
+279	ja	and	and	True	True	0.46853745	258	258, 559, 394	1.0	258
+280	Alt- boallu lea lohkkaduvvon ja lea dál aktiivalaš čuovvuvaš boallodeaddilemiide.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	The Alt key has been locked and is now active for all of the following keypresses.	False	True	0.8463751	527	527, 543, 834	0.5	543
+281	Sajádat:	Company:	Position:	False	False	0.78662324	997	997, 930, 492	0	372
+282	Automáhtalaš čállindárkkisteapmi	The program on your computer which provides access to the %1 protocol has unexpectedly terminated.	Auto Spell Check	False	False	0.85345435	834	834, 969, 174	0	593
+283	Malaigiella	Malay	Malay	True	True	0.9772587	121	121, 342, 118	1.0	121
+284	Ii leat media% 1- ovttadaga várás	Error opening %1 for writing.	No media in device for %1	False	False	0.9850279	341	341, 763, 728	0	730
+285	sudan. kgm	Clarendonjamaica. kgm	Kapoita	False	False	0.8071346	293	293, 498, 595	0	354
+286	Bálvalusgieđahalli Dábalaččat leat guokte sierra bálvalusšlájat: Bálvalusat mat mannet johtui KDE álggahettiin Bálvalusat mat mannet johtui go lea darbu Dat maŋemuš šládja čájehuvvojit álkivuođa dihte. Eará bálvalusaid sáhttá álggahit dahje bissehit. Hálddašandilis sáhtát dasa lassin válljet guđe bálvalusat galget mannat johtui KDE- álggahettiin. Leage várrogas. KDE dárbbaša muhton dáin bálvalusain. Ale časkke bálvalusaid eret jos it dieđe maid barggat.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	True	True	0.6011617	527	527, 356, 371	1.0	527
+287	sweden. kgm	Sipaliwinisweden. kgm	Skåne County	False	False	0.8680686	143	143, 293, 396	0	334
+288	Muitte	Flatten	Remember	False	False	0.900604	83	83, 627, 107	0	599
+289	Temperatuvraavádat	Configuration	Thermal Zone	False	False	0.9825274	277	277, 373, 250	0	108
+290	Čabu teavstta sisafievrridanlásaš	Cached information (e. g. favicons, web-pages)	Plain Text Import Dialog	False	False	0.9397104	749	749, 207, 698	0	790
+291	Goas don fas boađát?	Do n't export	When will you come again?	False	False	1.1281928	187	187, 594, 142	0	53
+292	"ARABIC (""IV"") dieđiha 4"	"ARABIC(""IV "") returns 4"	"ARABIC(""IV "") returns 4"	True	True	0.57124627	89	89, 404, 146	1.0	89
+293	Raba máhpa	Pixmap Cache	Open Folder	False	False	0.9994904	164	164, 322, 367	0	448
+294	thailand. kgm	Clarendonjamaica. kgm	Mukdahan	False	False	0.75770736	293	293, 396, 755	0	627
+295	FearagiellaName	GuatemalaName	Faroese	False	False	1.0876696	577	577, 697, 175	0	116
+296	Sajádat	Name	Status	False	False	0.86304736	395	395, 286, 107	0	682
+297	Gidde & dán čájeheami	SHORTWEEKDAY	Close Current View	False	False	1.0164156	651	651, 883, 777	0	727
+298	undo-type	undo-type	undo-type	False	True	0.49388337	546	546, 785, 77	0.3333333333333333	77
+299	italyprovince. kgm	Clarendonjamaica. kgm	Ascoli Piceno	False	False	0.9106076	293	293, 788, 360	0	136
+300	Boahttevuohta lea eahpesihkar.	Width must be at least 1.	The future is uncertain.	False	False	0.92481565	757	757, 45, 40	0	41
+301	Ii vuordinsieván	No dithering	No Busy Cursor	False	False	1.1210946	343	343, 28, 18	0	756
+302	Áđaid govat	Browsing	Images for widgets	False	False	0.8910047	242	242, 490, 661	0	672
+303	Lulli- AfrihkáName	Guinea-Bissau Peso	Africa, Southern	False	True	0.968452	259	259, 303, 862	0.3333333333333333	862
+304	Jua	Jul	Yes	False	False	0.9207263	467	467, 427, 555	0	670
+305	Váldde eret válljejuvvon gilkora	Data you requested to be saved could not be written. Please choose how you want to proceed.	Remove selected tag	False	False	1.0427294	760	760, 562, 356	0	453
+306	venezuela. kgm	Mocapuertorico. kgm	Apurevenezuela. kgm	False	False	0.89049935	233	233, 511, 755	0	885
+307	Attes ođđa « sádde viidáset » prefivssa:	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Enter new forward prefix:	False	False	1.0378981	527	527, 897, 98	0	869
+308	10x15paper size	10x15paper size	10x15paper size	True	True	0.51403165	767	767, 748, 978	1.0	767
+309	Joavkkustanvuohki	SHORTWEEKDAY	Grouping Method	False	False	1.026377	651	651, 65, 499	0	982
+310	Dihkkendiehtu	Filter Settings	Debug Information	False	False	0.96799123	781	781, 242, 343	0	590
+311	& geardduheami@ info: whatsthis	& occurrence(s)@info: whatsthis	& occurrence(s)@info: whatsthis	True	True	0.7610427	788	788, 222, 924	1.0	788
+312	Geahččal   …	Turtles don't have teeth.	Test...	False	False	1.0962045	45	45, 651, 128	0	263
+313	_Sádde	_View	_Send	False	True	0.8042897	573	573, 344, 153	0.3333333333333333	153
+314	Mun in bora bierggu.	I want to learn.	I don't eat meat.	False	False	0.9450301	28	28, 0, 20	0	16
+315	Ovdačájeheapmi	SHORTWEEKDAY	Preview	False	False	0.9317148	651	651, 242, 277	0	185
+316	Vuođđolassemodula filtii. Standárdan geavahuvvo dál vuosttaš olámuttus ALSA- ovttadat.	Unable to modify settings of printer %1.	The Platform Plugin failed. This is a fallback to use the first ALSA device available.	False	False	0.89209545	554	554, 834, 527	0	586
+317	Bienat	Burn	Details	False	False	0.67913663	585	585, 238, 398	0	927
+318	Dávvet lea ruovttus.	He likes girls.	David is at home.	False	True	0.9245658	10	10, 40, 5	0.3333333333333333	5
+319	uruguay. kgm	andrew_coles@yahoo. co. uk	Riveruruguay. kgm	False	False	0.86586607	755	755, 396, 293	0	389
+320	Ovttasbargu	Aborted	Collaborate	False	False	0.95538175	961	961, 535, 242	0	130
+321	Skále láse olgešbeallái	I'm happy today	Pack Window to the Right	False	False	1.1448762	21	21, 47, 854	0	614
+322	Beassansátni	The boy has a horse.	Password	False	False	0.9901829	40	40, 42, 252	0	206
+323	Bures boahtin% s mašiidnii% n fierpmis	Could not open thumbnail '%s': %sundo-type	Welcome to %s at %n	False	False	1.0070231	705	705, 906, 294	0	117
+324	LARGE () - funkšuvdna dieđiha k: át stuorimus árvvu dáhtain.	The LARGE() function returns the k-th largest value from the data set.	The LARGE() function returns the k-th largest value from the data set.	True	True	0.70194626	195	195, 512, 336	1.0	195
+325	mongolia. kgm	Clarendonjamaica. kgm	Mörönmongolia. kgm	False	False	0.81671596	293	293, 279, 249	0	683
+326	HEX2BIN( árvu)	BIN2OCT(value)	The HEX2BIN() function returns the value formatted as a binary number.	False	True	0.75992835	480	480, 89, 798	0.3333333333333333	798
+327	1 diibmu	%1 seconds	1 hour	False	True	1.0159012	132	132, 112, 739	0.5	112
+328	Ii sáhttán čállit dáhtaid maid hálidit vurket. Vállje mo dál galggašii joatkit.	If you have selected something within the current document, this will no longer be selected.	Data you requested to be saved could not be written. Please choose how you want to proceed.	False	False	0.8153552	897	897, 527, 371	0	760
+329	Automáhtalaččat álggahuvvon bargovuorru lohkkaduvvo dan seammás (jus lea KDE- bargovuorru). Dán láhkai lea álki oažžut hui jođánis sisačáliheami mii gullá dušše ovtta geavaheaddjái. @ title: group	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	The automatically started session will be locked immediately (provided it is a KDE session). This can be used to obtain a super-fast login restricted to one user. @title: group	False	True	0.6029022	527	527, 488, 207	0.5	488
+330	& Ráhkat ođđa máhpa   …	I'm happy today	& Create New Folder...	False	False	1.0061586	21	21, 187, 28	0	680
+331	@ title: window	Fonts@title: tab	Subject:	False	False	0.6914325	222	222, 262, 813	0	88
+332	Čále dihkkeváidalusa (eŋgelasgillii, jos vejolaš). Go coahkkalat « Sádde », de sáddejuvvo e- boasta dán prográmma fuolaheaddjái ja KDE dihkkelistui.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	"Enter the text (in English if possible) that you wish to submit for the bug report. If you press ""Send"", a mail message will be sent to the maintainer of this program."	False	True	0.7279229	527	527, 270, 488	0.5	270
+333	Page size	Page Up	ISO B3Page size	False	False	0.6490027	926	926, 639, 860	0	772
+334	ČuvgesKorállaruoksatcolor	KataTudoQuery	LightCoral	False	False	1.131104	476	476, 651, 45	0	437
+335	philippines. kgm	Bataanphilippines. kgm	Pagadian City	False	False	0.7797446	245	245, 621, 360	0	483
+336	Jorbaduvvon čiegat	Remove	Round Corners	False	False	0.9530417	160	160, 301, 659	0	254
+337	Galgga gilkora	Charging	Detach Tab	False	False	1.0404031	659	659, 40, 532	0	635
+338	boerre@ skolelinux. no	malcolm. hunter@gmx. co. uk	Your emails	False	False	0.8334749	396	396, 755, 293	0	419
+339	Duogáš	Light	Background	False	False	0.89360344	938	938, 803, 866	0	192
+340	Almmolaš	Duration	Public	False	False	0.9838451	373	373, 987, 639	0	158
+341	Koreagiella	Korean	Korean	True	True	0.82328844	76	76, 526, 725	1.0	76
+342	Dušše teaksta	There is more than one matching man page.	Text Only	False	False	1.0401887	535	535, 1, 227	0	704
+343	Historihkka	History	History	True	True	0.84804904	126	126, 33, 470	1.0	126
+344	Guinea- Bissau peso	Guinea-Bissau Peso	Guinea-Bissau Peso	True	True	0.41868687	259	259, 205, 654	1.0	259
+345	"DSTDEVP( Diehtovuođđu; ""Bajilčála""; eavttut)"	"DSTDEVP(Database; ""Header""; Conditions)"	"DSTDEVP(Database; ""Header""; Conditions)"	True	True	0.8773215	962	962, 408, 749	1.0	962
+346	Olles siidu	Photons	Entire Page	False	False	1.0493056	990	990, 639, 677	0	943
+347	dict. cc Jorgaleapmi: Eŋgelasgielas duiskkagilliiName	dict. cc Translation: English to German	dict. cc Translation: English to German	True	True	0.87333775	699	699, 327, 749	1.0	699
+348	ClanbomberName	Clanbomber	Clanbomber	True	True	0.81469595	579	579, 744, 965	1.0	579
+349	Dánmárku	Denmark	Denmark	True	True	0.9429232	156	156, 116, 334	1.0	156
+350	Austrália/ ACT	Australia/ ACT	Australia/ ACT	True	True	0.5308759	283	283, 79, 94	1.0	283
+351	Válddahus:% 1	Group: %1	Description: %1	False	False	0.87078476	758	758, 518, 668	0	154
+352	Vuollánat go?	Pack Window to the Right	Do you want to resign?	False	False	1.1374899	614	614, 799, 31	0	594
+353	Lassemoduvla	Paper Tray	Plugin	False	False	1.0563153	210	210, 568, 242	0	252
+354	Merkejuvvon teaksta	There is more than one matching man page.	Selection Text	False	False	1.078023	535	535, 883, 119	0	867
+355	Son ráhkista nieiddaid.	He invited her.	He likes girls.	False	False	0.7817304	8	8, 35, 24	0	10
+356	Assás bábir	The Dash	Thick Paper	False	False	1.067796	690	690, 367, 579	0	78
+357	Vurke gova	Page Up	Save Image	False	False	0.9301553	926	926, 320, 555	0	198
+358	Mii du namma lea?	What is your name?	What's your name?	False	False	1.0045204	50	50, 594, 56	0	51
+359	Don leat doavttir.	You are a doctor.	You are a doctor.	True	True	0.8820038	59	59, 33, 37	1.0	59
+360	Mun lean Tom.	Tom invited me.	I'm Tom.	False	False	1.0293968	44	44, 19, 15	0	23
+361	romania. kgm	Clarendonjamaica. kgm	Teleorman	False	False	0.6571448	293	293, 279, 498	0	731
+362	Guossoheaddji	Disconnect	Host	False	False	0.9970012	950	950, 661, 35	0	970
+363	Prográmmat	Signature Algorithm:	Applications	False	False	0.8631444	542	542, 206, 982	0	899
+364	Mearrit siiddu fárdda	Cached information (e. g. favicons, web-pages)	Show Columns	False	False	0.99982643	749	749, 635, 343	0	716
+365	_Bija sisa	_View	_Insert	False	False	0.9143367	573	573, 981, 153	0	551
+366	Ii sáhttán álggahit e- boastaklieantta	Do you want to disable showing the introduction in the webbrowsing profile?	Could not Launch Mail Client	False	False	0.8824899	777	777, 527, 897	0	92
+367	Jus dát leavga lea bidjon, de buot ođđa fiillat ožžot máhpa joavkku.	If you have selected something within the current document, this will no longer be selected.	If this flag is set, the group of this folder will be set for all new files.	False	False	0.8598119	897	897, 527, 241	0	761
+368	Proseanta	Contrast	Percentage	False	False	0.8192835	571	571, 427, 227	0	644
+369	Namma	Formosa	Name	False	False	0.720106	427	427, 537, 217	0	395
+370	Merke dán molssaeavttu jus teakstamodusprográmma addá gullevaš dieđut heaittedettiin. Jus guođát terminálláse rabasin de dáiddát oažžut dáid dieđuid.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Check this option if the text mode application offers relevant information on exit. Keeping the terminal emulator open allows you to retrieve this information.	False	False	0.81317854	527	527, 777, 371	0	572
+371	beaivvi	day(s)	day(s)	True	True	1.0926511	714	714, 757, 370	1.0	714
+372	Šládja:	Type:	Type:	True	True	0.8700011	674	674, 190, 492	1.0	674
+373	Govdodat ferte leat unnimus 1.	Width must be at least 1.	Width must be at least 1.	True	True	0.75024426	757	757, 915, 739	1.0	757
+374	Ságastallan- ID	Guatemala	Conversation ID	False	False	1.1176487	646	646, 963, 536	0	328
+375	Váldoreaidoholga	Transmission aborted.	Main Toolbar	False	False	1.0117334	499	499, 757, 961	0	290
+376	view-padding-color	Draw background color	As in _Preferences	False	False	0.9584676	971	971, 762, 705	0	838
+377	Molsso nuppi čállinbeavdáiComment	Change to Desktop 2Comment	Change to Desktop 2Comment	True	True	0.92281866	998	998, 85, 766	1.0	998
+378	Oppalaš heivehusat	Conversation ID	General Settings	False	False	0.8965225	328	328, 686, 562	0	425
+379	Nolla dahje ovtta deaivama	Disconnect	Zero or one occurrences	False	False	1.0435226	950	950, 818, 436	0	686
+380	& Vuojudeapmi	Device	& Embedding	False	False	1.034648	661	661, 28, 877	0	216
+381	XScorchComment	XScorchComment	XScorchComment	True	True	0.42927814	766	766, 85, 660	1.0	766
+382	Iešdefinerejuvvon 4	Encrypt this part	Custom 4	False	False	1.0336342	720	720, 89, 428	0	826
+383	OANEHISBEAIVI	SHORTWEEKDAY	SHORTWEEKDAY	True	True	0.90754724	651	651, 197, 237	1.0	651
+384	Guhkkodat	Size:	Duration	False	True	0.8521626	431	431, 373, 954	0.5	373
+385	Mun lean Melanie.	I have many books.	I'm Melanie.	False	False	1.0228442	19	19, 0, 9	0	22
+386	Loahppa:	Description:	End:	False	False	0.7857971	928	928, 186, 930	0	393
+387	Ii oktage	I have many books.	None	False	False	1.0567728	19	19, 27, 20	0	870
+388	Geassemánnu	"WEEKS(""2002-19-02 "";"" 2002-19-02 ""; 1) returns 0, because there is not a whole week in between, starting at the first day of the week (monday or sunday, depending on your local settings)"	June	False	False	1.0213673	241	241, 716, 41	0	723
+389	Gidde	Device	Close	False	False	0.82719636	661	661, 833, 917	0	907
+390	suriname. kgm	Clarendonjamaica. kgm	Wanica	False	False	0.715261	293	293, 880, 498	0	935
+391	caribbean. kgm	Clarendonjamaica. kgm	Regina	False	False	0.8684764	293	293, 245, 507	0	107
+392	Bija sisa jierpmás linnjámolsuma	I have a cat.	Insert Smart Newline	False	False	1.0701404	18	18, 28, 779	0	413
+393	algeria. kgm	Clarendonjamaica. kgm	Not Algeria	False	False	0.7641901	293	293, 214, 498	0	642
+394	Son bovdii su.	He invited her.	She invited him.	False	True	0.77737856	8	8, 35, 33	0.5	35
+395	60 gráda	60 Degrees	60 Degrees	True	True	0.9158282	529	529, 562, 312	1.0	529
+396	Don oahpat eŋgelasgiela.	He speaks English a little.	You learn English.	False	True	0.85490894	12	12, 62, 27	0.5	62
+397	Alitruona	Photons	Blue Green	False	False	0.94043064	990	990, 107, 605	0	315
+398	Dušše čálihahtti	I only have two children.	Write-only	False	False	1.0026114	24	24, 757, 42	0	624
+399	Validitehta	Thermal Zone	VarP	False	False	0.8908148	108	108, 115, 677	0	992
+400	zambia_ districts. kgm	Kalomozambia_districts. kgm	Gwembezambia_districts. kgm	False	True	0.8695377	498	498, 293, 793	0.3333333333333333	793
+401	SMPTE240M	SMPTE240M	SMPTE240M	True	True	0.5497749	141	141, 357, 346	1.0	141
+402	Buot reivvet leat sirdojun ruskalihtái	Do you really want to reset all toolbars of this application to their default? The changes will be applied immediately.	Moved all messages to the trash	False	False	0.914873	318	318, 527, 883	0	889
+403	Muituprocess heading	Digits	Memory	False	False	1.0399362	677	677, 847, 434	0	676
+404	& Eará   … @ title: menu	Date@title: column	& Other...	False	False	0.87790716	262	262, 222, 268	0	193
+405	Prográmmat	Signature Algorithm:	Applications	False	False	0.8631444	542	542, 206, 982	0	905
+406	unnit	pictures	lesser	False	False	0.7538303	547	547, 516, 619	0	890
+407	Válddahus	Program	Description	False	False	0.9139178	455	455, 91, 907	0	843
+408	Num Lock- boallu lea dál aktiverejuvvon.	The Win key is now active.	The Num Lock key has been activated.	False	True	0.7785927	948	948, 853, 543	0.5	853
+409	caribbean. kgm	Clarendonjamaica. kgm	Plymouth	False	False	0.8684764	293	293, 245, 507	0	825
+410	Boastakoarttta	Contrast	Postcards	False	False	0.9779093	571	571, 83, 643	0	647
+411	Sáddemin reivviid	Cached information (e. g. favicons, web-pages)	Sending messages	False	False	1.0174749	749	749, 453, 828	0	702
+412	Menddo unnán dahje ollu argumeanttat.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Incorrect number of arguments.	False	True	0.8594203	527	527, 540, 757	0.5	540
+413	Dát máksá ahte ii lean vejolaš lohkat fiilla dahje máhpa% 1 sisdoalu, danne go dus ii leat lohkanvuoigatvuohta.	This means that the contents of the requested file or folder %1 could not be retrieved, as read access could not be obtained.	This means that the contents of the requested file or folder %1 could not be retrieved, as read access could not be obtained.	True	True	0.77049696	207	207, 174, 527	1.0	207
+414	SAO/ R96R	SAO/ R96R	SAO/ R96R	True	True	0.45358777	855	855, 932, 285	1.0	855
+415	Lea hálddašeaddji	A certificate with that name already exists. Are you sure that you wish to replace it?	Is Admin	False	False	1.0864153	464	464, 594, 35	0	545
+416	FluxboxComment	FluxboxComment	FluxboxComment	True	True	0.44529748	85	85, 998, 766	1.0	85
+417	Sihko máhpa boaresmuvvan reivviid	Cached information (e. g. favicons, web-pages)	Expire Folder	False	False	0.88057137	749	749, 527, 207	0	827
+418	Oza & metadieđu osiin:	Search & metainfo sections:	Search & metainfo sections:	True	True	1.0054691	305	305, 749, 961	1.0	305
+419	Meattáhus	Space	Error	False	False	0.78064644	152	152, 734, 191	0	434
+420	Molsso vihttanuppelogát čállinbeavdáiComment	NextJobOnSameSheet	Change to Desktop 15Comment	False	False	0.9189429	633	633, 150, 766	0	575
+421	TAN( Desimálaárvu)	TAN(Float)	TAN(Float)	True	True	0.9052577	617	617, 63, 977	1.0	617
+422	Joavku	Any	Group	False	False	0.956692	808	808, 297, 65	0	689
+423	Čálihanstáhtus –% 1	%1 seconds	Printing Status - %1	False	False	0.95573926	132	132, 728, 837	0	235
+424	Nummir:	Description:	Number:	False	False	0.8058847	928	928, 186, 504	0	606
+425	Ii sáhttán ráhkadit ođđa proseassa. Vuogádagas dáidá leat nu ollu proseassat jođus go lea lohppi dahje dus dáidá leat nu ollu proseassat jođus juo mii dus lea lohppi.	Unable to create new process. The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached.	Unable to create new process. The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached.	True	True	0.8757491	371	371, 527, 897	1.0	371
+426	Mun áiggun oahppa.	You are welcome.	I want to learn.	False	False	0.9507226	61	61, 594, 0	0	28
+427	belarus. kgm	Clarendonjamaica. kgm	Minsk(City)belarus. kgm	False	True	0.7098019	293	293, 279, 975	0.3333333333333333	975
+428	Mátketelefuvdnanummi	Mobile Phone	Mobile Number	False	False	0.9987526	316	316, 717, 672	0	440
+429	Ráhkkaneamen	Browsing	Preparing	False	False	0.91152906	242	242, 83, 638	0	872
+430	Čájet dušše sievána vuolde	I want to learn.	Only on Hover	False	False	0.85638237	28	28, 594, 318	0	496
+431	paper size	paper size	paper size	True	True	0.50694776	639	639, 995, 401	1.0	639
+432	B2 JIS	B2 JIS	B2 JIS	True	True	0.5807202	468	468, 816, 505	1.0	468
+433	Unna čáhppes	The girl has a white horse.	Small black	False	False	1.0126069	42	42, 40, 18	0	310
+434	Čájet listtu	The rating could not be submitted.	Show list	False	False	1.0386385	562	562, 870, 883	0	657
+435	Aktivere olggosfiilla:	Cached information (e. g. favicons, web-pages)	& Enable output file	False	False	0.9174259	749	749, 709, 587	0	525
+436	Dábálaš	The future is uncertain.	Normal	False	False	0.9177458	41	41, 661, 950	0	866
+437	Vurke beassansáni	The boy has a horse.	Store Password	False	False	1.0973705	40	40, 42, 926	0	648
+438	Heivet   …	Height	Configure...	False	False	0.87593794	513	513, 91, 248	0	726
+439	sweden. kgm	Sipaliwinisweden. kgm	Västmanland County	False	False	0.8680686	143	143, 293, 396	0	405
+440	Gaskaboddosaš láse váldoi eretName	SHORTWEEKDAY	Transient window (a dialogue) is removedName	False	False	1.0321047	651	651, 726, 28	0	566
+441	sudan. kgm	Clarendonjamaica. kgm	Nyalasudan. kgm	False	False	0.8071346	293	293, 498, 595	0	933
+442	Cokka vuogádatgárcui	SodipodiName	Docking in System Tray	False	False	1.1562601	768	768, 81, 845	0	426
+443	Beaivvi	Bevel	Day	False	False	0.9676397	202	202, 661, 301	0	952
+444	ACPI	ACPI	ACPI	False	True	0.45795107	923	923, 565, 992	0.5	565
+445	MySpace	MySpace	MySpace	True	True	0.3420235	823	823, 555, 515	1.0	823
+446	Fuodni	Formosa	Bad	False	False	0.9335754	427	427, 774, 163	0	807
+447	Namma	Formosa	Label	False	False	0.720106	427	427, 537, 217	0	69
+448	Fitnodat:	Size:	Company:	False	True	0.7409229	431	431, 997, 930	0.5	997
+449	PKR	PKR	PKR	True	True	0.4638443	536	536, 800, 652	1.0	536
+450	Sirre bargguid	Logout	Job Separation	False	False	0.93021965	486	486, 242, 445	0	658
+451	Letter, 600x600 čd	text 40x25 (7)	Letter, 600x600 DPI	False	True	0.64992833	978	978, 622, 348	0.5	622
+452	BlackboxComment	FluxboxComment	The Common Desktop Environment, a proprietary industry standard desktop environment	False	False	0.5843811	85	85, 998, 766	0	289
+453	Bargočujuhus	Work Address	Work Address	True	True	0.929994	719	719, 847, 434	1.0	719
+454	Dáida maid leat vihkki mašiinnas, vaikko ii leat nu jáhkkehahtti.	Unable to create new process. The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached.	Although unlikely, a hardware error may have occurred.	False	False	0.8046808	371	371, 527, 897	0	616
+455	Gustohis fiilanamat	Autosum	Invalid Filenames	False	False	0.98901665	338	338, 349, 227	0	463
+456	Govat	Formosa	Images	False	False	0.65849376	427	427, 833, 605	0	296
+457	Siskkildas meattáhus Sáddes meattáhusraportta dáppe: http: // bugs. kde. org% 1	Internal Error Please send a full bug report at http: / /bugs. kde. org %1	Internal Error Please send a full bug report at http: / /bugs. kde. org %1	True	True	0.65540624	924	924, 396, 287	1.0	924
+458	Krypteren (sihko formáhterema)	Cached information (e. g. favicons, web-pages)	Encrypt (delete markup)	False	True	0.89223504	749	749, 936, 886	0.5	936
+459	Bálkes rievdadusaid?	What color links should be that have not yet been clicked on	Discard Changes?	False	False	0.9715228	673	673, 318, 594	0	122
+460	BattleballGenericName	ZAngbandGenericName	Battleball	False	False	0.7980454	451	451, 759, 744	0	95
+461	Sihkkun lea geargan. @ info: status	Ask for name and folder when adding bookmarks	Delete operation completed.	False	False	0.9293406	611	611, 788, 777	0	349
+462	Bangladesh	Bangladesh	Bangladesh	True	True	0.28968036	188	188, 654, 646	1.0	188
+463	Buot artisttat	Images	All Artists	False	False	0.8553077	144	144, 296, 286	0	151
+464	Goas don fas boađát?	Do n't export	When are you going back?	False	False	1.1281928	187	187, 594, 142	0	52
+465	Čájet fiilla sierra čájeheaddjis	Saint Barthelemy (France)	Show file in separate viewer	False	False	1.035526	519	519, 651, 242	0	706
+466	Duppal	Matagalpa	Dual	False	False	0.9395832	322	322, 866, 907	0	780
+467	govat	pictures	pictures	True	True	0.7900939	547	547, 516, 394	1.0	547
+468	Ii sáhtte	I want to learn.	Not capable	False	False	0.8998492	28	28, 0, 21	0	649
+469	Divtte láse alo leat eará lásiid vuolábealde	Do you really want to reset all toolbars of this application to their default? The changes will be applied immediately.	Try to keep the window below other windows	False	False	1.0659482	318	318, 28, 749	0	178
+470	2880   ×   720 čd FOL	2880 x 720 DPI FOL	2880 x 720 DPI FOL	True	True	0.5781609	896	896, 357, 874	1.0	896
+471	Teakstabihttáloahppa	File to open	End of Paragraph	False	False	1.014973	799	799, 845, 552	0	684
+472	Paleahtta	Palette	Palette	True	True	0.75336766	374	374, 654, 938	1.0	374
+473	Human eŋgelasgiela.	Cyrillic/Russian	I speak English.	False	False	1.0115457	959	959, 12, 327	0	27
+474	Duiskkagiella	Bedouins live in the desert.	German	False	False	0.97866607	1	1, 307, 12	0	378
+475	Ii sáhte rievdadit čálánheivehusat% 1 várás.	Unable to create directory %1.	Unable to modify settings of printer %1.	False	True	0.857272	763	763, 757, 554	0.3333333333333333	554
+476	Diehto čájehuvvoName	What to do when archiving	An information message is being shown	False	False	1.0721344	436	436, 651, 632	0	802
+477	Ii gávdnan lásečikŋadan lassemoduvla.	If you have selected something within the current document, this will no longer be selected.	No window decoration plugin library was found.	False	False	0.8847797	897	897, 28, 318	0	113
+478	Buhtádus	Filters	"REGEXP(""15, 20, 26, 41 "";"" ([0-9]+), *[0-9]+$ "";"" ""; 1) ="" 26 """	False	False	0.89437485	421	421, 677, 242	0	474
+479	Buot	Square	All	False	False	0.7598684	734	734, 585, 833	0	194
+480	Alit- rukses ivdnerievdadeapmiComment	XScorchComment	Gradient Blue-RedComment	False	False	0.9635272	766	766, 85, 598	0	665
+481	Agibeaivái	Detach Tab	Forever	False	False	1.0512661	635	635, 957, 599	0	987
+482	uruguay. kgm	andrew_coles@yahoo. co. uk	Duraznouruguay. kgm	False	False	0.86586607	755	755, 396, 293	0	994
+483	Buot fiillat	Filters	All Files	False	False	0.95226705	421	421, 1, 832	0	323
+484	Govat	Formosa	Images	False	False	0.65849376	427	427, 833, 605	0	144
+485	Vaikko makkár	I know.	Any	False	False	1.150876	20	20, 19, 47	0	808
+486	180x180 čd	360x180 dpi	180x180 DPI	False	True	0.59645915	348	348, 874, 514	0.5	874
+487	MpegTVName	MpegTV	MpegTV	True	True	0.8085489	73	73, 451, 793	1.0	73
+488	LOG () - funkšuvdna dieđiha x árvvu logaritmma mas lea vuođđolohku 10.	The LARGE() function returns the k-th largest value from the data set.	A floating point value, greater than zero	False	False	0.7507274	195	195, 355, 512	0	569
+489	OpenPGP- reive – vuolláičála ii leat dárkkistuvvon	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	OpenPGP Message - Unchecked Signature	False	False	0.8016809	527	527, 207, 834	0	782
+490	Brihttálaš	Contrast	Imperial	False	False	1.0160601	571	571, 373, 886	0	770
+491	Siđatgo gáfe?	Do you want to resign?	Do you want coffee?	False	False	1.0024791	594	594, 56, 142	0	6
+492	Álkkibut geavaheapmi	Enables the reporting of errors that occur when JavaScript code is executed.	Accessibility	False	False	0.9245682	969	969, 101, 207	0	608
+493	latvia. kgm	Clarendonjamaica. kgm	Alū ksne	False	False	0.7304263	293	293, 279, 498	0	264
+494	Amerihká/ Edmonton	America/ Edmonton	America/ Edmonton	True	True	0.89319336	79	79, 711, 94	1.0	79
+495	iran. kgm	Clarendonjamaica. kgm	Oroomieh Lakeiran. kgm	False	False	0.80655885	293	293, 933, 880	0	139
+496	seammá go	and	not in	False	False	0.99199796	258	258, 20, 967	0	946
+497	Arvi	Regina	Rain	False	False	0.7604239	107	107, 887, 97	0	537
+498	Oppalaš	Formosa	General	False	False	0.87901676	427	427, 571, 505	0	321
+499	ii mihkkige	and	none	False	False	1.0623149	258	258, 20, 559	0	752
+500	Geavaheaddjilakta	Transmission aborted.	User Interface	False	False	1.0261688	499	499, 242, 28	0	558
+501	Miessemánnu	May	May	False	True	1.1181139	140	140, 602, 503	0.5	602
+502	GESTEP( 4; 3) dieđiha 1	GESTEP(4; 3) returns 1	GESTEP(4; 3) returns 1	True	True	0.68612134	993	993, 983, 949	1.0	993
+503	Duođaštus mas lea dát namma gávdno juo. Hálidatgo duođas dan buhttet?	A certificate with that name already exists. Are you sure that you wish to replace it?	A certificate with that name already exists. Are you sure that you wish to replace it?	True	True	0.8705101	464	464, 200, 777	1.0	464
+504	guatemala. kgm	Clarendonjamaica. kgm	Retalhuleu	False	False	0.80716896	293	293, 233, 880	0	489
+505	Álgovuolggalaš čálli	Cached information (e. g. favicons, web-pages)	Original author	False	False	1.0186362	749	749, 527, 207	0	879
+506	Geavat ođđa málle juohke hávego% 1 álggahuvvo	"WEEKS(""2002-19-02 "";"" 2002-19-02 ""; 1) returns 0, because there is not a whole week in between, starting at the first day of the week (monday or sunday, depending on your local settings)"	Could not open the file for reading (check read permissions).	False	False	0.9331343	241	241, 757, 527	0	612
+507	Ecasound effeaktamašiidnaName	Sétifalgeria. kgm	Ecasound Effektrack	False	False	1.1265478	871	871, 973, 145	0	439
+508	Amas	Rain	Unknown	False	False	0.6938877	537	537, 646, 427	0	984
+509	KataTudoQuery	KataTudoQuery	KataTudoQuery	True	True	0.5624714	476	476, 150, 247	1.0	476
+510	Šearbmá molsu mearriduvvon ivdnái nu guhkká go lea mearriduvvon dás vuolábealde.	Unable to create new process. The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached.	The screen will turn to a custom color for the amount of time specified below.	False	False	0.88594246	371	371, 207, 527	0	203
+511	Ale olggosfievrrit	No Busy Cursor	Do n't export	False	False	1.0569086	756	756, 486, 189	0	187
+512	Vuoje gitta   …	New command	Run To...	False	False	1.1614518	135	135, 808, 297	0	618
+513	Fohkus lásii:	Type:	Focus window:	False	False	0.914485	674	674, 190, 795	0	912
+514	ukraine. kgm	Clarendonjamaica. kgm	Rivneukraine. kgm	False	False	0.7437751	293	293, 279, 396	0	507
+515	Ii gávdnan KDE- fáddavuorká% 1	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Unable to find the KDM theme archive %1.	False	False	0.8446224	527	527, 552, 777	0	640
+516	Maid galgá vurkedettiin dahkat	Do you want to disable showing the introduction in the webbrowsing profile?	What to do when archiving	False	False	0.9661759	777	777, 897, 229	0	436
+517	Vállje beaivvi@ info: tooltip	Pick Date@info: tooltip	Pick Date@info: tooltip	True	True	0.9058517	882	882, 924, 99	1.0	882
+518	_Sisačálit	_Find...	_Login	False	False	0.99924254	524	524, 153, 344	0	981
+519	Prográmma mii addá oktavuođa% 1 - protokolla bokte, heaittihuvvui báifahkka.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	The program on your computer which provides access to the %1 protocol has unexpectedly terminated.	False	True	0.8028791	527	527, 488, 834	0.3333333333333333	834
+520	caribbean. kgm	Clarendonjamaica. kgm	Saint Barthelemy (France)	False	False	0.8684764	293	293, 245, 507	0	519
+521	ROUND( árvu; [logut]) - funkšuvdna dieđiha jorbejuvvon árvvu. « Logut » máksá galle nummira galget leat logus. Jos « logut » leat 0 dahje guorus, de árvu jorbejuvvo bajás lagamuš čavdelohkui. Jos « logut » lea unnit go 0, de nummira čavdelohkooassi jorbejuvvo.	This function returns -1 if the number is negative, 0 if the number is null and 1 if the number is positive.	Digits	False	False	0.72313476	742	742, 527, 195	0	677
+522	Telefuvnnat:	Telephones:	Telephones:	True	True	0.6715617	811	811, 225, 316	1.0	811
+523	Dávvi	Device	North	False	False	0.79264855	661	661, 373, 434	0	613
+524	Desimálaárvu	Formosa	MEDIAN(12; 7; 8; 2) equals 7.5	False	False	1.0153568	427	427, 806, 555	0	620
+525	ZAngbandGenericName	ZAngbandGenericName	ZAngbandGenericName	True	True	0.6581211	451	451, 744, 412	1.0	451
+526	Son vázzá nuoraidskuvlla.	He goes to junior high.	He goes to junior high.	True	True	0.80091655	7	7, 12, 62	1.0	7
+527	Tabealla	Tiny	Table	False	False	0.8347529	803	803, 427, 635	0	148
+528	Čáhppat:	Type:	Black:	False	False	0.8951322	674	674, 190, 45	0	732
+529	Ruoná (cyanalit ja fiskat)	Cached information (e. g. favicons, web-pages)	Green (Cyan and Yellow)	False	False	0.91102266	749	749, 410, 519	0	986
+530	Olggosfievrrit	Filters	Export	False	False	1.0102063	421	421, 254, 756	0	450
+531	Bures boahtin Tatoebai!	Where do you come from?	Welcome to Tatoeba!	False	False	1.0480894	56	56, 31, 60	0	49
+532	Olgeš leahkkakaseahtta	Standard deviation of the distribution	Right Cartridge	False	False	1.0738528	250	250, 203, 371	0	520
+533	& Ollašuhttindoaibmanvuogi:	Do you want to disable showing the introduction in the webbrowsing profile?	& Completion mode:	False	False	0.96947765	777	777, 728, 305	0	528
+534	Vuostálasvuohta	Transmission aborted.	Contrast	False	False	0.9290658	499	499, 757, 540	0	571
+535	Gávnnai eanet go ovtta man- siidu mii heivii.	I'm happy today	There is more than one matching man page.	False	False	0.9955931	21	21, 594, 9	0	535
+536	KiinnáName	ChinaName	ChinaName	True	True	1.0031291	965	965, 697, 175	1.0	965
+537	Gos don ohppet latiinnagiela?	Where do you come from?	Where did you learn Latin?	False	True	1.1019493	56	56, 436, 55	0.3333333333333333	55
+538	@ title	default	Who do you want to sign as?	False	False	0.6809094	967	967, 547, 516	0	142
+539	Namahus:	Description:	Title:	False	False	0.6185205	928	928, 190, 674	0	93
+540	Čádná dán čájeheami oktii earáide, vai máhpparievdadusat oidnojit buot čájehemiin.	This page contains changes that have not been submitted. Reloading the page will discard these changes.	Sets the view as 'linked '. A linked view follows folder changes made in other linked views.	False	False	0.8658794	883	883, 371, 207	0	972
+541	ChessMailGenericName	ChessMailGenericName	ChessMailGenericName	True	True	0.7243756	759	759, 451, 744	1.0	759
+542	Raba fiilla	Shanbe	Open file	False	False	1.078399	367	367, 579, 486	0	157
+543	Shanbe	Shanbe	Shanbe	True	True	0.42521954	367	367, 734, 427	1.0	367
+544	Smávva govažat	Home Folder	Small Icons	False	False	0.9925525	845	845, 207, 448	0	832
+545	Guovlu	Plugin	Region	False	False	0.84353626	252	252, 359, 568	0	398
+546	Galbarihcis eai leat bánit.	Turtles don't have teeth.	Turtles don't have teeth.	True	True	0.7708068	45	45, 1, 40	1.0	45
+547	Gierdu	Regina	Circle	False	False	0.8624188	107	107, 398, 833	0	91
+548	Bonja gova	Shanbe	Skew Image	False	False	0.9467411	367	367, 935, 135	0	854
+549	& Terminálamolssaeavttut:	(2) System Calls	& Terminal options:	False	False	0.9937942	604	604, 557, 817	0	125
+550	Miessemánnu	May	May	True	True	1.1181139	140	140, 602, 503	1.0	140
+551	Sajáiduhttojuvvon	Consolidate	Installed	False	False	1.0368295	877	877, 817, 686	0	446
+552	Reive	Remove	Body	False	False	0.72957003	301	301, 160, 202	0	171
+553	afghanistan. kgm	Panjshirafghanistan. kgm	Panjshirafghanistan. kgm	True	True	0.7336391	66	66, 293, 457	1.0	66
+554	argentina. kgm	Yambiosudan. kgm	Formosa	False	False	0.7685429	880	880, 933, 293	0	427
+555	SodipodiName	SodipodiName	SodipodiName	True	True	0.84064376	768	768, 814, 965	1.0	768
+556	Olggosčáliheapmi	Browsing	Logout	False	False	0.9456948	242	242, 651, 969	0	486
+557	Son bovdii su.	He invited her.	He invited her.	True	True	0.77737856	8	8, 35, 33	1.0	8
+558	philippines. kgm	Bataanphilippines. kgm	Laguna	False	False	0.7797446	245	245, 621, 360	0	605
+559	Sturrodat:	Flatness:	Size:	False	True	0.8161135	351	351, 431, 372	0.5	431
+560	Lohkkat bargovuoru álo	Width must be at least 1.	Force session locking	False	False	0.97166336	757	757, 499, 349	0	369
+561	GenericName	Web BrowsingName	KCachegrind	False	False	0.789335	744	744, 977, 165	0	330
+562	% 1- protokollain ii leat vejolaš rahpat fiillaid.	'%1 'does not appear to be a folder. Please move the file out of the way.	Opening files is not supported with protocol %1.	False	False	0.6663053	174	174, 763, 834	0	324
+563	Gambier- sullot	Gambier Islands	Gambier Islands	True	True	0.65459883	303	303, 953, 290	1.0	303
+564	Láse minimerejuvvoComment	FluxboxComment	Window MinimiseComment	False	False	0.9753728	85	85, 150, 720	0	660
+565	DB- 208A (1 gárri)	DB-208A (1 Tray)	DB-208A (1 Tray)	True	True	0.52510595	337	337, 89, 306	1.0	337
+566	Romániagiella	Cyrillic/Russian	Romanian	False	True	0.91335106	959	959, 769, 526	0.5	769
+567	(2) VuogádatgohččumatName	& Create New Folder...	(2) System Calls	False	True	0.9721906	680	680, 651, 604	0.3333333333333333	604
+568	Ollu giitu!	No worries!	Thank you very much!	False	True	1.0435398	31	31, 60, 39	0.3333333333333333	39
+569	Jorgaleapmi	Browsing	Conversion	False	False	0.89949393	242	242, 950, 982	0	227
+570	VFAT heivvolaš & namat	The Win key is now active.	Overwrite & Destination	False	False	1.0646667	948	948, 596, 655	0	764
+571	Com- 10 Env	Com-10 Env	Com-10 Env	True	True	0.47144544	267	267, 913, 575	1.0	267
+572	Dan gujis lea boares viessu.	I know.	There is an old house on this street.	False	False	0.89427805	20	20, 35, 42	0	43
+573	Čáhppesdásit	Turtles don't have teeth.	Black Levels	False	False	0.9235624	45	45, 42, 40	0	115
+574	& Bajit rádji:	Login Name: %1 (uid: %2)	& Upper limit:	False	False	1.0439556	937	937, 444, 997	0	909
+575	Stuoris	Images	Large	False	False	0.8213122	144	144, 296, 806	0	544
+576	_Čájet	_View	_View	True	True	0.9639971	573	573, 344, 153	1.0	573
+577	% 1- fiila	%1 File	%1 File	True	True	0.78327227	219	219, 132, 837	1.0	219
+578	Stáhtus	Cancel	Status	False	False	0.77051497	876	876, 676, 852	0	531
+579	Pixmap- govaid čiehkámuitu	Pixmap Cache	Pixmap Cache	True	True	0.8913454	164	164, 977, 251	1.0	164
+580	SodipodiName	SodipodiName	Sodipodi	False	False	0.84064376	768	768, 814, 965	0	379
+581	Skearrut olggožiid haga	Cached information (e. g. favicons, web-pages)	Albums Without Cover	False	False	0.92411137	749	749, 203, 288	0	497
+582	Jos leat merken miinu dokumeanttas, de ii šat merkejuvvo.	If this is ticked, KDM will alphabetically sort the user list. Otherwise users are listed in the order they appear in the password file.	If you have selected something within the current document, this will no longer be selected.	False	True	0.78910804	900	900, 897, 883	0.5	897
+583	Syntáksamerken Ferite várás	Highlighting for Ferite	Highlighting for Ferite	True	True	1.0417379	189	189, 143, 181	1.0	189
+584	CAD	CAD	CAD	True	True	0.4115789	505	505, 467, 890	1.0	505
+585	Máhppalistu ii leat olamuttus	Width must be at least 1.	Folder Listing Unavailable	False	False	0.89517295	757	757, 616, 834	0	256
+586	"Stuorra čujuhus – 1 4/ 10   ×   3 1/ 2 """	"Large Address - 1 4/ 10 x 3 1/ 2 """	"Large Address - 1 4/ 10 x 3 1/ 2 """	True	True	0.6491505	509	509, 794, 311	1.0	509
+587	Njuolggobálggis	Browsing	Shortcut	False	False	1.0438595	242	242, 845, 562	0	991
+588	vietnam. kgm	Clarendonjamaica. kgm	Kon Tum	False	False	0.95255685	293	293, 396, 595	0	220
+589	Beaivi	Bevel	Date@title: column	False	False	0.9067322	202	202, 661, 987	0	262
+590	st	lesser	Another link to %sst	False	False	0.3984332	890	890, 72, 467	0	313
+591	Sálket historihka?	Do you want to disable showing the introduction in the webbrowsing profile?	Clear History?	False	False	0.996632	777	777, 436, 749	0	745
+592	Ođđa profiila	Aborted	New Profile	False	False	0.96568155	961	961, 845, 277	0	902
+593	_Raba...	_Find...	_Open…	False	False	0.62206066	524	524, 263, 166	0	74
+594	LRD	LRD	LRD	True	True	0.46360183	652	652, 236, 536	1.0	652
+595	puertorico. kgm	Clarendonjamaica. kgm	Mocapuertorico. kgm	False	False	0.6638466	293	293, 498, 880	0	233
+596	"INTRATE (""2001- 02- 28""; ""2001- 08- 31""; 1000000; 2000000; 1) dieđiha 1, 98"	"WEEKS(""2002-19-02 "";"" 2002-19-02 ""; 1) returns 0, because there is not a whole week in between, starting at the first day of the week (monday or sunday, depending on your local settings)"	INTRATE(settlement; maturity; investment; redemption; basis)	False	False	0.7204101	241	241, 285, 539	0	846
+597	Čájet reaidoholggas	The boy has a horse.	Show in toolbar	False	False	1.0584338	40	40, 42, 242	0	508
+598	& Doaimma dása:	Money:	Act on:	False	False	1.0237952	930	930, 728, 817	0	134
+599	Vuoje	Any	Delete to the end of the word	False	False	0.83157945	808	808, 297, 734	0	98
+600	Deavdde Vástádusčujuhusgietti	Debug Information	Set Reply-To To	False	False	1.1314201	590	590, 710, 208	0	783
+601	ERFC () - funkšuvdna dieđiha komplementeara meattáhusfunkšuvnna.	The ERFC() function returns the complementary error function.	The ERFC() function returns the complementary error function.	True	True	0.7730131	336	336, 195, 355	1.0	336
+602	Eará čujuhusat	Translations	Other Addresses	False	False	0.8862009	80	80, 647, 691	0	387
+603	600 čd fotografiija	600 DPI Photo	600 DPI Photo	True	True	0.8331518	350	350, 765, 306	1.0	350
+604	align-reference-type	undo-type	Active layer	False	False	0.88018095	77	77, 785, 546	0	361
+605	Álgovuolggálaš:	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Original:	False	False	0.9685161	527	527, 522, 241	0	390
+606	Lasit mildusa reivii. Dát leat geardduhahtti.	See you.	Add an attachment to the mail. This can be repeated	False	False	0.77711344	33	33, 37, 59	0	893
+607	Vurke nugo	Keep above others	Save As	False	False	1.0270289	974	974, 926, 31	0	703
+608	Čađačuovgi	The girl has a white horse.	Transparency	False	False	1.0217249	42	42, 651, 40	0	666
+609	RelašuvnnatGenericName	Web BrowsingName	RelationshipsGenericName	False	False	0.768142	744	744, 451, 633	0	412
+610	canada. kgm	Clarendonjamaica. kgm	Bafoussamcanada. kgm	False	False	0.8169608	293	293, 880, 933	0	481
+611	Kommentára:% 1Bitrate: 160 kbits/ s	Comment: %1Bitrate: 160 kbits/ s	Comment: %1Bitrate: 160 kbits/ s	True	True	0.6317229	733	733, 518, 924	1.0	733
+612	Ráhkat globála diehtovuođu	Cached information (e. g. favicons, web-pages)	Create global database	False	False	0.92624855	749	749, 113, 527	0	922
+613	Sisafievrrit	Mauren	Import	False	False	1.027225	532	532, 677, 421	0	226
+614	Buorre kvalitehta	Transparency	High Quality	False	False	0.80231273	666	666, 540, 277	0	438
+615	Prefiksa% 1 ii gávdnon.	The prefix %1 cannot be bound.	The prefix %1 cannot be bound.	True	True	0.6830987	915	915, 739, 763	1.0	915
+616	Olggosfievrrit vCard 3. 0   …	Export vCard 3.0...	Export vCard 3.0...	True	True	0.79857814	221	221, 998, 575	1.0	221
+617	Geargan	Light	Done	False	False	0.72236204	938	938, 585, 833	0	248
+618	Sisačálihannamma:% 1 (uid:% 2)	Login Name: %1 (uid: %2)	Login Name: %1 (uid: %2)	True	True	0.74648607	937	937, 758, 837	1.0	937
+619	_Beassansátni:	_View	_Password:	False	False	1.0188799	573	573, 340, 524	0	813
+620	Albániagiella	Bedouins live in the desert.	Albanian	False	False	0.8893813	1	1, 526, 959	0	493
+621	Gaskamearka	Cyan	Space	False	False	0.9172571	243	243, 917, 987	0	152
+622	& Vuoigatvuođat	The future is uncertain.	& Permissions	False	False	1.0157409	41	41, 527, 664	0	246
+623	& Prográmmat mat eai gula bargovuoruin:	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Applications to be excluded from sessions:	False	False	0.8215616	527	527, 318, 632	0	522
+624	Ruovttomáhppa	The future is uncertain.	Home Folder	False	False	0.9619806	41	41, 128, 242	0	845
+625	Heivet e- boastačoahkkáigeasuComment	FluxboxComment	Mail Summary SetupComment	False	False	0.9478586	85	85, 150, 766	0	919
+626	Vaikko makkár	I know.	Any	False	False	1.150876	20	20, 19, 47	0	297
+627	algeria. kgm	Clarendonjamaica. kgm	Sétifalgeria. kgm	False	False	0.7641901	293	293, 214, 498	0	871
+628	Šládja: XXXXXXX	Type: XXXXXXX	Type: XXXXXXX	True	True	0.463215	588	588, 651, 589	1.0	588
+629	Lágamus sturrodat ja skála	Cached information (e. g. favicons, web-pages)	Nearest Size and Scale	False	False	0.88332534	749	749, 818, 203	0	167
+630	PERMUT( 8; 5) dieđiha 6720	CHIDIST(13.27; 5) returns 0.021	PERMUT(total; permutated)	False	False	0.82632375	983	983, 89, 620	0	276
+631	Sahtedohko	Sort & Increasing	Random	False	False	0.9869598	550	550, 961, 41	0	224
+632	7 3/ 4- konfaluhtta 3 7/ 8   ×   7 1/ 2 dumá	7 3/ 4 Envelope 3 7/ 8 x 7 1/ 2 in	7 3/ 4 Envelope 3 7/ 8 x 7 1/ 2 in	True	True	0.59780025	311	311, 620, 509	1.0	311
+633	& Vuolláičále reivve	& Create New Folder...	& Sign Message	False	False	1.0883158	680	680, 208, 726	0	123
+634	Šládja	Iraq	Type	False	False	0.8764621	654	654, 887, 97	0	424
+635	Heiveheapmi	Height	Configuration	False	False	0.9345665	513	513, 609, 242	0	277
+636	bidjá prográmmanama	Signature Algorithm:	sets the application name	False	False	0.88937473	542	542, 655, 579	0	180
+637	Borgemánnu	May	August	False	True	1.0864346	602	602, 140, 260	0.3333333333333333	260
+638	Muitte beassansáni	Keep above others	Remember password	False	False	1.0935669	974	974, 25, 20	0	655
+639	& MáhcatCoptic month 13 - LongName	NextJobOnSameSheet	Mesore	False	False	1.0106844	633	633, 451, 680	0	331
+640	Ráhkadeamen máhpa% 1	Fetching cover for %1...	Creating folder %1	False	False	0.97899735	728	728, 757, 499	0	339
+641	Standárda	Battleball	Default	False	False	0.86695766	95	95, 373, 833	0	747
+642	Raba sierra láses	Clanbomber	Open in separate window	False	False	1.0455372	579	579, 367, 242	0	111
+643	KMahjonggGenericName	ZAngbandGenericName	4 Winds	False	False	0.79458904	451	451, 744, 412	0	784
+644	Čájet mildosa:% 1	%1 Colors	View Attachment: %1	False	False	0.87712216	837	837, 758, 132	0	518
+645	Sajáiduhtte/ođasmahte	Overwrite & Destination	Install/update	False	False	0.98116136	764	764, 594, 632	0	564
+646	Gohččumis ii leat gáibáduvvon sárgá% 1.	The prefix %1 cannot be bound.	The command does not contain the required tag %1.	False	True	0.8586173	915	915, 763, 739	0.3333333333333333	739
+647	Fierbmeheivehusat	Filter Settings	Network Settings	False	False	0.9266039	781	781, 845, 421	0	225
+648	Namahus	Close	Title	False	False	0.7232926	907	907, 734, 427	0	218
+649	Geavaheaddjiageanta	Browsing	User Agent	False	False	0.94460356	242	242, 877, 609	0	840
+650	paper size	paper size	A4x6paper size	False	False	0.50694776	639	639, 995, 401	0	748
+651	Automáhtalaš	Transparency	Automatic	False	False	0.8866298	666	666, 963, 950	0	715
+652	© 2000– 2007 KDE ovdánahtit	Copyright 2000-2007, KDE developers	Copyright 2000-2007, KDE developers	True	True	0.87258697	584	584, 527, 548	1.0	584
+653	algeria. kgm	Clarendonjamaica. kgm	Adrar	False	False	0.7641901	293	293, 214, 498	0	806
+654	BelgiaName	BelgiumName	BelgiumName	True	True	0.8343531	491	491, 577, 965	1.0	491
+655	RANDBETWEEN () - funkšuvdna dieđiha pseudo- deivvolaš nummira gaskal vuolimus ja bajimus árvvu. Jos vuolimus_ árvu > bajimus_ árvu funkšuvdna dieđiha Err (meattáhus).	The LARGE() function returns the k-th largest value from the data set.	Top value	False	False	0.75243115	195	195, 512, 798	0	460
+656	Čáhppat juohkke ivnni sadjái	"WEEKS(""2002-19-02 "";"" 2002-19-02 ""; 1) returns 0, because there is not a whole week in between, starting at the first day of the week (monday or sunday, depending on your local settings)"	Black for any colour	False	False	0.9540061	241	241, 16, 45	0	964
+657	Ii sáhte geahččalit čálána:	Data you requested to be saved could not be written. Please choose how you want to proceed.	Unable to test printer:	False	False	0.9215274	760	760, 897, 777	0	170
+658	Rievdat teakstaivnni:	"Enter the text (in English if possible) that you wish to submit for the bug report. If you press ""Send"", a mail message will be sent to the maintainer of this program."	Change text colour:	False	False	1.0234637	270	270, 552, 318	0	127
+659	Árbevirolaš fállovuođđoduvvun prográmmaálggaheaddjiName	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Traditional menu based application launcherName	False	False	1.0492053	527	527, 109, 749	0	904
+660	Riikakoda:	Company:	Country code:	False	False	0.8861089	997	997, 930, 393	0	650
+661	Teknihkalaš bienat	Technical Details	Technical Details	True	True	0.8430358	679	679, 990, 277	1.0	679
+662	Áigi ovdalgo:	Money:	Time Remaining:	False	False	1.1162087	930	930, 203, 112	0	817
+663	Máhccat & ovddit bargovuoru	Unable to create new process. The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached.	Restore & previous session	False	False	1.0257086	371	371, 527, 550	0	465
+664	Ruoksat:	Money:	Red:	False	True	0.81860805	930	930, 875, 606	0.5	875
+665	Čális áigetabeallačájeheapmin	Enables the reporting of errors that occur when JavaScript code is executed.	Print as & timetable view	False	False	1.006157	969	969, 208, 651	0	268
+666	Artihkkalat	Articles	Articles	True	True	0.9114944	691	691, 333, 317	1.0	691
+667	trådløst: er ikke slått på	We are often in Tromsø.	wireless: is not enabled	False	False	1.1351814	47	47, 726, 61	0	475
+668	Sádde vástádusa čujuhussii   …	Moved all messages to the trash	Reply To...	False	False	1.0154335	889	889, 318, 818	0	865
+669	Heivehusat	Height	Settings	False	False	0.8865062	513	513, 91, 734	0	888
+670	Globála eaktu	Glossy Paper	Global Alternate	False	False	0.96287847	128	128, 354, 252	0	822
+671	Prográmma	Clanbomber	Program	False	False	0.830654	579	579, 847, 434	0	455
+672	Mildosa namahus	Teleorman	Attachment Title	False	False	1.0087248	731	731, 440, 95	0	737
+673	Skriptagieđahalli	Flip horizontally	Script Manager	False	False	0.93962646	104	104, 242, 854	0	626
+674	Sáhtátgo veahkehit?	Do you want to resign?	Can you help me?	False	False	1.0049229	594	594, 28, 753	0	3
+675	Plasma- dáhtamohtorComment	Plasma Data EngineComment	Plasma Data EngineComment	True	True	0.69228125	598	598, 766, 660	1.0	598
+676	Sus leat rukses lieđit.	She has red flowers.	She has red flowers.	True	True	0.7556474	34	34, 42, 40	1.0	34
+677	Ruoksat	Blue Heading	Red	False	False	0.959316	692	692, 107, 244	0	173
+678	PCL3GUI	PCL3GUI	PCL3GUI	True	True	0.5217345	667	667, 575, 998	1.0	667
+679	tab-style	undo-type	Status & desctab-style	False	False	0.7202202	77	77, 785, 546	0	940
+680	_Alit:	_Key:	_Blue:	False	True	0.69724226	358	358, 340, 573	0.5	340
+681	Classname ii leat meroštuvvon.	No target filename has been given.	No classname specified.	False	False	0.7308661	892	892, 535, 616	0	462
+682	Mus leat dušše guokte máná.	I only have two children.	I only have two children.	True	True	0.72626126	24	24, 40, 19	1.0	24
+683	Oppalaš	Formosa	General	False	False	0.87901676	427	427, 571, 505	0	681
+684	Profiilla	Photons	Profile	False	False	0.838544	990	990, 585, 695	0	253
+685	Iranalašgiella	Kurdish	Persian	False	False	0.8584256	526	526, 1, 342	0	887
+686	Go_hččun_	_View	Co_mmand:	False	False	1.041672	573	573, 153, 344	0	280
+687	Skearrot	Skew Image	Disks	False	False	0.9086609	854	854, 643, 115	0	433
+688	% 1 ii doarjjo fiilamáŋgen	Unable to create directory %1.	Copying files within %1 is not supported.	False	True	0.97049546	763	763, 554, 70	0.3333333333333333	70
+689	Álkkibut geavaheapmi	Enables the reporting of errors that occur when JavaScript code is executed.	Accessibility	False	False	0.9245682	969	969, 101, 207	0	442
+690	NohtatName	GuatemalaName	NotesName	False	False	0.9993305	577	577, 965, 977	0	175
+691	catalonia_ comarques. kgm	Clarendonjamaica. kgm	Alta Ribagorça	False	False	0.9028084	293	293, 788, 214	0	610
+692	Teaksta: Máŋossihko	Text: Backspace	Text: Backspace	True	True	1.0624108	743	743, 651, 327	1.0	743
+693	undo-type	undo-type	Large (256x256)undo-type	False	False	0.49388337	546	546, 785, 77	0	910
+694	oman. kgm	Yambiosudan. kgm	Ad Dhahirahoman. kgm	False	False	0.7717271	880	880, 293, 933	0	484
+695	Čájeheamit	SHORTWEEKDAY	Views	False	False	0.9455683	651	651, 35, 661	0	490
+696	Sirdde čállinmearkka ovddit linnjái	The screen will turn to a custom color for the amount of time specified below.	Audio element playback controls and status display	False	False	0.9626448	203	203, 506, 763	0	177
+697	Fiskadagat	Filters	Height	False	False	0.82420206	421	421, 144, 296	0	513
+698	@ title: window	Fonts@title: tab	Do Not Start@title: window	False	False	0.6914325	222	222, 262, 813	0	985
+699	Ođđa profiila	Aborted	New Profile	False	False	0.96568155	961	961, 845, 277	0	851
+700	Sirdde X:	Description:	Anti-aliasing	False	False	0.8459165	928	928, 428, 674	0	381
+701	«% 1 » ii oroleaman máhppa. Váldde eret fiilla, dat lea ovddas.	'%1 'does not appear to be a folder. Please move the file out of the way.	'%1 'does not appear to be a folder. Please move the file out of the way.	True	True	0.8514569	174	174, 763, 527	1.0	174
+702	Váldoreaidoholga	Transmission aborted.	Main Toolbar	False	False	1.0117334	499	499, 757, 961	0	953
+703	KDE (ođđa)	KDE (new)	KDE (new)	True	True	0.6782968	231	231, 386, 289	1.0	231
+704	Liigeparamehterat:	Standard deviation of the distribution	Extra parameters:	False	True	0.86387193	250	250, 304, 428	0.3333333333333333	428
+705	B5paper size	B5paper size	B5paper size	True	True	0.46768963	995	995, 918, 103	1.0	995
+706	Geavat & fontta mas lea giddes govdodat	Cached information (e. g. favicons, web-pages)	Use Fixed Font	False	False	0.95808506	749	749, 414, 527	0	830
+707	Čuovga	The girl has a white horse.	Light	False	False	1.0047308	42	42, 359, 252	0	938
+708	Oppalaš	Formosa	General	False	False	0.87901676	427	427, 571, 505	0	786
+709	boerre@ skolelinux. no	malcolm. hunter@gmx. co. uk	Show applications by & name:	False	False	0.8334749	396	396, 755, 293	0	754
+710	Čálit & duogášivnni	The girl has a white horse.	Draw background color	False	False	1.0509759	42	42, 40, 45	0	971
+711	Heivet oppalaš Konqueror láhttemaName	Configure general Konqueror behaviourName	Configure general Konqueror behaviourName	True	True	0.9921938	165	165, 680, 629	1.0	165
+712	Vurke dáhpáhusaid jeavddalaččat	SHORTWEEKDAY	Regularly archive events	False	False	0.9386426	651	651, 777, 464	0	548
+713	Suddje dokumeantta	Do you want to disable showing the introduction in the webbrowsing profile?	Protect Document	False	False	0.9312031	777	777, 883, 640	0	454
+714	minuhta	1 hour	minutes	False	False	0.916379	112	112, 930, 516	0	72
+715	Geavat duogáža	Glossy Paper	Enable background	False	False	0.99529886	128	128, 42, 210	0	693
+716	Bábirgárri	Clanbomber	Paper Tray	False	False	1.0003128	579	579, 806, 532	0	210
+717	Olgešbealis gurutbeallái	The boy has a horse.	Right to Left	False	False	1.0764816	40	40, 42, 47	0	810
+718	NamahusComment	FluxboxComment	One Column Portrait	False	False	0.7225368	85	85, 766, 660	0	942
+719	Vállje linnjámolssunmearkka ivnni: Statálaš linnjámolsun Ceakkunjulges linnjá mii čájeha makkár čuolddas linnjá molsošuvvo. Dynamálaš linnjámolsun Njoalla čájehuvvo gurutbeal daid linnjáid main lea linnjámolsun.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Sets the color of Word Wrap-related markers: Static Word Wrap A vertical line which shows the column where text is going to be wrapped Dynamic Word Wrap An arrow shown to the left of visually-wrapped lines	False	False	0.9080696	527	527, 371, 631	0	68
+720	Addá unnit ovdavuora válljejuvvon bálvalussii ja sirdá dan vulos listtus.	This page contains changes that have not been submitted. Reloading the page will discard these changes.	Assigns a lower priority to the selected service, moving it down in the list.	False	False	0.9092567	883	883, 527, 818	0	101
+721	Gohččun	The girl has a white horse.	Command	False	False	1.0325992	42	42, 45, 277	0	217
+722	Christian Gebauer	Christian Gebauer	Christian Gebauer	False	True	0.5780649	534	534, 597, 931	0.5	597
+723	OKHalftoneMode	OKHalftoneMode	OKHalftoneMode	True	True	0.64901125	713	713, 998, 85	1.0	713
+724	teaksta 40x25 (7)	text 40x25 (7)	text 40x25 (7)	True	True	0.60762477	978	978, 767, 983	1.0	978
+725	Leage buorre.	See you.	You are welcome.	False	False	0.69756544	33	33, 20, 46	0	61
+726	Fiila	Height	File	False	False	0.7748909	513	513, 734, 107	0	191
+727	Dulkomin dokumeantta	Do you want to disable showing the introduction in the webbrowsing profile?	Parsing document	False	False	0.87794507	777	777, 883, 728	0	365
+728	ukraine. kgm	Clarendonjamaica. kgm	Not Ukraineukraine. kgm	False	True	0.7437751	293	293, 279, 396	0.5	279
+729	5- lođát boastaboksa rievnnuiguin	Cached information (e. g. favicons, web-pages)	5 Bin Mailbox with Stapler	False	False	0.9886402	749	749, 203, 318	0	133
+730	Doaimmat	Remember	Edit	False	False	0.89600563	957	957, 599, 537	0	345
+731	Doaimmat   …	Rain	Edit...	False	False	1.0003182	537	537, 957, 599	0	881
+732	Mu namma lea Tom.	My name is Tom.	My name is Tom.	True	True	0.75673366	29	29, 30, 20	1.0	29
+733	Duogášivdni   …	Ömnögov ĭ	& Background Color...	False	False	1.0706916	81	81, 42, 939	0	417
+734	Álggahan áigi:	Time Remaining:	Start & time:	False	False	0.9396925	817	817, 203, 241	0	678
+735	Čuohpusgirjjis   …	The girl has a white horse.	From & Clipboard...	False	False	0.994123	42	42, 651, 40	0	580
+736	zambia_ districts. kgm	Kalomozambia_districts. kgm	Zambezizambia_districts. kgm	False	False	0.8695377	498	498, 293, 793	0	797
+737	Dát duođaštus ii gula dása.	I know.	This certificate is not relevant.	False	False	0.9050133	20	20, 562, 499	0	470
+738	Beassansáni čájehanšládja	SHORTWEEKDAY	Password echo type	False	False	1.0710645	651	651, 250, 616	0	979
+739	MNT	MNT	MNT	True	True	0.49670005	701	701, 800, 107	1.0	701
+740	puertorico. kgm	Clarendonjamaica. kgm	Trujillo Alto	False	False	0.6638466	293	293, 498, 880	0	724
+741	Váldde eret	Remove	Remove	True	True	1.0285956	160	160, 301, 35	1.0	160
+742	Lea mielddus	Remember	Has Attachment	False	False	0.99519634	957	957, 599, 852	0	601
+743	CODE( teaksta)	Double Top (Landscape)	The CODE() function returns a numeric code for the first character in a text string.	False	False	0.89081895	410	410, 714, 231	0	478
+744	Bahá	Formosa	Angry	False	False	0.5501783	427	427, 472, 807	0	740
+745	Goargu:	Type:	Surname:	False	False	0.8028021	674	674, 190, 186	0	921
+746	Fuodni	Formosa	Bad	False	False	0.9335754	427	427, 774, 163	0	914
+747	Sieván	Shanbe	Cursor	False	False	0.7911242	367	367, 957, 599	0	643
+748	liechtenstein. kgm	Clarendonjamaica. kgm	Mauren	False	False	0.9746671	293	293, 279, 396	0	532
+749	Sisafievrrit & Galeon girjemearkkaid   …	Import & Galeon Bookmarks...	Import & Galeon Bookmarks...	True	True	1.1326164	662	662, 550, 756	1.0	662
+750	Liige duogáš	The girl has a white horse.	Alternate Background	False	False	1.0424867	42	42, 210, 343	0	570
+751	Vuojuhanláhkái Javaprográmmaš čájeheaddjiName	Signature Algorithm:	Embedded Java Applet ViewerName	False	False	0.8762517	542	542, 423, 99	0	239
+752	QShortcut	WirelessQShortcut	Back Forward	False	False	0.92448604	247	247, 420, 766	0	415
+753	& Kryptere reivve	Encrypt this part	& Encrypt Message	False	True	0.9875206	720	720, 377, 999	0.5	377
+754	Máhpat	Light	Folders	False	False	0.8973179	938	938, 295, 905	0	329
+755	Meattáhus	Space	Error	False	False	0.78064644	152	152, 734, 191	0	847
+756	Oppalaš mearkaiešvuođat	Unable to create new process. The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached.	General Character Properties	False	False	0.9614308	371	371, 328, 527	0	563
+757	Raba & ulbmila	Al Madinah	Open & Destination	False	False	1.1001081	592	592, 628, 635	0	557
+758	saudi_ arabia. kgm	'Asirsaudi_arabia. kgm	Al Madinah	False	False	0.7314162	214	214, 498, 293	0	592
+759	204x98 čd	204x98 DPI	204x98 DPI	True	True	0.7215016	932	932, 748, 348	1.0	932
+760	Ii sáhte ráhkadit ozu% 1:	Unable to create directory %1.	Unable to create directory %1.	True	True	0.83111787	763	763, 554, 591	1.0	763
+761	GenericName	Web BrowsingName	Format	False	False	0.789335	744	744, 977, 165	0	163
+762	Afrihká/ Tripoli	Africa/ Tripoli	Africa/ Tripoli	True	True	0.90641725	850	850, 862, 79	1.0	850
+763	Nummerejuvvon listuStyle name	Enumerated ListStyle name	Enumerated ListStyle name	True	True	0.7845826	671	671, 256, 611	1.0	671
+764	NetscapeName	NetscapeName	NetscapeName	True	True	0.5015725	977	977, 744, 451	1.0	977
+765	Ii merken	I know.	No selection	False	False	0.95871377	20	20, 28, 0	0	159
+766	YCbCr	YCbCr	YCbCr	True	True	0.5599835	916	916, 766, 85	1.0	916
+767	David lea ruovttus.	David is at home.	David is at home.	False	True	0.85854185	5	5, 4, 10	0.5	4
+768	vietnam. kgm	Clarendonjamaica. kgm	Ha Noivietnam. kgm	False	True	0.95255685	293	293, 396, 595	0.3333333333333333	595
+769	Lasit & vuogádatnama	Show applications by & name:	Add & platform name	False	False	1.0816786	754	754, 864, 961	0	403
+770	Guovvamánnu	Show Columns	February	False	False	1.1745646	716	716, 241, 942	0	124
+771	Boaldde	Bad	Burn	False	False	0.88643575	914	914, 807, 605	0	585
+772	paper size	paper size	prc 16kpaper size	False	False	0.50694776	639	639, 995, 401	0	495
+773	Dárkkis ahte eai leat prográmmat mat geavahit dán ovttadaga ja geahččal ođđasit.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Check that no applications are accessing the device, and try again.	False	False	0.7577462	527	527, 356, 207	0	632
+774	« Sádde & viidáset » fáddáprefivssat	Cached information (e. g. favicons, web-pages)	Reply Subject Prefixes	False	False	1.0133123	749	749, 318, 527	0	560
+775	Válddahus:	Company:	Description:	False	False	0.9430251	997	997, 492, 372	0	928
+776	boerre@ skolelinux. no	malcolm. hunter@gmx. co. uk	andrew_coles@yahoo. co. uk	False	True	0.8334749	396	396, 755, 293	0.5	755
+777	Jođánisboalut váldojuvvon eret	Cached information (e. g. favicons, web-pages)	Accelerators removed	False	False	0.9883878	749	749, 499, 242	0	469
+778	Duolbbasvuohta:	Transmission aborted.	Flatness:	False	False	0.82953453	499	499, 540, 757	0	351
+779	Sárggastus	Charging	Freehand	False	False	0.8422029	659	659, 252, 359	0	801
+780	liechtenstein. kgm	Clarendonjamaica. kgm	Triesen	False	False	0.9746671	293	293, 279, 396	0	100
+781	Ii suoivvaneapmi	I want to learn.	No dithering	False	False	1.0257958	28	28, 0, 436	0	343
+782	GESTEP( x; y)	GESTEP(4; 3) returns 1	The GESTEP() function returns 1 if x greater or equals y, otherwise returns 0. y defaults to 0.	False	True	0.82659984	993	993, 131, 949	0.5	131
+783	QFontDatabase	FluxboxComment	Gujarati	False	False	0.89768386	85	85, 150, 977	0	342
+784	"DMIN( A1: C5; ""Bálká""; A9: A11)"	"DMIN(Database; ""Header""; Conditions)"	"DMIN(Database; ""Header""; Conditions)"	True	True	0.8257394	408	408, 89, 404	1.0	408
+785	EBU nannii skábmamánu 17. b. 2017, ahte 43 riikka oassálastá jagi 2018 gilvvohallamii. Dát lea stuorámus mearri oasseválddiin ja seamma mearri go lei jagiin 2008 ja 2011 gilvvohallamiin.	Forty-three countries participate in the contest, equalling the record of the 2008 and 2011 editions. 	Forty-three countries participate in the contest, equalling the record of the 2008 and 2011 editions. 	True	True	0.6959368	589	589, 209, 241	1.0	589
+786	Ávvobeaivi	Width must be at least 1.	Anniversary	False	False	1.0671574	757	757, 40, 229	0	741
+787	Ii leat vejolaš oaidnit máhppalisttuid geavahettiin protokolla% 1.	Unable to create directory %1.	Listing folders is not supported for protocol %1.	False	False	0.75037575	763	763, 527, 174	0	110
+788	^Sajáiduhttit Ubuntu Studio	^Install Ubuntu Studio	^Install Ubuntu Studio	True	True	0.8351891	746	746, 629, 763	1.0	746
+789	Čájet/ čiega erenoamáš molssaeavttuid	Cached information (e. g. favicons, web-pages)	Show/ hide advanced options	False	False	0.86372626	749	749, 969, 818	0	517
+790	LávderáhkadeaddjiName	Transmission aborted.	Scene Modeler	False	False	1.0965228	499	499, 651, 680	0	656
+791	KDE- govašdoaimmaheaddji	The Common Desktop Environment, a proprietary industry standard desktop environment	KDE Icon Editor	False	False	0.94175315	289	289, 527, 174	0	929
+792	KNodeGenericName	ZAngbandGenericName	KNode	False	False	0.7576456	451	451, 744, 713	0	925
+793	360x180 čd	360x180 dpi	360x180 dpi	True	True	0.6033838	348	348, 874, 514	1.0	348
+794	Vállje JavaScript- doaibmanvuogi guossoheaddji dahje domena várás dás bajábealde.	Select a JavaScript policy for the above host or domain.	Select a JavaScript policy for the above host or domain.	True	True	0.81900156	230	230, 587, 527	1.0	230
+795	Bija fiilla sisa   …	Tom invited me.	Insert File...	False	False	1.0926087	44	44, 9, 18	0	718
+796	Erenoamáš	Error	Advanced	False	False	0.92892194	434	434, 847, 638	0	966
+797	amas	Fonts	unknown	False	False	0.6076014	184	184, 890, 547	0	619
+798	Raba dokumeantta.	Error opening %1 for writing.	Document to open	False	False	0.8598225	341	341, 36, 915	0	812
+799	Oanehaš	Rain	Short	False	False	1.0413811	537	537, 938, 65	0	326
+800	Čoahkkáigeasut	SHORTWEEKDAY	Summaries	False	False	1.0719728	651	651, 115, 42	0	503
+801	Durkkagiella	Kurdish	Turkish	False	True	0.8407097	526	526, 944, 75	0.5	944
+802	pakistan. kgm	Quettapakistan. kgm	Sindh	False	False	0.79694545	457	457, 293, 279	0	600
+803	Gurut siidoravda	Detach Tab	Left Margin	False	False	1.0249238	635	635, 961, 957	0	700
+804	mongolia. kgm	Clarendonjamaica. kgm	Uliastaymongolia. kgm	False	True	0.81671596	293	293, 279, 249	0.3333333333333333	249
+805	thailand. kgm	Clarendonjamaica. kgm	Lampangthailand. kgm	False	False	0.75770736	293	293, 396, 755	0	332
+806	Iešadderen	Sindh	Autosum	False	False	1.0926626	600	600, 901, 654	0	338
+807	_Oza...	_Find...	_Find...	True	True	0.55574334	524	524, 263, 718	1.0	524
+808	Dán siidus leat rievdadusat mat eai leat sáddejuvvon. Jus giddet dán siiddu, de dát rievdadusat mannet duššái.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	This page contains changes that have not been submitted. Reloading the page will discard these changes.	False	False	0.7322943	527	527, 371, 897	0	883
+809	Ruoktot	Logout	Home	False	False	0.9788053	486	486, 83, 238	0	255
+810	gaskal	Always	equal to or less than	False	False	0.9002199	636	636, 808, 297	0	257
+811	@ title: tab	Fonts@title: tab	You must enter a sound file when %1 is selected as the default sound type@title: tab	False	False	0.65530574	222	222, 262, 743	0	147
+812	Muhto manne?	Do you want to resign?	But why?	False	False	0.93942714	594	594, 56, 52	0	2
+813	& Ruoktosiidu:	& Number:	& Homepage:	False	False	1.0565746	102	102, 728, 903	0	530
+814	Rufiyaa	Rufiyaa	Rufiyaa	True	True	0.5388539	397	397, 583, 205	1.0	397
+815	Daga ohcama mii earuha stuorra ja smávva bustávaid: Jus ozat « Piera », de dat ii oainne « piera », iige « PIERA », dušše « Piera ».	Perform a case sensitive search: entering the pattern'Joe' will not match'joe' or'JOE', only'Joe'.	Perform a case sensitive search: entering the pattern'Joe' will not match'joe' or'JOE', only'Joe'.	True	True	0.69884896	631	631, 199, 241	1.0	631
+816	Coahkkal dása vai muddet: man láhkai prográmma vuodjejuvvo, álggahan- feedback, D- Bus- molssaeavttuid dahje geavaheaddjin man namas vuodjejuvvo.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Click here to modify the way this application will run, launch feedback, D-Bus options or to run it as a different user.	False	True	0.71951985	527	527, 356, 371	0.5	356
+817	Amas	Rain	Unknown	False	False	0.6938877	537	537, 646, 427	0	685
+818	Kelttalaš	Central European	Celtic	False	False	0.95793414	441	441, 688, 116	0	873
+819	gurut	pictures	left	False	False	0.7022314	547	547, 516, 890	0	394
+820	Gaskaeurohpalaš	Central European	Central European	True	True	0.93068075	441	441, 959, 307	1.0	441
+821	Čáhppat ja Ruoná (Cyan- alit, fiskat, čáhppat)	Turtles don't have teeth.	Black and Green (Cyan, Yellow, Black)	False	False	1.0174903	45	45, 749, 241	0	819
+822	Ii leat heahti!	You are a doctor.	No worries!	False	False	0.97650015	59	59, 60, 39	0	31
+823	Sajáiduhtte/ođasmahte	Overwrite & Destination	Install/update	False	False	0.98116136	764	764, 594, 632	0	561
+824	Lásedoaimmat	Kerman	Window Actions	False	False	0.9963287	638	638, 242, 1	0	319
+825	Jua	Jul	Yes	False	False	0.9207263	467	467, 427, 555	0	456
+826	Ii meroštuvvon	Consolidate	Undefined	False	False	1.0257988	877	877, 19, 897	0	609
+827	& Doalat earáid bajábealde	I want to learn.	Keep & Above Others	False	False	0.95951295	28	28, 17, 16	0	309
+828	KWord: a AmiPro- olggosfievrridansilliName	KWord AmiPro Export FilterName	KWord AmiPro Export FilterName	True	True	0.88100696	722	722, 168, 150	1.0	722
+829	NextJobOnSameSheet	NextJobOnSameSheet	NextJobOnSameSheet	True	True	0.6063098	633	633, 150, 451	1.0	633
+830	% 1 ivnnit	%1 seconds	%1 Colors	False	False	0.817165	132	132, 219, 341	0	837
+831	TAN( Desimálaárvu)	TAN(Float)	The TAN() function returns the tangent of x, where x is given in radians.	False	False	0.9052577	617	617, 63, 977	0	355
+832	& Sádde	Day	& Send	False	False	0.86713004	952	952, 368, 741	0	444
+833	Linnjá:% 1	Group: %1	Line: %1	False	False	0.7502389	758	758, 837, 154	0	388
+834	Evttohuslistu	Browsing	Suggestion List	False	False	1.0467727	242	242, 126, 65	0	664
+835	Sirdde gurutguvlui	Charging	Move Left	False	False	1.0589018	659	659, 19, 376	0	771
+836	Meattáhus rabadettiin% 1 čállindihte	Fetching cover for %1...	Error opening %1 for writing.	False	True	0.90951705	728	728, 341, 757	0.5	341
+837	Gii don leat?	Do you want to resign?	Who are you?	False	True	0.9690751	594	594, 52, 57	0.3333333333333333	57
+838	Son bovdii mu.	He invited me.	He invited me.	True	True	0.9955393	9	9, 44, 61	1.0	9
+839	Lohkka	File	Lock	False	False	0.82031906	191	191, 860, 91	0	625
+840	ii sisttisdoala	I don't know.	does not contain	False	False	1.1492549	17	17, 20, 892	0	86
+841	IvdnáiStyle name	NextJobOnSameSheet	Colorful	False	False	1.0556628	633	633, 977, 744	0	694
+842	Čájet logo	Xfig	Show logo	False	False	1.0183223	775	775, 227, 661	0	863
+843	Eai leat profiillat olámuttus	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	No profiles available	False	False	0.90727186	527	527, 749, 10	0	738
+844	Dábálaš teaksta:	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Normal text:	False	False	0.98898315	527	527, 883, 651	0	709
+845	philippines. kgm	Bataanphilippines. kgm	Guimarasphilippines. kgm	False	False	0.7797446	245	245, 621, 360	0	459
+846	Áimmahušši	NAME	Maintainer	False	False	1.0867058	963	963, 227, 923	0	607
+847	« Meattáhus » dieđáhusbovssaš	Cached information (e. g. favicons, web-pages)	'Error 'message box	False	False	1.0495297	749	749, 686, 961	0	773
+848	& Iesvuođat   …	You are a doctor.	Properties	False	False	1.0642343	59	59, 32, 28	0	796
+849	& Jietnadássi:	Money:	& Volume:	False	True	0.94268966	930	930, 817, 903	0.3333333333333333	903
+850	Doaimmat konttu	Paper Tray	Edit Account	False	False	1.0880059	210	210, 227, 510	0	473
+851	Elula	of Elul	of Elul	True	True	0.5853112	945	945, 107, 605	1.0	945
+852	Dulbe	Rain	Flatten	False	False	0.77524114	537	537, 740, 248	0	83
+853	sudan. kgm	Clarendonjamaica. kgm	Yambiosudan. kgm	False	False	0.8071346	293	293, 498, 595	0	880
+854	SáhkajoavkologanName	Web BrowsingName	Usenet News ReaderName	False	False	1.100605	744	744, 633, 412	0	63
+855	& Váldde eret fáttá	I want to learn.	& Remove Theme	False	False	0.9669044	28	28, 0, 594	0	999
+856	Tom bovdii mu.	Tom invited me.	Tom invited me.	True	True	0.9960673	44	44, 9, 56	1.0	44
+857	Váldde eret merkema	I want to learn.	Unselect All	False	False	1.0322942	28	28, 44, 594	0	510
+858	Sajádat:	Company:	Position:	False	True	0.78662324	997	997, 930, 492	0.3333333333333333	492
+859	Desimálaárvvut dahje árvogaska	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	LOGNORMDIST(0.1; 0; 1) equals 0.01	False	False	1.0007997	527	527, 203, 749	0	949
+860	puertorico. kgm	Clarendonjamaica. kgm	Humacaopuertorico. kgm	False	False	0.6638466	293	293, 498, 880	0	511
+861	"OCT2BIN (""12"") dieđiha « 1010 »"	"OCT2BIN(""12 "") returns"" 1010 """	"OCT2BIN(""12 "") returns"" 1010 """	True	True	0.60243416	842	842, 404, 146	1.0	842
+862	Bargogieđahallan	Browsing	Job Spooling	False	False	0.92140496	242	242, 845, 982	0	162
+863	Láse 15. čállinbeavdái	SHORTWEEKDAY	Window to Desktop 15	False	False	1.0798211	651	651, 777, 865	0	261
+864	Leage buorre!	The boy has a horse.	You are welcome!	False	False	1.0424396	40	40, 31, 10	0	60
+865	Ivdnečoahkkádus álkes geavaheami várás	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Accessible Color Scheme	False	False	0.89447176	527	527, 207, 969	0	941
+866	Nieiddas lea vielges heasta.	The boy has a horse.	The girl has a white horse.	False	True	0.7307731	40	40, 34, 42	0.3333333333333333	42
+867	QShortcut	WirelessQShortcut	Bass Up	False	False	0.92448604	247	247, 420, 766	0	65
+868	Ii gávdno dákkár merken: «% 1 »	"WEEKS(""2002-19-02 "";"" 2002-19-02 ""; 1) returns 0, because there is not a whole week in between, starting at the first day of the week (monday or sunday, depending on your local settings)"	No such highlighting '%1 '	False	False	0.96635115	241	241, 174, 527	0	294
+869	Antárktis/ Casey	Antarctica/ Casey	Antarctica/ Casey	True	True	0.8496437	94	94, 634, 283	1.0	94
+870	Joavku:% 1	Group: %1	Group: %1	True	True	0.8004544	758	758, 388, 837	1.0	758
+871	Eaktu	Formosa	Position	False	False	0.88922536	427	427, 144, 296	0	266
+872	paper size	paper size	JB7paper size	False	False	0.50694776	639	639, 995, 401	0	918
+873	Mun lean Tom.	Tom invited me.	I am Tom.	False	True	1.0293968	44	44, 19, 15	0.3333333333333333	15
+874	Rahppan filtii	of Pagumen	Unlocking failed	False	False	0.9665077	87	87, 367, 224	0	385
+875	Japánalaš guhkes konfáluhtta Number 3	Japanese Kaku envelope #4	Japanese Long Envelope Number 3	False	False	1.0297496	149	149, 749, 328	0	399
+876	Oza:	Position:	Find:	False	False	0.74813855	492	492, 372, 928	0	504
+877	Alit bajilčálaStyle name	NextJobOnSameSheet	Blue Heading	False	False	0.9705924	633	633, 611, 671	0	692
+878	Vietnamagiella	Vietnamese	Vietnamese	True	True	0.89296615	118	118, 944, 75	1.0	118
+879	Ii leat almmolaš čoavdda mii nanne vuolláičállaga	Unable to create new process. The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached.	No public key to verify the signature	False	False	0.9231148	371	371, 527, 897	0	145
+880	Geavaheaddjenamma	Transmission aborted.	Username	False	False	1.0474215	499	499, 242, 35	0	485
+881	Geavahuvvon sadji	Consolidate	Used Space	False	False	1.0037248	877	877, 499, 659	0	278
+882	Moscow+07 – Amur River	Moscow+07 - Amur River	Moscow+07 - Amur River	True	True	0.49025917	815	815, 501, 721	1.0	815
+883	Geargan	Light	Done	False	False	0.72236204	938	938, 585, 833	0	857
+884	XfigName	Web BrowsingName	Xfig	False	False	0.8367226	744	744, 451, 977	0	775
+885	Dáhpáhusat	Postcards	Events	False	True	0.8914906	647	647, 911, 80	0.5	911
+886	MMK	MMK	MMK	True	True	0.4318943	800	800, 859, 536	1.0	800
+887	Badjelgeahča	The girl has a white horse.	Override	False	False	1.0428001	42	42, 40, 303	0	452
+888	_Sádde	_View	_Send	False	True	0.8042897	573	573, 344, 153	0.5	344
+889	Sirdde bajás	The boy has a horse.	Move Up	False	False	0.8961129	40	40, 421, 42	0	487
+890	boerre@ skolelinux. no	malcolm. hunter@gmx. co. uk	malcolm. hunter@gmx. co. uk	True	True	0.8334749	396	396, 755, 293	1.0	396
+891	Bovssarámma govdodat	Standard deviation of the distribution	The width of the box outline	False	False	1.0556281	250	250, 749, 757	0	325
+892	Čoahkkáigeassu	SHORTWEEKDAY	Summary	False	False	1.0765117	651	651, 42, 757	0	641
+893	algeria. kgm	Clarendonjamaica. kgm	Médéaalgeria. kgm	False	False	0.7641901	293	293, 214, 498	0	844
+894	KNewStuff- riškus	KNewStuff contributions	KNewStuff contributions	True	True	0.64187026	168	168, 722, 247	1.0	168
+895	Háliidatgo duođas máhcahit buot reaidoholggaid standárdafárdii? Rievdadusat doaibmagohtet dakkaviđe.	Do you really want to reset all toolbars of this application to their default? The changes will be applied immediately.	Do you really want to reset all toolbars of this application to their default? The changes will be applied immediately.	True	True	0.83235085	318	318, 527, 777	1.0	318
+896	Diehtu	Change	Information	False	False	0.9218054	269	269, 126, 803	0	317
+897	romania. kgm	Clarendonjamaica. kgm	Târgu Jiuromania. kgm	False	False	0.6571448	293	293, 279, 498	0	240
+898	Mana dán čuldii	I know.	Navigate to this column	False	False	1.0604452	20	20, 974, 28	0	951
+899	Oahpasmahttin	Browsing	Overview	False	False	0.9929484	242	242, 376, 764	0	362
+900	RAND () - funkšuvdna dieđiha pseudo- deivvolaš nummira gaskal 0 ja 1.	The RAND() function returns a pseudo-random number between 0 and 1.	The RAND() function returns a pseudo-random number between 0 and 1.	True	True	0.60502076	512	512, 195, 478	1.0	512
+901	Dát lea speallárdiehtu	Cached information (e. g. favicons, web-pages)	This is a player message	False	False	1.0282202	749	749, 349, 28	0	556
+902	Maŋábealli	She invited him.	Rear	False	False	1.0096748	35	35, 322, 361	0	183
+903	CHARTOASCII( árvu)	CHARTOASCII(value)	CHARTOASCII(value)	True	True	0.58684516	237	237, 651, 197	1.0	237
+904	360x360 čd, dábálaš bábir, ránesivnnit	360x360dpi, plain paper, greyscale	360x360dpi, plain paper, greyscale	True	True	0.7430304	514	514, 348, 910	1.0	514
+905	Ráhkat & girjemearkka dán siidui	Sort & Increasing	& Bookmark This Page	False	False	1.0834117	550	550, 611, 828	0	411
+906	Rievdat gova?	Do you want to resign?	Resize Image?	False	False	1.033254	594	594, 436, 760	0	302
+907	zambia_ districts. kgm	Kalomozambia_districts. kgm	Kalomo	False	False	0.8695377	498	498, 293, 793	0	568
+908	MID () - funkšuvdna dieđiha oassestreaŋgga mii sisttisdoallá 'guhkkodat' bustávaid streaŋggas, rehkenaston 'sajádat' rájes.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Length	False	False	0.7271044	527	527, 174, 199	0	954
+909	Dát funkšuvdna dieđiha - 1 jos nummir lea negatiiva, 0 jos nummir lea nolla, ja 1 jos nummir lea positiiva.	This function returns -1 if the number is negative, 0 if the number is null and 1 if the number is positive.	This function returns -1 if the number is negative, 0 if the number is null and 1 if the number is positive.	True	True	0.5942669	742	742, 512, 131	1.0	742
+910	Giella	Regina	Language	False	False	0.7363244	107	107, 427, 833	0	479
+911	Durkkagiella	Kurdish	Turkish	False	True	0.8407097	526	526, 944, 75	0.3333333333333333	75
+912	Moai goasii báziime busses.	We both have almost missed the bus.	We both have almost missed the bus.	True	True	0.94603443	48	48, 47, 20	1.0	48
+913	"OCT2BIN (""55"") dieđiha « 101101 »"	"OCT2BIN(""55 "") returns"" 101101 """	"OCT2BIN(""55 "") returns"" 101101 """	True	True	0.57598937	404	404, 842, 146	1.0	404
+914	Ii árvoštuvvan	What to do when archiving	Not rated	False	False	1.0655966	436	436, 28, 21	0	980
+915	Boastaboksa – molssaeaktu	Consolidate	Mailbox - Option	False	False	1.1746845	877	877, 749, 963	0	913
+916	& Nummir:	& Homepage:	& Number:	False	False	0.80046487	530	530, 533, 903	0	102
+917	Gaskkalduhte	May	Cancel	False	False	0.95732117	602	602, 140, 248	0	876
+918	sisahuksejuvvon	There is more than one matching man page.	built-in	False	False	1.0492624	535	535, 673, 562	0	908
+919	_Raba...	_Find...	_Open…	False	False	0.62206066	524	524, 263, 166	0	155
+920	Gávnnai syklalaš liŋkka máŋgedettiin% 1	The program on your computer which provides access to the %1 protocol has unexpectedly terminated.	Found a cyclic link while copying %1.	False	False	0.95139027	834	834, 229, 241	0	506
+921	Vuolláičállinalgoritma:	SHORTWEEKDAY	Signature Algorithm:	False	False	0.9754245	651	651, 540, 499	0	542
+922	jamaica. kgm	Clarendonjamaica. kgm	Clarendonjamaica. kgm	True	True	0.84160256	293	293, 396, 755	1.0	293
+923	Fotonat	Photons	Photons	True	True	0.6657734	990	990, 296, 144	1.0	990
+924	italyprovince. kgm	Clarendonjamaica. kgm	Vercelliitalyprovince. kgm	False	False	0.9106076	293	293, 788, 360	0	736
+925	Vuoje & gohččuma	SHORTWEEKDAY	Run & command	False	False	1.1281847	651	651, 45, 42	0	864
+926	Geavat _Fierpmádatlogan	Launch Feedback You can configure the application-launch feedback here.	Use _Web Browser	False	False	1.0064332	109	109, 448, 845	0	707
+927	Hui unni	Rain	Tiny	False	False	0.9131999	537	537, 427, 547	0	803
+928	sudan. kgm	Clarendonjamaica. kgm	Al-Fashirsudan. kgm	False	False	0.8071346	293	293, 498, 595	0	628
+929	Galgga	Light	Unmount	False	False	0.7186065	938	938, 825, 654	0	176
+930	undo-type	undo-type	undo-type	True	True	0.49388337	546	546, 785, 77	1.0	546
+931	sweden. kgm	Sipaliwinisweden. kgm	Sipaliwinisweden. kgm	True	True	0.8680686	143	143, 293, 396	1.0	143
+932	Vállje dán boalu jos áiggot sirdit válljejuvvon silli ovtta ceahki vulos bajábeal listtus. Dat lea ávkkálaš daningo reivet mannet silliid čađa listtu ortnegis: Bajimus silli geahččaluvvo vuosttamužžan. Jos vahágis leat válljen dán boalu, de sáhtat gáhtat go válljet bajás boalu.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Click this button to move the currently-selected filter down one in the list above. This is useful since the order of the filters in the list determines the order in which they are tried on messages: The topmost filter gets tried first. If you have clicked this button accidentally, you can undo this by clicking on the Up button.	False	True	0.7888062	527	527, 200, 241	0.5	200
+933	Mus leat ollut girjjit.	I have many books.	I have many books.	True	True	0.79389703	19	19, 11, 36	1.0	19
+934	Ivdni (buorre kvalitehta)	INTRATE(settlement; maturity; investment; redemption; basis)	Color (High Quality)	False	True	0.88317084	846	846, 371, 858	0.3333333333333333	858
+935	Heivet ollašuhttinortnega   …	Moved all messages to the trash	Configure Completion Order...	False	False	1.1728848	889	889, 436, 294	0	502
+936	tab-style	undo-type	Current statustab-style	False	False	0.7202202	77	77, 785, 546	0	67
+937	Vállje makkár ávaštus galga leat prográmmaid álggahettiinName	Click here to modify the way this application will run, launch feedback, D-Bus options or to run it as a different user.	Choose application-launch feedback styleName	False	False	0.93837	356	356, 318, 897	0	829
+938	Rulle ovtta linnjá vulosguvlui	Moved all messages to the trash	Scroll Page Down	False	False	1.0256972	889	889, 749, 499	0	884
+939	Álgge:	Original:	Begin:	False	False	0.9280536	390	390, 492, 372	0	795
+940	Dárkkis jos ovttadat leat válmmas; jos lea vurkenmedium ja jos ovttadat lea laktašuvvon ja alde.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Check that the device is ready; removable drives must contain media, and portable devices must be connected and powered on.; and try again.	False	False	0.9223697	527	527, 371, 897	0	414
+941	Ovdánahtti (Netscape lassemoduladoarjja)	Developer (Netscape plugin support)	Developer (Netscape plugin support)	True	True	0.80853105	461	461, 977, 476	1.0	461
+942	Ovttadat	Aborted	Device	False	False	0.9619291	961	961, 843, 308	0	661
+943	Dihkkendiehtu	Filter Settings	Debug Information	False	False	0.96799123	781	781, 242, 343	0	710
+944	nicaragua. kgm	Mocapuertorico. kgm	Matagalpa	False	False	0.7645397	233	233, 293, 389	0	322
+945	egypt. kgm	Clarendonjamaica. kgm	Monufia	False	False	0.81781435	293	293, 973, 765	0	583
+946	& Automáhtalaš čállindárkkisteapmi	Do you want to disable showing the introduction in the webbrowsing profile?	& Automatic Spellchecking	False	False	0.85143304	777	777, 527, 834	0	449
+947	Duogášivdni	Paper Tray	& Background	False	False	1.0848296	210	210, 42, 40	0	368
+948	Jeara juohkke háve go fierpmádatsiidu viggá ráhpat báhccanláse.	Prompt every time a popup window is requested.	Prompt every time a popup window is requested.	True	True	0.9035789	818	818, 82, 897	1.0	818
+949	KAlarmComment	FluxboxComment	KAlarm	False	False	0.69267344	85	85, 766, 660	0	578
+950	romania. kgm	Clarendonjamaica. kgm	Sibiu	False	False	0.6571448	293	293, 279, 498	0	472
+951	Jorgalusat	Black Levels	Translations	False	False	0.93357754	115	115, 605, 659	0	80
+952	Moscow+03 – Novosibirsk	Moscow+03 - Novosibirsk	Moscow+03 - Novosibirsk	True	True	0.37391543	501	501, 815, 975	1.0	501
+953	Unnidit	Regina	Zoom _Out	False	False	0.852366	107	107, 833, 537	0	429
+954	Fiila	Height	File	False	False	0.7748909	513	513, 734, 107	0	860
+955	Ii sáhttán viežžat gaskabálvaheivehanskripta	This means that the contents of the requested file or folder %1 could not be retrieved, as read access could not be obtained.	Could not find a usable proxy configuration script	False	False	0.9475105	207	207, 897, 777	0	466
+956	Page size	Page Up	Select the index you want to reference	False	False	0.6490027	926	926, 639, 860	0	591
+957	CRL ii leat olámuttus.	CRL not available.	CRL not available.	True	True	0.77203727	236	236, 470, 892	1.0	236
+958	bulgaria. kgm	Not Ukraineukraine. kgm	Kardzhalibulgaria. kgm	False	False	0.85360336	279	279, 293, 507	0	430
+959	Socket- doaibma ii dorjojuvvo	'%1 'does not appear to be a folder. Please move the file out of the way.	The socket operation is not supported	False	False	0.81671023	174	174, 470, 632	0	523
+960	FierpmádatgolgadeapmiName	Web BrowsingName	Web BrowsingName	True	True	1.0189344	744	744, 680, 845	1.0	744
+961	Libanon punda	Lebanese Pound	Lebanese Pound	True	True	0.9154457	947	947, 639, 875	1.0	947
+962	90 gráda	90 Degrees	90 Degrees	True	True	0.90805984	312	312, 529, 562	1.0	312
+963	Itáliagiella	Kurdish	Italian	False	True	0.8428632	526	526, 378, 228	0.3333333333333333	228
+964	Čiega panela	Scope	Hide panel	False	False	0.9053594	383	383, 373, 277	0	320
+965	JIS B5	JIS B5	JIS B5	True	True	0.5795772	816	816, 468, 565	1.0	816
+966	KuickShow- dieđut	About KuickShow	About KuickShow	True	True	0.79039323	363	363, 672, 988	1.0	363
+967	& Váidal dihkiid dahje sávaldagaid	Cached information (e. g. favicons, web-pages)	& Report Bugs or Wishes	False	False	0.99995446	749	749, 818, 897	0	895
+968	zaire2006. kgm	Clarendonjamaica. kgm	Équateur	False	False	0.9025841	293	293, 498, 797	0	211
+969	italyprovince. kgm	Clarendonjamaica. kgm	Crotone	False	False	0.9106076	293	293, 788, 360	0	878
+970	Muitte	Flatten	Remember	False	False	0.900604	83	83, 627, 107	0	957
+971	Go lea vejolaš	I want to learn.	File Extension of Source	False	False	0.90528154	28	28, 59, 19	0	234
+972	ASINH () - funkšuvdna rehkenastá x variábela jorggu hyperbolalaš sinusa; dat lea dat árvu man hyperbolalaš sinus lea x.	The TAN() function returns the tangent of x, where x is given in radians.	ACOSH(0) equals NaN	False	False	0.66683733	355	355, 512, 195	0	352
+973	Molsso	Laguna	Change	False	False	0.8174143	605	605, 472, 734	0	269
+974	Stuoris	Images	Large	False	False	0.8213122	144	144, 296, 806	0	401
+975	Meattáhus: Ii sáhtte rahpat « smb. conf » nammasaš heivehusfiilla	"WEEKS(""2002-19-02 "";"" 2002-19-02 ""; 1) returns 0, because there is not a whole week in between, starting at the first day of the week (monday or sunday, depending on your local settings)"	"Error: Unable to open configuration file ""smb. conf"""	False	False	0.82526517	241	241, 631, 527	0	287
+976	Guovdu	Sibiu	Centre	False	False	0.892588	472	472, 712, 661	0	364
+977	Árbevirolaš kiinnálašgiella	Cyrillic/Ukrainian	Chinese Traditional	False	False	0.9419937	307	307, 959, 327	0	725
+978	Viidáseabbut sáddejuvvonmessage status	What color links should be that have not yet been clicked on	Forwarded	False	False	1.0081486	673	673, 749, 562	0	477
+979	V. 120 - ja V. 24- leahtot ISDN: a	V.120 V.24 rate ISDN	V.120 V.24 rate ISDN	True	True	0.739722	346	346, 241, 552	1.0	346
+980	Boastohámát URL: a% 1	Description: %1	Malformed URL %1.	False	False	0.9887973	154	154, 837, 341	0	119
+981	philippines. kgm	Bataanphilippines. kgm	Bataanphilippines. kgm	True	True	0.7797446	245	245, 621, 360	1.0	245
+982	Jaddat	Logout	Shut Down	False	False	0.9731325	486	486, 315, 107	0	376
+983	Amerihká/ Tijuana	America/ Tijuana	America/ Tijuana	True	True	0.6758387	711	711, 79, 850	1.0	711
+984	Ovttastahte	No target filename has been given.	Consolidate	False	False	1.0785987	892	892, 83, 708	0	877
+985	Rulle bajásQWebPage	Scroll upQWebPage	Scroll upQWebPage	True	True	0.6967919	150	150, 744, 451	1.0	150
+986	SinhalagiellaName	SinhalaName	SinhalaName	True	True	0.69534254	697	697, 839, 342	1.0	697
+987	Autovurkejuvvon fiila gávdno namahis dokumeantta várás dáppe:% 1. Fiila lea ráhkaduvvon% 2 Hálidat go rahpat dan?	An autosaved file for an unnamed document exists in %1. This file is dated %2 Do you want to open it?	An autosaved file for an unnamed document exists in %1. This file is dated %2 Do you want to open it?	True	True	0.7883487	824	824, 527, 200	1.0	824
+988	Jos dát merkejuvvo, de KDM erohallá geavaheddjiid alfabehtalaččat. Muđui geavaheaddjit čájehuvvojit dan ortnegis mii lea beassansátnefiillas.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	If this is ticked, KDM will alphabetically sort the user list. Otherwise users are listed in the order they appear in the password file.	False	True	0.7444608	527	527, 861, 900	0.3333333333333333	900
+989	Gos boađát?	No worries!	Where do you come from?	False	False	1.1228029	31	31, 2, 52	0	56
+990	Mun in dieđe.	Because I love you.	I don't know.	False	False	1.0159583	0	0, 44, 9	0	17
+991	Ruoksat	Blue Heading	Red	False	True	0.959316	692	692, 107, 244	0.3333333333333333	244
+992	Unnit fontta	Unmount	Decrease Font Sizes	False	False	0.8527583	176	176, 65, 83	0	934
+993	Stuorit fonta	Solid Colours	Increase Font Size	False	False	0.90351415	84	84, 373, 108	0	161
+994	Giitu.	See you.	Thank you.	False	False	0.6827494	33	33, 20, 36	0	37
+995	Joatkke loahpa rájes?	What to do when archiving	Continue from the end?	False	False	1.0874157	436	436, 17, 777	0	753
+996	& Namma:	& Name:	& Name:	True	True	0.74917614	533	533, 650, 93	1.0	533
+997	Son orru dás.	He lives here.	He lives here.	True	True	0.8224468	11	11, 5, 4	1.0	11
+998	Čális du beassansáni rievdadandihte heivehusaid:	Do you want to resign?	Please enter your password in order to save your settings:	False	False	1.0533984	594	594, 436, 318	0	213
+999	Qt- lassemodulat	undo-type	Qt plugins	False	False	1.0569228	77	77, 785, 546	0	988

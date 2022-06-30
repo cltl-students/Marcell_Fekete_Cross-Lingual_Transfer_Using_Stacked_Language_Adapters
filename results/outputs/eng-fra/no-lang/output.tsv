@@ -1,0 +1,1001 @@
+	Sentence	Predicted	Gold	K_1_correct	K_3_correct	K_1_scores	K_1_predicted_indices	K_3_predicted_indices	Reciprocal_ranks	True_indices
+0	À cause de l'accident, je suis arrivé en retard à l'école.	Because of the accident I went too late to school.	Because of the accident I went too late to school.	True	True	0.5497371	367	367, 819, 306	1.0	367
+1	Ça coûtera 30 €.	This will cost €30.	This will cost €30.	True	True	0.7795396	758	758, 513, 759	1.0	758
+2	Je l'ai convaincue d'être à la maison.	I persuaded her to be at home.	I persuaded her to be at home.	True	True	0.69774866	355	355, 320, 854	1.0	355
+3	Il y a beaucoup de mots que je ne comprends pas.	There are many words that I don't understand.	There are many words that I don't understand.	True	True	0.72078395	872	872, 853, 452	1.0	872
+4	Tu me manques.	I miss you.	I miss you.	True	True	0.75391006	768	768, 209, 454	1.0	768
+5	« Le téléphone sonne. » « Je vais répondre. »	"""To tell you the truth, I am scared of heights."" ""You are a coward!"""	"""The phone is ringing."" ""I'll get it."""	False	True	0.75090647	965	965, 969, 960	0.5	969
+6	Garde la tête basse !	Hurry it up!	Keep your head low.	False	False	0.8520713	788	788, 918, 174	0	301
+7	Tom est mort du cancer en 2013.	Tom died from cancer in 2013.	Tom died from cancer in 2013.	True	True	0.34731054	184	184, 343, 308	1.0	184
+8	Monsieur, il n'est pas permis de garer votre voiture ici.	Sir, you are not allowed to park your car here.	Sir, you are not allowed to park your car here.	True	True	0.6849159	503	503, 262, 613	1.0	503
+9	Est-ce que ça va bien pour tout le monde ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Is everybody okay?	False	False	0.6624752	456	456, 86, 42	0	85
+10	Il s'assiérait des heures à lire des histoires de détectives.	He would sit for hours reading detective stories.	He would sit for hours reading detective stories.	True	True	0.9480938	678	678, 479, 79	1.0	678
+11	Tu dois faire la queue pour acheter un ticket.	You must stand in a line to buy the ticket.	You must stand in a line to buy the ticket.	True	True	0.78650165	262	262, 706, 759	1.0	262
+12	Ne te soucie pas de mon chien.	Don't worry about my dog.	Don't worry about my dog.	True	True	0.8537924	334	334, 709, 706	1.0	334
+13	Sami ne sait pas faire l'accent égyptien.	Sami can't do an Egyptian accent.	Sami can't do an Egyptian accent.	True	True	0.60728073	443	443, 126, 61	1.0	443
+14	Il a dit qu'il a écrit.	He said that he had written.	He said that he had written.	True	True	0.5782274	449	449, 452, 468	1.0	449
+15	Sa musique me fit grande impression.	His music made a deep impression on me.	His music made a deep impression on me.	True	True	0.9594674	666	666, 688, 289	1.0	666
+16	Tout le monde buvait du vin, à la fête.	Everyone at the party was drinking wine.	Everyone at the party was drinking wine.	True	True	0.85710263	79	79, 727, 71	1.0	79
+17	L'argent nous permettra de tenir à peu près un mois.	The money will carry us for about a month.	The money will carry us for about a month.	True	True	0.8165238	513	513, 929, 368	1.0	513
+18	La fille à côté est très belle.	The girl who lives next door is very pretty.	The girl who lives next door is very pretty.	True	True	0.8715973	310	310, 702, 190	1.0	310
+19	C'est facile de trouver un exemple.	It's easy to find an example.	It's easy to find an example.	True	True	0.53264284	295	295, 988, 577	1.0	295
+20	Quelle personne es-tu ?	Who is your favorite author?	What kind of man are you?	False	False	1.0212092	600	600, 291, 864	0	106
+21	J'aurai des lettres à écrire.	I have to write some letters.	I'll have some letters to write.	False	True	0.651984	452	452, 453, 706	0.5	453
+22	L'espagnol n'est pas seulement parlé en Espagne.	Spanish is not only spoken in Spain.	Spanish is not only spoken in Spain.	True	True	0.52750385	45	45, 443, 61	1.0	45
+23	Ce train est-il le bon pour Tokyo ?	Is this the right train for Tokyo?	Is this the right train for Tokyo?	True	True	0.65087914	236	236, 107, 456	1.0	236
+24	Le jardin était rempli de jolies fleurs.	The garden was full of beautiful flowers.	The garden was full of beautiful flowers.	True	True	0.67426705	720	720, 610, 267	1.0	720
+25	Muiriel a 20 ans maintenant.	Muiriel is 20 now.	Muiriel is 20 now.	True	True	0.6016625	741	741, 739, 742	1.0	741
+26	Je crois que tu le connais.	I have to say I envy you.	I think you know him.	False	True	0.7404016	427	427, 114, 466	0.5	114
+27	Il a hissé le drapeau.	He raised the flag.	He raised the flag.	True	True	0.84520423	119	119, 610, 707	1.0	119
+28	La nuit on dort.	At night you sleep.	At night you sleep.	True	True	0.93486	209	209, 832, 123	1.0	209
+29	Combien de temps Tom va-t-il être à Boston ?	How long will Tom be in Boston?	How long will Tom be in Boston?	True	True	0.6346233	203	203, 456, 86	1.0	203
+30	J'ai besoin de quelqu'un à qui je puisse me fier.	I'd appreciate it if you'd help me.	I need somebody I can trust.	False	False	0.7296169	403	403, 500, 594	0	33
+31	C'est inévitable que j'aille en France un jour, je ne sais juste pas quand.	It is inevitable that I go to France someday, I just don't know when.	It is inevitable that I go to France someday, I just don't know when.	True	True	0.7080772	899	899, 613, 366	1.0	899
+32	J'aimerais pouvoir m'inquiéter plus pour mes notes mais il semblerait qu'à un certain moment de ma vie, j'ai décidé que cela n'était finalement pas si important.	I wish I could care more about my grades but it seems that, at a certain point of my life, I decided they wouldn't be so important anymore.	I wish I could care more about my grades but it seems that, at a certain point of my life, I decided they wouldn't be so important anymore.	True	True	0.59668994	956	956, 950, 899	1.0	956
+33	"""Cœur"" et ""chœur"" ont la même prononciation."	"""Heart"" and ""choir"" have the same pronunciation."	"""Heart"" and ""choir"" have the same pronunciation."	True	True	0.48511958	721	721, 443, 957	1.0	721
+34	Si seulement j'avais vendu cette propriété avant l'explosion de la bulle économique, je n'aurais pas perdu tout cet argent.	If only I'd sold that property before the economic bubble burst I wouldn't have lost all that money.	If only I'd sold that property before the economic bubble burst I wouldn't have lost all that money.	True	True	0.66962445	612	612, 828, 415	1.0	612
+35	« Je n'y ai jamais pensé », dit le vieil homme. « Que devrions-nous faire ? »	"""I have never thought about it"", said the old man. ""What should we do?"""	"""I have never thought about it"", said the old man. ""What should we do?"""	True	True	0.6460407	912	912, 965, 960	1.0	912
+36	Quel est ton programme télévisé préféré ?	How high is Mt. Fuji?	What is your favorite TV program?	False	True	0.8779826	291	291, 349, 504	0.5	349
+37	Avant même que tu ne le saches, tu seras dans les journaux.	I don't want to be lame; I want to be cool!!	Next thing you know, you'll be in the papers.	False	False	0.84896255	795	795, 769, 508	0	903
+38	Tout le monde est épuisé.	Everyone is exhausted.	Everyone is exhausted.	True	True	0.7545489	70	70, 8, 69	1.0	70
+39	Pourquoi tout le monde chuchote-t-il ?	Is anybody ready for dessert?	Why's everyone whispering?	False	False	0.77157164	560	560, 203, 456	0	511
+40	Je suis maintenant disposé à discuter.	I'm in the mood to talk now.	I'm in the mood to talk now.	True	True	0.7337725	398	398, 682, 161	1.0	398
+41	N'attends pas que les autres pensent pour toi !	I don't speak French well enough!	Don't expect others to think for you!	False	True	0.74858725	918	918, 947, 795	0.5	947
+42	Tom n'aime pas les chats.	Tom doesn't like cats.	Tom doesn't like cats.	True	True	0.5936825	692	692, 171, 695	1.0	692
+43	Pourquoi es-tu désolée pour quelque chose que tu n'as pas fait ?	Would you please repeat what you just said?	Why are you sorry for something you haven't done?	False	False	0.7832819	313	313, 949, 773	0	924
+44	Je suis fatiguée de tous ces mensonges.	I'm tired of all these lies.	I'm tired of all these lies.	True	True	0.7459626	197	197, 198, 570	1.0	197
+45	Avez-vous vu qui que ce soit sur la plage ?	What was that song you were singing?	Did you see anyone on the beach?	False	False	0.80266464	370	370, 572, 647	0	632
+46	J'ai légèrement faim.	You should wash your hair.	I'm slightly hungry.	False	False	0.7948234	115	115, 447, 798	0	583
+47	Il faut que l'on facilite l'étude des langues.	It is necessary to make the study of languages easier.	It is necessary to make the study of languages easier.	True	True	0.7046113	361	361, 940, 368	1.0	361
+48	Il faut que ce soit maintenant.	It is up to you to decide whether we will go there or not.	It's got to be now.	False	True	0.8621651	977	977, 746, 385	0.3333333333333333	385
+49	Ce café est trop fort.	This coffee is too bitter.	This coffee is too bitter.	True	True	0.7241435	150	150, 575, 133	1.0	150
+50	J'ai tant à vous montrer.	I thought you liked to learn new things.	I have so much to show you.	False	True	0.8956692	822	822, 598, 825	0.5	598
+51	C'était ma faute.	It was driving me crazy.	It was my mistake.	False	True	0.65119386	616	616, 111, 421	0.5	111
+52	"""J'ai envie de jouer aux cartes."" ""Moi aussi."""	"""I feel like playing cards."" ""So do I."""	"""I feel like playing cards."" ""So do I."""	True	True	0.6540623	980	980, 960, 973	1.0	980
+53	Si quelqu'un devait demander quel est le but de l'histoire, je ne saurais vraiment pas.	I don't know the key to success, but the key to failure is trying to please everybody.	If anyone was to ask what the point of the story is, I really don't know.	False	True	0.7880552	421	421, 841, 837	0.5	841
+54	Reconnaissez-vous quiconque ?	Do you drink beer or wine?	Do you recognize anyone?	False	False	0.7753296	699	699, 42, 84	0	543
+55	Penses-tu que c'est une bonne idée de nourrir ton chien avec les déchets de repas ?	Do you think it's a good idea to feed your dog table scraps?	Do you think it's a good idea to feed your dog table scraps?	True	True	0.7965065	648	648, 899, 110	1.0	648
+56	Je crois que tu la connais.	I have to say I envy you.	I think you know her.	False	True	0.7239394	427	427, 530, 113	0.3333333333333333	113
+57	Elle n'est pas gentille avec lui. À vrai dire, elle n'est gentille avec personne.	She isn't kind to him. In fact, she's not kind to anyone.	She isn't kind to him. In fact, she's not kind to anyone.	True	True	0.58615255	704	704, 573, 579	1.0	704
+58	Je ne vous aurais jamais tiré dessus.	I never would have shot you.	I never would have shot you.	True	True	0.8520186	661	661, 660, 828	1.0	661
+59	Je m'entends avec tout le monde.	I can do this with you or without you.	I get along with everybody.	False	False	0.68232465	594	594, 579, 774	0	88
+60	Personne ne t'a-t-il interrogé ?	Who's the best person to speak with to file a complaint?	Didn't anyone question you?	False	True	0.8276856	372	372, 629, 538	0.5	629
+61	Tom a parlé sans cesse toute la nuit.	Tom kept talking all night.	Tom kept talking all night.	True	True	0.73613334	319	319, 67, 695	1.0	319
+62	Je ne l'ai jamais aimé.	I never stop thinking about you.	I've never liked him.	False	True	0.6618321	573	573, 105, 116	0.5	105
+63	Ce n'était pas mon intention.	It was not my intention.	It was not my intention.	True	True	0.5570458	861	861, 111, 901	1.0	861
+64	Où allez-vous en vacances cet été ?	Where are you going to vacation this summer?	Where are you going to vacation this summer?	True	True	0.6580167	572	572, 896, 993	1.0	572
+65	Si j'en ai si cruellement besoin, il me faut le cultiver. Je n'ai pas le choix.	If I want it so badly, I need to cultivate it. I have no choice.	If I want it so badly, I need to cultivate it. I have no choice.	True	True	0.68188715	415	415, 828, 899	1.0	415
+66	La tempête de neige se poursuivit.	The snowstorm continued.	The snowstorm continued.	True	True	0.78334105	332	332, 218, 350	1.0	332
+67	Je chie dans ton lait.	I shit in your milk.	I shit in your milk.	True	True	0.9568907	438	438, 115, 701	1.0	438
+68	Il ne compte pas du tout sur moi.	I don't know the key to success, but the key to failure is trying to please everybody.	He doesn't altogether trust me.	False	False	0.8335792	421	421, 315, 573	0	240
+69	Le communisme ne sera jamais atteint de mon vivant.	Communism will never be reached in my lifetime.	Communism will never be reached in my lifetime.	True	True	0.8152151	985	985, 931, 828	1.0	985
+70	Comment épelle-t-on votre nom de famille ?	How do you spell your family name?	How do you spell your family name?	True	True	0.79450977	273	273, 108, 43	1.0	273
+71	Je n'ai pas compris un seul mot.	I did not understand a word.	I did not understand a word.	True	True	0.8461931	109	109, 466, 402	1.0	109
+72	Il confectionna une petite statue à base d'argile molle.	He made a little statue out of soft clay.	He made a little statue out of soft clay.	True	True	0.8331597	621	621, 610, 354	1.0	621
+73	L'Islam émergea au septième siècle dans la péninsule arabique.	Islam emerged in the Arabian Peninsula in the seventh century.	Islam emerged in the Arabian Peninsula in the seventh century.	True	True	0.44174075	675	675, 719, 912	1.0	675
+74	Je n'aurais pu résoudre cette affaire sans toi.	I couldn't have solved this case without you.	I couldn't have solved this case without you.	True	True	0.7252518	584	584, 570, 245	1.0	584
+75	Elle demande comment c’est possible.	If you see a mistake, then please correct it.	She's asking how that's possible.	False	False	0.99331844	988	988, 295, 504	0	846
+76	Dans ma famille, ce sont tous des lève-tôt.	I would like to go and get my stuff.	My family are all early risers.	False	False	0.85028005	6	6, 296, 931	0	540
+77	Si je pouvais être comme ça...	If I could be like that...	If I could be like that...	True	True	0.6404085	790	790, 795, 991	1.0	790
+78	Il y a un type en bas qui te demande.	It's easy to find an example.	There's a guy downstairs asking for you.	False	False	0.94086134	295	295, 988, 3	0	674
+79	Je t'aime !	I love you!	I love you!	True	True	0.61607194	892	892, 767, 782	1.0	892
+80	Elle n'a pas froid aux yeux.	She has dry hair.	She is not afraid of anything.	False	False	0.75130844	288	288, 126, 335	0	180
+81	J'ai appris que tu venais juste de te marier.	I'd appreciate it if you'd come with me.	I heard you just got married.	False	False	0.76127326	500	500, 899, 322	0	464
+82	Où est-ce que tout le monde se rend ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Where's everyone going?	False	False	0.64567995	456	456, 222, 560	0	92
+83	Je l'assurais de mon plus profond regret.	"""To tell you the truth, I am scared of heights."" ""You are a coward!"""	I showed him my deepest regret.	False	False	0.8634068	965	965, 606, 197	0	416
+84	Vous auriez dû la fermer.	The burqa is a choice.	You should've kept your mouth shut.	False	False	0.98506665	723	723, 707, 283	0	23
+85	Ça montre seulement que tu n'es pas un robot.	It only shows you're not a robot.	It only shows you're not a robot.	True	True	0.697474	910	910, 828, 830	1.0	910
+86	Comment as-tu pu laisser passer cela ?	How could you have let it happen?	How could you have let it happen?	True	True	0.8401153	181	181, 304, 504	1.0	181
+87	J'ai vu votre père.	I saw your father.	I saw your father.	True	True	0.6893811	713	713, 130, 408	1.0	713
+88	Personne ne m'invita à la fête.	Nobody invited me to the party.	Nobody invited me to the party.	True	True	0.7780975	523	523, 79, 429	1.0	523
+89	Je suis curieux.	I am curious.	I am curious.	True	True	0.7827573	894	894, 272, 681	1.0	894
+90	Tu me comprends.	I could tutor you.	You understand me.	False	True	0.6735555	604	604, 461, 487	0.5	461
+91	Le problème se résout tout seul.	The problem resolved itself.	The problem resolved itself.	True	True	1.007407	246	246, 756, 779	1.0	246
+92	Quand tu es à Rome, agis comme un Romain.	It is inevitable that I go to France someday, I just don't know when.	When in Rome, do as the Romans do.	False	False	0.93403614	899	899, 613, 775	0	258
+93	Je ne voulais pas attraper froid, je ne suis donc pas sorti.	I am not an artist. I never had the knack for it.	I didn't want to catch a cold, so I didn't go out.	False	True	0.91038394	828	828, 330, 709	0.5	330
+94	Vous vendiez des pommes au marché.	You used to sell some apples at the market.	You used to sell some apples at the market.	True	True	0.8380945	690	690, 691, 706	1.0	690
+95	Il me l'a reproché.	I persuaded her to be at home.	He blamed it on me.	False	True	0.874027	355	355, 121, 268	0.5	121
+96	J'ai toujours plus apprécié les personnages mystérieux.	I always liked mysterious characters more.	I always liked mysterious characters more.	True	True	0.7385777	770	770, 822, 899	1.0	770
+97	La bougie s'est éteinte d'elle-même.	It frosted last night.	The candle went out by itself.	False	False	1.0072812	218	218, 727, 957	0	527
+98	C'est pas possible !	I don't speak French well enough!	This can't be!	False	False	0.7859547	918	918, 159, 802	0	955
+99	Veuillez accrocher votre manteau dans l'antichambre, s'il vous plait.	"""To tell you the truth, I am scared of heights."" ""You are a coward!"""	Please hang your coat in the anteroom.	False	False	0.73043096	965	965, 619, 918	0	234
+100	Ils veulent simplement faire ta connaissance.	Let's discuss the problem with them.	They just want to get to know you.	False	True	0.84262085	205	205, 968, 400	0.3333333333333333	400
+101	Quelqu'un peut-il m'aider ?	Didn't anyone question you?	Can somebody help me?	False	False	0.7919018	629	629, 534, 536	0	56
+102	Presque tout le monde était en retard.	Everyone is exhausted.	Almost everyone was late.	False	False	0.8399458	70	70, 29, 297	0	89
+103	Arrête ! Tu la mets mal à l'aise !	I don't want to be lame; I want to be cool!!	Stop it! You're making her feel uncomfortable!	False	False	0.8533329	795	795, 767, 918	0	933
+104	Aujourd'hui nous sommes le 18 juin et c'est l'anniversaire de Muiriel !	Today is June 18th and it is Muiriel's birthday!	Today is June 18th and it is Muiriel's birthday!	True	True	0.5822245	739	739, 740, 696	1.0	739
+105	Quiconque vous a-t-il vu entrer ici ?	Do you really need to ask the question to know the answer?	Did anyone see you come in here?	False	False	0.8552022	943	943, 456, 560	0	649
+106	Encore une tasse de café ?	How about another cup of coffee?	How about another cup of coffee?	True	True	0.8150034	312	312, 560, 556	1.0	312
+107	Qui que ce soit d'autre se trouvait-il alentour ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Was there anyone else around?	False	False	0.88633597	456	456, 276, 504	0	531
+108	Selon mon opinion, un site web bien conçu ne devrait pas requérir de défilement horizontal.	In my opinion, a well-designed website shouldn't require horizontal scrolling.	In my opinion, a well-designed website shouldn't require horizontal scrolling.	True	True	0.60355544	577	577, 877, 544	1.0	577
+109	Tom s'est fait une tasse de thé.	Tom made himself a cup of tea.	Tom made himself a cup of tea.	True	True	0.6215646	124	124, 171, 135	1.0	124
+110	Quiconque va-t-il manger ça ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Is anyone going to eat that?	False	False	0.7804347	456	456, 560, 112	0	553
+111	Je n'ai jamais aimé la biologie.	I never liked biology.	I never liked biology.	True	True	0.62054706	776	776, 775, 828	1.0	776
+112	Quel livre intéressant !	What an interesting book!	What an interesting book!	True	True	0.6456902	586	586, 448, 714	1.0	586
+113	Je vais m'évanouir si je ne m'assieds pas.	You can put me in jail, but you cannot give me narrower quarters than as a seaman I have always had; you cannot give me coarser food than as a seaman I have always eaten; you cannot make me lonelier than as a seaman I have always been.	I'll drop if I don't sit down.	False	False	0.907573	619	619, 965, 423	0	287
+114	La salière était sur la table.	The salt cellar was on the table.	The salt cellar was on the table.	True	True	0.7352047	404	404, 311, 79	1.0	404
+115	Voudras-tu couper tous les arbres ici ?	Are you going to cut down all the trees here?	Are you going to cut down all the trees here?	True	True	0.7564833	255	255, 56, 993	1.0	255
+116	Le mobilier de son bureau a pu donner lieu à une déduction d'impôt.	In my opinion, a well-designed website shouldn't require horizontal scrolling.	He could deduct the furnishing of his work room from his taxes.	False	False	1.022442	577	577, 336, 865	0	369
+117	Est-ce que c'est une photo récente ?	Is it a recent picture?	Is it a recent picture?	True	True	0.7870126	750	750, 534, 293	1.0	750
+118	Il perçoit un salaire à six chiffres.	He has a six-figure salary.	He has a six-figure salary.	True	True	0.85046184	432	432, 759, 478	1.0	432
+119	Ça m'a presque fait peur de ne pas te voir connectée pendant toute une journée.	It almost scared me not to see you online for a whole day.	It almost scared me not to see you online for a whole day.	True	True	0.6625345	865	865, 500, 576	1.0	865
+120	Tu ne fais que fuir les problèmes de la vie.	Life is hard, but I am harder.	You're just running away from life's problems.	False	False	0.7688861	931	931, 774, 49	0	847
+121	Le seigle, le blé et l'orge sont des céréales.	Rye, wheat, and barley are cereals.	Rye, wheat, and barley are cereals.	True	True	0.6448902	192	192, 189, 133	1.0	192
+122	Personne ne te l'a-t-il dit ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Didn't anyone tell you?	False	False	0.8075535	456	456, 538, 490	0	628
+123	Il me faut m'entretenir avec quelqu'un.	I'd appreciate it if you'd help me.	I have to talk to somebody.	False	False	0.80710864	403	403, 729, 500	0	39
+124	J'ai un peu faim.	I have to write some letters.	I'm a bit hungry.	False	False	0.8160025	452	452, 447, 320	0	581
+125	Je te remercie très sincèrement de m'avoir montré les erreurs.	I thank you sincerely for having shown me the errors.	I thank you sincerely for having shown me the errors.	True	True	0.6822901	268	268, 580, 658	1.0	268
+126	Tout est changé, désormais.	Life is hard, but I am harder.	That's all changed now.	False	False	0.7798369	931	931, 69, 815	0	357
+127	Aujourd'hui est un jour formidable !	Today is a good day!	Today is a good day!	True	True	0.5123999	696	696, 174, 892	1.0	696
+128	Connais-tu quiconque, ici ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Do you know someone here?	False	False	0.7240952	456	456, 559, 222	0	546
+129	Je suis ici jusqu'à trois heures.	I will stay here till three o'clock.	I will stay here till three o'clock.	True	True	0.81779337	14	14, 613, 364	1.0	14
+130	Je commence à en avoir assez de tes mensonges.	I thought you liked to learn new things.	I'm getting tired of your lies.	False	False	0.8116708	822	822, 941, 836	0	198
+131	Je veux un bateau qui m'emmènera loin d'ici.	I want a boat that'll take me far away from here.	I want a boat that'll take me far away from here.	True	True	0.76955986	979	979, 613, 899	1.0	979
+132	Ce fut difficile pour elle de répondre à la question.	She found it difficult to answer the question.	She found it difficult to answer the question.	True	True	0.6525371	206	206, 131, 118	1.0	206
+133	J'ai eu peur de m'endormir en conduisant.	It was driving me crazy.	I was afraid I might fall asleep while driving.	False	False	0.80163836	616	616, 330, 375	0	140
+134	Je n'ai pas froid aux yeux.	I don't drink beer, only spirits.	I'm not scared.	False	False	0.7248961	709	709, 161, 706	0	179
+135	Le seigle était appelé le grain de la pauvreté.	Rye was called the grain of poverty.	Rye was called the grain of poverty.	True	True	0.8204068	986	986, 242, 727	1.0	986
+136	Très peu nombreux sont ceux qui connaissent leur groupe sanguin.	Very few people know what their blood group is.	Very few people know what their blood group is.	True	True	0.8764883	298	298, 433, 987	1.0	298
+137	C'est ta vie quotidienne qui est ton temple et ta religion !	Your daily life is your temple and your religion.	Your daily life is your temple and your religion.	True	True	0.6421902	715	715, 923, 696	1.0	715
+138	Cette texte n'est pas une texte traduite.	This text is not a translated text.	This text is not a translated text.	True	True	0.73559487	186	186, 361, 244	1.0	186
+139	Je ne veux surtout pas vivre dans une grande ville.	I have no wish to live in a large city.	I have no wish to live in a large city.	True	True	0.6830249	656	656, 252, 730	1.0	656
+140	Un rhinocéros est très grand.	The rhinoceros is very big.	The rhinoceros is very big.	True	True	0.6599214	155	155, 961, 984	1.0	155
+141	La chance est aveugle.	Innocence is a beautiful thing.	Luck is blind.	False	False	0.85041964	834	834, 368, 393	0	163
+142	Je gagne 100€ par jour.	I make 100 euros per day.	I make 100 euros per day.	True	True	0.7326511	759	759, 706, 513	1.0	759
+143	La route est longue.	The street is paved with asphalt.	The way is long.	False	True	0.9203509	143	143, 314, 305	0.5	314
+144	J'ai tout lu à ton sujet.	I have to write some letters.	I've read all about you.	False	True	0.78324103	452	452, 706, 576	0.3333333333333333	576
+145	Mais la possibilité semble improbable.	But the possibility seems unlikely.	But the possibility seems unlikely.	True	True	0.5134771	897	897, 199, 779	1.0	897
+146	Personne ne saura.	No one is home.	Nobody will know.	False	False	0.9704088	515	515, 241, 242	0	879
+147	Tu crois que nous la trouverons, sa maison à elle ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Do you think that we'll find her house?	False	True	0.92338324	456	456, 276, 285	0.3333333333333333	285
+148	Comment pourrais-je être un robot ? Les robots ne rêvent pas.	How could I be a robot? Robots don't dream.	How could I be a robot? Robots don't dream.	True	True	0.6731974	911	911, 483, 456	1.0	911
+149	N'écrivez jamais les mots « borchtch » et « chtchi » en allemand !	"Never write the words ""bortsch"" and ""shchi"" in German!"	"Never write the words ""bortsch"" and ""shchi"" in German!"	True	True	0.53506744	505	505, 918, 795	1.0	505
+150	Les cambrioleurs sont en prison.	The burglars are in prison.	The burglars are in prison.	True	True	0.9743924	283	283, 557, 235	1.0	283
+151	Il a la poisse.	These trousers are dirty.	He has very bad luck.	False	False	0.8567946	702	702, 115, 690	0	190
+152	Ne tenez aucun compte de ce qu'il dit.	Don't take any notice of what he says.	Don't take any notice of what he says.	True	True	0.745214	422	422, 197, 232	1.0	422
+153	L'architecte se vantait d'avoir reçu une récompense prestigieuse.	The architect boasted that he had received a prestigious award.	The architect boasted that he had received a prestigious award.	True	True	0.6358458	610	610, 411, 413	1.0	610
+154	Avez-vous vu qui que ce soit de suspect ?	Do you drink beer or wine?	Did you see anyone suspicious?	False	False	0.79365885	699	699, 376, 943	0	631
+155	Demain, il va alunir.	If you don't eat, you die.	Tomorrow, he will land on the moon.	False	False	0.93270993	991	991, 477, 555	0	935
+156	Puis-je emprunter le vôtre ?	Want to drink something?	Can I borrow yours?	False	False	0.8949369	958	958, 276, 222	0	219
+157	Elle a prétendu qu'elle ne l'avait pas entendu.	She made believe that she had not heard him.	She made believe that she had not heard him.	True	True	0.7136638	46	46, 355, 576	1.0	46
+158	Tout le monde me déteste, à l'école.	I don't speak French well enough!	Everybody at school hates me.	False	True	0.87420654	918	918, 931, 80	0.3333333333333333	80
+159	J'en perds mes mots.	I don't drink beer, only spirits.	Words fail me.	False	False	0.90313935	709	709, 918, 408	0	745
+160	Est-ce que tu te fous de moi ? !	I don't want to be lame; I want to be cool!!	Are you freaking kidding me?!	False	False	0.8336235	795	795, 933, 918	0	793
+161	Quiconque vous y a-t-il vu ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Did anyone see you there?	False	False	0.8167883	456	456, 560, 112	0	645
+162	Il écrit souvent à ses parents.	He often writes to his parents.	He often writes to his parents.	True	True	0.40121722	281	281, 823, 449	1.0	281
+163	Qui écrit lit deux fois.	He who writes reads twice.	He who writes reads twice.	True	True	0.8916192	468	468, 449, 223	1.0	468
+164	Elle a attribué son succès à la bonne fortune.	She attributed her success to good luck.	She attributed her success to good luck.	True	True	0.7406008	413	413, 686, 683	1.0	413
+165	Après sa licence, il est devenu professeur.	Having graduated from college, she became a teacher.	Having graduated from college, she became a teacher.	True	True	0.86016226	260	260, 118, 15	1.0	260
+166	Je n'espère rien, je n'ai peur de rien ; je suis libre.	You can put me in jail, but you cannot give me narrower quarters than as a seaman I have always had; you cannot give me coarser food than as a seaman I have always eaten; you cannot make me lonelier than as a seaman I have always been.	I hope for nothing, I fear for nothing, I am free.	False	False	0.8192518	619	619, 965, 795	0	177
+167	Quelqu'un peut-il m'amener en voiture ?	Is anybody ready for dessert?	Can someone give me a lift?	False	False	0.77022636	560	560, 553, 157	0	57
+168	Peut-être es-tu encore en veine.	I don't speak French well enough!	You may still be in luck.	False	False	0.8395088	918	918, 875, 944	0	396
+169	Vous pouvez vous habiller, maintenant.	Everybody likes you.	You can get dressed now.	False	False	0.79222417	417	417, 408, 912	0	362
+170	Le champ était couvert de mauvaises herbes.	The garden was full of beautiful flowers.	The field was rank with weeds.	False	False	0.9884976	720	720, 292, 702	0	261
+171	Quand je serai grand, je veux être roi.	When I grow up, I want to be king.	When I grow up, I want to be king.	True	True	0.707579	796	796, 963, 177	1.0	796
+172	Place le jeu de cartes sur la table en bois de chêne.	Place the deck of cards on the oaken table.	Place the deck of cards on the oaken table.	True	True	0.8926785	989	989, 404, 241	1.0	989
+173	Ça n'arrivera pas.	It won't work.	That won't happen.	False	True	0.7682662	501	501, 762, 526	0.5	762
+174	Personne ne peut y mettre un terme.	Don't take any notice of what he says.	Nobody can stop it.	False	False	0.9683552	422	422, 361, 932	0	526
+175	Nous avons parlé de cela hier.	You were supposed to have this finished by yesterday.	We talked about this yesterday.	False	False	0.81171453	364	364, 598, 313	0	103
+176	Après ça, je pars, mais je me rends compte que j'ai oublié mon sac chez eux.	It is inevitable that I go to France someday, I just don't know when.	After that, I left, but then I realized that I forgot my backpack at their house.	False	False	0.86038685	899	899, 580, 769	0	855
+177	Tu serais surprise de ce que tu peux apprendre en une semaine.	You'd be surprised what you can learn in a week.	You'd be surprised what you can learn in a week.	True	True	0.620842	929	929, 822, 956	1.0	929
+178	Et si nous retournions à la maison ?	How long will Tom be in Boston?	Why don't we go home?	False	False	0.8187206	203	203, 918, 373	0	993
+179	"Le mot de passe est ""Muiriel""."	"The password is ""Muiriel""."	"The password is ""Muiriel""."	True	True	0.6567333	742	742, 741, 957	1.0	742
+180	Je suis sans voix.	Nobody asked me anything.	I'm at a loss for words.	False	False	0.9140836	529	529, 918, 315	0	345
+181	La climatisation ne fonctionne pas.	It depends on the weather.	The AC doesn't work.	False	True	0.911204	671	671, 139, 144	0.3333333333333333	144
+182	Vous devriez utiliser cette chance.	In order to do that, you have to take risks.	You had better avail yourself of this opportunity.	False	False	0.80072904	825	825, 555, 415	0	245
+183	Regarde ! Le train est là !	Look! The train is there!	Look! The train is there!	True	True	0.5450132	714	714, 788, 174	1.0	714
+184	Il vit l'accident sur le chemin de l'école.	He saw the accident on the way to school.	He saw the accident on the way to school.	True	True	0.656126	569	569, 367, 284	1.0	569
+185	Tom s'est frayé un chemin à travers la foule.	Tom made his way through the crowd.	Tom made his way through the crowd.	True	True	0.77167344	539	539, 173, 172	1.0	539
+186	Ai-je oublié qui que ce soit ?	Would you please repeat what you just said?	Did I forget anyone?	False	False	0.7187388	313	313, 456, 884	0	641
+187	Je n'ai sauvé personne.	I can't live that kind of life.	I didn't rescue anybody.	False	False	0.80557513	774	774, 374, 939	0	625
+188	Papa est-il dans la cuisine ?	Is dad in the kitchen?	Is dad in the kitchen?	True	True	0.77157044	157	157, 560, 600	1.0	157
+189	Je suis une personne qui a des défauts, mais ces défauts peuvent être facilement corrigés.	I am a flawed person, but these are flaws that can easily be fixed.	I am a flawed person, but these are flaws that can easily be fixed.	True	True	0.56229687	830	830, 853, 421	1.0	830
+190	Cherchez-vous quelqu'un ?	Is everyone ready?	Are you looking for somebody?	False	False	0.8147688	84	84, 884, 699	0	60
+191	Je suppose que c'est bon pour vous.	I guess that's good for you.	I guess that's good for you.	True	True	0.7171838	668	668, 657, 403	1.0	668
+192	Sauf que là, c'est pas si simple.	Except that here, it's not so simple.	Except that here, it's not so simple.	True	True	0.7751572	882	882, 816, 410	1.0	882
+193	Quelqu'un a-t-il mentionné mon nom ?	Which house is his?	Did somebody mention my name?	False	True	0.855247	276	276, 43, 534	0.5	43
+194	Quiconque a-t-il besoin de quoi que ce soit ?	What is usually the cause for the pain?	Does anybody need anything?	False	False	0.772279	147	147, 456, 42	0	535
+195	Nous étions tenus de rester à la maison.	We should've stayed at home.	We should've stayed at home.	True	True	0.78542566	238	238, 277, 67	1.0	238
+196	Où est le problème ?	Where is the problem?	Where is the problem?	True	True	0.58288324	889	889, 147, 864	1.0	889
+197	Je ne bois pas de bière, je bois seulement de l'alcool.	I don't drink beer, only spirits.	I don't drink beer, only spirits.	True	True	0.74544716	709	709, 828, 415	1.0	709
+198	J'ai acheté quelque chose pour Marie.	I bought something for Mary.	I bought something for Mary.	True	True	0.7321439	455	455, 706, 942	1.0	455
+199	J'ai un ami avec lequel je corresponds.	I have a friend I correspond with.	I have a friend I correspond with.	True	True	0.7742212	729	729, 328, 320	1.0	729
+200	Il se peut que le bonheur qui nous attend là-bas ne soit pas du tout le genre de bonheur que nous voudrions.	It may be that the happiness awaiting us is not at all the sort of happiness we would want.	It may be that the happiness awaiting us is not at all the sort of happiness we would want.	True	True	0.7349193	976	976, 421, 368	1.0	976
+201	Tom a une tonsure.	Tom has a bald spot.	Tom has a bald spot.	True	True	0.8882071	102	102, 673, 171	1.0	102
+202	J'ai fait un rêve effrayant.	I had a terrible dream.	I had a terrible dream.	True	True	0.71490717	467	467, 899, 452	1.0	467
+203	J'ignore où vous résidez.	I don't know where you live.	I don't know where you live.	True	True	0.83468866	374	374, 828, 899	1.0	374
+204	Il me rendait fou.	If you don't eat, you die.	It was driving me crazy.	False	False	0.92021084	991	991, 408, 727	0	616
+205	Personne ne me vit.	Nobody lives there.	No one saw me.	False	False	0.8341533	521	521, 515, 518	0	520
+206	J'ai su que je te voulais au moment même où je t'ai vu.	It is inevitable that I go to France someday, I just don't know when.	I knew I wanted you the moment I saw you.	False	False	0.8162223	899	899, 116, 315	0	596
+207	Elle n'a jamais rêvé qu'elle le rencontrerait à l'étranger.	She never dreamed she'd meet him overseas.	She never dreamed she'd meet him overseas.	True	True	0.73804736	25	25, 355, 570	1.0	25
+208	Je voudrais aller chercher mes affaires.	I want to buy a few pairs of trousers.	I would like to go and get my stuff.	False	False	1.0049546	706	706, 899, 375	0	6
+209	Quelle est la personne la plus à même d'enregistrer ma plainte ?	Who's the best person to speak with to file a complaint?	Who's the best person to speak with to file a complaint?	True	True	0.7305174	372	372, 456, 313	1.0	372
+210	Il était en colère après elle.	He blamed it on me.	He was angry with her.	False	False	0.81538737	121	121, 315, 573	0	178
+211	Tom a reçu un prix du meilleur vendeur de l'entreprise.	Tom got an award for the highest sales at his company.	Tom got an award for the highest sales at his company.	True	True	0.6300684	256	256, 437, 132	1.0	256
+212	Avez-vous vu qui que ce soit ?	Do you drink beer or wine?	Did you see anybody?	False	False	0.82681715	699	699, 737, 313	0	635
+213	Ça me paraît intéressant !	I don't speak French well enough!	It seems interesting to me.	False	False	0.75738215	918	918, 838, 891	0	881
+214	J'ai vécu plus d'un mois à Nagoya.	I lived in Nagoya for over a month.	I lived in Nagoya for over a month.	True	True	0.6306112	999	999, 998, 822	1.0	999
+215	Rien n'est beau que le vrai.	Nothing is beautiful but the truth.	Nothing is beautiful but the truth.	True	True	0.8098042	934	934, 466, 368	1.0	934
+216	Que pensez-vous de ce travail ?	What do you think of this work?	What do you think of this work?	True	True	0.790692	376	376, 737, 42	1.0	376
+217	La victoire est à nous.	The victory is ours.	The victory is ours.	True	True	0.568297	280	280, 344, 620	1.0	280
+218	Il se peut que je sois antisocial, mais ça ne veut pas dire pas que je ne parle pas aux gens.	I may be antisocial, but it doesn't mean I don't talk to people.	I may be antisocial, but it doesn't mean I don't talk to people.	True	True	0.6640551	814	814, 873, 508	1.0	814
+219	Je pourrais vous enseigner.	I will give them food.	I could tutor you.	False	False	0.79711664	408	408, 427, 417	0	604
+220	Prête attention à ce que tu manges !	Pay attention to what you're eating!	Pay attention to what you're eating!	True	True	0.728073	110	110, 918, 795	1.0	110
+221	J'aime toutes sortes de peintures.	I like all sorts of paintings.	I like all sorts of paintings.	True	True	0.57321095	151	151, 828, 573	1.0	151
+222	Il a été accusé de vol de bijoux.	He was accused of stealing the jewels.	He was accused of stealing the jewels.	True	True	0.5707494	336	336, 432, 335	1.0	336
+223	J'étudie jour et nuit.	I studied around the clock.	I studied around the clock.	True	True	0.909696	688	688, 109, 576	1.0	688
+224	Qui que ce soit vous a-t-il vu ?	What did you answer?	Did anybody see you?	False	False	0.8608445	884	884, 456, 737	0	642
+225	Demain c'est le samedi 5 février 2011.	Tomorrow is Saturday, February 5th, 2011.	Tomorrow is Saturday, February 5th, 2011.	True	True	0.94996154	340	340, 363, 383	1.0	340
+226	Tout le monde a applaudi.	Everybody in the audience sang along.	Everybody was clapping.	False	False	0.81386197	72	72, 66, 693	0	78
+227	J'ignore si je peux y parvenir sans toi.	I have to say I envy you.	I don't know if I can make it without you.	False	False	0.8428767	427	427, 811, 818	0	595
+228	Tu n'as jamais le temps pour les choses importantes !	You never have time for important things!	You never have time for important things!	True	True	0.6861577	948	948, 954, 751	1.0	948
+229	Je sais qu'il n'a pas dit de bonnes choses à mon sujet.	After a bit of googling, I suspect that what you said may not be true.	I know that he didn't say good things about me.	False	False	0.7952819	580	580, 315, 837	0	599
+230	Je pense que le fait que j'ai vécu avec toi a influencé la façon dont tu vis.	I think my living with you has influenced your way of living.	I think my living with you has influenced your way of living.	True	True	0.56007826	843	843, 116, 579	1.0	843
+231	M'as-tu téléphoné hier soir ?	Can you give me your phone number?	Did you call me up last night?	False	False	0.89746773	324	324, 435, 699	0	269
+232	Nous devons nous diviser.	We agree with you.	We have to split.	False	False	0.863538	1	1, 344, 164	0	359
+233	Elle a rencontré quelqu'un que beaucoup de monde rencontre.	She works as hard as any other student.	She met somebody who many people meet.	False	True	0.8772087	158	158, 34, 346	0.3333333333333333	346
+234	Quiconque est-il déjà là ?	Which house is his?	Is anyone here yet?	False	False	0.7586951	276	276, 293, 550	0	552
+235	Il faut protéger l'unité nationale.	It is necessary to protect the national unity.	It is necessary to protect the national unity.	True	True	0.5333414	726	726, 344, 908	1.0	726
+236	Je n'ai simplement pas su comment.	I just don't know what to say.	I just didn't know how.	False	False	0.8761537	747	747, 422, 315	0	731
+237	Je pouvais voir que c'était toi.	It was driving me crazy.	I could see it was you.	False	True	0.7207619	616	616, 605, 589	0.5	605
+238	Nous sommes désormais des gens complètement différents.	We're totally different people now.	We're totally different people now.	True	True	0.72909975	384	384, 822, 165	1.0	384
+239	Il est vendeur de voitures.	He's a car salesman.	He's a car salesman.	True	True	0.97093797	162	162, 689, 694	1.0	162
+240	Nous vivons dans un monde compliqué.	We live in a complicated world.	We live in a complicated world.	True	True	0.6658869	164	164, 165, 368	1.0	164
+241	C'est ma réplique !	That's my line!	That's my line!	True	True	0.7845926	783	783, 876, 918	1.0	783
+242	C'est à toi de décider si nous allons là-bas ou non.	It is up to you to decide whether we will go there or not.	It is up to you to decide whether we will go there or not.	True	True	0.60295224	977	977, 899, 421	1.0	977
+243	Un million de personnes ont perdu la vie pendant la guerre.	One million people lost their lives in the war.	One million people lost their lives in the war.	True	True	0.46185422	997	997, 378, 987	1.0	997
+244	Je n'avais pas l'intention de blesser qui que ce fut.	I don't know if I can make it without you.	I didn't mean to hurt anyone.	False	False	0.80724216	595	595, 828, 774	0	626
+245	Nous étions cuits.	You should wash your hair.	We were wasted.	False	True	0.92271996	115	115, 297, 918	0.5	297
+246	La route est recouverte d'asphalte.	The street is paved with asphalt.	The street is paved with asphalt.	True	True	0.86124706	143	143, 5, 140	1.0	143
+247	Je voulais juste vérifier mes emails.	I want to buy a few pairs of trousers.	I just wanted to check my email.	False	True	0.9013692	706	706, 942, 436	0.5	942
+248	Elle a accepté son cadeau.	She attributed her success to good luck.	She accepted his gift.	False	False	0.77376986	413	413, 309, 260	0	339
+249	Tout le monde est-il prêt ?	Is everyone ready?	Is everybody ready?	False	True	0.7400279	84	84, 83, 560	0.5	83
+250	Tout le monde est silencieux.	We felt the earth tremble.	Everyone is silent.	False	False	0.7540767	8	8, 931, 164	0	65
+251	Connaissez-vous qui que ce soit, ici ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Do you know anybody here?	False	False	0.78358173	456	456, 699, 42	0	547
+252	Et alors ?	If not now, then when?	So fuckin' what.	False	False	0.91713667	465	465, 123, 293	0	799
+253	Je ne peux qu'attendre.	I don't want to wait that long.	I can but wait.	False	False	0.81622314	895	895, 447, 595	0	890
+254	Nous sommes du Canada.	We are from Canada.	We are from Canada.	True	True	0.7279606	379	379, 280, 797	1.0	379
+255	Je suis son cadet de quatre ans.	I am four years younger than him.	I am four years younger than him.	True	True	0.7558	195	195, 367, 284	1.0	195
+256	Quiconque m'entend-il ?	Does anybody hear me?	Does anybody hear me?	True	True	0.8781884	538	538, 560, 490	1.0	538
+257	J'ai beaucoup travaillé le mois dernier.	I worked hard last month.	I worked hard last month.	True	True	0.64676595	306	306, 103, 452	1.0	306
+258	« Quand vas-tu revenir ? » « Tout dépend du temps qu'il fera. »	"""When will you be back?"" ""It all depends on the weather."""	"""When will you be back?"" ""It all depends on the weather."""	True	True	0.74371576	960	960, 912, 996	1.0	960
+259	La mère met le sucrier sur la table.	The mother puts the sugar bowl on the table.	The mother puts the sugar bowl on the table.	True	True	0.6774392	311	311, 241, 404	1.0	311
+260	C'est ce que j'adore chez Tom.	That's what I love about Tom.	That's what I love about Tom.	True	True	0.6271676	414	414, 822, 668	1.0	414
+261	Je ne voulais simplement pas vous contrarier.	I think it is best not to be impolite.	I just didn't want to upset you.	False	False	0.7934693	816	816, 658, 866	0	735
+262	Attendez-vous quelqu'un ?	Is anybody ready for dessert?	Are you expecting someone?	False	False	0.79845285	560	560, 84, 504	0	58
+263	C'est son caractère qui fait à chacun sa destinée.	It is his character that makes each one his destiny.	It is his character that makes each one his destiny.	True	True	0.6921176	716	716, 726, 908	1.0	716
+264	Arrête de faire comme si tu ne me connaissais pas !	I don't speak French well enough!	Stop pretending you don't know me.	False	False	0.7211853	918	918, 795, 782	0	356
+265	Après l'hiver, le printemps.	After winter, spring comes.	After winter, spring comes.	True	True	0.7125163	225	225, 700, 218	1.0	225
+266	J'ai trouvé une solution, mais je l'ai trouvée tellement vite que ça peut pas être la bonne.	I found a solution, but I found it so fast that it can't be the right solution.	I found a solution, but I found it so fast that it can't be the right solution.	True	True	0.59228325	880	880, 421, 756	1.0	880
+267	As-tu vu qui que ce soit d'autre ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Did you see anybody else?	False	False	0.7631203	456	456, 313, 699	0	636
+268	Si je pouvais t'envoyer un marshmallow, Trang, je le ferais.	If I could send you a marshmallow, Trang, I would.	If I could send you a marshmallow, Trang, I would.	True	True	0.7460234	824	824, 706, 769	1.0	824
+269	Elle me montra sa nouvelle voiture.	She showed me her new car.	She showed me her new car.	True	True	0.7433121	590	590, 153, 772	1.0	590
+270	Les deux régions se distinguent par la religion et la culture.	The two regions differ in religion and culture.	The two regions differ in religion and culture.	True	True	0.49146247	377	377, 165, 164	1.0	377
+271	Comment trouves-tu de la nourriture dans l'espace ?	How do you find food in outer space?	How do you find food in outer space?	True	True	0.6016724	921	921, 456, 222	1.0	921
+272	Un vieil homme vivait autrefois sur cette île.	There once lived an old man on that island.	There once lived an old man on that island.	True	True	0.7178701	9	9, 652, 957	1.0	9
+273	Les religions monothéistes sont un grand mensonge pour l'humanité.	Monotheistic religions are a big lie for humanity.	Monotheistic religions are a big lie for humanity.	True	True	0.5052893	17	17, 652, 164	1.0	17
+274	T'es vraiment pas bête.	I'm very fat.	You're really not stupid.	False	True	0.7350786	798	798, 874, 893	0.5	874
+275	Je peux le faire avec ou sans toi.	I can do this with you or without you.	I can do this with you or without you.	True	True	0.72495186	594	594, 595, 415	1.0	594
+276	Pourquoi parlez-vous ainsi ?	Do you drink beer or wine?	Why are you talking like that?	False	True	0.7896651	699	699, 827, 371	0.3333333333333333	371
+277	Je me suis toujours demandé ce que ça ferait d'avoir des frères et sœurs.	I've always wondered what it'd be like to have siblings.	I've always wondered what it'd be like to have siblings.	True	True	0.76253784	804	804, 328, 116	1.0	804
+278	Joyeux anniversaire Muiriel !	Happy birthday, Muiriel!	Happy birthday, Muiriel!	True	True	0.49709535	740	740, 696, 739	1.0	740
+279	Il n'y a personne chez nous.	There's nobody home.	No one is home.	False	False	0.8991171	514	514, 164, 647	0	515
+280	Ça ne va jamais finir.	Nobody can stop it.	This is never going to end.	False	True	0.7959964	526	526, 746, 768	0.5	746
+281	Il n'y a pas de place pour tout le monde.	There isn't room for everyone.	There isn't room for everyone.	True	True	0.83592093	93	93, 165, 164	1.0	93
+282	Il n'y a rien de plus rafraîchissant qu'une bière froide par une journée chaude.	There is nothing more refreshing than a cold beer on a hot day.	There is nothing more refreshing than a cold beer on a hot day.	True	True	0.84203887	48	48, 411, 756	1.0	48
+283	As-tu tué qui que ce soit ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Did you kill anybody?	False	False	0.75376916	456	456, 553, 42	0	638
+284	Ça me prendrait trop de temps pour t'expliquer pourquoi ça ne va pas marcher.	It would take me too much time to explain to you why it's not going to work.	It would take me too much time to explain to you why it's not going to work.	True	True	0.7039069	950	950, 895, 886	1.0	950
+285	Je ne suis pas heureux.	I am not happy.	I'm not happy.	False	True	0.68977547	681	681, 680, 272	0.5	680
+286	Je vais donc jouer au Sudoku au lieu de continuer de te déranger.	I will play Sudoku then instead of continuing to bother you.	I will play Sudoku then instead of continuing to bother you.	True	True	0.7279874	888	888, 61, 458	1.0	888
+287	Ça me prendrait l'éternité pour tout expliquer.	I don't know the key to success, but the key to failure is trying to please everybody.	It would take forever for me to explain everything.	False	False	0.8044307	421	421, 461, 816	0	806
+288	Dois-je garder la chambre ?	Is anybody ready for dessert?	Must I stay in bed?	False	True	0.89506686	560	560, 556, 435	0.3333333333333333	435
+289	Tout le monde a ses forces et ses faiblesses.	Everyone has strengths and weaknesses.	Everyone has strengths and weaknesses.	True	True	0.5618118	908	908, 0, 954	1.0	908
+290	Chaque fois que je te vois, je pense à mon père.	Every time that I see you, I think of my father.	Every time that I see you, I think of my father.	True	True	0.5876049	130	130, 116, 427	1.0	130
+291	Je ne parle pas japonais.	I don't speak Japanese.	I don't speak Japanese.	True	True	0.5637686	936	936, 61, 126	1.0	936
+292	Madame Hughes, voici Peter Brown.	Mrs. Hughes, this is Peter Brown.	Mrs. Hughes, this is Peter Brown.	True	True	0.60675025	248	248, 473, 282	1.0	248
+293	Ça dépend du contexte.	It depends on the context.	It depends on the context.	True	True	0.60766506	792	792, 671, 844	1.0	792
+294	C'est parce que tu es une fille.	Life is hard, but I am harder.	That's because you're a girl.	False	False	0.6974323	931	931, 564, 657	0	807
+295	Prenez l'ascenseur qui va au quatrième étage.	Take the elevator to the fifth floor.	Take the elevator to the fifth floor.	True	True	0.89137137	13	13, 989, 587	1.0	13
+296	Les étrangers m'intriguent.	Foreign people intrigue me.	Foreign people intrigue me.	True	True	0.8110616	926	926, 838, 709	1.0	926
+297	J'ai un petit peu faim.	I've made lots of friends.	I'm a little bit hungry.	False	False	0.75632143	328	328, 320, 706	0	582
+298	Il a crié très fort en demandant de l'aide.	He strongly cried out asking for help.	He strongly cried out asking for help.	True	True	0.863634	309	309, 315, 132	1.0	309
+299	Quiconque se trouve-t-il là-dedans ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Is anyone in there?	False	False	0.8402389	456	456, 276, 222	0	551
+300	Si tu fais ça, tout le monde va te détester.	I need somebody I can trust.	If you do that, everyone's going to hate you.	False	False	0.7198162	33	33, 922, 991	0	97
+301	J'ai vu un homme âgé tombé sur le dos dans la rue.	I saw an old man fall on his back in the street.	I saw an old man fall on his back in the street.	True	True	0.6560297	659	659, 486, 188	1.0	659
+302	Tom est à Boston maintenant.	Tom is in Boston now.	Tom is in Boston now.	True	True	0.41581762	343	343, 250, 135	1.0	343
+303	Il est au bureau.	He is at the office.	He is at the office.	True	True	0.7559264	176	176, 241, 191	1.0	176
+304	Les humains n'ont jamais été faits pour vivre éternellement.	Humans were never meant to live forever.	Humans were never meant to live forever.	True	True	0.5138521	835	835, 0, 17	1.0	835
+305	Je la reconnus du premier coup d'œil.	None of us is so foolish as to believe that he was telling the truth.	I recognized her at first sight.	False	False	0.9950154	232	232, 706, 712	0	502
+306	T'as jamais cours ou quoi ? !	You never have class or what?!	You never have class or what?!	True	True	0.74956226	887	887, 918, 456	1.0	887
+307	On peut toujours trouver du temps.	One can always find time.	One can always find time.	True	True	0.75542855	817	817, 361, 368	1.0	817
+308	De nombreux animaux sauvages moururent parce qu'il n'y avait aucune nourriture.	A lot of wild animals died because there wasn't any food.	A lot of wild animals died because there wasn't any food.	True	True	0.67849493	378	378, 242, 835	1.0	378
+309	L'étranger parle le japonais comme si c'était sa langue natale.	The foreigner speaks Japanese as if it were his native language.	The foreigner speaks Japanese as if it were his native language.	True	True	0.6190672	318	318, 61, 443	1.0	318
+310	Il est strictement interdit de traduire cette phrase !	It is strictly forbidden to translate this sentence!	It is strictly forbidden to translate this sentence!	True	True	0.5301324	30	30, 918, 925	1.0	30
+311	Euh, là c'est vraiment bizarre...	Uh, now it's really weird...	Uh, now it's really weird...	True	True	0.5713804	869	869, 664, 410	1.0	869
+312	Le voleur s'introduisit par une fenêtre cassée.	There was a flag at the top of the pole.	The thief entered through a broken window.	False	False	1.0251538	292	292, 13, 124	0	481
+313	Votre nom figure plus bas dans la liste.	Your name's further down the list.	Your name's further down the list.	True	True	0.87595797	187	187, 186, 295	1.0	187
+314	Tu fais désormais partie de la bande.	You're part of the gang now.	You're part of the gang now.	True	True	0.8367492	394	394, 88, 296	1.0	394
+315	Redonne-moi mon petit sac.	Give me back my bag.	Give me back my bag.	True	True	0.8615346	160	160, 115, 965	1.0	160
+316	Quiconque sait-il que vous êtes ici ?	How many pens are there on the desk?	Does anyone know you're here?	False	False	0.8261156	222	222, 456, 112	0	537
+317	Je n'ai pas aimé.	I never stop thinking about you.	I didn't like it.	False	False	0.7128267	573	573, 681, 116	0	845
+318	Le malheur des uns fait le bonheur des autres.	We must learn to live together as brothers, or we will perish together as fools.	Two in distress make sorrow less.	False	False	0.7932277	963	963, 908, 931	0	488
+319	C'est ainsi que je me sens actuellement.	I liked you even more when I met you.	That's how I feel now.	False	False	0.7072511	116	116, 7, 805	0	399
+320	Il veut aller en Afrique.	He wants to go to Africa.	He wants to go to Africa.	True	True	0.6199156	138	138, 126, 526	1.0	138
+321	Je vous ai contrariées.	I am curious.	I've upset you.	False	False	0.9762138	894	894, 427, 436	0	651
+322	La maison est en construction.	The building is under construction.	The building is under construction.	True	True	0.4769324	265	265, 644, 176	1.0	265
+323	Ce pantalon est sale.	These trousers are dirty.	These trousers are dirty.	True	True	0.7301688	702	702, 700, 482	1.0	702
+324	Il va venir cet après-midi.	He will come this afternoon.	He will come this afternoon.	True	True	0.7401819	498	498, 153, 743	1.0	498
+325	Je ne cesse de penser à vous.	Nobody understands me.	I never stop thinking about you.	False	True	0.78825176	938	938, 573, 530	0.5	573
+326	Je dois dire que je t'envie.	I have to say I envy you.	I have to say I envy you.	True	True	0.7267475	427	427, 991, 866	1.0	427
+327	Chacun est-il prêt ?	Which house is his?	Is everyone ready?	False	True	0.86374533	276	276, 550, 84	0.3333333333333333	84
+328	Après quelques recherches sur Google, je suspecte que ce que vous dites n'est peut-être pas vrai.	I think I have a theory about that.	After a bit of googling, I suspect that what you said may not be true.	False	False	0.8043325	837	837, 421, 942	0	580
+329	Combien de temps es-tu restée ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	How long did you stay?	False	True	0.86025774	456	456, 960, 832	0.3333333333333333	832
+330	C'est parce que tu ne veux pas être seul.	I can do this with you or without you.	It's because you don't want to be alone.	False	False	0.63713956	594	594, 922, 466	0	761
+331	J'ai besoin de quelqu'un, maintenant.	We have a bit of time now.	I need someone now.	False	True	0.7895918	389	389, 32, 822	0.5	32
+332	Quiconque en a-t-il connaissance ?	Which house is his?	Does anybody know about this?	False	False	0.8538456	276	276, 112, 889	0	534
+333	Il se peut qu'il gèle la semaine prochaine.	He worked hard, finishing the report in one week.	It may freeze next week.	False	False	0.9917263	139	139, 617, 449	0	857
+334	Notre réfrigérateur ne fonctionne plus.	Wash the writing table.	Our fridge doesn't work anymore.	False	False	1.0982153	348	348, 577, 752	0	603
+335	Qui va loin des yeux va loin du cœur.	Out of sight, out of mind.	Out of sight, out of mind.	True	True	0.8164046	722	722, 177, 368	1.0	722
+336	« Pierre qui roule n'amasse pas mousse » est un proverbe.	"""A rolling stone gathers no moss"" is a saying."	"""A rolling stone gathers no moss"" is a saying."	True	True	0.83913136	957	957, 961, 912	1.0	957
+337	On ne peut pas apprendre le japonais sans apprendre les kanjis.	We can not learn Japanese without learning Kanji.	We can not learn Japanese without learning Kanji.	True	True	0.60335994	61	61, 443, 318	1.0	61
+338	Tout le monde est parti, maintenant.	Life is hard, but I am harder.	Everyone is gone now.	False	False	0.7299087	931	931, 280, 696	0	69
+339	Ai-je manqué à quiconque ?	Is anybody ready for dessert?	Did anyone miss me?	False	False	0.886348	560	560, 556, 563	0	561
+340	J'aurais dû la fermer.	If you don't eat, you die.	I should have kept my mouth shut.	False	False	1.0265293	991	991, 408, 769	0	19
+341	Il a beaucoup travaillé et terminé le rapport en une semaine.	He worked hard, finishing the report in one week.	He worked hard, finishing the report in one week.	True	True	0.6543994	139	139, 131, 256	1.0	139
+342	Je voudrais louer une maison.	I want to buy a few pairs of trousers.	I'd like to rent a house.	False	True	0.86616147	706	706, 656, 730	0.3333333333333333	730
+343	Personne ne peut me battre.	Nobody can stop it.	Nobody can beat me.	False	False	0.78711295	526	526, 661, 660	0	528
+344	Tu peux pas attendre de moi que je pense toujours à tout !	You can't expect me to always think of everything!	You can't expect me to always think of everything!	True	True	0.7805296	944	944, 949, 947	1.0	944
+345	Maria est en train de porter une burqa.	Maria is wearing a burqa.	Maria is wearing a burqa.	True	True	0.5203397	707	707, 311, 241	1.0	707
+346	Il n'y a presque plus de lait dans le verre.	There's almost no milk left in the glass.	There's almost no milk left in the glass.	True	True	0.81699574	321	321, 48, 702	1.0	321
+347	Je ne veux pas perdre mes idées, même si certaines d'entre elles sont un peu extrêmes.	I don't want to lose my ideas, even though some of them are a bit extreme.	I don't want to lose my ideas, even though some of them are a bit extreme.	True	True	0.52562356	836	836, 421, 830	1.0	836
+348	Qu'est-ce qui s'est passé ?	What time is it in London now?	What is it?	False	False	0.7685214	123	123, 293, 456	0	864
+349	Il me faut trouver quelqu'un pour m'aider.	I have to find someone to help me.	I have to find someone to help me.	True	True	0.74136376	40	40, 421, 403	1.0	40
+350	Personne n'entendit la cloche sonner.	Sami can't do an Egyptian accent.	Nobody heard the bell ring.	False	True	0.90826094	443	443, 524, 877	0.5	524
+351	La beauté est le pouvoir dont une femme se sert pour charmer un amoureux et pour terrifier un mari.	Beauty is the power by which a woman charms a lover and terrifies a husband.	Beauty is the power by which a woman charms a lover and terrifies a husband.	True	True	0.5879829	441	441, 393, 976	1.0	441
+352	En entrant au café, j'ai aperçu deux jeunes hommes qui regardaient une partie de lutte à la télévision.	As I entered the café, I found two young men watching a wrestling match on television.	As I entered the café, I found two young men watching a wrestling match on television.	True	True	0.5613477	188	188, 659, 712	1.0	188
+353	« C'est très gentil de votre part », répondit Willie.	"""That's very nice of you,"" Willie answered."	"""That's very nice of you,"" Willie answered."	True	True	0.6718049	970	970, 912, 966	1.0	970
+354	Je pense que c'est mieux de ne pas être impoli.	I think it is best not to be impolite.	I think it is best not to be impolite.	True	True	0.5817647	816	816, 814, 421	1.0	816
+355	"C'est une tâche difficile, choisir ce qui est ""bon"" ou ""mauvais"", mais il faut le faire."	"It is a difficult task, choosing what is ""right"" or ""wrong"", but you have to do it."	"It is a difficult task, choosing what is ""right"" or ""wrong"", but you have to do it."	True	True	0.5254179	756	756, 421, 880	1.0	756
+356	Marie sait pourquoi.	Mary knows why.	Mary knows why.	True	True	0.8301034	470	470, 472, 471	1.0	470
+357	Personne ne sait ce que je ressens.	Nobody understands me.	Nobody knows how I feel.	False	True	0.91060615	938	938, 530, 522	0.3333333333333333	522
+358	Je propose que nous restions à la maison pour regarder la télévision.	I suggest we stay home and watch television.	I suggest we stay home and watch television.	True	True	0.6997708	277	277, 706, 587	1.0	277
+359	Au-dessus du cadavre tournaient des vautours.	Vultures circled above the dead body.	Vultures circled above the dead body.	True	True	0.8810557	242	242, 155, 719	1.0	242
+360	Il a fait de moi ce que je suis aujourd'hui.	He has made me what I am today.	He has made me what I am today.	True	True	0.75919604	7	7, 116, 822	1.0	7
+361	Tom est vendeur de voiture.	Tom is a car salesman.	Tom is a car salesman.	True	True	0.503947	437	437, 171, 102	1.0	437
+362	Quel est le nom de ton bateau ?	What's the name of your ship?	What's the name of your ship?	True	True	0.7473309	108	108, 276, 222	1.0	108
+363	Un des plus gros problèmes dans notre société moderne, c'est que les gens ne voient pas le monde comme moi.	One of the biggest problems in our modern society is that the people don't see the world as I do.	One of the biggest problems in our modern society is that the people don't see the world as I do.	True	True	0.52905965	353	353, 421, 164	1.0	353
+364	C'est exact, mais qu'est-ce que ça vous fait ?	What are you doing?	That's right, but what's it to you?	False	False	0.78176534	737	737, 293, 456	0	496
+365	C'est laquelle, sa maison à lui ?	Which house is his?	Which house is his?	True	True	0.84844494	276	276, 107, 600	1.0	276
+366	Viens ici !	Come over here!	Come over here!	True	True	0.64225876	117	117, 892, 714	1.0	117
+367	Je veux que tu te concentres sur ici et maintenant.	I want you focus on the here and now.	I want you focus on the here and now.	True	True	0.69228363	387	387, 594, 352	1.0	387
+368	Je ne veux pas être lamentable, je veux être cool ! !	I don't want to be lame; I want to be cool!!	I don't want to be lame; I want to be cool!!	True	True	0.57760096	795	795, 918, 944	1.0	795
+369	Personne ne m'a dit que vous étiez ici.	I don't know where you live.	Nobody told me you were here.	False	False	0.9035249	374	374, 828, 866	0	519
+370	J'ai l'habitude de faire mes courses dans ce supermarché.	I've made lots of friends.	I usually do my shopping at this supermarket.	False	False	0.7401633	328	328, 822, 706	0	263
+371	Sois poli avec tout le monde !	I don't speak French well enough!	Be polite to everyone.	False	False	0.69627285	918	918, 784, 788	0	510
+372	Nous sommes à la recherche d'un hébergement.	We are looking for lodging accommodations.	We are looking for lodging accommodations.	True	True	0.82647526	200	200, 328, 929	1.0	200
+373	C'est un livre intéressant.	It's an interesting book.	It's an interesting book.	True	True	0.7648951	244	244, 186, 499	1.0	244
+374	Tom aimait beaucoup sa famille.	Tom loved his family very much.	Tom loved his family very much.	True	True	0.44776487	132	132, 284, 569	1.0	132
+375	Combien d'amis proches est-ce que tu as ?	How many close friends do you have?	How many close friends do you have?	True	True	0.8621812	813	813, 376, 504	1.0	813
+376	Je suppose que je ne voulais pas vous décevoir.	I have to say I envy you.	I guess I didn't want to disappoint you.	False	False	0.83953106	427	427, 828, 466	0	658
+377	De quoi parle-t-il ?	What did you answer?	What is he talking about?	False	False	0.9351351	884	884, 600, 504	0	293
+378	Personne n'avait de solution toute prête.	Nobody was able to suggest a solution.	Nobody was able to suggest a solution.	True	True	0.7922672	401	401, 555, 835	1.0	401
+379	Alors il y a un problème...	Then there is a problem...	Then there is a problem...	True	True	0.2384938	786	786, 920, 465	1.0	786
+380	C’est ce qui est expliqué à la fin.	That's where the problem is.	That is somewhat explained at the end.	False	False	1.0258608	920	920, 977, 769	0	821
+381	Je ne me suis jamais fait de souci à ton sujet.	I was never worried about you.	I was never worried about you.	True	True	0.8122227	570	570, 828, 302	1.0	570
+382	J'aime étudier.	I love learning.	I love learning.	True	True	0.70525	454	454, 573, 811	1.0	454
+383	Quiconque a-t-il vu ce qui s'est passé ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Did anybody see what happened?	False	False	0.7495214	456	456, 370, 915	0	650
+384	Je ne sais pas si j'ai le temps.	I don't know if I have the time.	I don't know if I have the time.	True	True	0.7170707	751	751, 895, 899	1.0	751
+385	Je n'ai personne qui veuille voyager avec moi.	I don't have anyone who'd travel with me.	I don't have anyone who'd travel with me.	True	True	0.7310424	930	930, 28, 34	1.0	930
+386	Merci pour ton explication.	Thank you for your explanation.	Thank you for your explanation.	True	True	0.8957536	862	862, 393, 604	1.0	862
+387	J'apprécierais que tu m'aides.	I'd appreciate it if you'd help me.	I'd appreciate it if you'd help me.	True	True	0.7155292	403	403, 500, 658	1.0	403
+388	Je ne connais pas son numéro de téléphone.	I don't know her telephone number.	I don't know her telephone number.	True	True	0.8972366	167	167, 706, 436	1.0	167
+389	Parfois il peut être un gars bizarre.	Sometimes he can be a strange guy.	Sometimes he can be a strange guy.	True	True	0.8567097	763	763, 932, 288	1.0	763
+390	Je leur ai dit de m'envoyer un autre ticket.	I told them to send me another ticket.	I told them to send me another ticket.	True	True	0.6516578	772	772, 706, 899	1.0	772
+391	Personne ne me rend grâce.	Nobody understands me.	Nobody appreciates me.	False	False	0.8675777	938	938, 916, 529	0	530
+392	J'ignorais que quiconque était là.	I didn't know anyone was there.	I didn't know anyone was there.	True	True	0.80667627	627	627, 161, 828	1.0	627
+393	Je connais le remède à ce qui te fait souffrir.	I know the cure for what ails you.	I know the cure for what ails you.	True	True	0.87843704	608	608, 403, 27	1.0	608
+394	Les pommes de terre sont des légumes.	Potatoes are vegetables.	Potatoes are vegetables.	True	True	0.68378496	189	189, 192, 145	1.0	189
+395	Oui, et alors ?	If not now, then when?	Yes, what of it?	False	False	0.82404304	465	465, 293, 276	0	497
+396	Lorsqu'il a demandé qui avait cassé la fenêtre, tous les garçons ont pris un air innocent.	When he asked who had broken the window, all the boys put on an air of innocence.	When he asked who had broken the window, all the boys put on an air of innocence.	True	True	0.7423099	274	274, 267, 110	1.0	274
+397	Courons jusqu'à l'arrêt de bus.	Let's run to the bus stop.	Let's run to the bus stop.	True	True	1.0125043	475	475, 262, 503	1.0	475
+398	Bonne chance ! Vous en aurez besoin.	I love you!	Good luck. You'll need it.	False	True	0.7228266	892	892, 405, 177	0.5	405
+399	Il faut que je m'y mette, maintenant.	I have to say I envy you.	I need to get started now.	False	False	0.9053314	427	427, 110, 965	0	363
+400	10 ans est une longue période à attendre.	Ten years is a long time to wait.	Ten years is a long time to wait.	True	True	0.7716391	995	995, 368, 759	1.0	995
+401	Je ne peux pas lui dire maintenant. Ce n’est pas si simple.	I’ll call them tomorrow when I return home.	I can't tell her now. It's not that simple.	False	False	0.892442	769	769, 988, 899	0	829
+402	Dans son discours, il s'étendit sur l'importance de l'éducation.	In his speech he dwelt on the importance of education.	In his speech he dwelt on the importance of education.	True	True	0.52803576	476	476, 206, 260	1.0	476
+403	Ça ne saurait pas fonctionner.	This is never going to end.	It won't work.	False	False	0.84623873	746	746, 816, 835	0	501
+404	Ça ne te concerne pas.	This doesn't involve you.	This doesn't involve you.	True	True	0.7635915	492	492, 472, 879	1.0	492
+405	Vous êtes vraiment le frère de Tom ?	Are you really Tom's brother?	Are you really Tom's brother?	True	True	0.6206187	169	169, 157, 373	1.0	169
+406	Tous les membres de l'assistance chantèrent en chœur.	Everybody in the audience sang along.	Everybody in the audience sang along.	True	True	0.7608943	72	72, 721, 305	1.0	72
+407	Il ne s'en sortira pas.	It won't work.	He won't get away.	False	False	1.0384843	501	501, 135, 287	0	142
+408	Venez-vous de Urumko ?	Are you from Urumqi?	Are you from Urumqi?	True	True	0.71912575	239	239, 699, 108	1.0	239
+409	"Cette voiture a été élue ""voiture de l'année""."	"This car was selected the ""car of the year""."	"This car was selected the ""car of the year""."	True	True	0.47490036	226	226, 451, 610	1.0	226
+410	D'habitude, qu'est-ce qui cause la douleur ?	What is usually the cause for the pain?	What is usually the cause for the pain?	True	True	0.6661694	147	147, 456, 42	1.0	147
+411	Il ne montre aucun intérêt pour la science.	He doesn't show any interest in science.	He doesn't show any interest in science.	True	True	0.720152	335	335, 289, 476	1.0	335
+412	Qu'est-ce que c'est ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	What is this?	False	False	0.7734356	456	456, 147, 276	0	738
+413	J'aime vivre ici.	I like living here.	I like living here.	True	True	0.68168545	607	607, 454, 576	1.0	607
+414	Si tu regardes les paroles, elles ne signifient pas vraiment grand-chose.	If you look at the lyrics, they don't really mean much.	If you look at the lyrics, they don't really mean much.	True	True	0.68871737	848	848, 747, 151	1.0	848
+415	Je veux que toute ma famille soit fière de moi.	I want my whole family to be proud of me.	I want my whole family to be proud of me.	True	True	0.75216734	352	352, 403, 594	1.0	352
+416	Il passe le temps.	To travel hopefully is a better thing than to arrive.	He idles away his time.	False	True	0.8761797	368	368, 931, 571	0.3333333333333333	571
+417	Tout le monde prends du bon temps.	Life is hard, but I am harder.	Everybody's having a good time.	False	False	0.7551867	931	931, 620, 164	0	73
+418	« Pour être franc, j'ai le vertige » « Tu es un trouillard ! »	"""To tell you the truth, I am scared of heights."" ""You are a coward!"""	"""To tell you the truth, I am scared of heights."" ""You are a coward!"""	True	True	0.6256056	965	965, 912, 960	1.0	965
+419	Voyager plein d'espoir est meilleur que d'arriver.	To travel hopefully is a better thing than to arrive.	To travel hopefully is a better thing than to arrive.	True	True	0.8045572	368	368, 931, 935	1.0	368
+420	Bienvenue dans notre restaurant !	Welcome to our restaurant!	Welcome to our restaurant!	True	True	0.57700825	351	351, 788, 448	1.0	351
+421	Vingt personnes ont participé à la fête.	Twenty people attended the party.	Twenty people attended the party.	True	True	0.6454804	305	305, 247, 79	1.0	305
+422	Tout le monde a peur.	Everyone is exhausted.	Everyone is scared.	False	False	0.77078533	70	70, 526, 62	0	66
+423	Même après un accouchement, il est mauvais de boire de l'alcool pendant la période d'allaitement.	Even after delivery, it is bad to drink alcohol during the period of breastfeeding.	Even after delivery, it is bad to drink alcohol during the period of breastfeeding.	True	True	0.6422553	16	16, 940, 315	1.0	16
+424	Qu'est-ce que tu crois que j'étais en train de faire ?	What do you think I've been doing?	What do you think I've been doing?	True	True	0.8005066	915	915, 899, 313	1.0	915
+425	Elle est allée se promener.	She found it difficult to answer the question.	She's out for a walk.	False	False	0.9083483	206	206, 137, 208	0	275
+426	À long terme, nous serons tous morts.	In the long run we are all dead.	In the long run we are all dead.	True	True	0.73711777	620	620, 963, 280	1.0	620
+427	J'ai entendu quelqu'un parler.	I did not understand a word.	I heard somebody talking.	False	False	0.90016663	109	109, 822, 688	0	37
+428	Elle a donné une réponse soudaine.	She made an abrupt answer.	She made an abrupt answer.	True	True	0.8538618	286	286, 206, 309	1.0	286
+429	Tout le monde s'amuse.	Everyone is exhausted.	Everybody is having a good time.	False	False	0.83150005	70	70, 8, 931	0	74
+430	Je connais quelqu'un qui peut nous aider.	I know somebody who can help us.	I know somebody who can help us.	True	True	0.73847604	35	35, 34, 421	1.0	35
+431	C'est intriguant.	That is intriguing.	That is intriguing.	True	True	0.7581537	838	838, 940, 303	1.0	838
+432	Personne ne m'a demandé quoi que ce soit.	I have to talk to somebody.	Nobody asked me anything.	False	False	0.8692429	39	39, 315, 193	0	529
+433	Pourquoi n'essayez-vous pas de prendre un peu de repos ?	Do you drink beer or wine?	Why don't you try and get some sleep?	False	False	0.8053477	699	699, 560, 42	0	365
+434	J'vais l'descendre.	We felt the earth tremble.	I'm gonna shoot him.	False	False	1.0022929	8	8, 918, 769	0	800
+435	Je ne sais pas comment le démontrer vu que c'est trop évident !	I don't know how to demonstrate it, since it's too obvious!	I don't know how to demonstrate it, since it's too obvious!	True	True	0.80287933	876	876, 918, 965	1.0	876
+436	Je souhaite que cela soit vrai.	I think I have a theory about that.	I wish that were true.	False	True	0.6749886	837	837, 129, 409	0.3333333333333333	409
+437	Ken te cherchait.	I could tutor you.	Ken was looking for you.	False	False	0.8114927	604	604, 487, 991	0	253
+438	Tu as l'air surpris.	We felt the earth tremble.	You look surprised.	False	False	0.85472035	8	8, 972, 209	0	18
+439	Ne t'inquiète pas.	I don't speak French well enough!	Don't worry about it!	False	False	0.885883	918	918, 439, 602	0	767
+440	Je pense que c'est très regrettable qu'il mourut aussi jeune.	I think it's a great pity that he died so young.	I think it's a great pity that he died so young.	True	True	0.61999106	237	237, 899, 420	1.0	237
+441	Il n'écoute jamais ce que j'essaye de lui dire.	He never hears what I'm trying to say.	He never hears what I'm trying to say.	True	True	0.72525966	315	315, 747, 116	1.0	315
+442	C'est dommage que je n'aie pas besoin de maigrir.	It's too bad that I don't need to lose weight.	It's too bad that I don't need to lose weight.	True	True	0.8550911	886	886, 415, 831	1.0	886
+443	Ça ne peut pas être bon pour toi.	That can't be good for you.	That can't be good for you.	True	True	0.62847316	665	665, 669, 421	1.0	665
+444	Je serais malheureux, mais je ne me suiciderais pas.	"""To tell you the truth, I am scared of heights."" ""You are a coward!"""	I'd be unhappy, but I wouldn't kill myself.	False	False	0.895159	965	965, 899, 606	0	818
+445	Je suis désolé si ma présence vous embarrasse.	I'm sorry if my being here embarrasses you.	I'm sorry if my being here embarrasses you.	True	True	0.8664708	606	606, 965, 245	1.0	606
+446	Tout le monde doit apprendre par soi-même en fin de compte.	Everyone must learn on their own in the end.	Everyone must learn on their own in the end.	True	True	0.73783696	753	753, 368, 825	1.0	753
+447	Où sont toutes les autres ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Where's everybody else?	False	False	0.791543	456	456, 497, 864	0	91
+448	Elle a vendu des cartes postales.	She sold postcards.	She sold postcards.	True	True	0.8102081	689	689, 694, 717	1.0	689
+449	Je me suis fait beaucoup d'amis.	I've made lots of friends.	I've made lots of friends.	True	True	0.67274666	328	328, 853, 822	1.0	328
+450	Je le vis traverser la route.	She showed me her new car.	I saw him crossing the road.	False	False	1.0008794	590	590, 706, 523	0	486
+451	Tout le monde toussait, dans la salle de classe.	Everyone in the classroom was coughing.	Everyone in the classroom was coughing.	True	True	0.78313255	71	71, 67, 72	1.0	71
+452	Ils sont trop occupés à se battre entre eux pour s'occuper d'idéaux communs.	They are too busy fighting against each other to care for common ideals.	They are too busy fighting against each other to care for common ideals.	True	True	0.6521064	780	780, 968, 940	1.0	780
+453	Il fait froid déjà depuis hier.	It has been cold since yesterday.	It has been cold since yesterday.	True	True	0.94474864	350	350, 498, 718	1.0	350
+454	Pourquoi ne viens-tu pas nous voir ?	Why don't you admit your mistake?	Why don't you come visit us?	False	True	0.86374545	490	490, 699, 896	0.3333333333333333	896
+455	Si tu fais triste mine dans ce métier, les clients ne viendront pas.	In this line of work, if you make a grim face the customers won't come.	In this line of work, if you make a grim face the customers won't come.	True	True	0.87380815	544	544, 421, 828	1.0	544
+456	Je ne sais pas précisément où je suis né.	I don't know the exact place I was born.	I don't know the exact place I was born.	True	True	0.7319442	703	703, 374, 252	1.0	703
+457	Je le considère parmi les meilleurs compositeurs du Japon.	I rate him among the best modern composers in Japan.	I rate him among the best modern composers in Japan.	True	True	0.5766089	307	307, 215, 151	1.0	307
+458	J'ai reçu une lettre de mon ami.	I received a letter from my friend.	I received a letter from my friend.	True	True	0.54891443	122	122, 452, 772	1.0	122
+459	T'as vraiment pas les bonnes priorités !	You really don't have the right priorities!	You really don't have the right priorities!	True	True	0.62440693	946	946, 948, 918	1.0	946
+460	Elle est absente en cours.	The building is under construction.	She absented herself from the lesson.	False	True	0.9974134	265	265, 118, 229	0.5	118
+461	Il y a des livres ici.	You can park here.	There are books here.	False	False	0.9390514	337	337, 388, 68	0	493
+462	Il faut que je boive.	I don't speak French well enough!	I have to drink.	False	True	0.936707	918	918, 447, 991	0.5	447
+463	Pouvez-vous répéter ce que vous venez de dire ?	Would you please repeat what you just said?	Would you please repeat what you just said?	True	True	0.8395171	313	313, 699, 943	1.0	313
+464	Chaque fois que je trouve quelque chose que j'aime, c'est trop cher.	Whenever I find something I like, it's too expensive.	Whenever I find something I like, it's too expensive.	True	True	0.6522355	831	831, 579, 116	1.0	831
+465	La revue parait deux fois par mois.	The magazine is issued twice a month.	The magazine is issued twice a month.	True	True	0.5717349	499	499, 139, 79	1.0	499
+466	Vous ne pouvez pas changer d'avis maintenant.	I'm getting tired of your complaints.	You can't change your mind now.	False	False	0.8271723	193	193, 334, 509	0	386
+467	Un jour je courrai comme le vent.	Someday I'll run like the wind.	Someday I'll run like the wind.	True	True	0.89766514	972	972, 8, 209	1.0	972
+468	On apprend en se trompant.	The teacher sits on the chair.	One learns by one's mistakes.	False	False	1.0352122	241	241, 185, 124	0	469
+469	Bien sûr j'attends.	I don't speak French well enough!	Of course I'll wait.	False	False	1.0430174	918	918, 420, 894	0	679
+470	Ce serait quelque chose qu'il faudrait que je programme.	Whenever I find something I like, it's too expensive.	It would be something I'd have to program.	False	True	0.8797933	831	831, 816, 810	0.3333333333333333	810
+471	J'ai été invité pour aller à l'étranger, mais je ne veux pas.	I was invited to go abroad, but I don't want to.	I was invited to go abroad, but I don't want to.	True	True	0.5519533	366	366, 899, 458	1.0	366
+472	Il ne connaît pas du tout l'anglais.	He doesn't know English at all.	He doesn't know English at all.	True	True	0.61268973	126	126, 335, 936	1.0	126
+473	L'avez-vous dit à qui que ce soit ?	Who's the best person to speak with to file a complaint?	Did you tell anybody?	False	False	0.83451056	372	372, 504, 313	0	630
+474	Qui que ce soit a-t-il de quelconques autres questions ?	What is usually the cause for the pain?	Does anyone have any other questions?	False	False	0.8411938	147	147, 504, 456	0	533
+475	As-tu embrassé qui que ce soit ?	Would you please repeat what you just said?	Did you kiss anybody?	False	False	0.72894204	313	313, 54, 456	0	637
+476	Si vous pouviez venir, je serais vraiment heureux.	If you could come, I'd be really happy.	If you could come, I'd be really happy.	True	True	0.7516147	434	434, 403, 500	1.0	434
+477	Ma maman ne parle pas très bien anglais.	My mom doesn't speak English very well.	My mom doesn't speak English very well.	True	True	0.5508286	917	917, 936, 126	1.0	917
+478	Te fies-tu à quiconque ?	Is the chairman going to resign?	Do you trust anyone?	False	False	0.9086158	504	504, 699, 456	0	542
+479	Connaissez-vous quiconque, ici ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Do you know anyone here?	False	False	0.7916465	456	456, 699, 543	0	545
+480	Tout le monde est là.	Life is hard, but I am harder.	Everyone is here.	False	False	0.7330662	931	931, 164, 461	0	68
+481	Je ne sais pas.	I am not happy.	I don't know.	False	False	0.9015205	681	681, 62, 768	0	744
+482	Ça ne sert plus à rien de continuer à réfléchir.	Neither can I explain it.	It's useless to keep on thinking any more.	False	True	0.8607868	907	907, 421, 940	0.3333333333333333	940
+483	Vous pouvez stationner ici.	You can park here.	You can park here.	True	True	1.0927446	337	337, 262, 295	1.0	337
+484	Je ne voulais pas que ça arrive.	It is inevitable that I go to France someday, I just don't know when.	I didn't want it to happen.	False	False	0.8648865	899	899, 427, 747	0	901
+485	Je n'aurais jamais dû te quitter.	I never should've left you.	I never should've left you.	True	True	0.7580372	653	653, 654, 660	1.0	653
+486	Il y aura toujours des choses que je n'apprendrai jamais, je n'ai pas l'éternité devant moi !	There will always be things I will never learn, I don't have eternity before me!	There will always be things I will never learn, I don't have eternity before me!	True	True	0.8073224	954	954, 965, 949	1.0	954
+487	Tom dormait dehors.	Tom slept outside.	Tom slept outside.	True	True	0.71900034	495	495, 173, 319	1.0	495
+488	C'est toujours tel que ça a été.	Life is hard, but I am harder.	This is always the way it has been.	False	True	0.6466075	931	931, 815, 596	0.5	815
+489	As-tu appelé qui que ce soit d'autre ?	Is anyone going to eat that?	Did you call anyone else?	False	False	0.86172724	553	553, 699, 313	0	640
+490	Tout le monde est mort.	One million people lost their lives in the war.	They're all dead.	False	False	0.75709367	997	997, 931, 620	0	77
+491	Euh... Comment ça marche ?	Uh... How's that working?	Uh... How's that working?	True	True	0.9631252	964	964, 884, 699	1.0	964
+492	Il a finalement réussi son projet d'aller en Thaïlande.	He finally went through with his plan to go to Thailand.	He finally went through with his plan to go to Thailand.	True	True	0.6829089	156	156, 613, 451	1.0	156
+493	Quiconque s'en soucie-t-il ?	Which house is his?	Does anyone care?	False	False	0.83648086	276	276, 629, 456	0	536
+494	Qui suis-je ? D'où viens-je ? Y a-t-il une vie après la mort ? Que signifie la vie sur la Terre ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	True	True	0.5393722	456	456, 112, 276	1.0	456
+495	Tu devines probablement ce qui va arriver.	It is up to you to decide whether we will go there or not.	You can probably guess what happens though.	False	False	0.7741078	977	977, 471, 368	0	902
+496	« Ça semble très intéressant », dit Hiroshi.	"""This looks pretty interesting,"" Hiroshi says."	"""This looks pretty interesting,"" Hiroshi says."	True	True	0.5997058	967	967, 962, 912	1.0	967
+497	Tout le monde est déjà parti.	We live in a complicated world.	Everybody has already left.	False	True	0.83825266	164	164, 76, 8	0.5	76
+498	Je ne t'aime plus.	I miss you.	I don't like you anymore.	False	False	0.65606153	768	768, 680, 522	0	893
+499	Tu es en train de dire que tu caches intentionnellement ta beauté ?	You are saying you intentionally hide your good looks?	You are saying you intentionally hide your good looks?	True	True	0.84218574	839	839, 949, 304	1.0	839
+500	Nous avons maintenant un peu de temps.	We have a bit of time now.	We have a bit of time now.	True	True	0.61324227	389	389, 398, 363	1.0	389
+501	Les filles dansent légèrement comme un ballet de papillons.	The girls were dancing lightly like so many butterflies.	The girls were dancing lightly like so many butterflies.	True	True	0.7757201	267	267, 72, 185	1.0	267
+502	Je serai là tout de suite.	I will be back soon.	I'll be there right away.	False	False	0.79970527	743	743, 589, 591	0	445
+503	Tout le monde va-t-il bien ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Is everybody OK?	False	False	0.6636001	456	456, 83, 560	0	82
+504	J'aime prendre le petit-déjeuner avec toi.	It is inevitable that I go to France someday, I just don't know when.	I like having breakfast with you.	False	False	0.8818635	899	899, 706, 822	0	320
+505	Voici ce qui manquait encore !	Look! The train is there!	As if it weren't enough already!	False	True	0.796679	714	714, 918, 159	0.3333333333333333	159
+506	Je ne peux que me demander si c'est la même chose pour tous les autres.	I suppose it's different when you think about it over the long term.	I can only wonder if this is the same for everyone else.	False	True	0.77604604	766	766, 765, 421	0.5	765
+507	Ce jus de fruit a un goût acide.	This juice tastes sour.	This juice tastes sour.	True	True	0.44618082	133	133, 150, 189	1.0	133
+508	Jane est allé à la banque pour retirer un peu d'argent.	Jane went to the bank to take out some money.	Jane went to the bank to take out some money.	True	True	0.6481627	148	148, 202, 135	1.0	148
+509	Tout le monde s'amuse-t-il ?	Is anybody ready for dessert?	Is everybody having a good time?	False	False	0.80108356	560	560, 456, 918	0	86
+510	L'innocence est une belle chose.	Innocence is a beautiful thing.	Innocence is a beautiful thing.	True	True	0.5322435	834	834, 934, 368	1.0	834
+511	Qui que ce soit d'autre se trouve-t-il dans la maison ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Is anyone else home?	False	False	0.7887318	456	456, 276, 222	0	554
+512	Elle te déteste, semble-t-il.	She hates you, it seems.	She hates you, it seems.	True	True	0.8223493	477	477, 658, 789	1.0	477
+513	Tom aime la neige.	Tom likes snow.	Tom likes snow.	True	True	0.47115934	695	695, 171, 417	1.0	695
+514	Merci de m'avoir expliqué finalement pourquoi on me prend pour une imbécile.	Thanks for having explained to me at last why people take me for an idiot.	Thanks for having explained to me at last why people take me for an idiot.	True	True	0.77296114	860	860, 580, 500	1.0	860
+515	Je ne supporte pas d'être traitée comme une enfant.	I can't stand being treated like a child.	I can't stand being treated like a child.	True	True	0.6832365	494	494, 811, 828	1.0	494
+516	Je n'aime pas les grandes villes.	I dislike big cities.	I dislike big cities.	True	True	0.7298082	210	210, 656, 151	1.0	210
+517	J'emploierai la magie contre lui et le changerai en grenouille.	I'll use magic on him and turn him into a frog.	I'll use magic on him and turn him into a frog.	True	True	0.84760284	450	450, 828, 899	1.0	450
+518	À l'époque du lycée je me levais à 6h tous les matins.	Back in high school, I got up at 6 a.m. every morning.	Back in high school, I got up at 6 a.m. every morning.	True	True	0.85720277	819	819, 277, 429	1.0	819
+519	Il a gelé cette nuit.	He will come this afternoon.	It frosted last night.	False	False	0.80040205	498	498, 95, 76	0	218
+520	Tony peut courir rapidement.	Tony can run fast.	Tony can run fast.	True	True	0.75926054	270	270, 292, 617	1.0	270
+521	« Qui est-ce ? » « C'est ta mère. »	"""Who is it?"" ""It's your mother."""	"""Who is it?"" ""It's your mother."""	True	True	0.57223237	959	959, 965, 960	1.0	959
+522	Quelqu'un ici peut-il me donner un coup de main ?	Could someone hand me a knife?	Can somebody give me a hand here?	False	False	0.8312348	51	51, 556, 222	0	55
+523	Si tu vois une faute alors corrige-la s'il te plaît.	Even if you are not to blame, you should apologize.	If you see a mistake, then please correct it.	False	True	0.8663542	423	423, 988, 619	0.5	988
+524	Je ne répondrai plus aux questions.	I'm not going to answer any more questions.	I'm not going to answer any more questions.	True	True	0.8388392	161	161, 529, 439	1.0	161
+525	Aimes-tu les cheeseburgers ?	Do you like cheeseburgers?	Do you like cheeseburgers?	True	True	0.45711088	474	474, 560, 349	1.0	474
+526	Je suppose que c'est différent quand tu y penses à long terme.	I suppose it's different when you think about it over the long term.	I suppose it's different when you think about it over the long term.	True	True	0.66712356	766	766, 899, 837	1.0	766
+527	S'il ne pleut pas, alors je m'en irai.	If you don't eat, you die.	Unless it rains, I will go, too.	False	False	0.8266578	991	991, 918, 795	0	300
+528	Combien y a-t-il de plumes sur le bureau ?	How many pens are there on the desk?	How many pens are there on the desk?	True	True	0.77293146	222	222, 560, 108	1.0	222
+529	L'éducation dans ce monde me déçoit.	Education in this world disappoints me.	Education in this world disappoints me.	True	True	0.7379514	754	754, 49, 164	1.0	754
+530	Jouons ici ce dimanche.	Good evening, everyone.	Let's play this Sunday.	False	True	0.771404	507	507, 351, 296	0.3333333333333333	296
+531	J'ai fait connaître mes intentions à mes parents.	I made known my intentions to my parents.	I made known my intentions to my parents.	True	True	0.53313136	436	436, 822, 939	1.0	436
+532	Je ne suis d'aucune utilité à qui que ce soit.	I think it is best not to be impolite.	I'm no use to anyone.	False	True	0.78101695	816	816, 549, 245	0.5	549
+533	Je me suis arrêté pour fumer.	I almost shot you.	I stopped to smoke.	False	False	0.8009876	662	662, 800, 520	0	485
+534	Je voyagerai à travers l'Europe en vélo, cet été.	I'll travel across Europe by bicycle this summer.	I'll travel across Europe by bicycle this summer.	True	True	0.65002847	613	613, 899, 822	1.0	613
+535	Qui que ce soit est-il prêt pour le dessert ?	Is anybody ready for dessert?	Is anybody ready for dessert?	True	True	0.7736149	560	560, 107, 147	1.0	560
+536	« C'est ce que j'étais en train de chercher », s'exclama-t-il.	"""This is what I was looking for!"" he exclaimed."	"""This is what I was looking for!"" he exclaimed."	True	True	0.7055212	966	966, 912, 962	1.0	966
+537	L'eau sur la route était seulement un mirage.	The water on the road was just a mirage.	The water on the road was just a mirage.	True	True	0.73077846	29	29, 401, 233	1.0	29
+538	Personne n'a encore pris de décision.	Nobody has made a decision yet.	Nobody has made a decision yet.	True	True	0.891588	525	525, 422, 335	1.0	525
+539	Ça ne changera rien.	Nobody can stop it.	That won't change anything.	False	False	0.80207586	526	526, 879, 501	0	757
+540	Le bâtiment fut gravement endommagé par un incendie.	The building was heavily damaged by fire.	The building was heavily damaged by fire.	True	True	0.64307547	644	644, 685, 265	1.0	644
+541	Tom a perdu son porte-monnaie.	Tom lost his wallet.	Tom lost his wallet.	True	True	0.5889126	135	135, 136, 343	1.0	135
+542	Je ne supporte pas ce type.	It's easy to find an example.	I can't stand that guy.	False	False	1.0091531	295	295, 828, 492	0	323
+543	Thomas pleura comme un bébé.	Tom made himself a cup of tea.	Tom cried like a baby.	False	True	0.88055825	124	124, 173, 727	0.5	173
+544	Tom a oublié l'anniversaire de leur premier rendez-vous.	Tom forgot the anniversary of their first date.	Tom forgot the anniversary of their first date.	True	True	0.61679673	146	146, 171, 695	1.0	146
+545	Quiconque vous a-t-il vu ?	Didn't anyone question you?	Anybody see you?	False	False	0.8134037	629	629, 884, 456	0	643
+546	« Elle aime la musique. » « Moi aussi. »	"""She likes music."" ""So do I."""	"""She likes music."" ""So do I."""	True	True	0.6176896	973	973, 980, 959	1.0	973
+547	Il y avait un drapeau en haut du mât.	There was a flag at the top of the pole.	There was a flag at the top of the pole.	True	True	0.83377624	292	292, 404, 119	1.0	292
+548	Le professeur est assis sur la chaise.	The teacher sits on the chair.	The teacher sits on the chair.	True	True	0.6418575	241	241, 548, 311	1.0	241
+549	Je serai bientôt de retour.	I will be back soon.	I will be back soon.	True	True	0.79427123	743	743, 899, 355	1.0	743
+550	Tom a perdu son parapluie.	Tom lost his wallet.	Tom lost his umbrella.	False	True	0.6808796	135	135, 136, 171	0.5	136
+551	Bonsoir, tout le monde !	I love you!	Good evening, everyone.	False	False	0.6025455	892	892, 696, 174	0	507
+552	Il ne m'a pas reconnue.	It seems interesting to me.	He didn't recognize me.	False	False	0.92896163	881	881, 549, 436	0	170
+553	Je ne connais pas la clé du succès, mais celle de l'échec est d'essayer de plaire à tout le monde.	I don't know the key to success, but the key to failure is trying to please everybody.	I don't know the key to success, but the key to failure is trying to please everybody.	True	True	0.6624234	421	421, 594, 415	1.0	421
+554	Les blessés ont été transportés loin du lieu de l'accident.	The injured were removed from the scene.	The injured were removed from the scene.	True	True	0.7701762	247	247, 354, 305	1.0	247
+555	Tom dit qu'il veut apprendre à jouer du hautbois.	Tom says he wants to learn how to play the oboe.	Tom says he wants to learn how to play the oboe.	True	True	0.5715035	185	185, 132, 171	1.0	185
+556	Quelqu'un est-il mort ?	Which house is his?	Did someone die?	False	False	0.75617456	276	276, 456, 563	0	44
+557	Nous assemblâmes tout l'équipement.	We got all the materials together.	We got all the materials together.	True	True	0.99824405	670	670, 587, 88	1.0	670
+558	Quelle heure est-il à Londres maintenant ?	What time is it in London now?	What time is it in London now?	True	True	0.6676998	123	123, 203, 276	1.0	123
+559	Il faut bien que mon ordinateur me serve à quelque chose.	I don't know the key to success, but the key to failure is trying to please everybody.	My computer has got to be useful for something.	False	False	0.74656737	421	421, 831, 756	0	867
+560	Je veux te le faire payer.	I want to pay it back to you.	I want to pay it back to you.	True	True	0.83243084	11	11, 759, 427	1.0	11
+561	La plupart des gens pensent que je suis fou.	Most people think I'm crazy.	Most people think I'm crazy.	True	True	0.81920946	781	781, 508, 417	1.0	781
+562	Nous écoutâmes la fusillade.	We felt the earth tremble.	We listened to the shooting.	False	False	0.93200505	8	8, 918, 242	0	693
+563	Il se peut que j'abandonne bientôt et fasse une sieste à la place.	It is inevitable that I go to France someday, I just don't know when.	I may give up soon and just nap instead.	False	False	0.88298225	899	899, 237, 706	0	760
+564	Quelle est la hauteur du Mont Fuji ?	How high is Mt. Fuji?	How high is Mt. Fuji?	True	True	0.55263245	291	291, 236, 600	1.0	291
+565	Est-ce qu'on peut formuler ça d'une autre manière ?	Can it be phrased in another way?	Can it be phrased in another way?	True	True	0.7617668	878	878, 99, 304	1.0	878
+566	C'est un beau manteau.	These trousers are dirty.	That's a nice coat.	False	True	1.0016443	702	702, 711, 700	0.5	711
+567	Elle a des cheveux secs.	She has dry hair.	She has dry hair.	True	True	0.64957035	288	288, 700, 702	1.0	288
+568	Je dois acheter un nouveau tapis pour cette pièce.	I have to buy a new carpet for this room.	I have to buy a new carpet for this room.	True	True	0.7322478	587	587, 706, 364	1.0	587
+569	Étais-tu avec quelqu'un ?	Do you drink beer or wine?	Were you with anyone?	False	False	0.86353445	699	699, 560, 553	0	728
+570	Aucun de nous n'est assez stupide pour croire qu'il a dit la vérité.	None of us is so foolish as to believe that he was telling the truth.	None of us is so foolish as to believe that he was telling the truth.	True	True	0.6108291	232	232, 837, 841	1.0	232
+571	Il est illégal de copier un livre sans l'autorisation de l'auteur.	It is illegal to copy from books without the author's permission.	It is illegal to copy from books without the author's permission.	True	True	0.54140985	684	684, 577, 262	1.0	684
+572	Je veux acheter quelques pantalons.	I want to buy a few pairs of trousers.	I want to buy a few pairs of trousers.	True	True	0.60097957	706	706, 452, 328	1.0	706
+573	J'aimerais bien pouvoir aller au Japon.	I wish I could go to Japan.	I wish I could go to Japan.	True	True	0.6761373	852	852, 613, 899	1.0	852
+574	Ils remontèrent la rivière à la rame.	They rowed up the river.	They rowed up the river.	True	True	0.8141407	557	557, 202, 72	1.0	557
+575	Nous vivons dans un monde très compliqué.	We live in a very complicated world.	We live in a very complicated world.	True	True	0.6774471	165	165, 164, 368	1.0	165
+576	Mais il est préférable de rester chez soi.	But it is better to stay at home.	But it is better to stay at home.	True	True	0.7702193	358	358, 368, 940	1.0	358
+577	On ne peut pas tout attendre des écoles.	I want to buy a few pairs of trousers.	One can't expect everything from schools.	False	False	1.0331699	706	706, 210, 368	0	871
+578	Nous sommes en train de chercher Tom.	We're looking for Tom.	We're looking for Tom.	True	True	0.61962605	491	491, 253, 250	1.0	491
+579	Je suis si gros.	I'm very fat.	I'm very fat.	True	True	0.81470466	798	798, 894, 447	1.0	798
+580	J'ai trop de choses dans la tête ces jours-ci.	I have too many things on my mind these days.	I have too many things on my mind these days.	True	True	0.6770915	941	941, 341, 398	1.0	941
+581	Je suis désolé de m'en être pris à toi.	I'm sorry if my being here embarrasses you.	I'm sorry if I snapped at you.	False	False	0.78068423	606	606, 197, 570	0	618
+582	La police vous fera trouver les balles.	The police will get you to find the bullets.	The police will get you to find the bullets.	True	True	0.7926347	859	859, 691, 205	1.0	859
+583	Nous savons pourquoi.	They know why.	We know why.	False	True	0.7541764	472	472, 471, 368	0.5	471
+584	Le chat est dans son panier.	The cat is in its basket.	The cat is in its basket.	True	True	0.7400358	548	548, 241, 311	1.0	548
+585	Nous ne sommes pas prêts à avoir un enfant, actuellement.	We're not ready to have a kid now.	We're not ready to have a kid now.	True	True	0.91361964	382	382, 195, 613	1.0	382
+586	Les cours des devises varient quotidiennement.	The two regions differ in religion and culture.	The exchange rates for foreign currency change daily.	False	False	0.9836315	377	377, 305, 719	0	12
+587	Il n'y a personne chez moi.	There's nobody home.	There's nobody home.	True	True	0.926517	514	514, 647, 899	1.0	514
+588	Je me demande s'ils se sépareront.	I wonder if they'll get divorced.	I wonder if they'll get divorced.	True	True	0.7583431	322	322, 977, 769	1.0	322
+589	Même s'il s'est excusé, je suis encore en colère.	Even though he apologized, I'm still furious.	Even though he apologized, I'm still furious.	True	True	0.675478	858	858, 272, 606	1.0	858
+590	As-tu pris un parapluie avec toi ?	Did you bring an umbrella with you?	Did you bring an umbrella with you?	True	True	0.79774475	556	556, 51, 57	1.0	556
+591	Personne ne va t'employer.	I'm no use to anyone.	Nobody's going to hire you.	False	False	0.9020934	549	549, 814, 577	0	516
+592	L'apprentissage ne devrait pas être forcé. L'apprentissage devrait être encouragé.	Learning should not be forced. Learning should be encouraged.	Learning should not be forced. Learning should be encouraged.	True	True	0.59226656	755	755, 421, 825	1.0	755
+593	Elle aurait dû la fermer.	It frosted last night.	She should have kept her mouth shut.	False	False	0.99429655	218	218, 316, 694	0	21
+594	Elle a eu le courage de se renseigner à propos des résultats de l'examen.	She had the courage to go and inquire about the results of the exam.	She had the courage to go and inquire about the results of the exam.	True	True	0.68493533	137	137, 206, 260	1.0	137
+595	Il est constamment à court d'argent.	He was accused of stealing the jewels.	He's always short of money.	False	True	1.0105374	336	336, 4, 292	0.5	4
+596	Je ne pouvais pas comprendre ses idées.	I couldn't understand his ideas.	I couldn't understand his ideas.	True	True	0.73719513	317	317, 109, 938	1.0	317
+597	Je n'ai simplement pas bien dormi.	I just didn't sleep well.	I just didn't sleep well.	True	True	0.6676861	733	733, 854, 709	1.0	733
+598	Les miracles s'appellent des miracles parce qu'ils ne se produisent pas !	Miracles are called miracles because they don't happen!	Miracles are called miracles because they don't happen!	True	True	0.6472199	483	483, 110, 456	1.0	483
+599	Non je ne le suis pas, c'est toi qui l'es !	No I'm not; you are!	No I'm not; you are!	True	True	0.744735	782	782, 918, 795	1.0	782
+600	Je t'ai dit tout ce que je savais.	I have to say I envy you.	I told you everything I knew.	False	False	0.79601514	427	427, 315, 747	0	424
+601	Parfois, il semble que tout le monde me déteste.	Sometimes it seems that everybody hates me.	Sometimes it seems that everybody hates me.	True	True	0.6255505	508	508, 814, 477	1.0	508
+602	As-tu vu qui que ce soit ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Did you see anyone?	False	False	0.7435212	456	456, 313, 504	0	634
+603	Si on ne mange pas, on meurt.	If you don't eat, you die.	If you don't eat, you die.	True	True	0.791378	991	991, 480, 526	1.0	991
+604	L'Amérique est un endroit charmant pour vivre, si c'est pour gagner de l'argent.	America is a lovely place to be, if you are here to earn money.	America is a lovely place to be, if you are here to earn money.	True	True	0.6060988	797	797, 931, 368	1.0	797
+605	Il a refusé de mentionner le projet.	The architect boasted that he had received a prestigious award.	He wouldn't mention the plan.	False	False	0.93630564	610	610, 186, 119	0	329
+606	Personne ne me comprend.	Nobody understands me.	Nobody understands me.	True	True	0.73941314	938	938, 522, 466	1.0	938
+607	C’était un méchant lapin.	Vultures circled above the dead body.	That was an evil bunny.	False	False	1.1021926	242	242, 742, 256	0	748
+608	Je ne parle pas assez bien français !	I don't speak French well enough!	I don't speak French well enough!	True	True	0.5864645	918	918, 936, 709	1.0	918
+609	Refroidis ton doigt brûlé sous l'eau courante.	You can put me in jail, but you cannot give me narrower quarters than as a seaman I have always had; you cannot give me coarser food than as a seaman I have always eaten; you cannot make me lonelier than as a seaman I have always been.	Cool the burned finger in running water.	False	False	0.99911654	619	619, 918, 115	0	294
+610	Nous nous portons mieux sans vous.	"""To tell you the truth, I am scared of heights."" ""You are a coward!"""	We're better off without you.	False	False	0.9162502	965	965, 280, 344	0	588
+611	Qui que ce soit est-il là ?	What is it?	Is anybody there?	False	False	0.7667942	864	864, 276, 293	0	558
+612	Nous devons apprendre à vivre ensemble comme des frères, ou nous périrons ensemble comme des idiots.	We must learn to live together as brothers, or we will perish together as fools.	We must learn to live together as brothers, or we will perish together as fools.	True	True	0.64506185	963	963, 368, 822	1.0	963
+613	La salière sera sur la table.	The salt cellar was on the table.	The salt cellar will be on the table.	False	True	0.7370249	404	404, 407, 311	0.5	407
+614	N'oublie-pas de le rencontrer demain.	I never stop thinking about you.	Remember to see him tomorrow.	False	False	0.892277	573	573, 899, 829	0	279
+615	Il y a un problème que tu ne vois pas.	The problem is I don't have time for it.	There's a problem there that you don't see.	False	False	0.7670083	3	3, 756, 880	0	849
+616	Le port creusé dans ces rivages / garde un calme profond ; mais par d'autres orages / l'épouvantable Etna trouble, en grondant, ces lieux ; / bientôt déploie en l'air des colonnes de feux ; / tantôt, des profondeurs de son horrible gouffre, / de flamme et de fumée, et de cendre et de soufre, / dans le ciel obscurci lance d'affreux torrents ; / tantôt, des rocs noircis par ses feux dévorants / arrachant les éclats, de ses voûtes tremblantes / vomit, en bouillonnant, ses entrailles brûlantes.	It was a spacious harbour, sheltered deep / from access of the winds, but looming vast / with awful ravage, AEtna's neighbouring steep / thundered aloud, and, dark with clouds, upcast / smoke and red cinders in a whirlwind's blast. / Live balls of flame, with showers of sparks, upflew / and licked the stars, and in combustion massed, / torn rocks, her ragged entrails, molten new, / the rumbling mount belched forth from out the boiling stew.	It was a spacious harbour, sheltered deep / from access of the winds, but looming vast / with awful ravage, AEtna's neighbouring steep / thundered aloud, and, dark with clouds, upcast / smoke and red cinders in a whirlwind's blast. / Live balls of flame, with showers of sparks, upflew / and licked the stars, and in combustion massed, / torn rocks, her ragged entrails, molten new, / the rumbling mount belched forth from out the boiling stew.	True	True	0.39206254	47	47, 619, 965	1.0	47
+617	L'assassin confessera bientôt son crime.	The murderer will soon confess his crime.	The murderer will soon confess his crime.	True	True	0.67136645	120	120, 727, 242	1.0	120
+618	Quel livre veux-tu ?	Which book do you want?	Which book do you want?	True	True	0.8303044	112	112, 276, 222	1.0	112
+619	Il fut un temps où je voulais être astrophysicien.	I once wanted to be an astrophysicist.	I once wanted to be an astrophysicist.	True	True	0.5977614	775	775, 776, 899	1.0	775
+620	Il pense que vous avez besoin de dormir davantage.	He thinks that you need to sleep more.	He thinks that you need to sleep more.	True	True	0.65914035	290	290, 822, 591	1.0	290
+621	La vie est dure, mais je suis encore plus dur.	Life is hard, but I am harder.	Life is hard, but I am harder.	True	True	0.5749605	931	931, 895, 774	1.0	931
+622	Moi, j'aime bien la lumière des bougies.	I don't drink beer, only spirits.	I like candlelight.	False	False	0.798393	709	709, 116, 427	0	883
+623	Rien n'est evident.	Nothing is obvious.	Nothing is obvious.	True	True	0.83916664	199	199, 881, 129	1.0	199
+624	Les fritures ne me réussissent pas.	Nobody asked me anything.	Fried food does not agree with me.	False	False	0.9511192	529	529, 702, 303	0	194
+625	Qui que ce soit vous a-t-il vu sur la plage ?	What was that song you were singing?	Did anyone see you on the beach?	False	False	0.87640584	370	370, 884, 600	0	647
+626	Nous sommes tous deux animés du même esprit.	We must learn to live together as brothers, or we will perish together as fools.	He and I are like-minded.	False	False	0.82058215	963	963, 164, 165	0	278
+627	Ça ne peut pas vous faire de mal.	I don't know the key to success, but the key to failure is trying to please everybody.	It can't hurt you.	False	False	0.7184999	421	421, 756, 913	0	430
+628	Je rencontre quelqu'un pour dîner.	I'm meeting someone for dinner.	I'm meeting someone for dinner.	True	True	0.8736843	26	26, 706, 506	1.0	26
+629	J'ai appris à vivre sans elle.	I learned to live without her.	I learned to live without her.	True	True	0.65879226	939	939, 573, 570	1.0	939
+630	Le football est plus populaire que le tennis.	Soccer is more popular than tennis.	Soccer is more popular than tennis.	True	True	0.3707888	231	231, 289, 185	1.0	231
+631	Je me demandais si tu allais venir aujourd'hui.	I thought you liked to learn new things.	I was wondering if you were going to show up today.	False	False	0.8466995	822	822, 403, 613	0	919
+632	Allen est un poète.	Allen is a poet.	Allen is a poet.	True	True	0.4781444	983	983, 449, 289	1.0	983
+633	J'ai essayé de maîtriser l'anglais pendant plus de dix ans, mais je n'ai pas réussi.	I tried to master English for more than ten years, but I failed!	I tried to master English for more than ten years, but I failed!	True	True	0.6835984	221	221, 458, 822	1.0	221
+634	J'aimerais épouser quelqu'un comme toi.	I'd like to get married to someone like you.	I'd like to get married to someone like you.	True	True	0.7033397	28	28, 774, 403	1.0	28
+635	D'entendre la nouvelle m'a rendu joyeux.	I was beside myself with joy when I heard the news.	I was beside myself with joy when I heard the news.	True	True	0.86697173	230	230, 580, 881	1.0	230
+636	J'aimerais donner ceci à quelqu'un auquel nous pouvons nous fier.	I'd like to give this to somebody we can trust.	I'd like to give this to somebody we can trust.	True	True	0.7730243	27	27, 403, 421	1.0	27
+637	Il aurait dû la fermer.	He decided on that.	He should have kept his mouth shut.	False	False	1.0004201	316	316, 218, 723	0	20
+638	Je m'en fais désormais une idée.	I have another good idea.	I get the picture now.	False	False	0.83819103	446	446, 837, 328	0	391
+639	Le Président va-t-il démissionner ?	Is the chairman going to resign?	Is the chairman going to resign?	True	True	0.72356117	504	504, 456, 84	1.0	504
+640	Je pense que j'ai une théorie à ce sujet.	I think I have a theory about that.	I think I have a theory about that.	True	True	0.6757618	837	837, 129, 766	1.0	837
+641	Ouais, allons-y !	I don't speak French well enough!	Yeah, let's go!	False	False	0.8599913	918	918, 714, 740	0	442
+642	À moins de vous dépêcher, vous serez en retard à l'école.	Unless you hurry, you will be late for school.	Unless you hurry, you will be late for school.	True	True	0.84257627	10	10, 544, 929	1.0	10
+643	« Crois-moi » dit-il.	"""This is what I was looking for!"" he exclaimed."	"""Trust me,"" he said."	False	False	0.8523791	966	966, 580, 912	0	104
+644	J'apprécierais que vous m'accompagniez.	I'd appreciate it if you'd help me.	I'd appreciate it if you'd come with me.	False	True	0.81865513	403	403, 500, 658	0.5	500
+645	Qui que ce soit a-t-il un ouvre-boîte ?	Is anybody ready for dessert?	Does anybody have a can opener?	False	False	0.82615674	560	560, 222, 107	0	541
+646	Si le monde n'était pas dans l'état où il est maintenant, je pourrais faire confiance à n'importe qui.	If the world weren't in the shape it is now, I could trust anyone.	If the world weren't in the shape it is now, I could trust anyone.	True	True	0.6931815	778	778, 421, 27	1.0	778
+647	Je ne le dirai à personne.	I made known my intentions to my parents.	I won't tell anyone.	False	False	0.9206202	436	436, 529, 427	0	566
+648	Je dois écrire des lettres.	I have to write some letters.	I have to write some letters.	True	True	0.84191024	452	452, 453, 706	1.0	452
+649	Elle a bon cœur.	Everyone likes you.	She has a kind heart.	False	False	0.7629795	62	62, 459, 417	0	593
+650	Agis comme un humain.	Act like a man.	Act like a man.	True	True	0.9380038	175	175, 216, 164	1.0	175
+651	L'étudiant a été pris en train de tricher.	The student was caught in the act of cheating.	The student was caught in the act of cheating.	True	True	0.7307539	212	212, 202, 336	1.0	212
+652	Le mariage a eu lieu à l'hôtel Ritz.	The wedding took place at the Ritz Hotel.	The wedding took place at the Ritz Hotel.	True	True	0.46351063	347	347, 308, 333	1.0	347
+653	Afin de l'isoler de toute bactérie, aucune visite ne lui est autorisée.	In order to isolate him from bacteria, and such, he is not allowed visitors.	In order to isolate him from bacteria, and such, he is not allowed visitors.	True	True	0.77278185	419	419, 16, 857	1.0	419
+654	Parfois je ne peux pas m'empêcher de montrer des émotions.	He never hears what I'm trying to say.	Sometimes I can't help showing emotions.	False	False	0.84015286	315	315, 747, 811	0	808
+655	As-tu enlacé qui que ce soit ?	Would you please repeat what you just said?	Did you hug anybody?	False	False	0.8108771	313	313, 51, 504	0	639
+656	C'est la chose la plus stupide que j'ai jamais dite.	That's the stupidest thing I've ever said.	That's the stupidest thing I've ever said.	True	True	0.55571425	794	794, 573, 116	1.0	794
+657	Est-ce que tu as vraiment besoin de poser la question pour connaître la réponse ?	Do you really need to ask the question to know the answer?	Do you really need to ask the question to know the answer?	True	True	0.69341993	943	943, 915, 42	1.0	943
+658	Vous pouvez me mettre en prison mais vous ne pouvez me donner de quartiers plus étroits que ce dont, marin, j'ai disposé ; vous ne pouvez me donner nourriture plus grossière que celle que, marin, j'ai toujours mangée ; vous ne pouvez me rendre plus solitaire que ce que, marin, j'ai été.	You can put me in jail, but you cannot give me narrower quarters than as a seaman I have always had; you cannot give me coarser food than as a seaman I have always eaten; you cannot make me lonelier than as a seaman I have always been.	You can put me in jail, but you cannot give me narrower quarters than as a seaman I have always had; you cannot give me coarser food than as a seaman I have always eaten; you cannot make me lonelier than as a seaman I have always been.	True	True	0.554019	619	619, 965, 795	1.0	619
+659	Quiconque s'y trouve-t-il ?	Which house is his?	Is there anyone there?	False	False	0.8109486	276	276, 222, 550	0	559
+660	Tout le monde t'apprécie.	Nobody appreciates me.	Everyone likes you.	False	True	0.7598046	530	530, 62, 417	0.5	62
+661	C'est malheureusement vrai.	I think it is a mere coincidence.	It is unfortunately true.	False	True	0.72389877	129	129, 779, 762	0.5	779
+662	Parlons d'abord des expériences faites en laboratoires.	First, let us talk about the experiments conducted in laboratories.	First, let us talk about the experiments conducted in laboratories.	True	True	0.7943759	615	615, 688, 149	1.0	615
+663	Tom s'est fait beaucoup d'argent avec cette affaire.	Tom made good money on that deal.	Tom made good money on that deal.	True	True	0.6203979	125	125, 132, 182	1.0	125
+664	Je suppose que derrière chaque chose que l'on doit faire, il y a quelque chose que l'on veut faire...	I suppose that behind each thing we have to do, there's something we want to do...	I suppose that behind each thing we have to do, there's something we want to do...	True	True	0.6533313	945	945, 381, 756	1.0	945
+665	Il est digne de confiance.	He loves you.	He is trustworthy.	False	True	0.8012414	459	459, 191, 510	0.5	191
+666	Nous visons tous au succès.	Everybody in the audience sang along.	We all strive for success.	False	False	0.94461167	72	72, 297, 693	0	344
+667	En janvier, le nombre de chômeurs est tombé au plus bas depuis cinq ans.	The unemployment rate dropped to a five-year low in January.	The unemployment rate dropped to a five-year low in January.	True	True	0.8140507	667	667, 987, 451	1.0	667
+668	Pourquoi les hommes ne sont-ils pas sincères ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Why do people use indirectness?	False	False	0.85939384	456	456, 222, 304	0	213
+669	Je n'écris pas à ton sujet.	I did not understand a word.	I'm not writing about you.	False	False	0.82005954	109	109, 466, 828	0	574
+670	Théoriquement, je suis en train de faire des maths.	Theoretically, I'm doing math.	Theoretically, I'm doing math.	True	True	0.5896503	863	863, 822, 458	1.0	863
+671	La plupart des gens écrivent à propos de leur vie quotidienne.	Most people write about their daily life.	Most people write about their daily life.	True	True	0.6814642	823	823, 281, 67	1.0	823
+672	Sa femme a eu des jumeaux.	His wife gave birth to twins.	His wife gave birth to twins.	True	True	0.9078367	308	308, 694, 413	1.0	308
+673	Mon grand-père a l'habitude de déjeuner à six heures.	I'll travel across Europe by bicycle this summer.	My grandfather usually eats breakfast at six.	False	False	0.8422905	613	613, 918, 706	0	333
+674	Tu es veinarde.	I miss you.	You're in luck.	False	False	0.90830445	768	768, 487, 604	0	168
+675	Réfléchissons au pire qui pourrait arriver.	Let's consider the worst that could happen.	Let's consider the worst that could happen.	True	True	0.93002474	812	812, 368, 421	1.0	812
+676	Ils sont actuellement en train de l'amener pour lui poser des questions.	It's useless to keep on thinking any more.	They're bringing him in for questioning now.	False	True	0.9779917	940	940, 397, 26	0.5	397
+677	Chaque personne qui est seule est seule parce qu'elle a peur des autres.	Every person who is alone is alone because they are afraid of others.	Every person who is alone is alone because they are afraid of others.	True	True	0.569355	826	826, 922, 663	1.0	826
+678	Thomas cria comme une femme.	Tom made himself a cup of tea.	Tom screamed like a woman.	False	False	1.0140513	124	124, 173, 171	0	172
+679	La ville entière fut détruite par un incendie.	All of the town was destroyed by a fire.	All of the town was destroyed by a fire.	True	True	0.6321466	685	685, 644, 218	1.0	685
+680	Mon prof de physique s'en fiche si je sèche les cours.	My physics teacher doesn't care if I skip classes.	My physics teacher doesn't care if I skip classes.	True	True	0.9080776	851	851, 158, 918	1.0	851
+681	Les États-Unis d'Amérique du Nord exportent du blé dans le monde entier.	The United States of America export wheat throughout the world.	The United States of America export wheat throughout the world.	True	True	0.6130645	145	145, 154, 192	1.0	145
+682	La population était écrasée sous les impôts.	The population was crushed by the taxes.	The population was crushed by the taxes.	True	True	0.72521424	201	201, 479, 667	1.0	201
+683	Nous sommes de votre avis.	We agree with you.	We agree with you.	True	True	0.8690641	1	1, 408, 282	1.0	1
+684	L'eau pétillante n'est pas très populaire en Amérique.	Fizzy water isn't very popular in America.	Fizzy water isn't very popular in America.	True	True	0.68788266	575	575, 378, 194	1.0	575
+685	L'école est très loin d'ici.	The school is very far from here.	The school is very far from here.	True	True	0.8262973	128	128, 607, 74	1.0	128
+686	Les écailles de ce poisson reluisent avec la lumière.	The scales of this fish shine with the light.	The scales of this fish shine with the light.	True	True	0.68347776	98	98, 155, 700	1.0	98
+687	Elle a dit qu'elle sera ici vers six heures.	She told me she would be here about six.	She told me she would be here about six.	True	True	0.74305534	153	153, 364, 429	1.0	153
+688	Je leur donnerai à manger.	I will give them food.	I will give them food.	True	True	0.9292438	408	408, 706, 691	1.0	408
+689	"""Qu'est-ce qui ne va pas ?"" demanda le petit lapin blanc."	"""What's the matter?"" asked the little white rabbit."	"""What's the matter?"" asked the little white rabbit."	True	True	0.7294903	961	961, 912, 959	1.0	961
+690	Prêter attention à ce que tu fais est une des clés les plus importantes pour réussir.	Paying attention to what you are doing is one of the most important keys to success.	Paying attention to what you are doing is one of the most important keys to success.	True	True	0.55567336	462	462, 421, 756	1.0	462
+691	C'est un mot pour lequel j'aimerais trouver un substitut.	It's a word I'd like to find a substitute for.	It's a word I'd like to find a substitute for.	True	True	0.7724116	809	809, 831, 421	1.0	809
+692	Bois-tu de la bière ou du vin ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Do you drink beer or wine?	False	True	0.96326864	456	456, 699, 276	0.5	699
+693	Nous sommes maintenant en phase.	We were wasted.	We're on the same page now.	False	False	0.9927149	297	297, 235, 977	0	383
+694	Il sera heureux de vous voir.	He'll be glad to see you.	He'll be glad to see you.	True	True	0.82889295	698	698, 598, 923	1.0	698
+695	Pourquoi demandes-tu ?	Why are you asking?	Why are you asking?	True	True	0.7543502	827	827, 699, 504	1.0	827
+696	Quiconque se trouve-t-il à bord ?	Is anyone on board?	Is anyone on board?	True	True	0.698194	550	550, 276, 222	1.0	550
+697	Quelqu'un ici sait-il comme le faire ?	Which house is his?	Does someone here know how to do this?	False	True	0.82418084	276	276, 42, 456	0.5	42
+698	Je ferai de mon mieux pour ne pas perturber tes révisions.	I'll do my best not to disturb your studying.	I'll do my best not to disturb your studying.	True	True	0.7780199	764	764, 594, 193	1.0	764
+699	Je n'ai parlé à personne.	I made known my intentions to my parents.	I didn't talk to anybody.	False	False	0.83144236	436	436, 402, 529	0	622
+700	Je ne peux pas vivre comme ça.	I can't live that kind of life.	I can't live that kind of life.	True	True	0.59787846	774	774, 594, 573	1.0	774
+701	Tu as vendu des pommes au marché.	You used to sell some apples at the market.	You sold some apples at the market.	False	True	0.78004134	690	690, 691, 706	0.5	691
+702	Tom a toujours voulu aller dans l'armée de l'air.	Tom always wanted to join the air force.	Tom always wanted to join the air force.	True	True	0.6236042	284	284, 185, 250	1.0	284
+703	Lorsqu'elle était jeune, elle était très belle.	When she was young, she was very beautiful.	When she was young, she was very beautiful.	True	True	0.469301	24	24, 820, 141	1.0	24
+704	Nous sentions comme la terre tremblait.	We felt the earth tremble.	We felt the earth tremble.	True	True	0.6950494	8	8, 242, 297	1.0	8
+705	Il n'est pas dans mon intention d'être égoïste.	I don't intend to be selfish.	I don't intend to be selfish.	True	True	0.7379004	811	811, 814, 816	1.0	811
+706	Je ne suis pas un vrai poisson, je ne suis qu'une simple peluche.	I'm not a real fish, I'm just a mere plushy.	I'm not a real fish, I'm just a mere plushy.	True	True	0.69524693	801	801, 828, 216	1.0	801
+707	Je t'ai presque tiré dessus.	I almost shot you.	I almost shot you.	True	True	0.7861661	662	662, 660, 800	1.0	662
+708	Je pensais que tu aimais apprendre de nouvelles choses.	I thought you liked to learn new things.	I thought you liked to learn new things.	True	True	0.63329554	822	822, 939, 116	1.0	822
+709	Parfois des questions nous informent plus que des réponses.	Sometimes, questions provide us with more information than answers.	Sometimes, questions provide us with more information than answers.	True	True	0.72262764	149	149, 968, 462	1.0	149
+710	Il est onze heures, les enfants doivent aller au lit, ils ont école demain.	It's 11 o'clock. The children must go to bed. They have school tomorrow.	It's 11 o'clock. The children must go to bed. They have school tomorrow.	True	True	0.60492826	429	429, 277, 254	1.0	429
+711	Merci beaucoup d'être ainsi fidèle à notre magasin depuis si longtemps.	Thank you very much for patronizing our store for a long time.	Thank you very much for patronizing our store for a long time.	True	True	0.80160165	426	426, 598, 421	1.0	426
+712	Pour une certaine raison je me sens plus vivant la nuit.	For some reason I feel more alive at night.	For some reason I feel more alive at night.	True	True	0.7664795	791	791, 899, 656	1.0	791
+713	C'est notre unique spectacle.	It's our only show.	It's our only show.	True	True	0.6697576	299	299, 151, 399	1.0	299
+714	Mon père a l'habitude venir à la maison à six heures.	It's 11 o'clock. The children must go to bed. They have school tomorrow.	My father usually comes home at six.	False	False	0.746446	429	429, 277, 14	0	217
+715	Je ne sais qu'une chose, c'est que je ne sais rien.	I only know this: that I know nothing.	I only know this: that I know nothing.	True	True	0.7613065	466	466, 922, 756	1.0	466
+716	De nombreux clients viennent consulter cet avocat.	Many clients come to that lawyer for advice.	Many clients come to that lawyer for advice.	True	True	0.7613784	380	380, 686, 432	1.0	380
+717	Veux-tu bien mettre la table contre le mur ?	How many pens are there on the desk?	Please put the table next to the wall.	False	False	0.82380354	222	222, 51, 504	0	257
+718	Qu'est-ce que tu fais ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	What are you doing?	False	False	0.6898595	456	456, 112, 276	0	737
+719	Je bois sa bière.	I want to buy a few pairs of trousers.	I drink his beer.	False	True	0.9751291	706	706, 701, 918	0.5	701
+720	Veuillez mettre votre ceinture de sécurité.	Your name's further down the list.	Please fasten your seat belt.	False	False	0.9739435	187	187, 965, 862	0	482
+721	N'importe qui pourrait faire ça.	Anyone could do that.	Anyone could do that.	True	True	0.6711948	555	555, 526, 501	1.0	555
+722	L'homme est pour l'homme un ennemi plus dangereux que les forces de la nature ou les bêtes sauvages.	Man is a more dangerous foe to man than the elements of nature or animals in the wild.	Man is a more dangerous foe to man than the elements of nature or animals in the wild.	True	True	0.59977317	652	652, 835, 17	1.0	652
+723	Quelque chose ne va pas avec les freins.	Something is wrong with the brakes.	Something is wrong with the brakes.	True	True	0.8430072	325	325, 756, 421	1.0	325
+724	C'est pourquoi nous te voulons.	That's why we want you.	That's why we want you.	True	True	0.7145934	657	657, 564, 918	1.0	657
+725	J'ai engagé quelqu'un aujourd'hui.	I thought you liked to learn new things.	I hired someone today.	False	False	0.89261293	822	822, 328, 775	0	36
+726	Je connais tout le monde, ici.	I can do this with you or without you.	I know everybody here.	False	False	0.8020538	594	594, 130, 461	0	94
+727	Si je voulais te faire peur, je te raconterais ce dont j'ai rêvé il y a quelques semaines.	I liked you even more when I met you.	If I wanted to scare you, I would tell you what I dreamt about a few weeks ago.	False	True	0.71255875	116	116, 870, 899	0.5	870
+728	Dans les années 50, on citait les Finnois comme ayant les régimes alimentaires les moins sains du monde.	In the 1950's, the Finns were cited as having one of the least healthy diets in the world.	In the 1950's, the Finns were cited as having one of the least healthy diets in the world.	True	True	0.58697	987	987, 378, 79	1.0	987
+729	Qui que ce soit d'autre a-t-il peur ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Is anybody else scared?	False	False	0.7758423	456	456, 553, 535	0	565
+730	« Merci de m'aider. » « Il n'y a pas de quoi. »	"""Thanks for the help."" ""Don't mention it."""	"""Thanks for the help."" ""Don't mention it."""	True	True	0.7094524	971	971, 960, 996	1.0	971
+731	Super histoire, mon vieux !	Welcome to our restaurant!	Cool story, bro.	False	False	0.7335501	351	351, 174, 788	0	489
+732	J'ai un point de côté.	I want to buy a few pairs of trousers.	I've got a pain in my side.	False	False	0.9690459	706	706, 587, 210	0	341
+733	En découvrant que les autres avaient réussi, elle devint verte de jalousie.	Upon finding out about the others' success, she turned green with envy.	Upon finding out about the others' success, she turned green with envy.	True	True	0.80005634	233	233, 939, 573	1.0	233
+734	Tu devrais dormir.	If you don't eat, you die.	You should go to sleep.	False	True	0.73498917	991	991, 771, 604	0.5	771
+735	Ne regarde pas la télévision.	He doesn't know English at all.	Don't watch TV.	False	False	0.8664715	126	126, 335, 936	0	460
+736	Je n'ai plus peur.	I'm not afraid anymore.	I'm not afraid anymore.	True	True	0.7287657	272	272, 161, 447	1.0	272
+737	Pratiquement tout le monde est venu.	To travel hopefully is a better thing than to arrive.	Just about everyone came.	False	False	0.87554836	368	368, 931, 8	0	96
+738	Je ne sais pas si je l'ai encore.	I'm not happy.	I don't know if I still have it.	False	True	0.8033204	680	680, 914, 427	0.5	914
+739	Je commence à en avoir assez de vos plaintes.	I have to write some letters.	I'm getting tired of your complaints.	False	True	0.855741	452	452, 706, 193	0.3333333333333333	193
+740	L'hirondelle est un oiseau migrateur.	The swallow is a migratory bird.	The swallow is a migratory bird.	True	True	0.62447965	196	196, 218, 225	1.0	196
+741	J'ai une autre bonne idée.	I have another good idea.	I have another good idea.	True	True	0.43389225	446	446, 837, 328	1.0	446
+742	J'ai froid ce matin.	I feel cold this morning.	I feel cold this morning.	True	True	0.8500979	718	718, 209, 438	1.0	718
+743	On connait par les fleurs l'excellence du fruit.	We know by the flowers the quality of the fruit.	We know by the flowers the quality of the fruit.	True	True	0.8475543	480	480, 133, 393	1.0	480
+744	Son assiduité lui a rapporté le succès.	His diligence earned him success.	His diligence earned him success.	True	True	0.82173955	686	686, 413, 610	1.0	686
+745	Je veux des gardes postés ici et je les veux maintenant !	"""To tell you the truth, I am scared of heights."" ""You are a coward!"""	I want guards posted here and I want them here now.	False	True	0.8836833	965	965, 110, 388	0.3333333333333333	388
+746	Je suis trop bête... J'essaie de t'expliquer des choses que je ne comprends pas moi-même.	I'm so dumb... I'm trying to explain things to you that I don't understand myself.	I'm so dumb... I'm trying to explain things to you that I don't understand myself.	True	True	0.75848067	951	951, 315, 811	1.0	951
+747	Dès le départ, je n'ai jamais eu l'intention d'habiter dans une grande ville.	I had no intention of living in a large city from the start.	I had no intention of living in a large city from the start.	True	True	0.5270183	252	252, 656, 899	1.0	252
+748	Quel est votre auteur favori ?	Who is your favorite author?	Who is your favorite author?	True	True	0.7187637	600	600, 276, 601	1.0	600
+749	Vous n'avez rien à faire sauf vous faire confiance.	All you can do is trust one another.	All you can do is trust one another.	True	True	0.7105396	922	922, 421, 594	1.0	922
+750	Il me faut le dire à quelqu'un.	I only know this: that I know nothing.	I have to tell someone.	False	False	0.88816	466	466, 421, 988	0	38
+751	Dépêche-toi !	Don't worry about it!	Hurry it up!	False	True	0.75529957	767	767, 918, 788	0.3333333333333333	788
+752	Mon avis diffère un peu du vôtre.	Don't take any notice of what he says.	My opinion is a little different from yours.	False	False	0.89008665	422	422, 48, 918	0	302
+753	C'est pourquoi je me fie à toi.	That's why I trust you.	That's why I trust you.	True	True	0.76516986	564	564, 657, 427	1.0	564
+754	Est-ce que tu es sûr ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Are you sure?	False	False	0.9194498	456	456, 112, 222	0	785
+755	C’est un jeu de mots.	"The password is ""Muiriel""."	This is a pun.	False	True	1.1180711	742	742, 937, 171	0.5	937
+756	Je dois te poser une question idiote.	Stop asking yourself useless questions.	I need to ask you a silly question.	False	False	0.9886024	439	439, 943, 878	0	875
+757	Ne t'approche pas de ça !	Don't go near that!	Don't go near that!	True	True	0.6718168	440	440, 767, 918	1.0	440
+758	Ce n'est pas quelque chose que n'importe qui peut faire.	It's not something anyone can do.	It's not something anyone can do.	True	True	0.76478267	913	913, 421, 816	1.0	913
+759	Il t'aime.	I miss you.	He loves you.	False	False	0.69291425	768	768, 680, 681	0	459
+760	Ça porte malheur de dire ça.	I miss you.	It's bad luck to say that.	False	False	0.86405087	768	768, 526, 405	0	410
+761	Je m'excuse, je ne peux pas rester longtemps.	I don't want to wait that long.	I'm sorry, I can't stay long.	False	False	0.65534556	895	895, 899, 403	0	994
+762	J'ai estimé qu'il était préférable de ne pas y aller sans vous.	I figured that it was better not to go without you.	I figured it was better not to go without you.	False	True	0.7076322	591	591, 589, 899	0.5	589
+763	C'est horriblement lent.	Bearing can be unbearable.	It's excruciatingly slow.	False	True	0.93197596	932	932, 303, 501	0.5	303
+764	Mais sérieusement, l'épisode 21 m'a presque fait pleurer de rire.	Seriously though, episode 21 made me almost cry while laughing.	Seriously though, episode 21 made me almost cry while laughing.	True	True	0.8836967	909	909, 71, 410	1.0	909
+765	S'il te plaît, ne pleure pas.	If you don't eat, you die.	Please don't cry.	False	False	0.839664	991	991, 477, 459	0	974
+766	La dernière personne à qui j'ai raconté mon idée a pensé que j'étais cinglé.	The last person I told my idea to thought I was nuts.	The last person I told my idea to thought I was nuts.	True	True	0.7344506	777	777, 198, 580	1.0	777
+767	Une calamité a été évitée par pure chance.	A calamity was avoided by sheer luck.	A calamity was avoided by sheer luck.	True	True	0.8581761	411	411, 401, 779	1.0	411
+768	J'ai l'impression que cette nuit va être une bonne nuit !	I have a feeling that tonight is going to be a good night!	I have a feeling that tonight is going to be a good night!	True	True	0.68965614	664	664, 918, 795	1.0	664
+769	J'aurai un déjeuner qui t'attendra.	It is inevitable that I go to France someday, I just don't know when.	I'll have lunch waiting for you.	False	False	1.0211722	899	899, 580, 706	0	676
+770	Je me suis arrêté pour pouvoir fumer une cigarette.	I stopped so I could smoke a cigarette.	I stopped so I could smoke a cigarette.	True	True	0.69101334	484	484, 616, 161	1.0	484
+771	Quelqu'un peut-il ouvrir une fenêtre ?	Can someone open a window?	Can someone open a window?	True	True	0.78340006	53	53, 560, 372	1.0	53
+772	Pour une fois dans ma vie je fais un bon geste... Et ça ne sert à rien.	For once in my life I'm doing a good deed... And it is useless.	For once in my life I'm doing a good deed... And it is useless.	True	True	0.67314625	381	381, 672, 619	1.0	381
+773	Tout le monde a des secrets.	Everybody has secrets.	Everybody has secrets.	True	True	0.6722753	75	75, 164, 908	1.0	75
+774	Personne ne va vous employer.	Nobody will hire you.	Nobody will hire you.	True	True	0.9222983	517	517, 828, 338	1.0	517
+775	Ne sous-estime pas ma puissance.	Do not underestimate my power.	Do not underestimate my power.	True	True	0.8172555	916	916, 393, 368	1.0	916
+776	J'ai appelé Susan pour m'excuser, mais elle m'a raccroché au nez.	I called Susan to apologize to her, but she hung up on me.	I called Susan to apologize to her, but she hung up on me.	True	True	0.6418612	425	425, 500, 355	1.0	425
+777	Tout le monde vous apprécie.	Everyone likes you.	Everybody likes you.	False	True	0.7310041	62	62, 417, 461	0.5	417
+778	Tout ne se rapporte pas à vous.	Nobody understands me.	Not everything is about you.	False	False	0.7359319	938	938, 466, 530	0	578
+779	J'apprends l'anglais parce que je veux aller aux États Unis.	I'm studying English because I plan to go to the United States.	I'm studying English because I plan to go to the United States.	True	True	0.6169889	458	458, 899, 366	1.0	458
+780	Je suis venu pour vous souhaiter bonne chance.	I'll travel across Europe by bicycle this summer.	I came to wish you good luck.	False	False	0.75983083	613	613, 899, 34	0	418
+781	Ne fume pas ici.	I miss you.	Don't smoke here.	False	False	0.7160959	768	768, 520, 209	0	602
+782	Es-tu déjà allé à l'étranger ?	Must I stay in bed?	Have you ever been abroad?	False	True	0.8301171	435	435, 899, 264	0.3333333333333333	264
+783	Ce n'est pas important.	This is not important.	This is not important.	True	True	0.7455723	844	844, 501, 881	1.0	844
+784	Apporte de l'eau avec le seau.	Bring water with the bucket.	Bring water with the bucket.	True	True	1.1009215	708	708, 133, 218	1.0	708
+785	Bats-toi comme un homme !	Fight like a man!	Fight like a man!	True	True	0.70634437	174	174, 918, 159	1.0	174
+786	L'homme qui conduit le bus est un bon ami à moi.	The man driving the bus is a good friend of mine.	The man driving the bus is a good friend of mine.	True	True	0.8356204	592	592, 421, 35	1.0	592
+787	Tom a pris trois grandes respirations.	Tom took three deep breaths.	Tom took three deep breaths.	True	True	0.85926795	412	412, 124, 284	1.0	412
+788	Dans cette bibliothèque, il y a beaucoup de livres.	There are a great many books in this library.	There are a great many books in this library.	True	True	0.7656988	342	342, 493, 361	1.0	342
+789	Il me fallait le dire à quelqu'un.	I did not understand a word.	I had to tell somebody.	False	False	0.92012525	109	109, 315, 940	0	41
+790	Je vais le dire à tout le monde.	You understand me.	I'm going to tell everybody.	False	False	0.7978426	461	461, 408, 466	0	509
+791	Tu voulais me parler de liberté ?	You wanted to tell me about freedom?	You wanted to tell me about freedom?	True	True	0.9357991	868	868, 699, 918	1.0	868
+792	Il me donne des coups de pied !	I don't speak French well enough!	He's kicking me!	False	True	0.8301724	918	918, 174, 784	0.3333333333333333	784
+793	Je n'ai simplement voulu prendre aucun risque.	In order to do that, you have to take risks.	I just didn't want to take any chances.	False	True	0.7153976	825	825, 734, 626	0.5	734
+794	Thomas mange comme un cochon.	Tom eats like a pig.	Tom eats like a pig.	True	True	0.71093273	171	171, 124, 333	1.0	171
+795	Est-ce que vous dormez mal la nuit ?	Do you drink beer or wine?	Do you have trouble sleeping at night?	False	False	0.8053068	699	699, 123, 370	0	211
+796	Je déteste ça quand il y a trop de gens.	I hate it when there are a lot of people.	I hate it when there are a lot of people.	True	True	0.68520546	853	853, 831, 421	1.0	853
+797	Personne n'était chez moi.	I was in the mountains.	Nobody was home.	False	False	0.7450776	749	749, 520, 519	0	518
+798	Tout le monde attend dans la pièce d'à côté.	Everyone is in the living room watching TV.	Everyone is waiting in the other room.	False	True	0.8547801	67	67, 64, 65	0.5	64
+799	Je connais quelqu'un qui peut t'aider.	I'd appreciate it if you'd help me.	I know someone who can help you.	False	True	0.7675135	403	403, 421, 34	0.3333333333333333	34
+800	Aujourd'hui j'ai étudié le chinois pendant deux heures.	Today I studied Chinese for two hours.	Today I studied Chinese for two hours.	True	True	0.58443856	223	223, 688, 61	1.0	223
+801	Je pense que ce n'est qu'un hasard.	I think it is a mere coincidence.	I think it is a mere coincidence.	True	True	0.7796	129	129, 837, 421	1.0	129
+802	Supporter peut être insupportable.	Bearing can be unbearable.	Bearing can be unbearable.	True	True	0.9915278	932	932, 295, 840	1.0	932
+803	L'avion atterrira dans une heure.	The plane will land in an hour.	The plane will land in an hour.	True	True	0.64078975	259	259, 224, 292	1.0	259
+804	Je t'ai mené précisément où je voulais.	It is inevitable that I go to France someday, I just don't know when.	I got you all right where I want you.	False	False	0.7985375	899	899, 747, 580	0	655
+805	Leur voyage fut remis en raison de la pluie.	Their trip was postponed because of the rain.	Their trip was postponed because of the rain.	True	True	0.5946634	451	451, 139, 557	1.0	451
+806	Le commerce entre Les États-Unis et la Chine a beaucoup augmenté.	There has been a large increase in trade between the United States and China.	There has been a large increase in trade between the United States and China.	True	True	0.5993743	154	154, 145, 12	1.0	154
+807	Ils savent pourquoi.	They know why.	They know why.	True	True	0.7236488	472	472, 471, 408	1.0	472
+808	Si vous ne vous fiez pas à eux, ils ne se fieront pas à vous.	If you don't trust them, they won't trust you.	If you don't trust them, they won't trust you.	True	True	0.6759509	568	568, 963, 97	1.0	568
+809	Où est ma pipe en écume de mer ?	Where is my Meerschaum pipe?	Where is my Meerschaum pipe?	True	True	0.7498753	724	724, 556, 108	1.0	724
+810	Fous-moi juste la paix ! Tu es pathétique !	I love you!	Just leave me alone. You're pathetic.	False	False	0.6855453	892	892, 174, 696	0	611
+811	Je l'aime en dépit de ses défauts.	I love him despite his faults.	I love him despite his faults.	True	True	0.7849493	710	710, 573, 421	1.0	710
+812	Ça ne devrait pas être dur pour toi.	That shouldn't be hard for you.	That shouldn't be hard for you.	True	True	0.6533905	669	669, 895, 818	1.0	669
+813	Je n’ai pas de compte sur ces forums.	I do not have an account in these forums.	I do not have an account in these forums.	True	True	0.7910447	840	840, 706, 577	1.0	840
+814	Qui vivra, verra.	If you don't eat, you die.	Let's wait and see.	False	False	0.9582243	991	991, 8, 242	0	271
+815	Presque tous sont venus.	They are on their way home.	Almost everyone came.	False	False	0.973456	235	235, 521, 70	0	227
+816	Vous ne pouvez pas être trop prudent quand vous conduisez.	You can't be too careful when you drive.	You can't be too careful when you drive.	True	True	0.73965514	228	228, 658, 423	1.0	228
+817	Vous avez vendu des pommes au marché.	You used to sell some apples at the market.	She sold some apples at the market.	False	False	0.7921096	690	690, 691, 706	0	694
+818	Je sortais de chez moi, lorsqu'il s'est mis à pleuvoir.	I was leaving home, when it started to rain.	I was leaving home, when it started to rain.	True	True	0.8556076	95	95, 899, 140	1.0	95
+819	Tout le monde sait ça.	I need someone now.	Everyone knows that.	False	False	0.74931	32	32, 461, 931	0	63
+820	J'ai estimé qu'il était préférable de ne pas y aller sans toi.	I figured that it was better not to go without you.	I figured that it was better not to go without you.	True	True	0.7061446	591	591, 589, 899	1.0	591
+821	Il se peut que leur communication soit beaucoup plus complexe que nous le pensions.	Their communication may be much more complex than we thought.	Their communication may be much more complex than we thought.	True	True	0.84194434	968	968, 421, 929	1.0	968
+822	Il tient pour principe de faire une promenade chaque matin.	He makes it a rule to take a walk every morning.	He makes it a rule to take a walk every morning.	True	True	0.8695835	617	617, 79, 262	1.0	617
+823	Est-ce que tout le monde s'amuse ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Is everyone having fun?	False	False	0.67511463	456	456, 560, 512	0	87
+824	Elle est très intéressée par la musique.	She has a great interest in music.	She has a great interest in music.	True	True	0.50006855	289	289, 208, 673	1.0	289
+825	Beaucoup de gens ne pouvaient pas le reconnaître sous ce déguisement.	Quite a few people couldn't recognize him in that disguise.	Quite a few people couldn't recognize him in that disguise.	True	True	0.76360965	433	433, 873, 577	1.0	433
+826	Je sais que certaines personnes valorisent mon travail.	I know that some people value my work.	I know that some people value my work.	True	True	0.6465709	338	338, 421, 34	1.0	338
+827	Je ne fais que parler !	I don't speak French well enough!	I'm just saying!	False	False	0.7730422	918	918, 110, 767	0	802
+828	Ça ne commence pas avant huit heures trente.	It doesn't start until eight thirty.	It doesn't start until eight thirty.	True	True	0.71976626	978	978, 429, 501	1.0	978
+829	"""Pourquoi tu n'y vas pas ?"" ""Parce que je ne veux pas."""	"""Why aren't you going?"" ""Because I don't want to."""	"""Why aren't you going?"" ""Because I don't want to."""	True	True	0.6228154	996	996, 960, 959	1.0	996
+830	Avez-vous vu qui que ce soit partir ?	Where are you going to vacation this summer?	Did you see anyone leave?	False	False	0.8524126	572	572, 699, 456	0	633
+831	Je dois aller au lit.	At night you sleep.	I have to go to bed.	False	False	1.0745693	209	209, 769, 258	0	854
+832	Nous ne pouvons pas satisfaire vos besoins.	We cannot meet your needs.	We cannot meet your needs.	True	True	0.8832656	49	49, 825, 368	1.0	49
+833	Je déteste absolument l'écriture formelle !	I don't speak French well enough!	I utterly despise formal writing!	False	True	0.7465687	918	918, 925, 876	0.5	925
+834	T'ai-je entendu parler à quelqu'un ?	Did I hear you talking to someone?	Did I hear you talking to someone?	True	True	0.84995806	50	50, 511, 878	1.0	50
+835	Je ne suis pas un grand voyageur.	I am not much of a traveller.	I am not much of a traveller.	True	True	0.7706952	905	905, 828, 801	1.0	905
+836	Il ne viendra pas aujourd'hui.	He will not come today.	He will not come today.	True	True	1.0377977	220	220, 501, 762	1.0	220
+837	Y a-t-il qui que ce soit là-dedans ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Anybody in here?	False	False	0.8515338	456	456, 112, 504	0	562
+838	Je ne sais pas ce que tu veux dire.	I only know this: that I know nothing.	I don't know what you mean.	False	False	0.751014	466	466, 594, 573	0	866
+839	Il prit cette décision.	He decided on that.	He decided on that.	True	True	0.59204936	316	316, 339, 119	1.0	316
+840	Il existe différents types de niqab, dont certains couvrent tout le visage.	There are different types of niqab, some of which cover the entire face.	There are different types of niqab, some of which cover the entire face.	True	True	0.5049617	719	719, 707, 702	1.0	719
+841	"Comment épelles-tu ""pretty"" ?"	"How do you spell ""pretty""?"	"How do you spell ""pretty""?"	True	True	0.57019424	992	992, 222, 273	1.0	992
+842	Oh, il y a un papillon !	Oh, there's a butterfly!	Oh, there's a butterfly!	True	True	0.6091981	787	787, 174, 714	1.0	787
+843	Quoique je fasse, elle dit que je peux faire mieux.	Whatever I do, she says I can do better.	Whatever I do, she says I can do better.	True	True	0.7343309	927	927, 747, 403	1.0	927
+844	Pour une certaine raison le microphone ne marchait pas tout à l'heure.	For some reason the microphone didn't work earlier.	For some reason the microphone didn't work earlier.	True	True	0.79388356	752	752, 254, 688	1.0	752
+845	C'est ce que j'aurais dit.	This is what I would have said.	This is what I would have said.	True	True	0.67678356	805	805, 399, 564	1.0	805
+846	Je ne suis pas contente.	I am not happy.	I'm not satisfied.	False	True	0.77946997	681	681, 682, 272	0.5	682
+847	Quelqu'un pourrait-il me passer un couteau ?	Could someone hand me a knife?	Could someone hand me a knife?	True	True	0.86291945	51	51, 222, 553	1.0	51
+848	Elle travaille aussi dur que n'importe quel autre étudiant.	She works as hard as any other student.	She works as hard as any other student.	True	True	0.65875196	158	158, 851, 931	1.0	158
+849	Quand je me suis réveillé j'étais triste.	I liked you even more when I met you.	When I woke up, I was sad.	False	True	0.78857994	116	116, 820, 596	0.5	820
+850	La marche des Beurs a éclaté suite à plusieurs épisodes de racisme et de violence.	The Beurs March broke out after several episodes of racism and violence.	The Beurs March broke out after several episodes of racism and violence.	True	True	0.6021905	725	725, 965, 957	1.0	725
+851	Quel était donc cette chanson que tu as chantée ?	What was that song you were singing?	What was that song you were singing?	True	True	0.71708333	370	370, 313, 884	1.0	370
+852	Pour faire cela, il te faut prendre des risques.	In order to do that, you have to take risks.	In order to do that, you have to take risks.	True	True	0.6424097	825	825, 205, 421	1.0	825
+853	Je n'aime pas quand les mathématiciens qui en savent beaucoup plus que moi ne savent pas s'exprimer explicitement.	I don't like it when mathematicians who know much more than I do can't express themselves explicitly.	I don't like it when mathematicians who know much more than I do can't express themselves explicitly.	True	True	0.59637415	873	873, 814, 421	1.0	873
+854	Elle est aimable.	She is kind.	She is kind.	True	True	0.603322	697	697, 593, 180	1.0	697
+855	J'ai parlé avec tout le monde.	I've read all about you.	I talked to everybody.	False	False	0.6472771	576	576, 822, 116	0	506
+856	Il tend à la paresse.	He is inclined to be lazy.	He is inclined to be lazy.	True	True	0.89561284	5	5, 932, 289	1.0	5
+857	Elle a mené ses affaires au succès.	She guided her business to success.	She guided her business to success.	True	True	0.9465282	683	683, 413, 336	1.0	683
+858	Qu'est-ce que tout le monde regarde ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	What's everyone staring at?	False	False	0.6652787	456	456, 534, 293	0	81
+859	Sais-tu où est resté Tom ?	Do you know where Tom's staying?	Do you know where Tom's staying?	True	True	0.68946934	373	373, 203, 157	1.0	373
+860	Pourquoi n'admets-tu pas ton erreur ?	Why don't you admit your mistake?	Why don't you admit your mistake?	True	True	0.7712934	490	490, 629, 372	1.0	490
+861	Pourquoi tout le monde est-il si calme ?	Is anybody ready for dessert?	Why's everybody so quiet?	False	False	0.7348132	560	560, 84, 222	0	512
+862	Le vieillard mourut de faim.	The old man starved to death.	The old man starved to death.	True	True	0.84330666	727	727, 686, 218	1.0	727
+863	Je ne veux pas té déranger.	I am not an artist. I never had the knack for it.	I don't want to bother you.	False	False	0.94294333	828	828, 706, 549	0	732
+864	Mon oncle m'a donné un beau cadeau.	I was given a nice present by my uncle.	I was given a nice present by my uncle.	True	True	0.84683156	687	687, 706, 912	1.0	687
+865	Cendrillon avait deux belles-sœurs perfides.	Cinderella had two wicked stepsisters.	Cinderella had two wicked stepsisters.	True	True	0.751438	251	251, 233, 707	1.0	251
+866	Je n'ai vu personne l'employer.	I know that some people value my work.	I didn't see anyone using it.	False	False	0.90191364	338	338, 523, 402	0	623
+867	Je vous souhaite à toutes bonne chance.	To travel hopefully is a better thing than to arrive.	I wish you all good luck.	False	False	0.7448398	368	368, 344, 35	0	392
+868	Ça dépend du temps.	It depends on the context.	It depends on the weather.	False	False	0.78112495	792	792, 817, 501	0	671
+869	Tente ta chance !	Try your luck!	Try your luck!	True	True	0.54823494	166	166, 892, 117	1.0	166
+870	Je n'aurais jamais dû vous quitter.	I never should've left you.	I never should have left you.	False	True	0.7906929	653	653, 654, 595	0.5	654
+871	Tu m'intimides toujours.	I miss you.	I'm still intimidated by you.	False	True	0.7652061	768	768, 406, 972	0.5	406
+872	Tout le monde veut te rencontrer, tu es célèbre !	Everyone wants to meet you. You're famous!	Everyone wants to meet you. You're famous!	True	True	0.6846874	923	923, 696, 892	1.0	923
+873	J'ai trouvé une paire de gants sous la chaise.	I want to buy a few pairs of trousers.	I found a pair of gloves under the chair.	False	True	0.8604045	706	706, 712, 587	0.5	712
+874	Ma mère joue bien du piano.	My mother plays the piano well.	My mother plays the piano well.	True	True	0.5596781	100	100, 673, 585	1.0	100
+875	Je respecte Monsieur Brown.	I respect Mr. Brown.	I respect Mr. Brown.	True	True	0.7028594	282	282, 417, 729	1.0	282
+876	Tu courais dans le jardin.	You ran in the garden.	You ran in the garden.	True	True	0.9505968	214	214, 209, 749	1.0	214
+877	Il est avec ses parents.	He's with his parents.	He's with his parents.	True	True	0.7578237	134	134, 176, 126	1.0	134
+878	Je n'ai jamais été interpellé par un étranger.	I have never been spoken to by a foreigner before.	I have never been spoken to by a foreigner before.	True	True	0.809625	327	327, 828, 402	1.0	327
+879	Tout le monde est dans le salon à regarder la télé.	Everyone is in the living room watching TV.	Everyone is in the living room watching TV.	True	True	0.69282424	67	67, 79, 71	1.0	67
+880	Qu'est-ce qui te retient éveillé si tard ?	How many pens are there on the desk?	What keeps you up so late?	False	False	0.84057343	222	222, 504, 512	0	928
+881	Deux élèves sont absents aujourd'hui.	Two students are absent today.	Two students are absent today.	True	True	0.6423757	229	229, 249, 118	1.0	229
+882	Lave le bureau !	Look! The train is there!	Wash the writing table.	False	False	0.78826916	714	714, 788, 351	0	348
+883	Il a pu déduire l'équipement de son bureau de ses impôts.	He could write off his work room's furnishing from his taxes.	He could write off his work room's furnishing from his taxes.	True	True	0.8995899	479	479, 369, 413	1.0	479
+884	Quiconque t'y a-t-il vu ?	Does anybody hear me?	Did anybody see you there?	False	False	0.80415654	538	538, 456, 560	0	646
+885	Mon pantalon est mouillé.	Please fasten your seat belt.	My trousers are wet.	False	True	0.9901316	482	482, 700, 702	0.5	700
+886	Bien entendu je me suis excusé, en précisant que le premier rendez-vous était prioritaire.	Of course I apologised, saying that the first appointment had priority.	Of course I apologised, saying that the first appointment had priority.	True	True	0.7245288	420	420, 580, 977	1.0	420
+887	L'archer tua le cerf.	The archer killed the deer.	The archer killed the deer.	True	True	0.6732285	984	984, 727, 242	1.0	984
+888	Il était vraiment bon marché.	It was really cheap.	It was really cheap.	True	True	0.69449425	463	463, 691, 4	1.0	463
+889	Non, c'est pas mon nouveau petit ami.	No, he's not my new boyfriend.	No, he's not my new boyfriend.	True	True	0.6808084	885	885, 899, 421	1.0	885
+890	J'habite tout près.	I have to tell someone.	I live near here.	False	False	0.8108368	38	38, 607, 266	0	243
+891	C'est là que réside le problème.	That's where the problem is.	That's where the problem is.	True	True	0.7844435	920	920, 792, 977	1.0	920
+892	C'était probablement ce qui a influencé leur décision.	That was probably what influenced their decision.	That was probably what influenced their decision.	True	True	0.49633205	803	803, 956, 462	1.0	803
+893	Je te trouverai.	I miss you.	I'll find you.	False	True	0.94245553	768	768, 850, 360	0.3333333333333333	360
+894	Cette montagne a une hauteur de trois mille mètres.	This mountain has an altitude of 3,000 meters.	This mountain has an altitude of 3,000 meters.	True	True	0.60464	2	2, 292, 719	1.0	2
+895	Même si tu n'as rien à te reprocher, tu devrais t'excuser.	Even if you are not to blame, you should apologize.	Even if you are not to blame, you should apologize.	True	True	0.6668663	423	423, 427, 732	1.0	423
+896	Tu m'as trahie.	If you don't eat, you die.	You betrayed me.	False	False	0.8539028	991	991, 115, 918	0	487
+897	"""Je ne te laisserai pas faire du mal à mes amis!"" ""Je n'avais pas l'intention de faire du mal à tes amis."""	"""I won't let you hurt my friends!"" ""I wasn't going to hurt your friends."""	"""I won't let you hurt my friends!"" ""I wasn't going to hurt your friends."""	True	True	0.6065247	444	444, 996, 965	1.0	444
+898	Tom s'est promis qu'il ne ferait plus jamais la même erreur.	Tom made a promise to himself that he would never make the same mistake again.	Tom made a promise to himself that he would never make the same mistake again.	True	True	0.8532691	127	127, 185, 256	1.0	127
+899	Je vais au magasin.	I am going shopping.	I am going shopping.	True	True	0.8513894	266	266, 263, 706	1.0	266
+900	Discutons du problème avec eux.	Let's discuss the problem with them.	Let's discuss the problem with them.	True	True	0.9258635	205	205, 149, 375	1.0	205
+901	Pouvez-vous me donner votre numéro de téléphone?	Can you give me your phone number?	Can you give me your phone number?	True	True	0.82964015	324	324, 699, 273	1.0	324
+902	Tom n'a jamais été en prison.	Tom has never been in prison.	Tom has never been in prison.	True	True	0.5067822	182	182, 284, 692	1.0	182
+903	Je ne peux rien ajouter à cela.	I can't add anything to that.	I can't add anything to that.	True	True	0.8063364	183	183, 866, 268	1.0	183
+904	Je t'ai rencontré, et je t'ai aimé encore plus qu'avant.	I liked you even more when I met you.	I liked you even more when I met you.	True	True	0.64403665	116	116, 870, 596	1.0	116
+905	Ma sœur possède un piano.	My sister has a piano.	My sister has a piano.	True	True	0.5372999	673	673, 100, 289	1.0	673
+906	L'air conditionné semble désormais fonctionner.	The air conditioner seems to be working now.	The air conditioner seems to be working now.	True	True	0.8646138	395	395, 265, 407	1.0	395
+907	Si ce n'est pas maintenant, alors quand ?	If not now, then when?	If not now, then when?	True	True	0.6387619	465	465, 920, 786	1.0	465
+908	Il a trouvé l'expérience plaisante.	He found the experience enjoyable.	He found the experience enjoyable.	True	True	0.90111923	131	131, 206, 688	1.0	131
+909	Il a raté le train de 8h30.	He missed the 8:30 train.	He missed the 8:30 train.	True	True	0.8117806	224	224, 249, 259	1.0	224
+910	Les Allemands sont très ingénieux.	The Germans are very crafty.	The Germans are very crafty.	True	True	0.70006394	990	990, 702, 401	1.0	990
+911	Tom retira ses vêtements et les mit dans la machine à laver.	Tom took his clothes off and put them into the washing machine.	Tom took his clothes off and put them into the washing machine.	True	True	0.55703425	202	202, 136, 124	1.0	202
+912	Ils sont sur le chemin de la maison.	They are on their way home.	They are on their way home.	True	True	0.82355976	235	235, 67, 486	1.0	235
+913	C'est quelque chose de complètement différent.	That's a horse of a different color.	That's a horse of a different color.	True	True	0.900517	331	331, 853, 882	1.0	331
+914	Tu es tellement impatiente avec moi.	You're so impatient with me.	You're so impatient with me.	True	True	0.5956514	773	773, 573, 406	1.0	773
+915	Je n'aurais pas dû me déconnecter.	I don't know if I can make it without you.	I shouldn't have logged off.	False	False	0.8892282	595	595, 375, 500	0	898
+916	Personne n'y vit.	Nobody lives there.	Nobody lives there.	True	True	0.9536514	521	521, 515, 443	1.0	521
+917	Ce n'est pas tellement une surprise, non ?	It's not much of a surprise, is it?	It's not much of a surprise, is it?	True	True	0.68540716	891	891, 304, 497	1.0	891
+918	Veux-tu quelque chose à boire ?	Do you drink beer or wine?	Want to drink something?	False	False	0.7709949	699	699, 553, 456	0	958
+919	Pourriez-vous m'indiquer le chemin du zoo ?	What did you answer?	Could you tell me the way to the zoo?	False	True	0.80068564	884	884, 943, 204	0.3333333333333333	204
+920	Elaine est à l'hôpital.	Elaine is in hospital.	Elaine is in hospital.	True	True	0.5457492	457	457, 67, 148	1.0	457
+921	Bienvenue à Tatoeba !	Welcome to Tatoeba!	Welcome to Tatoeba!	True	True	0.6525805	567	567, 351, 918	1.0	567
+922	Je ne suis pas heureuse.	I am not happy.	I am not happy.	True	True	0.70793915	681	681, 680, 272	1.0	681
+923	Elle est toujours aussi belle.	She is as beautiful as ever.	She is as beautiful as ever.	True	True	0.7199421	141	141, 180, 158	1.0	141
+924	Je ne t'aurais jamais tiré dessus.	I never would've shot you.	I never would've shot you.	True	True	0.8670051	660	660, 661, 828	1.0	660
+925	Je ne suis pas un artiste. Je n'ai jamais eu l'esprit pour ça.	I am not an artist. I never had the knack for it.	I am not an artist. I never had the knack for it.	True	True	0.6382539	828	828, 116, 595	1.0	828
+926	Un monument a été érigé à la mémoire des défunts.	A monument was erected in memory of the deceased.	A monument was erected in memory of the deceased.	True	True	0.6059928	354	354, 242, 621	1.0	354
+927	Passe plus tard, j'ai quelque chose pour toi !	I love you!	Come by later, I have something for you.	False	False	0.71558356	892	892, 795, 782	0	672
+928	Est-ce que nous sommes des écureuils fous ?	Are we mad squirrels?	Are we mad squirrels?	True	True	0.755775	101	101, 600, 456	1.0	101
+929	Ce n'est pas la peine de faire semblant de me faire croire que je crois des choses que tu ne crois pas !	It's no use pretending to make me believe that I believe things you don't believe!	It's no use pretending to make me believe that I believe things you don't believe!	True	True	0.6938968	949	949, 944, 947	1.0	949
+930	Je les appellerai demain quand je reviendrai.	I’ll call them tomorrow when I return home.	I’ll call them tomorrow when I return home.	True	True	0.7378838	769	769, 899, 427	1.0	769
+931	Pouvons-nous y croire ?	Do you drink beer or wine?	Can we believe that?	False	False	0.8016732	699	699, 456, 112	0	99
+932	C'est une des meilleures artistes actuelles.	She is among the best artists of today.	She is among the best artists of today.	True	True	0.7696589	215	215, 299, 307	1.0	215
+933	Il me faut quelqu'un à qui je puisse parler.	I have a friend I correspond with.	I need someone who I can talk to.	False	False	0.900244	729	729, 706, 899	0	31
+934	Quelles autres options ai-je ?	What other options do I have?	What other options do I have?	True	True	0.7906903	904	904, 600, 349	1.0	904
+935	Vous avez dû dépenser une fortune pour cette bague de mariage !	You must have dropped a bundle for that wedding ring!	You must have dropped a bundle for that wedding ring!	True	True	0.8181194	326	326, 110, 918	1.0	326
+936	En fait je suis un idiot.	My opinion is a little different from yours.	I'm actually a mutt.	False	True	0.7826009	302	302, 216, 781	0.5	216
+937	Lorsqu'il est triste, il se retire.	When he's sad, he withdraws from other people.	When he's sad, he withdraws from other people.	True	True	0.7783253	663	663, 571, 290	1.0	663
+938	C'est combien pour aller jusqu'à l'hôtel Hilton ?	How much is the fare to the Hilton Hotel?	How much is the fare to the Hilton Hotel?	True	True	0.7324122	107	107, 312, 87	1.0	107
+939	Qui est votre auteur favori ?	Who is your favorite author?	Who's your favorite writer?	False	True	0.6378782	600	600, 601, 276	0.5	601
+940	Veuillez vous asseoir ici.	It is up to you to decide whether we will go there or not.	Please sit here.	False	False	0.9973266	977	977, 965, 1	0	597
+941	Attends-tu quelqu'un ?	How many pens are there on the desk?	Are you waiting for someone?	False	False	0.7906463	222	222, 563, 550	0	59
+942	Elle a du mal à nager.	She was having a hard time swimming.	She was having a hard time swimming.	True	True	0.73584175	208	208, 288, 190	1.0	208
+943	Ils étaient tous tellement fatigués qu'ils ne pouvaient rien faire, sauf bailler.	They were all so tired that they could do nothing but yawn.	They were all so tired that they could do nothing but yawn.	True	True	0.73355985	254	254, 79, 912	1.0	254
+944	Je n'ai rien de mieux à faire.	I have nothing better to do.	I have nothing better to do.	True	True	0.6003804	906	906, 747, 774	1.0	906
+945	Quelqu'un peut-il m'aider, je vous prie ?	Why don't you admit your mistake?	Can somebody please help me?	False	True	0.9004483	490	490, 504, 54	0.3333333333333333	54
+946	Je ne sais simplement pas quoi dire...	If I could be like that...	I just don't know what to say.	False	False	0.8174889	790	790, 918, 315	0	747
+947	Au commencement, Dieu créa le ciel et la terre.	In the beginning God created the heaven and the earth.	In the beginning God created the heaven and the earth.	True	True	0.4967668	0	0, 935, 908	1.0	0
+948	Je n'ai pas besoin de me faire sermonner par toi.	I have to say I envy you.	I don't need to be lectured by you.	False	True	0.8106872	427	427, 402, 709	0.5	402
+949	Pourquoi ont-ils refusé votre proposition ?	Why did they turn down your proposal?	Why did they turn down your proposal?	True	True	0.7081703	304	304, 504, 699	1.0	304
+950	Arrête de me considérer comme quelqu'un de « normal » !	"Stop seeing me as a ""normal"" person!"	"Stop seeing me as a ""normal"" person!"	True	True	0.69944906	952	952, 965, 918	1.0	952
+951	La classe commence à 8h30.	The class begins at 8:30.	The class begins at 8:30.	True	True	0.56047666	249	249, 978, 224	1.0	249
+952	« Qu'est-ce qu'il se passe dans la grotte ? Je suis curieux. » « Je n'en ai aucune idée. »	"""What's going on in the cave? I'm curious."" ""I have no idea."""	"""What's going on in the cave? I'm curious."" ""I have no idea."""	True	True	0.6554667	962	962, 912, 965	1.0	962
+953	Je suis venu à Tokyo il y a trois ans et ai vécu ici depuis.	I came to Tokyo three years ago and have been living here ever since.	I came to Tokyo three years ago and have been living here ever since.	True	True	0.45382214	998	998, 852, 613	1.0	998
+954	Tu aurais dû la fermer.	The burqa is a choice.	You should have kept your mouth shut.	False	False	0.95602	723	723, 707, 708	0	22
+955	Vous auriez dû y être prêts depuis hier.	I thank you sincerely for having shown me the errors.	You were supposed to have this finished by yesterday.	False	False	1.0248746	268	268, 896, 110	0	364
+956	J'ai des problèmes de concentration.	I have problems concentrating.	I have problems concentrating.	True	True	0.94840217	375	375, 886, 688	1.0	375
+957	La burqa est un choix.	The burqa is a choice.	The burqa is a choice.	True	True	0.5489088	723	723, 707, 411	1.0	723
+958	Arrêtez de vous poser des questions sans intérêt.	Stop asking yourself useless questions.	Stop asking yourself useless questions.	True	True	0.881778	439	439, 943, 875	1.0	439
+959	Mes bagages ne sont pas arrivés. Que s'est-il passé?	My luggage didn't arrive. What happened?	My luggage didn't arrive. What happened?	True	True	0.94668186	614	614, 560, 456	1.0	614
+960	Je déteste la chimie.	I never liked biology.	I hate chemistry.	False	False	0.8011967	776	776, 61, 458	0	900
+961	Mon ordinateur fonctionne au poil, maintenant.	Tony can run fast.	My computer works fine now.	False	False	0.9085083	270	270, 421, 223	0	390
+962	Lucie connaît Marie.	Lucy knows Mary.	Lucy knows Mary.	True	True	1.0543756	473	473, 470, 695	1.0	473
+963	Tu dois te laver les cheveux.	You should wash your hair.	You should wash your hair.	True	True	0.88956	115	115, 991, 795	1.0	115
+964	Cette bourse d'étude m'a été accordée par le conseil départemental.	This study grant was given to me by the departmental council.	This study grant was given to me by the departmental council.	True	True	0.98799706	15	15, 610, 929	1.0	15
+965	Où sont tous les autres ?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	Where's everyone else?	False	False	0.7730521	456	456, 504, 99	0	90
+966	Je viens de petit-déjeuner.	I want to buy a few pairs of trousers.	I've just eaten breakfast.	False	False	1.0288291	706	706, 899, 523	0	705
+967	Tu pourrais au moins essayer d'être un peu plus poli, même si ce n'est pas dans ta nature.	You could at least try to be a bit more polite, even though it's not like you.	You could at least try to be a bit more polite, even though it's not like you.	True	True	0.6849748	953	953, 836, 315	1.0	953
+968	J'espère n'avoir offensé personne.	I don't intend to be selfish.	I hope I haven't offended anyone.	False	True	0.78182936	811	811, 626, 532	0.3333333333333333	532
+969	Actuellement Tom ne regarde pas la télévision.	Tom isn't watching TV now.	Tom isn't watching TV now.	True	True	0.8361807	250	250, 126, 185	1.0	250
+970	Le problème est que je n'ai pas de temps pour cela.	The problem is I don't have time for it.	The problem is I don't have time for it.	True	True	0.7296287	3	3, 880, 756	1.0	3
+971	Soudain, ma mère se mit à chanter.	Suddenly, my mother started singing.	Suddenly, my mother started singing.	True	True	0.8900602	585	585, 506, 355	1.0	585
+972	J'étais dans les montagnes.	I was in the mountains.	I was in the mountains.	True	True	0.6606705	749	749, 95, 607	1.0	749
+973	Ils te soutiendront.	They know why.	They'll be rooting for you.	False	False	0.89957607	472	472, 555, 510	0	677
+974	Je ne savais pas d'où ça venait.	It is inevitable that I go to France someday, I just don't know when.	I didn't know where it came from.	False	False	0.7851145	899	899, 589, 822	0	842
+975	Je me réjouis d'être celui qui te le dit.	I have to say I envy you.	I'm glad to be the one who tells you.	False	True	0.84707403	427	427, 116, 609	0.3333333333333333	609
+976	J'ai le même sentiment à ton sujet.	My opinion is a little different from yours.	I feel the same way about you.	False	False	0.7160795	302	302, 837, 573	0	579
+977	« Ne nous sommes-nous pas rencontrés quelque part avant ? » demanda l'étudiant.	"""Haven't we met somewhere before?"" asked the student."	"""Haven't we met somewhere before?"" asked the student."	True	True	0.77896714	981	981, 912, 960	1.0	981
+978	J'aurais pas imaginé qu'un jour j'irais chercher « viagra » dans Wikipédia.	"I wouldn't have thought I would someday look up ""Viagra"" in Wikipedia."	"I wouldn't have thought I would someday look up ""Viagra"" in Wikipedia."	True	True	0.65568805	877	877, 577, 828	1.0	877
+979	Je n'ai vu personne d'autre.	I thought you liked to learn new things.	I didn't see anyone else.	False	False	0.83073604	822	822, 589, 116	0	624
+980	Lis un livre !	Read a book!	Read a book!	True	True	0.83782685	448	448, 351, 174	1.0	448
+981	Vous m'avez presque brisé la mâchoire.	I don't speak French well enough!	You nearly broke my jaw.	False	False	0.87070835	918	918, 23, 22	0	428
+982	Quelqu'un pourrait-il aller me chercher une cuillère ?	Could someone hand me a knife?	Could somebody get me a spoon?	False	False	0.90085495	51	51, 372, 553	0	52
+983	Ça ne me surprend pas.	Don't take any notice of what he says.	It doesn't surprise me.	False	True	0.84496987	422	422, 789, 529	0.5	789
+984	Essayons quelque chose !	I don't speak French well enough!	Let's try something.	False	False	0.7453294	918	918, 767, 174	0	736
+985	Un Japonais ne ferait jamais une telle chose.	A Japanese would never do such a thing.	A Japanese would never do such a thing.	True	True	0.61700666	982	982, 525, 368	1.0	982
+986	Qu'est-ce que tu as répondu ?	What did you answer?	What did you answer?	True	True	0.814693	884	884, 313, 504	1.0	884
+987	L'équipement de son bureau était déductible des impôts.	The furnishing of his work room was tax deductible.	The furnishing of his work room was tax deductible.	True	True	0.681056	478	478, 479, 369	1.0	478
+988	Il faut joindre l'utile à l'agréable.	Usefulness must be combined with pleasantness.	Usefulness must be combined with pleasantness.	True	True	0.8688128	393	393, 421, 368	1.0	393
+989	Ferme cette porte !	Fight like a man!	Shut that door.	False	False	0.8457416	174	174, 714, 351	0	152
+990	On pouvait voir l'allégresse dans le visage du président lorsqu'il annonça que nos actions vont être cotées au premier marché de la bourse de Tokyo.	You could see the elation in the president's face when he announced that our shares are going to be listed on the First Section of the TSE next year.	You could see the elation in the president's face when he announced that our shares are going to be listed on the First Section of the TSE next year.	True	True	0.70122623	431	431, 965, 544	1.0	431
+991	Fais-moi savoir s'il y a quoi que ce soit que je puisse faire.	It is up to you to decide whether we will go there or not.	Let me know if there's anything I can do.	False	False	0.8495294	977	977, 756, 899	0	975
+992	Je ne peux pas l'expliquer non plus.	Neither can I explain it.	Neither can I explain it.	True	True	0.767442	907	907, 899, 402	1.0	907
+993	Tu peux le faire !	I don't speak French well enough!	You can do it.	False	False	0.709756	918	918, 767, 802	0	850
+994	Peut-être que ce sera la même chose pour lui.	Maybe it will be exactly the same for him.	Maybe it will be exactly the same for him.	True	True	0.79611254	833	833, 564, 477	1.0	833
+995	Je ne t'en demanderai pas plus pour aujourd'hui.	It is inevitable that I go to France someday, I just don't know when.	I won't ask you anything else today.	False	False	0.8688779	899	899, 403, 818	0	856
+996	Elle a acheté un grille-pain, une cafetière, un œufrier et un batteur-mixeur.	She bought a toaster, a coffeemaker, an egg cooker and a hand mixer.	She bought a toaster, a coffeemaker, an egg cooker and a hand mixer.	True	True	0.70353305	717	717, 694, 260	1.0	717
+997	Qui que ce soit est-il blessé ?	What is usually the cause for the pain?	Is anybody hurt?	False	False	0.7661538	147	147, 293, 276	0	563
+998	Je ne veux pas attendre aussi longtemps.	I don't want to wait that long.	I don't want to wait that long.	True	True	0.64053273	895	895, 751, 595	1.0	895
+999	La même solution est valable dans ce cas.	That's where the problem is.	The same explanation is true of that case.	False	True	0.79884887	920	920, 786, 207	0.3333333333333333	207

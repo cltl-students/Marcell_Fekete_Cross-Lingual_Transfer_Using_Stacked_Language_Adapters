@@ -1,0 +1,1001 @@
+	Sentence	Predicted	Gold	K_1_correct	K_3_correct	K_1_scores	K_1_predicted_indices	K_3_predicted_indices	Reciprocal_ranks	True_indices
+0	À cause de l'accident, je suis arrivé en retard à l'école.	Today is June 18th and it is Muiriel's birthday!	Because of the accident I went too late to school.	False	False	1.6810796	739	739, 701, 715	0	367
+1	Ça coûtera 30 €.	This will cost €30.	This will cost €30.	True	True	1.6438707	758	758, 262, 759	1.0	758
+2	Je l'ai convaincue d'être à la maison.	I was in the mountains.	I persuaded her to be at home.	False	False	1.6559522	749	749, 230, 214	0	355
+3	Il y a beaucoup de mots que je ne comprends pas.	Your daily life is your temple and your religion.	There are many words that I don't understand.	False	False	1.6986396	715	715, 600, 701	0	872
+4	Tu me manques.	Your daily life is your temple and your religion.	I miss you.	False	False	1.5643793	715	715, 280, 600	0	768
+5	« Le téléphone sonne. » « Je vais répondre. »	I drink his beer.	"""The phone is ringing."" ""I'll get it."""	False	False	1.6466862	701	701, 724, 489	0	969
+6	Garde la tête basse !	Keep your head low.	Keep your head low.	True	True	1.5707343	301	301, 351, 788	1.0	301
+7	Tom est mort du cancer en 2013.	Tom died from cancer in 2013.	Tom died from cancer in 2013.	True	True	1.6972076	184	184, 343, 176	1.0	184
+8	Monsieur, il n'est pas permis de garer votre voiture ici.	Your daily life is your temple and your religion.	Sir, you are not allowed to park your car here.	False	False	1.6435212	715	715, 234, 214	0	503
+9	Est-ce que ça va bien pour tout le monde ?	Your daily life is your temple and your religion.	Is everybody okay?	False	False	1.6752279	715	715, 600, 921	0	85
+10	Il s'assiérait des heures à lire des histoires de détectives.	Who's your favorite writer?	He would sit for hours reading detective stories.	False	False	1.7271996	601	601, 468, 600	0	678
+11	Tu dois faire la queue pour acheter un ticket.	You must stand in a line to buy the ticket.	You must stand in a line to buy the ticket.	True	True	1.708852	262	262, 701, 468	1.0	262
+12	Ne te soucie pas de mon chien.	I drink his beer.	Don't worry about my dog.	False	False	1.7335069	701	701, 709, 715	0	334
+13	Sami ne sait pas faire l'accent égyptien.	I drink his beer.	Sami can't do an Egyptian accent.	False	True	1.6597047	701	701, 214, 443	0.3333333333333333	443
+14	Il a dit qu'il a écrit.	He who writes reads twice.	He said that he had written.	False	False	1.6817536	468	468, 701, 600	0	449
+15	Sa musique me fit grande impression.	I drink his beer.	His music made a deep impression on me.	False	False	1.7393262	701	701, 111, 214	0	666
+16	Tout le monde buvait du vin, à la fête.	I drink his beer.	Everyone at the party was drinking wine.	False	False	1.6134337	701	701, 214, 749	0	79
+17	L'argent nous permettra de tenir à peu près un mois.	The victory is ours.	The money will carry us for about a month.	False	False	1.7235625	280	280, 215, 548	0	513
+18	La fille à côté est très belle.	Your daily life is your temple and your religion.	The girl who lives next door is very pretty.	False	True	1.6329007	715	715, 214, 310	0.3333333333333333	310
+19	C'est facile de trouver un exemple.	You must stand in a line to buy the ticket.	It's easy to find an example.	False	True	1.7695436	262	262, 295, 691	0.5	295
+20	Quelle personne es-tu ?	Who is your favorite author?	What kind of man are you?	False	False	1.5794742	600	600, 715, 291	0	106
+21	J'aurai des lettres à écrire.	Your daily life is your temple and your religion.	I'll have some letters to write.	False	False	1.6688654	715	715, 301, 701	0	453
+22	L'espagnol n'est pas seulement parlé en Espagne.	It is illegal to copy from books without the author's permission.	Spanish is not only spoken in Spain.	False	True	1.6669285	684	684, 45, 468	0.5	45
+23	Ce train est-il le bon pour Tokyo ?	Is this the right train for Tokyo?	Is this the right train for Tokyo?	True	True	1.6432717	236	236, 600, 157	1.0	236
+24	Le jardin était rempli de jolies fleurs.	Today is June 18th and it is Muiriel's birthday!	The garden was full of beautiful flowers.	False	True	1.6221594	739	739, 720, 740	0.5	720
+25	Muiriel a 20 ans maintenant.	Muiriel is 20 now.	Muiriel is 20 now.	True	True	1.6347677	741	741, 739, 590	1.0	741
+26	Je crois que tu le connais.	Your daily life is your temple and your religion.	I think you know him.	False	False	1.6050266	715	715, 600, 280	0	114
+27	Il a hissé le drapeau.	I drink his beer.	He raised the flag.	False	False	1.6876576	701	701, 739, 468	0	119
+28	La nuit on dort.	The victory is ours.	At night you sleep.	False	True	1.5867906	280	280, 209, 739	0.5	209
+29	Combien de temps Tom va-t-il être à Boston ?	Who is your favorite author?	How long will Tom be in Boston?	False	False	1.6358852	600	600, 921, 562	0	203
+30	J'ai besoin de quelqu'un à qui je puisse me fier.	Your daily life is your temple and your religion.	I need somebody I can trust.	False	False	1.6991284	715	715, 712, 701	0	33
+31	C'est inévitable que j'aille en France un jour, je ne sais juste pas quand.	Your daily life is your temple and your religion.	It is inevitable that I go to France someday, I just don't know when.	False	False	1.670445	715	715, 403, 739	0	899
+32	J'aimerais pouvoir m'inquiéter plus pour mes notes mais il semblerait qu'à un certain moment de ma vie, j'ai décidé que cela n'était finalement pas si important.	I drink his beer.	I wish I could care more about my grades but it seems that, at a certain point of my life, I decided they wouldn't be so important anymore.	False	False	1.6869701	701	701, 403, 715	0	956
+33	"""Cœur"" et ""chœur"" ont la même prononciation."	"""Heart"" and ""choir"" have the same pronunciation."	"""Heart"" and ""choir"" have the same pronunciation."	True	True	1.616653	721	721, 157, 505	1.0	721
+34	Si seulement j'avais vendu cette propriété avant l'explosion de la bulle économique, je n'aurais pas perdu tout cet argent.	If only I'd sold that property before the economic bubble burst I wouldn't have lost all that money.	If only I'd sold that property before the economic bubble burst I wouldn't have lost all that money.	True	True	1.6445897	612	612, 715, 701	1.0	612
+35	« Je n'y ai jamais pensé », dit le vieil homme. « Que devrions-nous faire ? »	How do you find food in outer space?	"""I have never thought about it"", said the old man. ""What should we do?"""	False	False	1.6277205	921	921, 724, 600	0	912
+36	Quel est ton programme télévisé préféré ?	What is your favorite TV program?	What is your favorite TV program?	True	True	1.5623748	349	349, 600, 601	1.0	349
+37	Avant même que tu ne le saches, tu seras dans les journaux.	Your daily life is your temple and your religion.	Next thing you know, you'll be in the papers.	False	True	1.5637906	715	715, 280, 903	0.3333333333333333	903
+38	Tout le monde est épuisé.	Your daily life is your temple and your religion.	Everyone is exhausted.	False	False	1.650126	715	715, 280, 468	0	70
+39	Pourquoi tout le monde chuchote-t-il ?	Who is your favorite author?	Why's everyone whispering?	False	False	1.5529579	600	600, 699, 543	0	511
+40	Je suis maintenant disposé à discuter.	Your daily life is your temple and your religion.	I'm in the mood to talk now.	False	False	1.623888	715	715, 301, 209	0	398
+41	N'attends pas que les autres pensent pour toi !	Your daily life is your temple and your religion.	Don't expect others to think for you!	False	False	1.6689615	715	715, 739, 543	0	947
+42	Tom n'aime pas les chats.	Who's your favorite writer?	Tom doesn't like cats.	False	False	1.6921716	601	601, 351, 600	0	692
+43	Pourquoi es-tu désolée pour quelque chose que tu n'as pas fait ?	Who is your favorite author?	Why are you sorry for something you haven't done?	False	False	1.5086823	600	600, 543, 699	0	924
+44	Je suis fatiguée de tous ces mensonges.	Your daily life is your temple and your religion.	I'm tired of all these lies.	False	False	1.5686369	715	715, 438, 115	0	197
+45	Avez-vous vu qui que ce soit sur la plage ?	Do you drink beer or wine?	Did you see anyone on the beach?	False	False	1.521971	699	699, 600, 724	0	632
+46	J'ai légèrement faim.	Where is my Meerschaum pipe?	I'm slightly hungry.	False	False	1.5865217	724	724, 701, 749	0	583
+47	Il faut que l'on facilite l'étude des langues.	Today is June 18th and it is Muiriel's birthday!	It is necessary to make the study of languages easier.	False	False	1.6944294	739	739, 724, 925	0	361
+48	Il faut que ce soit maintenant.	Today is June 18th and it is Muiriel's birthday!	It's got to be now.	False	False	1.7114234	739	739, 280, 468	0	385
+49	Ce café est trop fort.	This coffee is too bitter.	This coffee is too bitter.	True	True	1.6820759	150	150, 739, 701	1.0	150
+50	J'ai tant à vous montrer.	I drink his beer.	I have so much to show you.	False	False	1.666866	701	701, 715, 301	0	598
+51	C'était ma faute.	Where is my Meerschaum pipe?	It was my mistake.	False	False	1.6832472	724	724, 548, 150	0	111
+52	"""J'ai envie de jouer aux cartes."" ""Moi aussi."""	I drink his beer.	"""I feel like playing cards."" ""So do I."""	False	False	1.6840532	701	701, 739, 740	0	980
+53	Si quelqu'un devait demander quel est le but de l'histoire, je ne saurais vraiment pas.	Who is your favorite author?	If anyone was to ask what the point of the story is, I really don't know.	False	False	1.6417425	600	600, 715, 739	0	841
+54	Reconnaissez-vous quiconque ?	Do you recognize anyone?	Do you recognize anyone?	True	True	1.5305909	543	543, 542, 699	1.0	543
+55	Penses-tu que c'est une bonne idée de nourrir ton chien avec les déchets de repas ?	Who is your favorite author?	Do you think it's a good idea to feed your dog table scraps?	False	False	1.6607435	600	600, 601, 448	0	648
+56	Je crois que tu la connais.	Your daily life is your temple and your religion.	I think you know her.	False	False	1.5760009	715	715, 600, 280	0	113
+57	Elle n'est pas gentille avec lui. À vrai dire, elle n'est gentille avec personne.	I can do this with you or without you.	She isn't kind to him. In fact, she's not kind to anyone.	False	False	1.6280687	594	594, 600, 715	0	704
+58	Je ne vous aurais jamais tiré dessus.	Keep your head low.	I never would have shot you.	False	False	1.6141448	301	301, 985, 715	0	661
+59	Je m'entends avec tout le monde.	Your daily life is your temple and your religion.	I get along with everybody.	False	False	1.6112025	715	715, 701, 594	0	88
+60	Personne ne t'a-t-il interrogé ?	Didn't anyone question you?	Didn't anyone question you?	True	True	1.6193324	629	629, 543, 699	1.0	629
+61	Tom a parlé sans cesse toute la nuit.	You ran in the garden.	Tom kept talking all night.	False	False	1.5850747	214	214, 701, 209	0	319
+62	Je ne l'ai jamais aimé.	I drink his beer.	I've never liked him.	False	False	1.6363072	701	701, 774, 916	0	105
+63	Ce n'était pas mon intention.	Your daily life is your temple and your religion.	It was not my intention.	False	True	1.6887484	715	715, 861, 489	0.5	861
+64	Où allez-vous en vacances cet été ?	Happy birthday, Muiriel!	Where are you going to vacation this summer?	False	False	1.5798737	740	740, 724, 600	0	572
+65	Si j'en ai si cruellement besoin, il me faut le cultiver. Je n'ai pas le choix.	I drink his beer.	If I want it so badly, I need to cultivate it. I have no choice.	False	False	1.7146741	701	701, 712, 828	0	415
+66	La tempête de neige se poursuivit.	The victory is ours.	The snowstorm continued.	False	False	1.7640337	280	280, 739, 696	0	332
+67	Je chie dans ton lait.	Your daily life is your temple and your religion.	I shit in your milk.	False	False	1.6334169	715	715, 724, 701	0	438
+68	Il ne compte pas du tout sur moi.	Cool story, bro.	He doesn't altogether trust me.	False	False	1.6992781	489	489, 740, 739	0	240
+69	Le communisme ne sera jamais atteint de mon vivant.	Communism will never be reached in my lifetime.	Communism will never be reached in my lifetime.	True	True	1.654452	985	985, 740, 715	1.0	985
+70	Comment épelle-t-on votre nom de famille ?	Who is your favorite author?	How do you spell your family name?	False	False	1.581892	600	600, 108, 349	0	273
+71	Je n'ai pas compris un seul mot.	I don't drink beer, only spirits.	I did not understand a word.	False	False	1.6865911	709	709, 828, 594	0	109
+72	Il confectionna une petite statue à base d'argile molle.	Today is June 18th and it is Muiriel's birthday!	He made a little statue out of soft clay.	False	True	1.6965351	739	739, 621, 740	0.5	621
+73	L'Islam émergea au septième siècle dans la péninsule arabique.	Islam emerged in the Arabian Peninsula in the seventh century.	Islam emerged in the Arabian Peninsula in the seventh century.	True	True	1.6205114	675	675, 548, 480	1.0	675
+74	Je n'aurais pu résoudre cette affaire sans toi.	Where is my Meerschaum pipe?	I couldn't have solved this case without you.	False	True	1.6372414	724	724, 584, 301	0.5	584
+75	Elle demande comment c’est possible.	What is your favorite TV program?	She's asking how that's possible.	False	False	1.6525133	349	349, 600, 739	0	846
+76	Dans ma famille, ce sont tous des lève-tôt.	Your daily life is your temple and your religion.	My family are all early risers.	False	False	1.6049443	715	715, 740, 739	0	540
+77	Si je pouvais être comme ça...	Your daily life is your temple and your religion.	If I could be like that...	False	False	1.6705495	715	715, 701, 699	0	790
+78	Il y a un type en bas qui te demande.	He who writes reads twice.	There's a guy downstairs asking for you.	False	False	1.7352719	468	468, 262, 348	0	674
+79	Je t'aime !	I love you!	I love you!	True	True	1.5417154	892	892, 955, 715	1.0	892
+80	Elle n'a pas froid aux yeux.	Where is my Meerschaum pipe?	She is not afraid of anything.	False	False	1.6424668	724	724, 157, 562	0	180
+81	J'ai appris que tu venais juste de te marier.	Your daily life is your temple and your religion.	I heard you just got married.	False	False	1.6351104	715	715, 234, 214	0	464
+82	Où est-ce que tout le monde se rend ?	How do you find food in outer space?	Where's everyone going?	False	False	1.5796583	921	921, 600, 724	0	92
+83	Je l'assurais de mon plus profond regret.	Do not underestimate my power.	I showed him my deepest regret.	False	False	1.6424752	916	916, 701, 724	0	416
+84	Vous auriez dû la fermer.	Where is my Meerschaum pipe?	You should've kept your mouth shut.	False	False	1.569132	724	724, 214, 480	0	23
+85	Ça montre seulement que tu n'es pas un robot.	Do you recognize anyone?	It only shows you're not a robot.	False	False	1.7041056	543	543, 594, 715	0	910
+86	Comment as-tu pu laisser passer cela ?	Who is your favorite author?	How could you have let it happen?	False	False	1.5692799	600	600, 827, 699	0	181
+87	J'ai vu votre père.	I saw your father.	I saw your father.	True	True	1.550795	713	713, 715, 724	1.0	713
+88	Personne ne m'invita à la fête.	I drink his beer.	Nobody invited me to the party.	False	False	1.6727438	701	701, 514, 709	0	523
+89	Je suis curieux.	Your daily life is your temple and your religion.	I am curious.	False	False	1.5834386	715	715, 724, 438	0	894
+90	Tu me comprends.	Your daily life is your temple and your religion.	You understand me.	False	False	1.5192971	715	715, 280, 713	0	461
+91	Le problème se résout tout seul.	The cat is in its basket.	The problem resolved itself.	False	False	1.7324753	548	548, 701, 889	0	246
+92	Quand tu es à Rome, agis comme un Romain.	Your daily life is your temple and your religion.	When in Rome, do as the Romans do.	False	False	1.6288289	715	715, 280, 468	0	258
+93	Je ne voulais pas attraper froid, je ne suis donc pas sorti.	Keep your head low.	I didn't want to catch a cold, so I didn't go out.	False	False	1.6598883	301	301, 715, 701	0	330
+94	Vous vendiez des pommes au marché.	Where is my Meerschaum pipe?	You used to sell some apples at the market.	False	False	1.6084088	724	724, 739, 701	0	690
+95	Il me l'a reproché.	I drink his beer.	He blamed it on me.	False	False	1.5966563	701	701, 724, 214	0	121
+96	J'ai toujours plus apprécié les personnages mystérieux.	I want a boat that'll take me far away from here.	I always liked mysterious characters more.	False	False	1.6550369	979	979, 228, 116	0	770
+97	La bougie s'est éteinte d'elle-même.	The cat is in its basket.	The candle went out by itself.	False	False	1.6219708	548	548, 739, 724	0	527
+98	C'est pas possible !	Today is June 18th and it is Muiriel's birthday!	This can't be!	False	False	1.6206287	739	739, 740, 567	0	955
+99	Veuillez accrocher votre manteau dans l'antichambre, s'il vous plait.	Where is my Meerschaum pipe?	Please hang your coat in the anteroom.	False	False	1.6016016	724	724, 701, 715	0	234
+100	Ils veulent simplement faire ta connaissance.	You ran in the garden.	They just want to get to know you.	False	False	1.7024415	214	214, 701, 600	0	400
+101	Quelqu'un peut-il m'aider ?	Who is your favorite author?	Can somebody help me?	False	False	1.6533295	600	600, 562, 699	0	56
+102	Presque tout le monde était en retard.	Please hang your coat in the anteroom.	Almost everyone was late.	False	False	1.6517782	234	234, 448, 280	0	89
+103	Arrête ! Tu la mets mal à l'aise !	Life is hard, but I am harder.	Stop it! You're making her feel uncomfortable!	False	False	1.5704415	931	931, 740, 715	0	933
+104	Aujourd'hui nous sommes le 18 juin et c'est l'anniversaire de Muiriel !	Today is June 18th and it is Muiriel's birthday!	Today is June 18th and it is Muiriel's birthday!	True	True	1.5559462	739	739, 740, 280	1.0	739
+105	Quiconque vous a-t-il vu entrer ici ?	Who is your favorite author?	Did anyone see you come in here?	False	False	1.5426638	600	600, 699, 543	0	649
+106	Encore une tasse de café ?	How about another cup of coffee?	How about another cup of coffee?	True	True	1.6516719	312	312, 53, 701	1.0	312
+107	Qui que ce soit d'autre se trouvait-il alentour ?	Anybody in here?	Was there anyone else around?	False	False	1.5913451	562	562, 600, 724	0	531
+108	Selon mon opinion, un site web bien conçu ne devrait pas requérir de défilement horizontal.	In my opinion, a well-designed website shouldn't require horizontal scrolling.	In my opinion, a well-designed website shouldn't require horizontal scrolling.	True	True	1.679733	577	577, 489, 283	1.0	577
+109	Tom s'est fait une tasse de thé.	I drink his beer.	Tom made himself a cup of tea.	False	True	1.5682784	701	701, 739, 124	0.3333333333333333	124
+110	Quiconque va-t-il manger ça ?	Do you drink beer or wine?	Is anyone going to eat that?	False	False	1.6015477	699	699, 600, 106	0	553
+111	Je n'ai jamais aimé la biologie.	Communism will never be reached in my lifetime.	I never liked biology.	False	False	1.6151217	985	985, 774, 701	0	776
+112	Quel livre intéressant !	Where is my Meerschaum pipe?	What an interesting book!	False	False	1.616292	724	724, 838, 720	0	586
+113	Je vais m'évanouir si je ne m'assieds pas.	I drink his beer.	I'll drop if I don't sit down.	False	False	1.6526349	701	701, 724, 715	0	287
+114	La salière était sur la table.	The salt cellar was on the table.	The salt cellar was on the table.	True	True	1.6088814	404	404, 548, 157	1.0	404
+115	Voudras-tu couper tous les arbres ici ?	Who is your favorite author?	Are you going to cut down all the trees here?	False	False	1.5742049	600	600, 280, 921	0	255
+116	Le mobilier de son bureau a pu donner lieu à une déduction d'impôt.	You sold some apples at the market.	He could deduct the furnishing of his work room from his taxes.	False	False	1.647669	691	691, 701, 548	0	369
+117	Est-ce que c'est une photo récente ?	Is dad in the kitchen?	Is it a recent picture?	False	False	1.6761985	157	157, 864, 53	0	750
+118	Il perçoit un salaire à six chiffres.	He has a six-figure salary.	He has a six-figure salary.	True	True	1.6725073	432	432, 468, 176	1.0	432
+119	Ça m'a presque fait peur de ne pas te voir connectée pendant toute une journée.	I heard somebody talking.	It almost scared me not to see you online for a whole day.	False	False	1.7009571	37	37, 87, 53	0	865
+120	Tu ne fais que fuir les problèmes de la vie.	Who is your favorite author?	You're just running away from life's problems.	False	False	1.6572226	600	600, 715, 601	0	847
+121	Le seigle, le blé et l'orge sont des céréales.	Potatoes are vegetables.	Rye, wheat, and barley are cereals.	False	False	1.6195433	189	189, 150, 474	0	192
+122	Personne ne te l'a-t-il dit ?	Who is your favorite author?	Didn't anyone tell you?	False	False	1.6481454	600	600, 699, 562	0	628
+123	Il me faut m'entretenir avec quelqu'un.	Your daily life is your temple and your religion.	I have to talk to somebody.	False	False	1.6984313	715	715, 701, 724	0	39
+124	J'ai un peu faim.	I drink his beer.	I'm a bit hungry.	False	False	1.6062646	701	701, 724, 438	0	581
+125	Je te remercie très sincèrement de m'avoir montré les erreurs.	I was beside myself with joy when I heard the news.	I thank you sincerely for having shown me the errors.	False	True	1.63809	230	230, 268, 701	0.5	268
+126	Tout est changé, désormais.	The victory is ours.	That's all changed now.	False	False	1.6198092	280	280, 715, 348	0	357
+127	Aujourd'hui est un jour formidable !	Today is a good day!	Today is a good day!	True	True	1.6833909	696	696, 739, 715	1.0	696
+128	Connais-tu quiconque, ici ?	Who is your favorite author?	Do you know someone here?	False	False	1.5467546	600	600, 542, 699	0	546
+129	Je suis ici jusqu'à trois heures.	Your daily life is your temple and your religion.	I will stay here till three o'clock.	False	False	1.6741289	715	715, 724, 701	0	14
+130	Je commence à en avoir assez de tes mensonges.	Your daily life is your temple and your religion.	I'm getting tired of your lies.	False	False	1.7341896	715	715, 957, 368	0	198
+131	Je veux un bateau qui m'emmènera loin d'ici.	Where is my Meerschaum pipe?	I want a boat that'll take me far away from here.	False	False	1.629462	724	724, 740, 715	0	979
+132	Ce fut difficile pour elle de répondre à la question.	Who is your favorite author?	She found it difficult to answer the question.	False	False	1.6606266	600	600, 157, 691	0	206
+133	J'ai eu peur de m'endormir en conduisant.	I drink his beer.	I was afraid I might fall asleep while driving.	False	False	1.65946	701	701, 214, 749	0	140
+134	Je n'ai pas froid aux yeux.	Where is my Meerschaum pipe?	I'm not scared.	False	False	1.5915967	724	724, 701, 715	0	179
+135	Le seigle était appelé le grain de la pauvreté.	The cat is in its basket.	Rye was called the grain of poverty.	False	False	1.683805	548	548, 150, 283	0	986
+136	Très peu nombreux sont ceux qui connaissent leur groupe sanguin.	Who is your favorite author?	Very few people know what their blood group is.	False	False	1.6517832	600	600, 699, 542	0	298
+137	C'est ta vie quotidienne qui est ton temple et ta religion !	Your daily life is your temple and your religion.	Your daily life is your temple and your religion.	True	True	1.6196834	715	715, 280, 739	1.0	715
+138	Cette texte n'est pas une texte traduite.	Today is June 18th and it is Muiriel's birthday!	This text is not a translated text.	False	False	1.7008753	739	739, 548, 715	0	186
+139	Je ne veux surtout pas vivre dans une grande ville.	Your daily life is your temple and your religion.	I have no wish to live in a large city.	False	False	1.6681857	715	715, 358, 368	0	656
+140	Un rhinocéros est très grand.	The rhinoceros is very big.	The rhinoceros is very big.	True	True	1.7299174	155	155, 489, 539	1.0	155
+141	La chance est aveugle.	Innocence is a beautiful thing.	Luck is blind.	False	False	1.6728188	834	834, 724, 957	0	163
+142	Je gagne 100€ par jour.	I make 100 euros per day.	I make 100 euros per day.	True	True	1.5982525	759	759, 758, 12	1.0	759
+143	La route est longue.	Today is June 18th and it is Muiriel's birthday!	The way is long.	False	False	1.7026175	739	739, 548, 275	0	314
+144	J'ai tout lu à ton sujet.	I drink his beer.	I've read all about you.	False	False	1.6202134	701	701, 715, 724	0	576
+145	Mais la possibilité semble improbable.	The cat is in its basket.	But the possibility seems unlikely.	False	False	1.6105963	548	548, 600, 214	0	897
+146	Personne ne saura.	Do you drink beer or wine?	Nobody will know.	False	False	1.6770271	699	699, 543, 214	0	879
+147	Tu crois que nous la trouverons, sa maison à elle ?	Who is your favorite author?	Do you think that we'll find her house?	False	False	1.5478922	600	600, 921, 715	0	285
+148	Comment pourrais-je être un robot ? Les robots ne rêvent pas.	Who is your favorite author?	How could I be a robot? Robots don't dream.	False	False	1.6270173	600	600, 921, 543	0	911
+149	N'écrivez jamais les mots « borchtch » et « chtchi » en allemand !	Happy birthday, Muiriel!	"Never write the words ""bortsch"" and ""shchi"" in German!"	False	True	1.6670107	740	740, 739, 505	0.3333333333333333	505
+150	Les cambrioleurs sont en prison.	The burglars are in prison.	The burglars are in prison.	True	True	1.6923661	283	283, 351, 739	1.0	283
+151	Il a la poisse.	I drink his beer.	He has very bad luck.	False	False	1.6775863	701	701, 739, 214	0	190
+152	Ne tenez aucun compte de ce qu'il dit.	Who is your favorite author?	Don't take any notice of what he says.	False	False	1.6756779	600	600, 715, 724	0	422
+153	L'architecte se vantait d'avoir reçu une récompense prestigieuse.	Today is June 18th and it is Muiriel's birthday!	The architect boasted that he had received a prestigious award.	False	False	1.7094762	739	739, 701, 712	0	610
+154	Avez-vous vu qui que ce soit de suspect ?	Do you drink beer or wine?	Did you see anyone suspicious?	False	False	1.5752733	699	699, 600, 921	0	631
+155	Demain, il va alunir.	You ran in the garden.	Tomorrow, he will land on the moon.	False	True	1.6579301	214	214, 935, 280	0.5	935
+156	Puis-je emprunter le vôtre ?	Where is my Meerschaum pipe?	Can I borrow yours?	False	False	1.5272444	724	724, 699, 600	0	219
+157	Elle a prétendu qu'elle ne l'avait pas entendu.	I drink his beer.	She made believe that she had not heard him.	False	False	1.6553321	701	701, 594, 802	0	46
+158	Tout le monde me déteste, à l'école.	You ran in the garden.	Everybody at school hates me.	False	False	1.6125419	214	214, 740, 724	0	80
+159	J'en perds mes mots.	Your daily life is your temple and your religion.	Words fail me.	False	False	1.5990571	715	715, 280, 724	0	745
+160	Est-ce que tu te fous de moi ? !	Who is your favorite author?	Are you freaking kidding me?!	False	False	1.6051872	600	600, 715, 724	0	793
+161	Quiconque vous y a-t-il vu ?	Who is your favorite author?	Did anyone see you there?	False	False	1.5465524	600	600, 543, 699	0	645
+162	Il écrit souvent à ses parents.	He who writes reads twice.	He often writes to his parents.	False	True	1.6511106	468	468, 281, 157	0.5	281
+163	Qui écrit lit deux fois.	He who writes reads twice.	He who writes reads twice.	True	True	1.6372308	468	468, 724, 701	1.0	468
+164	Elle a attribué son succès à la bonne fortune.	The victory is ours.	She attributed her success to good luck.	False	False	1.6462076	280	280, 715, 480	0	413
+165	Après sa licence, il est devenu professeur.	He is at the office.	Having graduated from college, she became a teacher.	False	False	1.6724815	176	176, 283, 345	0	260
+166	Je n'espère rien, je n'ai peur de rien ; je suis libre.	Where is my Meerschaum pipe?	I hope for nothing, I fear for nothing, I am free.	False	False	1.6425098	724	724, 715, 931	0	177
+167	Quelqu'un peut-il m'amener en voiture ?	Who is your favorite author?	Can someone give me a lift?	False	False	1.6197107	600	600, 699, 601	0	57
+168	Peut-être es-tu encore en veine.	Your daily life is your temple and your religion.	You may still be in luck.	False	False	1.6481814	715	715, 368, 280	0	396
+169	Vous pouvez vous habiller, maintenant.	The victory is ours.	You can get dressed now.	False	False	1.6103356	280	280, 715, 351	0	362
+170	Le champ était couvert de mauvaises herbes.	This coffee is too bitter.	The field was rank with weeds.	False	False	1.6621637	150	150, 548, 189	0	261
+171	Quand je serai grand, je veux être roi.	Your daily life is your temple and your religion.	When I grow up, I want to be king.	False	False	1.6020799	715	715, 740, 280	0	796
+172	Place le jeu de cartes sur la table en bois de chêne.	Place the deck of cards on the oaken table.	Place the deck of cards on the oaken table.	True	True	1.5751216	989	989, 739, 311	1.0	989
+173	Ça n'arrivera pas.	This can't be!	That won't happen.	False	False	1.6500103	955	955, 740, 489	0	762
+174	Personne ne peut y mettre un terme.	He who writes reads twice.	Nobody can stop it.	False	False	1.7717711	468	468, 701, 828	0	526
+175	Nous avons parlé de cela hier.	The victory is ours.	We talked about this yesterday.	False	False	1.6034356	280	280, 264, 715	0	103
+176	Après ça, je pars, mais je me rends compte que j'ai oublié mon sac chez eux.	I drink his beer.	After that, I left, but then I realized that I forgot my backpack at their house.	False	False	1.6320844	701	701, 715, 740	0	855
+177	Tu serais surprise de ce que tu peux apprendre en une semaine.	Your daily life is your temple and your religion.	You'd be surprised what you can learn in a week.	False	False	1.6602446	715	715, 368, 280	0	929
+178	Et si nous retournions à la maison ?	How do you find food in outer space?	Why don't we go home?	False	False	1.5903282	921	921, 600, 724	0	993
+179	"Le mot de passe est ""Muiriel""."	"The password is ""Muiriel""."	"The password is ""Muiriel""."	True	True	1.5842109	742	742, 739, 740	1.0	742
+180	Je suis sans voix.	Your daily life is your temple and your religion.	I'm at a loss for words.	False	False	1.5296695	715	715, 724, 280	0	345
+181	La climatisation ne fonctionne pas.	He who writes reads twice.	The AC doesn't work.	False	False	1.7287756	468	468, 283, 723	0	144
+182	Vous devriez utiliser cette chance.	We know by the flowers the quality of the fruit.	You had better avail yourself of this opportunity.	False	False	1.6822319	480	480, 214, 724	0	245
+183	Regarde ! Le train est là !	Look! The train is there!	Look! The train is there!	True	True	1.5653595	714	714, 788, 351	1.0	714
+184	Il vit l'accident sur le chemin de l'école.	I drink his beer.	He saw the accident on the way to school.	False	False	1.7212126	701	701, 214, 739	0	569
+185	Tom s'est frayé un chemin à travers la foule.	Where is my Meerschaum pipe?	Tom made his way through the crowd.	False	False	1.628907	724	724, 701, 548	0	539
+186	Ai-je oublié qui que ce soit ?	Who is your favorite author?	Did I forget anyone?	False	False	1.5289531	600	600, 699, 827	0	641
+187	Je n'ai sauvé personne.	I can do this with you or without you.	I didn't rescue anybody.	False	False	1.6482809	594	594, 543, 724	0	625
+188	Papa est-il dans la cuisine ?	Is dad in the kitchen?	Is dad in the kitchen?	True	True	1.5395191	157	157, 600, 864	1.0	157
+189	Je suis une personne qui a des défauts, mais ces défauts peuvent être facilement corrigés.	Who is your favorite author?	I am a flawed person, but these are flaws that can easily be fixed.	False	True	1.6630213	600	600, 839, 830	0.3333333333333333	830
+190	Cherchez-vous quelqu'un ?	Do you drink beer or wine?	Are you looking for somebody?	False	False	1.5362648	699	699, 542, 543	0	60
+191	Je suppose que c'est bon pour vous.	I drink his beer.	I guess that's good for you.	False	False	1.6898525	701	701, 739, 715	0	668
+192	Sauf que là, c'est pas si simple.	Where is my Meerschaum pipe?	Except that here, it's not so simple.	False	False	1.6909153	724	724, 739, 368	0	882
+193	Quelqu'un a-t-il mentionné mon nom ?	Who is your favorite author?	Did somebody mention my name?	False	False	1.5627434	600	600, 562, 543	0	43
+194	Quiconque a-t-il besoin de quoi que ce soit ?	Who is your favorite author?	Does anybody need anything?	False	False	1.5605363	600	600, 699, 543	0	535
+195	Nous étions tenus de rester à la maison.	Your daily life is your temple and your religion.	We should've stayed at home.	False	False	1.5859971	715	715, 157, 482	0	238
+196	Où est le problème ?	Who is your favorite author?	Where is the problem?	False	True	1.5670422	600	600, 889, 921	0.5	889
+197	Je ne bois pas de bière, je bois seulement de l'alcool.	I drink his beer.	I don't drink beer, only spirits.	False	False	1.6001754	701	701, 739, 931	0	709
+198	J'ai acheté quelque chose pour Marie.	I drink his beer.	I bought something for Mary.	False	False	1.5927913	701	701, 715, 214	0	455
+199	J'ai un ami avec lequel je corresponds.	Your daily life is your temple and your religion.	I have a friend I correspond with.	False	True	1.6498377	715	715, 600, 729	0.3333333333333333	729
+200	Il se peut que le bonheur qui nous attend là-bas ne soit pas du tout le genre de bonheur que nous voudrions.	The victory is ours.	It may be that the happiness awaiting us is not at all the sort of happiness we would want.	False	False	1.6693354	280	280, 368, 715	0	976
+201	Tom a une tonsure.	I drink his beer.	Tom has a bald spot.	False	False	1.6275423	701	701, 724, 331	0	102
+202	J'ai fait un rêve effrayant.	I was in the mountains.	I had a terrible dream.	False	False	1.6593769	749	749, 438, 214	0	467
+203	J'ignore où vous résidez.	Where is my Meerschaum pipe?	I don't know where you live.	False	False	1.6071477	724	724, 543, 600	0	374
+204	Il me rendait fou.	Happy birthday, Muiriel!	It was driving me crazy.	False	False	1.5999469	740	740, 214, 739	0	616
+205	Personne ne me vit.	To travel hopefully is a better thing than to arrive.	No one saw me.	False	False	1.7286048	368	368, 828, 594	0	520
+206	J'ai su que je te voulais au moment même où je t'ai vu.	Your daily life is your temple and your religion.	I knew I wanted you the moment I saw you.	False	False	1.6535335	715	715, 749, 701	0	596
+207	Elle n'a jamais rêvé qu'elle le rencontrerait à l'étranger.	Did anyone miss me?	She never dreamed she'd meet him overseas.	False	False	1.7012188	561	561, 600, 701	0	25
+208	Je voudrais aller chercher mes affaires.	Keep your head low.	I would like to go and get my stuff.	False	False	1.6291635	301	301, 715, 724	0	6
+209	Quelle est la personne la plus à même d'enregistrer ma plainte ?	Who is your favorite author?	Who's the best person to speak with to file a complaint?	False	False	1.5978572	600	600, 724, 601	0	372
+210	Il était en colère après elle.	Today is June 18th and it is Muiriel's birthday!	He was angry with her.	False	False	1.71901	739	739, 724, 157	0	178
+211	Tom a reçu un prix du meilleur vendeur de l'entreprise.	Tom got an award for the highest sales at his company.	Tom got an award for the highest sales at his company.	True	True	1.7235761	256	256, 468, 124	1.0	256
+212	Avez-vous vu qui que ce soit ?	Do you drink beer or wine?	Did you see anybody?	False	False	1.5199621	699	699, 600, 543	0	635
+213	Ça me paraît intéressant !	Where is my Meerschaum pipe?	It seems interesting to me.	False	False	1.6412182	724	724, 108, 166	0	881
+214	J'ai vécu plus d'un mois à Nagoya.	I drink his beer.	I lived in Nagoya for over a month.	False	True	1.7026496	701	701, 999, 843	0.5	999
+215	Rien n'est beau que le vrai.	Life is hard, but I am harder.	Nothing is beautiful but the truth.	False	False	1.6684251	931	931, 489, 715	0	934
+216	Que pensez-vous de ce travail ?	Who is your favorite author?	What do you think of this work?	False	False	1.6065493	600	600, 921, 715	0	376
+217	La victoire est à nous.	The victory is ours.	The victory is ours.	True	True	1.5397964	280	280, 715, 214	1.0	280
+218	Il se peut que je sois antisocial, mais ça ne veut pas dire pas que je ne parle pas aux gens.	Do you recognize anyone?	I may be antisocial, but it doesn't mean I don't talk to people.	False	False	1.6648979	543	543, 600, 468	0	814
+219	Je pourrais vous enseigner.	Your daily life is your temple and your religion.	I could tutor you.	False	False	1.5716707	715	715, 740, 280	0	604
+220	Prête attention à ce que tu manges !	Your daily life is your temple and your religion.	Pay attention to what you're eating!	False	False	1.6007941	715	715, 351, 724	0	110
+221	J'aime toutes sortes de peintures.	I like all sorts of paintings.	I like all sorts of paintings.	True	True	1.6595633	151	151, 715, 701	1.0	151
+222	Il a été accusé de vol de bijoux.	He was accused of stealing the jewels.	He was accused of stealing the jewels.	True	True	1.626868	336	336, 707, 548	1.0	336
+223	J'étudie jour et nuit.	Your daily life is your temple and your religion.	I studied around the clock.	False	False	1.6208861	715	715, 724, 209	0	688
+224	Qui que ce soit vous a-t-il vu ?	Who is your favorite author?	Did anybody see you?	False	False	1.5375588	600	600, 699, 543	0	642
+225	Demain c'est le samedi 5 février 2011.	Today is June 18th and it is Muiriel's birthday!	Tomorrow is Saturday, February 5th, 2011.	False	False	1.6715121	739	739, 214, 445	0	340
+226	Tout le monde a applaudi.	You ran in the garden.	Everybody was clapping.	False	False	1.5886436	214	214, 749, 724	0	78
+227	J'ignore si je peux y parvenir sans toi.	Who is your favorite author?	I don't know if I can make it without you.	False	False	1.6675392	600	600, 916, 701	0	595
+228	Tu n'as jamais le temps pour les choses importantes !	Your daily life is your temple and your religion.	You never have time for important things!	False	False	1.6706452	715	715, 601, 600	0	948
+229	Je sais qu'il n'a pas dit de bonnes choses à mon sujet.	I drink his beer.	I know that he didn't say good things about me.	False	False	1.6536545	701	701, 600, 715	0	599
+230	Je pense que le fait que j'ai vécu avec toi a influencé la façon dont tu vis.	Your daily life is your temple and your religion.	I think my living with you has influenced your way of living.	False	True	1.6350639	715	715, 600, 843	0.3333333333333333	843
+231	M'as-tu téléphoné hier soir ?	Where is my Meerschaum pipe?	Did you call me up last night?	False	False	1.5414976	724	724, 699, 600	0	269
+232	Nous devons nous diviser.	The victory is ours.	We have to split.	False	False	1.5671593	280	280, 921, 715	0	359
+233	Elle a rencontré quelqu'un que beaucoup de monde rencontre.	Your daily life is your temple and your religion.	She met somebody who many people meet.	False	False	1.722117	715	715, 600, 724	0	346
+234	Quiconque est-il déjà là ?	Is anyone in there?	Is anyone here yet?	False	False	1.6120293	551	551, 600, 864	0	552
+235	Il faut protéger l'unité nationale.	It is necessary to protect the national unity.	It is necessary to protect the national unity.	True	True	1.6148726	726	726, 280, 739	1.0	726
+236	Je n'ai simplement pas su comment.	I drink his beer.	I just didn't know how.	False	False	1.7320321	701	701, 543, 349	0	731
+237	Je pouvais voir que c'était toi.	Where is my Meerschaum pipe?	I could see it was you.	False	False	1.6354256	724	724, 715, 214	0	605
+238	Nous sommes désormais des gens complètement différents.	The victory is ours.	We're totally different people now.	False	False	1.6132703	280	280, 600, 601	0	384
+239	Il est vendeur de voitures.	He who writes reads twice.	He's a car salesman.	False	False	1.7539145	468	468, 723, 548	0	162
+240	Nous vivons dans un monde compliqué.	Your daily life is your temple and your religion.	We live in a complicated world.	False	False	1.5665534	715	715, 280, 921	0	164
+241	C'est ma réplique !	Happy birthday, Muiriel!	That's my line!	False	False	1.6309301	740	740, 739, 724	0	783
+242	C'est à toi de décider si nous allons là-bas ou non.	How do you find food in outer space?	It is up to you to decide whether we will go there or not.	False	False	1.6482818	921	921, 600, 280	0	977
+243	Un million de personnes ont perdu la vie pendant la guerre.	One million people lost their lives in the war.	One million people lost their lives in the war.	True	True	1.6613917	997	997, 214, 600	1.0	997
+244	Je n'avais pas l'intention de blesser qui que ce fut.	Your daily life is your temple and your religion.	I didn't mean to hurt anyone.	False	False	1.6529655	715	715, 724, 600	0	626
+245	Nous étions cuits.	Your daily life is your temple and your religion.	We were wasted.	False	False	1.5744925	715	715, 280, 740	0	297
+246	La route est recouverte d'asphalte.	Today is June 18th and it is Muiriel's birthday!	The street is paved with asphalt.	False	True	1.6987916	739	739, 143, 275	0.5	143
+247	Je voulais juste vérifier mes emails.	Your daily life is your temple and your religion.	I just wanted to check my email.	False	False	1.6341941	715	715, 903, 280	0	942
+248	Elle a accepté son cadeau.	Today is June 18th and it is Muiriel's birthday!	She accepted his gift.	False	False	1.6903336	739	739, 701, 590	0	339
+249	Tout le monde est-il prêt ?	Who is your favorite author?	Is everybody ready?	False	False	1.60905	600	600, 551, 921	0	83
+250	Tout le monde est silencieux.	The victory is ours.	Everyone is silent.	False	False	1.619418	280	280, 715, 554	0	65
+251	Connaissez-vous qui que ce soit, ici ?	Do you drink beer or wine?	Do you know anybody here?	False	False	1.5354705	699	699, 543, 600	0	547
+252	Et alors ?	What is it?	So fuckin' what.	False	False	1.6588056	864	864, 551, 738	0	799
+253	Je ne peux qu'attendre.	I want a boat that'll take me far away from here.	I can but wait.	False	False	1.6750019	979	979, 916, 701	0	890
+254	Nous sommes du Canada.	The victory is ours.	We are from Canada.	False	False	1.5032167	280	280, 715, 600	0	379
+255	Je suis son cadet de quatre ans.	I am four years younger than him.	I am four years younger than him.	True	True	1.6121999	195	195, 715, 739	1.0	195
+256	Quiconque m'entend-il ?	Do you drink beer or wine?	Does anybody hear me?	False	False	1.5866823	699	699, 543, 542	0	538
+257	J'ai beaucoup travaillé le mois dernier.	Your daily life is your temple and your religion.	I worked hard last month.	False	False	1.7331741	715	715, 701, 749	0	306
+258	« Quand vas-tu revenir ? » « Tout dépend du temps qu'il fera. »	Your daily life is your temple and your religion.	"""When will you be back?"" ""It all depends on the weather."""	False	False	1.6323991	715	715, 280, 921	0	960
+259	La mère met le sucrier sur la table.	The mother puts the sugar bowl on the table.	The mother puts the sugar bowl on the table.	True	True	1.601416	311	311, 739, 157	1.0	311
+260	C'est ce que j'adore chez Tom.	Today is June 18th and it is Muiriel's birthday!	That's what I love about Tom.	False	False	1.686338	739	739, 701, 358	0	414
+261	Je ne voulais simplement pas vous contrarier.	Your daily life is your temple and your religion.	I just didn't want to upset you.	False	False	1.6703948	715	715, 234, 301	0	735
+262	Attendez-vous quelqu'un ?	Do you drink beer or wine?	Are you expecting someone?	False	False	1.5154313	699	699, 542, 543	0	58
+263	C'est son caractère qui fait à chacun sa destinée.	The victory is ours.	It is his character that makes each one his destiny.	False	False	1.6899927	280	280, 715, 739	0	716
+264	Arrête de faire comme si tu ne me connaissais pas !	Your daily life is your temple and your religion.	Stop pretending you don't know me.	False	False	1.6628578	715	715, 482, 699	0	356
+265	Après l'hiver, le printemps.	Today is June 18th and it is Muiriel's birthday!	After winter, spring comes.	False	False	1.6549001	739	739, 701, 280	0	225
+266	J'ai trouvé une solution, mais je l'ai trouvée tellement vite que ça peut pas être la bonne.	Your daily life is your temple and your religion.	I found a solution, but I found it so fast that it can't be the right solution.	False	False	1.6591449	715	715, 931, 594	0	880
+267	As-tu vu qui que ce soit d'autre ?	Do you drink beer or wine?	Did you see anybody else?	False	False	1.5666544	699	699, 600, 542	0	636
+268	Si je pouvais t'envoyer un marshmallow, Trang, je le ferais.	I drink his beer.	If I could send you a marshmallow, Trang, I would.	False	False	1.6532731	701	701, 739, 724	0	824
+269	Elle me montra sa nouvelle voiture.	She showed me her new car.	She showed me her new car.	True	True	1.615729	590	590, 715, 214	1.0	590
+270	Les deux régions se distinguent par la religion et la culture.	The two regions differ in religion and culture.	The two regions differ in religion and culture.	True	True	1.568153	377	377, 719, 98	1.0	377
+271	Comment trouves-tu de la nourriture dans l'espace ?	How do you find food in outer space?	How do you find food in outer space?	True	True	1.5295985	921	921, 600, 601	1.0	921
+272	Un vieil homme vivait autrefois sur cette île.	There once lived an old man on that island.	There once lived an old man on that island.	True	True	1.6323898	9	9, 739, 715	1.0	9
+273	Les religions monothéistes sont un grand mensonge pour l'humanité.	Monotheistic religions are a big lie for humanity.	Monotheistic religions are a big lie for humanity.	True	True	1.5835769	17	17, 280, 0	1.0	17
+274	T'es vraiment pas bête.	What is this?	You're really not stupid.	False	False	1.6409681	738	738, 715, 489	0	874
+275	Je peux le faire avec ou sans toi.	I can do this with you or without you.	I can do this with you or without you.	True	True	1.6044884	594	594, 715, 916	1.0	594
+276	Pourquoi parlez-vous ainsi ?	Why are you asking?	Why are you talking like that?	False	False	1.4675895	827	827, 600, 699	0	371
+277	Je me suis toujours demandé ce que ça ferait d'avoir des frères et sœurs.	Your daily life is your temple and your religion.	I've always wondered what it'd be like to have siblings.	False	False	1.6098275	715	715, 739, 740	0	804
+278	Joyeux anniversaire Muiriel !	Happy birthday, Muiriel!	Happy birthday, Muiriel!	True	True	1.5016226	740	740, 739, 351	1.0	740
+279	Il n'y a personne chez nous.	There's nobody home.	No one is home.	False	False	1.6904931	514	514, 551, 280	0	515
+280	Ça ne va jamais finir.	Cool story, bro.	This is never going to end.	False	False	1.6947215	489	489, 740, 955	0	746
+281	Il n'y a pas de place pour tout le monde.	He who writes reads twice.	There isn't room for everyone.	False	False	1.6971095	468	468, 715, 514	0	93
+282	Il n'y a rien de plus rafraîchissant qu'une bière froide par une journée chaude.	Today is June 18th and it is Muiriel's birthday!	There is nothing more refreshing than a cold beer on a hot day.	False	False	1.7086968	739	739, 701, 740	0	48
+283	As-tu tué qui que ce soit ?	Who is your favorite author?	Did you kill anybody?	False	False	1.5282657	600	600, 699, 601	0	638
+284	Ça me prendrait trop de temps pour t'expliquer pourquoi ça ne va pas marcher.	How do you find food in outer space?	It would take me too much time to explain to you why it's not going to work.	False	False	1.7227986	921	921, 544, 715	0	950
+285	Je ne suis pas heureux.	Your daily life is your temple and your religion.	I'm not happy.	False	False	1.5952235	715	715, 681, 280	0	680
+286	Je vais donc jouer au Sudoku au lieu de continuer de te déranger.	Your daily life is your temple and your religion.	I will play Sudoku then instead of continuing to bother you.	False	False	1.7373012	715	715, 214, 701	0	888
+287	Ça me prendrait l'éternité pour tout expliquer.	The plane will land in an hour.	It would take forever for me to explain everything.	False	False	1.671309	259	259, 715, 368	0	806
+288	Dois-je garder la chambre ?	Who is your favorite author?	Must I stay in bed?	False	True	1.5850236	600	600, 435, 832	0.5	435
+289	Tout le monde a ses forces et ses faiblesses.	Your daily life is your temple and your religion.	Everyone has strengths and weaknesses.	False	False	1.6265922	715	715, 280, 468	0	908
+290	Chaque fois que je te vois, je pense à mon père.	Your daily life is your temple and your religion.	Every time that I see you, I think of my father.	False	False	1.5971054	715	715, 724, 713	0	130
+291	Je ne parle pas japonais.	Cool story, bro.	I don't speak Japanese.	False	True	1.5961518	489	489, 61, 936	0.3333333333333333	936
+292	Madame Hughes, voici Peter Brown.	Bring water with the bucket.	Mrs. Hughes, this is Peter Brown.	False	True	1.618957	708	708, 234, 248	0.3333333333333333	248
+293	Ça dépend du contexte.	Cool story, bro.	It depends on the context.	False	False	1.6951247	489	489, 468, 878	0	792
+294	C'est parce que tu es une fille.	Your daily life is your temple and your religion.	That's because you're a girl.	False	False	1.6558584	715	715, 368, 739	0	807
+295	Prenez l'ascenseur qui va au quatrième étage.	Today is June 18th and it is Muiriel's birthday!	Take the elevator to the fifth floor.	False	False	1.6933475	739	739, 234, 351	0	13
+296	Les étrangers m'intriguent.	Where is my Meerschaum pipe?	Foreign people intrigue me.	False	False	1.6762702	724	724, 701, 214	0	926
+297	J'ai un petit peu faim.	Where is my Meerschaum pipe?	I'm a little bit hungry.	False	False	1.6337117	724	724, 701, 438	0	582
+298	Il a crié très fort en demandant de l'aide.	I drink his beer.	He strongly cried out asking for help.	False	False	1.6839328	701	701, 739, 740	0	309
+299	Quiconque se trouve-t-il là-dedans ?	Do you recognize anyone?	Is anyone in there?	False	True	1.5733113	543	543, 562, 551	0.3333333333333333	551
+300	Si tu fais ça, tout le monde va te détester.	Your daily life is your temple and your religion.	If you do that, everyone's going to hate you.	False	False	1.6180444	715	715, 280, 600	0	97
+301	J'ai vu un homme âgé tombé sur le dos dans la rue.	I drink his beer.	I saw an old man fall on his back in the street.	False	False	1.6365371	701	701, 539, 214	0	659
+302	Tom est à Boston maintenant.	Tom is in Boston now.	Tom is in Boston now.	True	True	1.6860057	343	343, 123, 696	1.0	343
+303	Il est au bureau.	He is at the office.	He is at the office.	True	True	1.692473	176	176, 157, 739	1.0	176
+304	Les humains n'ont jamais été faits pour vivre éternellement.	Your daily life is your temple and your religion.	Humans were never meant to live forever.	False	False	1.7116381	715	715, 997, 368	0	835
+305	Je la reconnus du premier coup d'œil.	I drink his beer.	I recognized her at first sight.	False	False	1.6086025	701	701, 724, 925	0	502
+306	T'as jamais cours ou quoi ? !	Yes, what of it?	You never have class or what?!	False	False	1.5942117	497	497, 738, 699	0	887
+307	On peut toujours trouver du temps.	One can always find time.	One can always find time.	True	True	1.6740546	817	817, 280, 368	1.0	817
+308	De nombreux animaux sauvages moururent parce qu'il n'y avait aucune nourriture.	How do you find food in outer space?	A lot of wild animals died because there wasn't any food.	False	False	1.6523101	921	921, 600, 601	0	378
+309	L'étranger parle le japonais comme si c'était sa langue natale.	I drink his beer.	The foreigner speaks Japanese as if it were his native language.	False	True	1.6850138	701	701, 318, 600	0.5	318
+310	Il est strictement interdit de traduire cette phrase !	You ran in the garden.	It is strictly forbidden to translate this sentence!	False	False	1.6676677	214	214, 234, 548	0	30
+311	Euh, là c'est vraiment bizarre...	Happy birthday, Muiriel!	Uh, now it's really weird...	False	False	1.6728947	740	740, 724, 701	0	869
+312	Le voleur s'introduisit par une fenêtre cassée.	The cat is in its basket.	The thief entered through a broken window.	False	False	1.7030967	548	548, 701, 739	0	481
+313	Votre nom figure plus bas dans la liste.	Your name's further down the list.	Your name's further down the list.	True	True	1.5916739	187	187, 351, 708	1.0	187
+314	Tu fais désormais partie de la bande.	Your daily life is your temple and your religion.	You're part of the gang now.	False	False	1.5769506	715	715, 280, 724	0	394
+315	Redonne-moi mon petit sac.	Your daily life is your temple and your religion.	Give me back my bag.	False	False	1.6024806	715	715, 740, 489	0	160
+316	Quiconque sait-il que vous êtes ici ?	Who is your favorite author?	Does anyone know you're here?	False	False	1.5369165	600	600, 543, 699	0	537
+317	Je n'ai pas aimé.	Where is my Meerschaum pipe?	I didn't like it.	False	False	1.6087878	724	724, 774, 715	0	845
+318	Le malheur des uns fait le bonheur des autres.	Cool story, bro.	Two in distress make sorrow less.	False	False	1.6162361	489	489, 931, 280	0	488
+319	C'est ainsi que je me sens actuellement.	Your daily life is your temple and your religion.	That's how I feel now.	False	False	1.7410529	715	715, 368, 280	0	399
+320	Il veut aller en Afrique.	The victory is ours.	He wants to go to Africa.	False	False	1.7030959	280	280, 740, 214	0	138
+321	Je vous ai contrariées.	Your daily life is your temple and your religion.	I've upset you.	False	False	1.6350031	715	715, 724, 701	0	651
+322	La maison est en construction.	Is dad in the kitchen?	The building is under construction.	False	False	1.7128263	157	157, 280, 275	0	265
+323	Ce pantalon est sale.	Today is June 18th and it is Muiriel's birthday!	These trousers are dirty.	False	False	1.627496	739	739, 280, 696	0	702
+324	Il va venir cet après-midi.	The victory is ours.	He will come this afternoon.	False	False	1.6945223	280	280, 724, 739	0	498
+325	Je ne cesse de penser à vous.	Happy birthday, Muiriel!	I never stop thinking about you.	False	False	1.6267719	740	740, 715, 724	0	573
+326	Je dois dire que je t'envie.	Your daily life is your temple and your religion.	I have to say I envy you.	False	False	1.6486634	715	715, 701, 724	0	427
+327	Chacun est-il prêt ?	Is anyone in there?	Is everyone ready?	False	False	1.5821449	551	551, 600, 737	0	84
+328	Après quelques recherches sur Google, je suspecte que ce que vous dites n'est peut-être pas vrai.	Who is your favorite author?	After a bit of googling, I suspect that what you said may not be true.	False	False	1.6101902	600	600, 921, 739	0	580
+329	Combien de temps es-tu restée ?	Your daily life is your temple and your religion.	How long did you stay?	False	False	1.5841966	715	715, 921, 600	0	832
+330	C'est parce que tu ne veux pas être seul.	Your daily life is your temple and your religion.	It's because you don't want to be alone.	False	False	1.669199	715	715, 594, 228	0	761
+331	J'ai besoin de quelqu'un, maintenant.	Keep your head low.	I need someone now.	False	False	1.6605041	301	301, 712, 715	0	32
+332	Quiconque en a-t-il connaissance ?	Who is your favorite author?	Does anybody know about this?	False	False	1.5675049	600	600, 543, 699	0	534
+333	Il se peut qu'il gèle la semaine prochaine.	Today is June 18th and it is Muiriel's birthday!	It may freeze next week.	False	False	1.6677735	739	739, 740, 280	0	857
+334	Notre réfrigérateur ne fonctionne plus.	He who writes reads twice.	Our fridge doesn't work anymore.	False	False	1.7132039	468	468, 283, 740	0	603
+335	Qui va loin des yeux va loin du cœur.	Where is my Meerschaum pipe?	Out of sight, out of mind.	False	False	1.5563917	724	724, 214, 715	0	722
+336	« Pierre qui roule n'amasse pas mousse » est un proverbe.	Where is my Meerschaum pipe?	"""A rolling stone gathers no moss"" is a saying."	False	False	1.6078262	724	724, 739, 548	0	957
+337	On ne peut pas apprendre le japonais sans apprendre les kanjis.	We can not learn Japanese without learning Kanji.	We can not learn Japanese without learning Kanji.	True	True	1.5387144	61	61, 684, 30	1.0	61
+338	Tout le monde est parti, maintenant.	Your daily life is your temple and your religion.	Everyone is gone now.	False	False	1.6129621	715	715, 280, 739	0	69
+339	Ai-je manqué à quiconque ?	Who is your favorite author?	Did anyone miss me?	False	False	1.5371599	600	600, 832, 724	0	561
+340	J'aurais dû la fermer.	Your daily life is your temple and your religion.	I should have kept my mouth shut.	False	False	1.5537665	715	715, 214, 713	0	19
+341	Il a beaucoup travaillé et terminé le rapport en une semaine.	He worked hard, finishing the report in one week.	He worked hard, finishing the report in one week.	True	True	1.7688079	139	139, 468, 739	1.0	139
+342	Je voudrais louer une maison.	You ran in the garden.	I'd like to rent a house.	False	False	1.6137372	214	214, 280, 489	0	730
+343	Personne ne peut me battre.	Nobody can beat me.	Nobody can beat me.	True	True	1.7048106	528	528, 368, 594	1.0	528
+344	Tu peux pas attendre de moi que je pense toujours à tout !	Your daily life is your temple and your religion.	You can't expect me to always think of everything!	False	False	1.6514304	715	715, 931, 280	0	944
+345	Maria est en train de porter une burqa.	Maria is wearing a burqa.	Maria is wearing a burqa.	True	True	1.5731244	707	707, 723, 283	1.0	707
+346	Il n'y a presque plus de lait dans le verre.	The cat is in its basket.	There's almost no milk left in the glass.	False	True	1.7322698	548	548, 739, 321	0.3333333333333333	321
+347	Je ne veux pas perdre mes idées, même si certaines d'entre elles sont un peu extrêmes.	I don't want to lose my ideas, even though some of them are a bit extreme.	I don't want to lose my ideas, even though some of them are a bit extreme.	True	True	1.6914306	836	836, 601, 600	1.0	836
+348	Qu'est-ce qui s'est passé ?	Who is your favorite author?	What is it?	False	True	1.564403	600	600, 738, 864	0.3333333333333333	864
+349	Il me faut trouver quelqu'un pour m'aider.	Today is June 18th and it is Muiriel's birthday!	I have to find someone to help me.	False	False	1.7456865	739	739, 715, 262	0	40
+350	Personne n'entendit la cloche sonner.	Where is my Meerschaum pipe?	Nobody heard the bell ring.	False	False	1.64924	724	724, 701, 699	0	524
+351	La beauté est le pouvoir dont une femme se sert pour charmer un amoureux et pour terrifier un mari.	Beauty is the power by which a woman charms a lover and terrifies a husband.	Beauty is the power by which a woman charms a lover and terrifies a husband.	True	True	1.6600025	441	441, 283, 834	1.0	441
+352	En entrant au café, j'ai aperçu deux jeunes hommes qui regardaient une partie de lutte à la télévision.	I drink his beer.	As I entered the café, I found two young men watching a wrestling match on television.	False	False	1.667942	701	701, 739, 214	0	188
+353	« C'est très gentil de votre part », répondit Willie.	Happy birthday, Muiriel!	"""That's very nice of you,"" Willie answered."	False	False	1.667928	740	740, 701, 957	0	970
+354	Je pense que c'est mieux de ne pas être impoli.	To travel hopefully is a better thing than to arrive.	I think it is best not to be impolite.	False	False	1.7531308	368	368, 739, 715	0	816
+355	"C'est une tâche difficile, choisir ce qui est ""bon"" ou ""mauvais"", mais il faut le faire."	"It is a difficult task, choosing what is ""right"" or ""wrong"", but you have to do it."	"It is a difficult task, choosing what is ""right"" or ""wrong"", but you have to do it."	True	True	1.6404097	756	756, 468, 600	1.0	756
+356	Marie sait pourquoi.	Today is June 18th and it is Muiriel's birthday!	Mary knows why.	False	False	1.6720154	739	739, 280, 600	0	470
+357	Personne ne sait ce que je ressens.	He who writes reads twice.	Nobody knows how I feel.	False	False	1.7097642	468	468, 600, 543	0	522
+358	Je propose que nous restions à la maison pour regarder la télévision.	You ran in the garden.	I suggest we stay home and watch television.	False	False	1.6031817	214	214, 740, 234	0	277
+359	Au-dessus du cadavre tournaient des vautours.	Today is June 18th and it is Muiriel's birthday!	Vultures circled above the dead body.	False	False	1.6940949	739	739, 214, 548	0	242
+360	Il a fait de moi ce que je suis aujourd'hui.	Your daily life is your temple and your religion.	He has made me what I am today.	False	False	1.6726227	715	715, 701, 724	0	7
+361	Tom est vendeur de voiture.	He who writes reads twice.	Tom is a car salesman.	False	False	1.7332062	468	468, 739, 701	0	437
+362	Quel est le nom de ton bateau ?	Who is your favorite author?	What's the name of your ship?	False	True	1.6294177	600	600, 108, 601	0.5	108
+363	Un des plus gros problèmes dans notre société moderne, c'est que les gens ne voient pas le monde comme moi.	He who writes reads twice.	One of the biggest problems in our modern society is that the people don't see the world as I do.	False	False	1.6918309	468	468, 715, 921	0	353
+364	C'est exact, mais qu'est-ce que ça vous fait ?	Who is your favorite author?	That's right, but what's it to you?	False	False	1.6515566	600	600, 601, 864	0	496
+365	C'est laquelle, sa maison à lui ?	Who is your favorite author?	Which house is his?	False	False	1.6059166	600	600, 157, 601	0	276
+366	Viens ici !	Look! The train is there!	Come over here!	False	False	1.6450438	714	714, 715, 788	0	117
+367	Je veux que tu te concentres sur ici et maintenant.	Your daily life is your temple and your religion.	I want you focus on the here and now.	False	False	1.6453425	715	715, 600, 903	0	387
+368	Je ne veux pas être lamentable, je veux être cool ! !	Your daily life is your temple and your religion.	I don't want to be lame; I want to be cool!!	False	False	1.6205367	715	715, 600, 979	0	795
+369	Personne ne m'a dit que vous étiez ici.	Where is my Meerschaum pipe?	Nobody told me you were here.	False	False	1.6368959	724	724, 543, 600	0	519
+370	J'ai l'habitude de faire mes courses dans ce supermarché.	Please hang your coat in the anteroom.	I usually do my shopping at this supermarket.	False	False	1.6578037	234	234, 701, 715	0	263
+371	Sois poli avec tout le monde !	Your daily life is your temple and your religion.	Be polite to everyone.	False	False	1.6117451	715	715, 892, 594	0	510
+372	Nous sommes à la recherche d'un hébergement.	Where is my Meerschaum pipe?	We are looking for lodging accommodations.	False	False	1.5962744	724	724, 351, 600	0	200
+373	C'est un livre intéressant.	It's an interesting book.	It's an interesting book.	True	True	1.6845055	244	244, 489, 586	1.0	244
+374	Tom aimait beaucoup sa famille.	Today is June 18th and it is Muiriel's birthday!	Tom loved his family very much.	False	True	1.6779661	739	739, 351, 132	0.3333333333333333	132
+375	Combien d'amis proches est-ce que tu as ?	Who is your favorite author?	How many close friends do you have?	False	False	1.6152557	600	600, 601, 921	0	813
+376	Je suppose que je ne voulais pas vous décevoir.	Your daily life is your temple and your religion.	I guess I didn't want to disappoint you.	False	False	1.6461354	715	715, 701, 234	0	658
+377	De quoi parle-t-il ?	Who is your favorite author?	What is he talking about?	False	False	1.5578512	600	600, 827, 699	0	293
+378	Personne n'avait de solution toute prête.	I utterly despise formal writing!	Nobody was able to suggest a solution.	False	False	1.6801498	925	925, 828, 321	0	401
+379	Alors il y a un problème...	Then there is a problem...	Then there is a problem...	True	True	1.7387005	786	786, 468, 739	1.0	786
+380	C’est ce qui est expliqué à la fin.	Today is June 18th and it is Muiriel's birthday!	That is somewhat explained at the end.	False	False	1.6606841	739	739, 600, 368	0	821
+381	Je ne me suis jamais fait de souci à ton sujet.	Your daily life is your temple and your religion.	I was never worried about you.	False	False	1.6398484	715	715, 828, 843	0	570
+382	J'aime étudier.	Your daily life is your temple and your religion.	I love learning.	False	False	1.6749082	715	715, 892, 713	0	454
+383	Quiconque a-t-il vu ce qui s'est passé ?	Who is your favorite author?	Did anybody see what happened?	False	False	1.5227776	600	600, 543, 546	0	650
+384	Je ne sais pas si j'ai le temps.	Your daily life is your temple and your religion.	I don't know if I have the time.	False	False	1.6410806	715	715, 594, 709	0	751
+385	Je n'ai personne qui veuille voyager avec moi.	Your daily life is your temple and your religion.	I don't have anyone who'd travel with me.	False	False	1.7045481	715	715, 594, 528	0	930
+386	Merci pour ton explication.	Today is June 18th and it is Muiriel's birthday!	Thank you for your explanation.	False	False	1.6543859	739	739, 480, 715	0	862
+387	J'apprécierais que tu m'aides.	Your daily life is your temple and your religion.	I'd appreciate it if you'd help me.	False	False	1.602831	715	715, 301, 234	0	403
+388	Je ne connais pas son numéro de téléphone.	Where is my Meerschaum pipe?	I don't know her telephone number.	False	False	1.6525173	724	724, 715, 828	0	167
+389	Parfois il peut être un gars bizarre.	I drink his beer.	Sometimes he can be a strange guy.	False	False	1.7055544	701	701, 489, 691	0	763
+390	Je leur ai dit de m'envoyer un autre ticket.	I drink his beer.	I told them to send me another ticket.	False	False	1.704098	701	701, 234, 712	0	772
+391	Personne ne me rend grâce.	Communism will never be reached in my lifetime.	Nobody appreciates me.	False	False	1.6975794	985	985, 280, 715	0	530
+392	J'ignorais que quiconque était là.	Who is your favorite author?	I didn't know anyone was there.	False	False	1.6504319	600	600, 724, 715	0	627
+393	Je connais le remède à ce qui te fait souffrir.	The victory is ours.	I know the cure for what ails you.	False	False	1.6452473	280	280, 715, 724	0	608
+394	Les pommes de terre sont des légumes.	Potatoes are vegetables.	Potatoes are vegetables.	True	True	1.6195662	189	189, 474, 150	1.0	189
+395	Oui, et alors ?	Are you from Urumqi?	Yes, what of it?	False	True	1.5813687	239	239, 497, 699	0.5	497
+396	Lorsqu'il a demandé qui avait cassé la fenêtre, tous les garçons ont pris un air innocent.	You sold some apples at the market.	When he asked who had broken the window, all the boys put on an air of innocence.	False	False	1.6313403	691	691, 600, 701	0	274
+397	Courons jusqu'à l'arrêt de bus.	Welcome to our restaurant!	Let's run to the bus stop.	False	False	1.6926527	351	351, 739, 740	0	475
+398	Bonne chance ! Vous en aurez besoin.	The victory is ours.	Good luck. You'll need it.	False	False	1.6369445	280	280, 724, 740	0	405
+399	Il faut que je m'y mette, maintenant.	Where is my Meerschaum pipe?	I need to get started now.	False	False	1.656645	724	724, 715, 739	0	363
+400	10 ans est une longue période à attendre.	Ten years is a long time to wait.	Ten years is a long time to wait.	True	True	1.7050028	995	995, 489, 368	1.0	995
+401	Je ne peux pas lui dire maintenant. Ce n’est pas si simple.	I want a boat that'll take me far away from here.	I can't tell her now. It's not that simple.	False	False	1.7073511	979	979, 600, 594	0	829
+402	Dans son discours, il s'étendit sur l'importance de l'éducation.	Today is June 18th and it is Muiriel's birthday!	In his speech he dwelt on the importance of education.	False	True	1.6400278	739	739, 476, 701	0.5	476
+403	Ça ne saurait pas fonctionner.	He who writes reads twice.	It won't work.	False	False	1.7025229	468	468, 489, 44	0	501
+404	Ça ne te concerne pas.	Do you recognize anyone?	This doesn't involve you.	False	False	1.7246295	543	543, 554, 489	0	492
+405	Vous êtes vraiment le frère de Tom ?	Who is your favorite author?	Are you really Tom's brother?	False	False	1.5964093	600	600, 601, 349	0	169
+406	Tous les membres de l'assistance chantèrent en chœur.	Everybody in the audience sang along.	Everybody in the audience sang along.	True	True	1.7077019	72	72, 280, 739	1.0	72
+407	Il ne s'en sortira pas.	Today is June 18th and it is Muiriel's birthday!	He won't get away.	False	False	1.6857843	739	739, 740, 701	0	142
+408	Venez-vous de Urumko ?	Do you drink beer or wine?	Are you from Urumqi?	False	True	1.5932128	699	699, 239, 543	0.5	239
+409	"Cette voiture a été élue ""voiture de l'année""."	"This car was selected the ""car of the year""."	"This car was selected the ""car of the year""."	True	True	1.5742791	226	226, 548, 723	1.0	226
+410	D'habitude, qu'est-ce qui cause la douleur ?	Who is your favorite author?	What is usually the cause for the pain?	False	False	1.5694344	600	600, 921, 601	0	147
+411	Il ne montre aucun intérêt pour la science.	The burqa is a choice.	He doesn't show any interest in science.	False	False	1.6802757	723	723, 828, 701	0	335
+412	Qu'est-ce que c'est ?	Who is your favorite author?	What is this?	False	True	1.6625901	600	600, 601, 738	0.3333333333333333	738
+413	J'aime vivre ici.	Your daily life is your temple and your religion.	I like living here.	False	False	1.645467	715	715, 713, 301	0	607
+414	Si tu regardes les paroles, elles ne signifient pas vraiment grand-chose.	Who is your favorite author?	If you look at the lyrics, they don't really mean much.	False	False	1.62808	600	600, 543, 715	0	848
+415	Je veux que toute ma famille soit fière de moi.	Your daily life is your temple and your religion.	I want my whole family to be proud of me.	False	False	1.5746877	715	715, 740, 195	0	352
+416	Il passe le temps.	Today is June 18th and it is Muiriel's birthday!	He idles away his time.	False	False	1.6948056	739	739, 489, 468	0	571
+417	Tout le monde prends du bon temps.	Your daily life is your temple and your religion.	Everybody's having a good time.	False	False	1.593455	715	715, 280, 931	0	73
+418	« Pour être franc, j'ai le vertige » « Tu es un trouillard ! »	Your daily life is your temple and your religion.	"""To tell you the truth, I am scared of heights."" ""You are a coward!"""	False	False	1.6850128	715	715, 280, 701	0	965
+419	Voyager plein d'espoir est meilleur que d'arriver.	To travel hopefully is a better thing than to arrive.	To travel hopefully is a better thing than to arrive.	True	True	1.6645893	368	368, 739, 468	1.0	368
+420	Bienvenue dans notre restaurant !	Welcome to our restaurant!	Welcome to our restaurant!	True	True	1.4388654	351	351, 567, 166	1.0	351
+421	Vingt personnes ont participé à la fête.	Welcome to our restaurant!	Twenty people attended the party.	False	True	1.6885974	351	351, 305, 108	0.5	305
+422	Tout le monde a peur.	You ran in the garden.	Everyone is scared.	False	False	1.6485579	214	214, 715, 280	0	66
+423	Même après un accouchement, il est mauvais de boire de l'alcool pendant la période d'allaitement.	Even after delivery, it is bad to drink alcohol during the period of breastfeeding.	Even after delivery, it is bad to drink alcohol during the period of breastfeeding.	True	True	1.6793358	16	16, 701, 312	1.0	16
+424	Qu'est-ce que tu crois que j'étais en train de faire ?	Who is your favorite author?	What do you think I've been doing?	False	False	1.6184973	600	600, 715, 921	0	915
+425	Elle est allée se promener.	Where is my Meerschaum pipe?	She's out for a walk.	False	False	1.6886405	724	724, 739, 715	0	275
+426	À long terme, nous serons tous morts.	The victory is ours.	In the long run we are all dead.	False	False	1.5057054	280	280, 921, 715	0	620
+427	J'ai entendu quelqu'un parler.	I drink his beer.	I heard somebody talking.	False	False	1.6435798	701	701, 712, 724	0	37
+428	Elle a donné une réponse soudaine.	Do you drink beer or wine?	She made an abrupt answer.	False	False	1.6303954	699	699, 715, 349	0	286
+429	Tout le monde s'amuse.	I was in the mountains.	Everybody is having a good time.	False	False	1.6193898	749	749, 724, 715	0	74
+430	Je connais quelqu'un qui peut nous aider.	Your daily life is your temple and your religion.	I know somebody who can help us.	False	False	1.6788379	715	715, 600, 280	0	35
+431	C'est intriguant.	He who writes reads twice.	That is intriguing.	False	True	1.7344286	468	468, 838, 739	0.5	838
+432	Personne ne m'a demandé quoi que ce soit.	Do you drink beer or wine?	Nobody asked me anything.	False	False	1.6704075	699	699, 600, 701	0	529
+433	Pourquoi n'essayez-vous pas de prendre un peu de repos ?	Do you drink beer or wine?	Why don't you try and get some sleep?	False	False	1.5722295	699	699, 600, 349	0	365
+434	J'vais l'descendre.	I drink his beer.	I'm gonna shoot him.	False	False	1.6251276	701	701, 724, 715	0	800
+435	Je ne sais pas comment le démontrer vu que c'est trop évident !	Today is June 18th and it is Muiriel's birthday!	I don't know how to demonstrate it, since it's too obvious!	False	False	1.7161114	739	739, 740, 802	0	876
+436	Je souhaite que cela soit vrai.	Today is June 18th and it is Muiriel's birthday!	I wish that were true.	False	False	1.626992	739	739, 701, 280	0	409
+437	Ken te cherchait.	You ran in the garden.	Ken was looking for you.	False	False	1.616095	214	214, 739, 368	0	253
+438	Tu as l'air surpris.	The victory is ours.	You look surprised.	False	False	1.6040146	280	280, 715, 701	0	18
+439	Ne t'inquiète pas.	Do not underestimate my power.	Don't worry about it!	False	False	1.6254904	916	916, 740, 602	0	767
+440	Je pense que c'est très regrettable qu'il mourut aussi jeune.	I drink his beer.	I think it's a great pity that he died so young.	False	True	1.743039	701	701, 739, 237	0.3333333333333333	237
+441	Il n'écoute jamais ce que j'essaye de lui dire.	Today is June 18th and it is Muiriel's birthday!	He never hears what I'm trying to say.	False	False	1.7069502	739	739, 701, 724	0	315
+442	C'est dommage que je n'aie pas besoin de maigrir.	Who is your favorite author?	It's too bad that I don't need to lose weight.	False	False	1.7166579	600	600, 739, 701	0	886
+443	Ça ne peut pas être bon pour toi.	Your daily life is your temple and your religion.	That can't be good for you.	False	False	1.7232035	715	715, 468, 228	0	665
+444	Je serais malheureux, mais je ne me suiciderais pas.	Your daily life is your temple and your religion.	I'd be unhappy, but I wouldn't kill myself.	False	False	1.5712702	715	715, 594, 280	0	818
+445	Je suis désolé si ma présence vous embarrasse.	Your daily life is your temple and your religion.	I'm sorry if my being here embarrasses you.	False	False	1.543741	715	715, 724, 701	0	606
+446	Tout le monde doit apprendre par soi-même en fin de compte.	The victory is ours.	Everyone must learn on their own in the end.	False	False	1.6496793	280	280, 715, 739	0	753
+447	Où sont toutes les autres ?	Why are you asking?	Where's everybody else?	False	False	1.5879184	827	827, 551, 562	0	91
+448	Elle a vendu des cartes postales.	She sold some apples at the market.	She sold postcards.	False	True	1.6500633	694	694, 689, 691	0.5	689
+449	Je me suis fait beaucoup d'amis.	Your daily life is your temple and your religion.	I've made lots of friends.	False	False	1.6782508	715	715, 701, 931	0	328
+450	Je le vis traverser la route.	I drink his beer.	I saw him crossing the road.	False	False	1.5849485	701	701, 715, 214	0	486
+451	Tout le monde toussait, dans la salle de classe.	You ran in the garden.	Everyone in the classroom was coughing.	False	False	1.6137148	214	214, 749, 280	0	71
+452	Ils sont trop occupés à se battre entre eux pour s'occuper d'idéaux communs.	Who is your favorite author?	They are too busy fighting against each other to care for common ideals.	False	False	1.7066187	600	600, 601, 283	0	780
+453	Il fait froid déjà depuis hier.	Today is June 18th and it is Muiriel's birthday!	It has been cold since yesterday.	False	False	1.6876347	739	739, 740, 724	0	350
+454	Pourquoi ne viens-tu pas nous voir ?	Do you recognize anyone?	Why don't you come visit us?	False	False	1.4982243	543	543, 600, 921	0	896
+455	Si tu fais triste mine dans ce métier, les clients ne viendront pas.	Your daily life is your temple and your religion.	In this line of work, if you make a grim face the customers won't come.	False	False	1.627866	715	715, 724, 280	0	544
+456	Je ne sais pas précisément où je suis né.	Your daily life is your temple and your religion.	I don't know the exact place I was born.	False	False	1.588993	715	715, 543, 594	0	703
+457	Je le considère parmi les meilleurs compositeurs du Japon.	I rate him among the best modern composers in Japan.	I rate him among the best modern composers in Japan.	True	True	1.6158693	307	307, 215, 600	1.0	307
+458	J'ai reçu une lettre de mon ami.	I received a letter from my friend.	I received a letter from my friend.	True	True	1.6764104	122	122, 701, 715	1.0	122
+459	T'as vraiment pas les bonnes priorités !	Welcome to our restaurant!	You really don't have the right priorities!	False	False	1.643436	351	351, 601, 567	0	946
+460	Elle est absente en cours.	Muiriel is 20 now.	She absented herself from the lesson.	False	False	1.6927154	741	741, 548, 567	0	118
+461	Il y a des livres ici.	He who writes reads twice.	There are books here.	False	False	1.6922696	468	468, 739, 600	0	493
+462	Il faut que je boive.	Today is June 18th and it is Muiriel's birthday!	I have to drink.	False	False	1.6290649	739	739, 701, 600	0	447
+463	Pouvez-vous répéter ce que vous venez de dire ?	Do you drink beer or wine?	Would you please repeat what you just said?	False	False	1.5696553	699	699, 921, 600	0	313
+464	Chaque fois que je trouve quelque chose que j'aime, c'est trop cher.	Your daily life is your temple and your religion.	Whenever I find something I like, it's too expensive.	False	False	1.6508774	715	715, 600, 931	0	831
+465	La revue parait deux fois par mois.	He who writes reads twice.	The magazine is issued twice a month.	False	True	1.6118126	468	468, 499, 489	0.5	499
+466	Vous ne pouvez pas changer d'avis maintenant.	I want a boat that'll take me far away from here.	You can't change your mind now.	False	False	1.7361656	979	979, 543, 234	0	386
+467	Un jour je courrai comme le vent.	Today is June 18th and it is Muiriel's birthday!	Someday I'll run like the wind.	False	False	1.6663691	739	739, 724, 209	0	972
+468	On apprend en se trompant.	The victory is ours.	One learns by one's mistakes.	False	False	1.6507155	280	280, 739, 701	0	469
+469	Bien sûr j'attends.	Your daily life is your temple and your religion.	Of course I'll wait.	False	False	1.6046053	715	715, 701, 567	0	679
+470	Ce serait quelque chose qu'il faudrait que je programme.	The cat is in its basket.	It would be something I'd have to program.	False	False	1.6644019	548	548, 600, 234	0	810
+471	J'ai été invité pour aller à l'étranger, mais je ne veux pas.	I drink his beer.	I was invited to go abroad, but I don't want to.	False	False	1.6810505	701	701, 214, 828	0	366
+472	Il ne connaît pas du tout l'anglais.	I drink his beer.	He doesn't know English at all.	False	False	1.6235226	701	701, 916, 468	0	126
+473	L'avez-vous dit à qui que ce soit ?	Who is your favorite author?	Did you tell anybody?	False	False	1.5203341	600	600, 699, 724	0	630
+474	Qui que ce soit a-t-il de quelconques autres questions ?	Who is your favorite author?	Does anyone have any other questions?	False	False	1.6002218	600	600, 699, 562	0	533
+475	As-tu embrassé qui que ce soit ?	Who is your favorite author?	Did you kiss anybody?	False	False	1.5174758	600	600, 699, 542	0	637
+476	Si vous pouviez venir, je serais vraiment heureux.	Your daily life is your temple and your religion.	If you could come, I'd be really happy.	False	False	1.5990729	715	715, 280, 724	0	434
+477	Ma maman ne parle pas très bien anglais.	I drink his beer.	My mom doesn't speak English very well.	False	False	1.6393813	701	701, 715, 602	0	917
+478	Te fies-tu à quiconque ?	Who is your favorite author?	Do you trust anyone?	False	True	1.5511421	600	600, 542, 699	0.5	542
+479	Connaissez-vous quiconque, ici ?	Do you recognize anyone?	Do you know anyone here?	False	False	1.5219285	543	543, 699, 542	0	545
+480	Tout le monde est là.	Your daily life is your temple and your religion.	Everyone is here.	False	False	1.6466419	715	715, 280, 931	0	68
+481	Je ne sais pas.	Do you recognize anyone?	I don't know.	False	False	1.5922005	543	543, 715, 594	0	744
+482	Ça ne sert plus à rien de continuer à réfléchir.	Cool story, bro.	It's useless to keep on thinking any more.	False	False	1.71549	489	489, 741, 740	0	940
+483	Vous pouvez stationner ici.	The victory is ours.	You can park here.	False	False	1.6894426	280	280, 351, 480	0	337
+484	Je ne voulais pas que ça arrive.	To travel hopefully is a better thing than to arrive.	I didn't want it to happen.	False	False	1.6458153	368	368, 715, 740	0	901
+485	Je n'aurais jamais dû te quitter.	Communism will never be reached in my lifetime.	I never should've left you.	False	False	1.6136677	985	985, 715, 482	0	653
+486	Il y aura toujours des choses que je n'apprendrai jamais, je n'ai pas l'éternité devant moi !	Your daily life is your temple and your religion.	There will always be things I will never learn, I don't have eternity before me!	False	False	1.6508093	715	715, 739, 368	0	954
+487	Tom dormait dehors.	Where is my Meerschaum pipe?	Tom slept outside.	False	False	1.6839004	724	724, 214, 157	0	495
+488	C'est toujours tel que ça a été.	Your daily life is your temple and your religion.	This is always the way it has been.	False	False	1.7010394	715	715, 264, 280	0	815
+489	As-tu appelé qui que ce soit d'autre ?	Do you drink beer or wine?	Did you call anyone else?	False	False	1.5752937	699	699, 600, 542	0	640
+490	Tout le monde est mort.	The victory is ours.	They're all dead.	False	False	1.6209962	280	280, 715, 931	0	77
+491	Euh... Comment ça marche ?	Cool story, bro.	Uh... How's that working?	False	False	1.7262704	489	489, 739, 788	0	964
+492	Il a finalement réussi son projet d'aller en Thaïlande.	He finally went through with his plan to go to Thailand.	He finally went through with his plan to go to Thailand.	True	True	1.7258996	156	156, 567, 468	1.0	156
+493	Quiconque s'en soucie-t-il ?	Do you drink beer or wine?	Does anyone care?	False	False	1.5817676	699	699, 543, 600	0	536
+494	Qui suis-je ? D'où viens-je ? Y a-t-il une vie après la mort ? Que signifie la vie sur la Terre ?	Who is your favorite author?	Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?	False	True	1.5304028	600	600, 456, 921	0.5	456
+495	Tu devines probablement ce qui va arriver.	Where is my Meerschaum pipe?	You can probably guess what happens though.	False	False	1.6623816	724	724, 600, 715	0	902
+496	« Ça semble très intéressant », dit Hiroshi.	I drink his beer.	"""This looks pretty interesting,"" Hiroshi says."	False	False	1.6301825	701	701, 312, 691	0	967
+497	Tout le monde est déjà parti.	Your daily life is your temple and your religion.	Everybody has already left.	False	False	1.6784971	715	715, 280, 165	0	76
+498	Je ne t'aime plus.	You can't be too careful when you drive.	I don't like you anymore.	False	False	1.64375	228	228, 715, 528	0	893
+499	Tu es en train de dire que tu caches intentionnellement ta beauté ?	Your daily life is your temple and your religion.	You are saying you intentionally hide your good looks?	False	False	1.6255298	715	715, 600, 368	0	839
+500	Nous avons maintenant un peu de temps.	"""A rolling stone gathers no moss"" is a saying."	We have a bit of time now.	False	False	1.7047608	957	957, 368, 715	0	389
+501	Les filles dansent légèrement comme un ballet de papillons.	Do you like cheeseburgers?	The girls were dancing lightly like so many butterflies.	False	False	1.819706	474	474, 739, 349	0	267
+502	Je serai là tout de suite.	Your daily life is your temple and your religion.	I'll be there right away.	False	False	1.5515757	715	715, 740, 214	0	445
+503	Tout le monde va-t-il bien ?	Who is your favorite author?	Is everybody OK?	False	False	1.6177285	600	600, 699, 543	0	82
+504	J'aime prendre le petit-déjeuner avec toi.	Today is June 18th and it is Muiriel's birthday!	I like having breakfast with you.	False	False	1.6367202	739	739, 715, 740	0	320
+505	Voici ce qui manquait encore !	How do you find food in outer space?	As if it weren't enough already!	False	False	1.6725538	921	921, 600, 739	0	159
+506	Je ne peux que me demander si c'est la même chose pour tous les autres.	Who is your favorite author?	I can only wonder if this is the same for everyone else.	False	False	1.6810601	600	600, 331, 712	0	765
+507	Ce jus de fruit a un goût acide.	This juice tastes sour.	This juice tastes sour.	True	True	1.6210592	133	133, 312, 150	1.0	133
+508	Jane est allé à la banque pour retirer un peu d'argent.	You sold some apples at the market.	Jane went to the bank to take out some money.	False	False	1.7183286	691	691, 739, 694	0	148
+509	Tout le monde s'amuse-t-il ?	Do you recognize anyone?	Is everybody having a good time?	False	False	1.5719064	543	543, 546, 600	0	86
+510	L'innocence est une belle chose.	Innocence is a beautiful thing.	Innocence is a beautiful thing.	True	True	1.563029	834	834, 280, 715	1.0	834
+511	Qui que ce soit d'autre se trouve-t-il dans la maison ?	Who is your favorite author?	Is anyone else home?	False	False	1.5692252	600	600, 699, 562	0	554
+512	Elle te déteste, semble-t-il.	Who is your favorite author?	She hates you, it seems.	False	False	1.590428	600	600, 543, 699	0	477
+513	Tom aime la neige.	I drink his beer.	Tom likes snow.	False	False	1.6513457	701	701, 280, 351	0	695
+514	Merci de m'avoir expliqué finalement pourquoi on me prend pour une imbécile.	Today is June 18th and it is Muiriel's birthday!	Thanks for having explained to me at last why people take me for an idiot.	False	False	1.653064	739	739, 740, 724	0	860
+515	Je ne supporte pas d'être traitée comme une enfant.	Your daily life is your temple and your religion.	I can't stand being treated like a child.	False	False	1.7119327	715	715, 368, 301	0	494
+516	Je n'aime pas les grandes villes.	Where is my Meerschaum pipe?	I dislike big cities.	False	False	1.6519186	724	724, 715, 709	0	210
+517	J'emploierai la magie contre lui et le changerai en grenouille.	Your daily life is your temple and your religion.	I'll use magic on him and turn him into a frog.	False	False	1.6790476	715	715, 739, 701	0	450
+518	À l'époque du lycée je me levais à 6h tous les matins.	Today is June 18th and it is Muiriel's birthday!	Back in high school, I got up at 6 a.m. every morning.	False	False	1.6401289	739	739, 715, 230	0	819
+519	Il a gelé cette nuit.	I drink his beer.	It frosted last night.	False	False	1.6265137	701	701, 724, 214	0	218
+520	Tony peut courir rapidement.	He who writes reads twice.	Tony can run fast.	False	False	1.7236822	468	468, 107, 701	0	270
+521	« Qui est-ce ? » « C'est ta mère. »	Who is your favorite author?	"""Who is it?"" ""It's your mother."""	False	True	1.6362121	600	600, 959, 724	0.5	959
+522	Quelqu'un ici peut-il me donner un coup de main ?	Who is your favorite author?	Can somebody give me a hand here?	False	False	1.6983814	600	600, 601, 562	0	55
+523	Si tu vois une faute alors corrige-la s'il te plaît.	Who is your favorite author?	If you see a mistake, then please correct it.	False	False	1.6662972	600	600, 701, 699	0	988
+524	Je ne répondrai plus aux questions.	Stop asking yourself useless questions.	I'm not going to answer any more questions.	False	False	1.5581532	439	439, 149, 543	0	161
+525	Aimes-tu les cheeseburgers ?	Do you like cheeseburgers?	Do you like cheeseburgers?	True	True	1.4880478	474	474, 600, 827	1.0	474
+526	Je suppose que c'est différent quand tu y penses à long terme.	Your daily life is your temple and your religion.	I suppose it's different when you think about it over the long term.	False	False	1.6734986	715	715, 701, 600	0	766
+527	S'il ne pleut pas, alors je m'en irai.	Today is June 18th and it is Muiriel's birthday!	Unless it rains, I will go, too.	False	False	1.6460867	739	739, 701, 724	0	300
+528	Combien y a-t-il de plumes sur le bureau ?	Who is your favorite author?	How many pens are there on the desk?	False	True	1.6003225	600	600, 601, 222	0.3333333333333333	222
+529	L'éducation dans ce monde me déçoit.	Your daily life is your temple and your religion.	Education in this world disappoints me.	False	False	1.6670673	715	715, 280, 214	0	754
+530	Jouons ici ce dimanche.	Your daily life is your temple and your religion.	Let's play this Sunday.	False	False	1.6343342	715	715, 696, 739	0	296
+531	J'ai fait connaître mes intentions à mes parents.	I made known my intentions to my parents.	I made known my intentions to my parents.	True	True	1.574912	436	436, 713, 715	1.0	436
+532	Je ne suis d'aucune utilité à qui que ce soit.	Your daily life is your temple and your religion.	I'm no use to anyone.	False	False	1.6223809	715	715, 701, 600	0	549
+533	Je me suis arrêté pour fumer.	Your daily life is your temple and your religion.	I stopped to smoke.	False	False	1.5936832	715	715, 701, 713	0	485
+534	Je voyagerai à travers l'Europe en vélo, cet été.	Your daily life is your temple and your religion.	I'll travel across Europe by bicycle this summer.	False	False	1.6412045	715	715, 701, 209	0	613
+535	Qui que ce soit est-il prêt pour le dessert ?	Who is your favorite author?	Is anybody ready for dessert?	False	False	1.5739127	600	600, 739, 699	0	560
+536	« C'est ce que j'étais en train de chercher », s'exclama-t-il.	Today is June 18th and it is Muiriel's birthday!	"""This is what I was looking for!"" he exclaimed."	False	False	1.6558601	739	739, 548, 539	0	966
+537	L'eau sur la route était seulement un mirage.	Today is June 18th and it is Muiriel's birthday!	The water on the road was just a mirage.	False	True	1.694086	739	739, 29, 548	0.5	29
+538	Personne n'a encore pris de décision.	Anybody in here?	Nobody has made a decision yet.	False	False	1.7192695	562	562, 621, 828	0	525
+539	Ça ne changera rien.	Cool story, bro.	That won't change anything.	False	False	1.68598	489	489, 108, 543	0	757
+540	Le bâtiment fut gravement endommagé par un incendie.	The thief entered through a broken window.	The building was heavily damaged by fire.	False	False	1.6987745	481	481, 283, 548	0	644
+541	Tom a perdu son porte-monnaie.	Tom lost his wallet.	Tom lost his wallet.	True	True	1.6543703	135	135, 125, 701	1.0	135
+542	Je ne supporte pas ce type.	Your daily life is your temple and your religion.	I can't stand that guy.	False	False	1.7204702	715	715, 301, 739	0	323
+543	Thomas pleura comme un bébé.	I drink his beer.	Tom cried like a baby.	False	False	1.6417431	701	701, 739, 468	0	173
+544	Tom a oublié l'anniversaire de leur premier rendez-vous.	Happy birthday, Muiriel!	Tom forgot the anniversary of their first date.	False	False	1.5751994	740	740, 351, 701	0	146
+545	Quiconque vous a-t-il vu ?	Who is your favorite author?	Anybody see you?	False	False	1.5261409	600	600, 699, 543	0	643
+546	« Elle aime la musique. » « Moi aussi. »	Your daily life is your temple and your religion.	"""She likes music."" ""So do I."""	False	False	1.6411741	715	715, 280, 701	0	973
+547	Il y avait un drapeau en haut du mât.	I drink his beer.	There was a flag at the top of the pole.	False	False	1.7494873	701	701, 739, 214	0	292
+548	Le professeur est assis sur la chaise.	I drink his beer.	The teacher sits on the chair.	False	False	1.6146545	701	701, 739, 157	0	241
+549	Je serai bientôt de retour.	Your daily life is your temple and your religion.	I will be back soon.	False	False	1.5747013	715	715, 740, 280	0	743
+550	Tom a perdu son parapluie.	You ran in the garden.	Tom lost his umbrella.	False	False	1.6675593	214	214, 724, 701	0	136
+551	Bonsoir, tout le monde !	Today is a good day!	Good evening, everyone.	False	False	1.5760028	696	696, 715, 280	0	507
+552	Il ne m'a pas reconnue.	I drink his beer.	He didn't recognize me.	False	False	1.7168308	701	701, 828, 905	0	170
+553	Je ne connais pas la clé du succès, mais celle de l'échec est d'essayer de plaire à tout le monde.	Your daily life is your temple and your religion.	I don't know the key to success, but the key to failure is trying to please everybody.	False	True	1.6680441	715	715, 931, 421	0.3333333333333333	421
+554	Les blessés ont été transportés loin du lieu de l'accident.	You ran in the garden.	The injured were removed from the scene.	False	False	1.7242459	214	214, 157, 548	0	247
+555	Tom dit qu'il veut apprendre à jouer du hautbois.	I drink his beer.	Tom says he wants to learn how to play the oboe.	False	False	1.6646495	701	701, 739, 351	0	185
+556	Quelqu'un est-il mort ?	Who is your favorite author?	Did someone die?	False	False	1.5963666	600	600, 551, 550	0	44
+557	Nous assemblâmes tout l'équipement.	The victory is ours.	We got all the materials together.	False	False	1.620681	280	280, 715, 301	0	670
+558	Quelle heure est-il à Londres maintenant ?	What time is it in London now?	What time is it in London now?	True	True	1.5106273	123	123, 600, 738	1.0	123
+559	Il faut bien que mon ordinateur me serve à quelque chose.	Your daily life is your temple and your religion.	My computer has got to be useful for something.	False	False	1.7223055	715	715, 368, 448	0	867
+560	Je veux te le faire payer.	Your daily life is your temple and your religion.	I want to pay it back to you.	False	False	1.7053262	715	715, 701, 600	0	11
+561	La plupart des gens pensent que je suis fou.	Who is your favorite author?	Most people think I'm crazy.	False	False	1.6375306	600	600, 601, 214	0	781
+562	Nous écoutâmes la fusillade.	The victory is ours.	We listened to the shooting.	False	False	1.6144576	280	280, 701, 234	0	693
+563	Il se peut que j'abandonne bientôt et fasse une sieste à la place.	Today is June 18th and it is Muiriel's birthday!	I may give up soon and just nap instead.	False	False	1.6903319	739	739, 701, 724	0	760
+564	Quelle est la hauteur du Mont Fuji ?	How high is Mt. Fuji?	How high is Mt. Fuji?	True	True	1.4937165	291	291, 600, 157	1.0	291
+565	Est-ce qu'on peut formuler ça d'une autre manière ?	Do you drink beer or wine?	Can it be phrased in another way?	False	False	1.6901605	699	699, 53, 701	0	878
+566	C'est un beau manteau.	Today is June 18th and it is Muiriel's birthday!	That's a nice coat.	False	False	1.7178935	739	739, 280, 214	0	711
+567	Elle a des cheveux secs.	That's a horse of a different color.	She has dry hair.	False	False	1.6934834	331	331, 739, 115	0	288
+568	Je dois acheter un nouveau tapis pour cette pièce.	Today is June 18th and it is Muiriel's birthday!	I have to buy a new carpet for this room.	False	False	1.6813755	739	739, 715, 701	0	587
+569	Étais-tu avec quelqu'un ?	Who is your favorite author?	Were you with anyone?	False	False	1.5773228	600	600, 699, 715	0	728
+570	Aucun de nous n'est assez stupide pour croire qu'il a dit la vérité.	Who is your favorite author?	None of us is so foolish as to believe that he was telling the truth.	False	False	1.64878	600	600, 543, 724	0	232
+571	Il est illégal de copier un livre sans l'autorisation de l'auteur.	It is illegal to copy from books without the author's permission.	It is illegal to copy from books without the author's permission.	True	True	1.6085458	684	684, 925, 262	1.0	684
+572	Je veux acheter quelques pantalons.	Today is June 18th and it is Muiriel's birthday!	I want to buy a few pairs of trousers.	False	False	1.6695583	739	739, 480, 921	0	706
+573	J'aimerais bien pouvoir aller au Japon.	I love you!	I wish I could go to Japan.	False	False	1.6769575	892	892, 715, 301	0	852
+574	Ils remontèrent la rivière à la rame.	I drink his beer.	They rowed up the river.	False	False	1.6894408	701	701, 548, 739	0	557
+575	Nous vivons dans un monde très compliqué.	Your daily life is your temple and your religion.	We live in a very complicated world.	False	False	1.5968894	715	715, 280, 921	0	165
+576	Mais il est préférable de rester chez soi.	To travel hopefully is a better thing than to arrive.	But it is better to stay at home.	False	False	1.7294073	368	368, 234, 712	0	358
+577	On ne peut pas tout attendre des écoles.	Cool story, bro.	One can't expect everything from schools.	False	False	1.7038946	489	489, 312, 739	0	871
+578	Nous sommes en train de chercher Tom.	The victory is ours.	We're looking for Tom.	False	False	1.5746216	280	280, 921, 715	0	491
+579	Je suis si gros.	Your daily life is your temple and your religion.	I'm very fat.	False	False	1.6391846	715	715, 301, 280	0	798
+580	J'ai trop de choses dans la tête ces jours-ci.	Your daily life is your temple and your religion.	I have too many things on my mind these days.	False	False	1.6552818	715	715, 301, 214	0	941
+581	Je suis désolé de m'en être pris à toi.	Your daily life is your temple and your religion.	I'm sorry if I snapped at you.	False	False	1.637389	715	715, 230, 701	0	618
+582	La police vous fera trouver les balles.	Welcome to our restaurant!	The police will get you to find the bullets.	False	False	1.6430675	351	351, 548, 739	0	859
+583	Nous savons pourquoi.	How do you find food in outer space?	We know why.	False	False	1.5803325	921	921, 280, 600	0	471
+584	Le chat est dans son panier.	Today is June 18th and it is Muiriel's birthday!	The cat is in its basket.	False	True	1.6939965	739	739, 724, 548	0.3333333333333333	548
+585	Nous ne sommes pas prêts à avoir un enfant, actuellement.	Your daily life is your temple and your religion.	We're not ready to have a kid now.	False	False	1.6226087	715	715, 280, 110	0	382
+586	Les cours des devises varient quotidiennement.	There are different types of niqab, some of which cover the entire face.	The exchange rates for foreign currency change daily.	False	False	1.7242913	719	719, 349, 715	0	12
+587	Il n'y a personne chez moi.	He who writes reads twice.	There's nobody home.	False	False	1.7006321	468	468, 701, 724	0	514
+588	Je me demande s'ils se sépareront.	I drink his beer.	I wonder if they'll get divorced.	False	False	1.6211978	701	701, 739, 699	0	322
+589	Même s'il s'est excusé, je suis encore en colère.	Today is June 18th and it is Muiriel's birthday!	Even though he apologized, I'm still furious.	False	False	1.661357	739	739, 701, 600	0	858
+590	As-tu pris un parapluie avec toi ?	Who is your favorite author?	Did you bring an umbrella with you?	False	False	1.5967088	600	600, 601, 699	0	556
+591	Personne ne va t'employer.	There's nobody home.	Nobody's going to hire you.	False	False	1.7248201	514	514, 489, 228	0	516
+592	L'apprentissage ne devrait pas être forcé. L'apprentissage devrait être encouragé.	Today is June 18th and it is Muiriel's birthday!	Learning should not be forced. Learning should be encouraged.	False	False	1.6871152	739	739, 283, 368	0	755
+593	Elle aurait dû la fermer.	You ran in the garden.	She should have kept her mouth shut.	False	False	1.610992	214	214, 701, 438	0	21
+594	Elle a eu le courage de se renseigner à propos des résultats de l'examen.	You ran in the garden.	She had the courage to go and inquire about the results of the exam.	False	False	1.7053738	214	214, 548, 724	0	137
+595	Il est constamment à court d'argent.	Today is June 18th and it is Muiriel's birthday!	He's always short of money.	False	False	1.7103835	739	739, 701, 548	0	4
+596	Je ne pouvais pas comprendre ses idées.	Your daily life is your temple and your religion.	I couldn't understand his ideas.	False	False	1.65928	715	715, 543, 594	0	317
+597	Je n'ai simplement pas bien dormi.	Your daily life is your temple and your religion.	I just didn't sleep well.	False	False	1.6500837	715	715, 916, 264	0	733
+598	Les miracles s'appellent des miracles parce qu'ils ne se produisent pas !	Miracles are called miracles because they don't happen!	Miracles are called miracles because they don't happen!	True	True	1.6267668	483	483, 600, 601	1.0	483
+599	Non je ne le suis pas, c'est toi qui l'es !	Your daily life is your temple and your religion.	No I'm not; you are!	False	True	1.659603	715	715, 739, 782	0.3333333333333333	782
+600	Je t'ai dit tout ce que je savais.	Your daily life is your temple and your religion.	I told you everything I knew.	False	False	1.5706804	715	715, 701, 724	0	424
+601	Parfois, il semble que tout le monde me déteste.	You ran in the garden.	Sometimes it seems that everybody hates me.	False	False	1.6340977	214	214, 701, 600	0	508
+602	As-tu vu qui que ce soit ?	Who is your favorite author?	Did you see anyone?	False	False	1.5541427	600	600, 699, 542	0	634
+603	Si on ne mange pas, on meurt.	Where is my Meerschaum pipe?	If you don't eat, you die.	False	False	1.6180406	724	724, 701, 699	0	991
+604	L'Amérique est un endroit charmant pour vivre, si c'est pour gagner de l'argent.	America is a lovely place to be, if you are here to earn money.	America is a lovely place to be, if you are here to earn money.	True	True	1.6983671	797	797, 368, 715	1.0	797
+605	Il a refusé de mentionner le projet.	He makes it a rule to take a walk every morning.	He wouldn't mention the plan.	False	False	1.704623	617	617, 691, 707	0	329
+606	Personne ne me comprend.	I can do this with you or without you.	Nobody understands me.	False	False	1.6855688	594	594, 543, 715	0	938
+607	C’était un méchant lapin.	I drink his beer.	That was an evil bunny.	False	False	1.7000399	701	701, 214, 691	0	748
+608	Je ne parle pas assez bien français !	Keep your head low.	I don't speak French well enough!	False	False	1.6457788	301	301, 931, 489	0	918
+609	Refroidis ton doigt brûlé sous l'eau courante.	I drink his beer.	Cool the burned finger in running water.	False	False	1.5396044	701	701, 724, 715	0	294
+610	Nous nous portons mieux sans vous.	The victory is ours.	We're better off without you.	False	False	1.5954261	280	280, 482, 715	0	588
+611	Qui que ce soit est-il là ?	Who is your favorite author?	Is anybody there?	False	False	1.5999318	600	600, 864, 738	0	558
+612	Nous devons apprendre à vivre ensemble comme des frères, ou nous périrons ensemble comme des idiots.	How do you find food in outer space?	We must learn to live together as brothers, or we will perish together as fools.	False	False	1.6059341	921	921, 715, 280	0	963
+613	La salière sera sur la table.	I drink his beer.	The salt cellar will be on the table.	False	False	1.6072435	701	701, 404, 150	0	407
+614	N'oublie-pas de le rencontrer demain.	To travel hopefully is a better thing than to arrive.	Remember to see him tomorrow.	False	False	1.6690352	368	368, 955, 543	0	279
+615	Il y a un problème que tu ne vois pas.	He who writes reads twice.	There's a problem there that you don't see.	False	False	1.6946964	468	468, 715, 600	0	849
+616	Le port creusé dans ces rivages / garde un calme profond ; mais par d'autres orages / l'épouvantable Etna trouble, en grondant, ces lieux ; / bientôt déploie en l'air des colonnes de feux ; / tantôt, des profondeurs de son horrible gouffre, / de flamme et de fumée, et de cendre et de soufre, / dans le ciel obscurci lance d'affreux torrents ; / tantôt, des rocs noircis par ses feux dévorants / arrachant les éclats, de ses voûtes tremblantes / vomit, en bouillonnant, ses entrailles brûlantes.	It was a spacious harbour, sheltered deep / from access of the winds, but looming vast / with awful ravage, AEtna's neighbouring steep / thundered aloud, and, dark with clouds, upcast / smoke and red cinders in a whirlwind's blast. / Live balls of flame, with showers of sparks, upflew / and licked the stars, and in combustion massed, / torn rocks, her ragged entrails, molten new, / the rumbling mount belched forth from out the boiling stew.	It was a spacious harbour, sheltered deep / from access of the winds, but looming vast / with awful ravage, AEtna's neighbouring steep / thundered aloud, and, dark with clouds, upcast / smoke and red cinders in a whirlwind's blast. / Live balls of flame, with showers of sparks, upflew / and licked the stars, and in combustion massed, / torn rocks, her ragged entrails, molten new, / the rumbling mount belched forth from out the boiling stew.	True	True	1.5785202	47	47, 280, 724	1.0	47
+617	L'assassin confessera bientôt son crime.	The victory is ours.	The murderer will soon confess his crime.	False	False	1.7193146	280	280, 701, 98	0	120
+618	Quel livre veux-tu ?	Who is your favorite author?	Which book do you want?	False	False	1.4988278	600	600, 108, 601	0	112
+619	Il fut un temps où je voulais être astrophysicien.	I drink his beer.	I once wanted to be an astrophysicist.	False	False	1.6913545	701	701, 715, 468	0	775
+620	Il pense que vous avez besoin de dormir davantage.	Who is your favorite author?	He thinks that you need to sleep more.	False	False	1.6954918	600	600, 921, 740	0	290
+621	La vie est dure, mais je suis encore plus dur.	Life is hard, but I am harder.	Life is hard, but I am harder.	True	True	1.6370044	931	931, 715, 280	1.0	931
+622	Moi, j'aime bien la lumière des bougies.	Your daily life is your temple and your religion.	I like candlelight.	False	False	1.6367989	715	715, 701, 740	0	883
+623	Rien n'est evident.	Cool story, bro.	Nothing is obvious.	False	False	1.6892169	489	489, 543, 562	0	199
+624	Les fritures ne me réussissent pas.	Happy birthday, Muiriel!	Fried food does not agree with me.	False	False	1.7080142	740	740, 368, 701	0	194
+625	Qui que ce soit vous a-t-il vu sur la plage ?	Who is your favorite author?	Did anyone see you on the beach?	False	False	1.5376961	600	600, 699, 724	0	647
+626	Nous sommes tous deux animés du même esprit.	The victory is ours.	He and I are like-minded.	False	False	1.4833696	280	280, 715, 724	0	278
+627	Ça ne peut pas vous faire de mal.	Yes, what of it?	It can't hurt you.	False	False	1.7226005	497	497, 349, 368	0	430
+628	Je rencontre quelqu'un pour dîner.	I drink his beer.	I'm meeting someone for dinner.	False	False	1.6679878	701	701, 739, 600	0	26
+629	J'ai appris à vivre sans elle.	Your daily life is your temple and your religion.	I learned to live without her.	False	True	1.6031361	715	715, 939, 594	0.5	939
+630	Le football est plus populaire que le tennis.	Soccer is more popular than tennis.	Soccer is more popular than tennis.	True	True	1.5706463	231	231, 575, 489	1.0	231
+631	Je me demandais si tu allais venir aujourd'hui.	Your daily life is your temple and your religion.	I was wondering if you were going to show up today.	False	False	1.5790323	715	715, 301, 724	0	919
+632	Allen est un poète.	He who writes reads twice.	Allen is a poet.	False	True	1.7168801	468	468, 983, 741	0.5	983
+633	J'ai essayé de maîtriser l'anglais pendant plus de dix ans, mais je n'ai pas réussi.	I drink his beer.	I tried to master English for more than ten years, but I failed!	False	False	1.6613685	701	701, 468, 939	0	221
+634	J'aimerais épouser quelqu'un comme toi.	Your daily life is your temple and your religion.	I'd like to get married to someone like you.	False	False	1.6047058	715	715, 482, 701	0	28
+635	D'entendre la nouvelle m'a rendu joyeux.	Where is my Meerschaum pipe?	I was beside myself with joy when I heard the news.	False	False	1.5866023	724	724, 209, 214	0	230
+636	J'aimerais donner ceci à quelqu'un auquel nous pouvons nous fier.	Your daily life is your temple and your religion.	I'd like to give this to somebody we can trust.	False	False	1.5841188	715	715, 280, 482	0	27
+637	Il aurait dû la fermer.	You ran in the garden.	He should have kept his mouth shut.	False	False	1.6181175	214	214, 701, 691	0	20
+638	Je m'en fais désormais une idée.	Your daily life is your temple and your religion.	I get the picture now.	False	False	1.6564331	715	715, 701, 724	0	391
+639	Le Président va-t-il démissionner ?	Who is your favorite author?	Is the chairman going to resign?	False	False	1.5794349	600	600, 699, 562	0	504
+640	Je pense que j'ai une théorie à ce sujet.	I drink his beer.	I think I have a theory about that.	False	False	1.6755905	701	701, 715, 739	0	837
+641	Ouais, allons-y !	The victory is ours.	Yeah, let's go!	False	False	1.536182	280	280, 715, 152	0	442
+642	À moins de vous dépêcher, vous serez en retard à l'école.	Happy birthday, Muiriel!	Unless you hurry, you will be late for school.	False	False	1.6353825	740	740, 567, 739	0	10
+643	« Crois-moi » dit-il.	Happy birthday, Muiriel!	"""Trust me,"" he said."	False	False	1.612805	740	740, 699, 739	0	104
+644	J'apprécierais que vous m'accompagniez.	Please hang your coat in the anteroom.	I'd appreciate it if you'd come with me.	False	False	1.6327543	234	234, 715, 740	0	500
+645	Qui que ce soit a-t-il un ouvre-boîte ?	Who is your favorite author?	Does anybody have a can opener?	False	False	1.5776683	600	600, 724, 699	0	541
+646	Si le monde n'était pas dans l'état où il est maintenant, je pourrais faire confiance à n'importe qui.	Your daily life is your temple and your religion.	If the world weren't in the shape it is now, I could trust anyone.	False	False	1.626209	715	715, 600, 543	0	778
+647	Je ne le dirai à personne.	Happy birthday, Muiriel!	I won't tell anyone.	False	False	1.6251895	740	740, 280, 715	0	566
+648	Je dois écrire des lettres.	He who writes reads twice.	I have to write some letters.	False	True	1.6909282	468	468, 452, 368	0.5	452
+649	Elle a bon cœur.	Your daily life is your temple and your religion.	She has a kind heart.	False	False	1.6166658	715	715, 489, 280	0	593
+650	Agis comme un humain.	He who writes reads twice.	Act like a man.	False	False	1.7523503	468	468, 489, 701	0	175
+651	L'étudiant a été pris en train de tricher.	The cat is in its basket.	The student was caught in the act of cheating.	False	False	1.6967872	548	548, 701, 214	0	212
+652	Le mariage a eu lieu à l'hôtel Ritz.	The wedding took place at the Ritz Hotel.	The wedding took place at the Ritz Hotel.	True	True	1.6463084	347	347, 548, 691	1.0	347
+653	Afin de l'isoler de toute bactérie, aucune visite ne lui est autorisée.	In order to isolate him from bacteria, and such, he is not allowed visitors.	In order to isolate him from bacteria, and such, he is not allowed visitors.	True	True	1.600824	419	419, 548, 554	1.0	419
+654	Parfois je ne peux pas m'empêcher de montrer des émotions.	I drink his beer.	Sometimes I can't help showing emotions.	False	False	1.677458	701	701, 368, 985	0	808
+655	As-tu enlacé qui que ce soit ?	Who is your favorite author?	Did you hug anybody?	False	False	1.5295062	600	600, 699, 542	0	639
+656	C'est la chose la plus stupide que j'ai jamais dite.	I drink his beer.	That's the stupidest thing I've ever said.	False	False	1.6502566	701	701, 749, 600	0	794
+657	Est-ce que tu as vraiment besoin de poser la question pour connaître la réponse ?	Who is your favorite author?	Do you really need to ask the question to know the answer?	False	False	1.5489962	600	600, 827, 601	0	943
+658	Vous pouvez me mettre en prison mais vous ne pouvez me donner de quartiers plus étroits que ce dont, marin, j'ai disposé ; vous ne pouvez me donner nourriture plus grossière que celle que, marin, j'ai toujours mangée ; vous ne pouvez me rendre plus solitaire que ce que, marin, j'ai été.	Your daily life is your temple and your religion.	You can put me in jail, but you cannot give me narrower quarters than as a seaman I have always had; you cannot give me coarser food than as a seaman I have always eaten; you cannot make me lonelier than as a seaman I have always been.	False	False	1.5907369	715	715, 921, 724	0	619
+659	Quiconque s'y trouve-t-il ?	Who is your favorite author?	Is there anyone there?	False	False	1.5647042	600	600, 543, 699	0	559
+660	Tout le monde t'apprécie.	The victory is ours.	Everyone likes you.	False	False	1.6275138	280	280, 724, 715	0	62
+661	C'est malheureusement vrai.	But it is better to stay at home.	It is unfortunately true.	False	False	1.6932337	358	358, 280, 567	0	779
+662	Parlons d'abord des expériences faites en laboratoires.	His diligence earned him success.	First, let us talk about the experiments conducted in laboratories.	False	False	1.7067692	686	686, 548, 701	0	615
+663	Tom s'est fait beaucoup d'argent avec cette affaire.	I drink his beer.	Tom made good money on that deal.	False	False	1.6785715	701	701, 601, 600	0	125
+664	Je suppose que derrière chaque chose que l'on doit faire, il y a quelque chose que l'on veut faire...	I drink his beer.	I suppose that behind each thing we have to do, there's something we want to do...	False	False	1.6332177	701	701, 600, 715	0	945
+665	Il est digne de confiance.	The victory is ours.	He is trustworthy.	False	False	1.6710827	280	280, 468, 715	0	191
+666	Nous visons tous au succès.	The victory is ours.	We all strive for success.	False	False	1.5209243	280	280, 214, 921	0	344
+667	En janvier, le nombre de chômeurs est tombé au plus bas depuis cinq ans.	The unemployment rate dropped to a five-year low in January.	The unemployment rate dropped to a five-year low in January.	True	True	1.577205	667	667, 548, 481	1.0	667
+668	Pourquoi les hommes ne sont-ils pas sincères ?	Who is your favorite author?	Why do people use indirectness?	False	False	1.5945265	600	600, 543, 699	0	213
+669	Je n'écris pas à ton sujet.	Your daily life is your temple and your religion.	I'm not writing about you.	False	False	1.6151234	715	715, 724, 600	0	574
+670	Théoriquement, je suis en train de faire des maths.	Your daily life is your temple and your religion.	Theoretically, I'm doing math.	False	False	1.6656787	715	715, 957, 701	0	863
+671	La plupart des gens écrivent à propos de leur vie quotidienne.	Most people write about their daily life.	Most people write about their daily life.	True	True	1.698647	823	823, 468, 601	1.0	823
+672	Sa femme a eu des jumeaux.	Your daily life is your temple and your religion.	His wife gave birth to twins.	False	False	1.6697608	715	715, 176, 749	0	308
+673	Mon grand-père a l'habitude de déjeuner à six heures.	Is dad in the kitchen?	My grandfather usually eats breakfast at six.	False	False	1.641423	157	157, 739, 715	0	333
+674	Tu es veinarde.	The victory is ours.	You're in luck.	False	False	1.5691857	280	280, 715, 724	0	168
+675	Réfléchissons au pire qui pourrait arriver.	Happy birthday, Muiriel!	Let's consider the worst that could happen.	False	False	1.6568637	740	740, 739, 368	0	812
+676	Ils sont actuellement en train de l'amener pour lui poser des questions.	Who is your favorite author?	They're bringing him in for questioning now.	False	False	1.6709509	600	600, 601, 87	0	397
+677	Chaque personne qui est seule est seule parce qu'elle a peur des autres.	He who writes reads twice.	Every person who is alone is alone because they are afraid of others.	False	True	1.6614007	468	468, 826, 600	0.5	826
+678	Thomas cria comme une femme.	He who writes reads twice.	Tom screamed like a woman.	False	False	1.6825033	468	468, 701, 715	0	172
+679	La ville entière fut détruite par un incendie.	Happy birthday, Muiriel!	All of the town was destroyed by a fire.	False	False	1.7114294	740	740, 214, 489	0	685
+680	Mon prof de physique s'en fiche si je sèche les cours.	Your daily life is your temple and your religion.	My physics teacher doesn't care if I skip classes.	False	False	1.6957408	715	715, 548, 724	0	851
+681	Les États-Unis d'Amérique du Nord exportent du blé dans le monde entier.	The United States of America export wheat throughout the world.	The United States of America export wheat throughout the world.	True	True	1.6397513	145	145, 701, 708	1.0	145
+682	La population était écrasée sous les impôts.	The population was crushed by the taxes.	The population was crushed by the taxes.	True	True	1.6269584	201	201, 283, 157	1.0	201
+683	Nous sommes de votre avis.	Your daily life is your temple and your religion.	We agree with you.	False	False	1.5843564	715	715, 280, 234	0	1
+684	L'eau pétillante n'est pas très populaire en Amérique.	Fizzy water isn't very popular in America.	Fizzy water isn't very popular in America.	True	True	1.6140478	575	575, 150, 724	1.0	575
+685	L'école est très loin d'ici.	Where is my Meerschaum pipe?	The school is very far from here.	False	True	1.6674504	724	724, 128, 214	0.5	128
+686	Les écailles de ce poisson reluisent avec la lumière.	Today is June 18th and it is Muiriel's birthday!	The scales of this fish shine with the light.	False	False	1.7023895	739	739, 548, 740	0	98
+687	Elle a dit qu'elle sera ici vers six heures.	You ran in the garden.	She told me she would be here about six.	False	False	1.6810951	214	214, 715, 234	0	153
+688	Je leur donnerai à manger.	I drink his beer.	I will give them food.	False	False	1.6134715	701	701, 724, 715	0	408
+689	"""Qu'est-ce qui ne va pas ?"" demanda le petit lapin blanc."	Today is June 18th and it is Muiriel's birthday!	"""What's the matter?"" asked the little white rabbit."	False	False	1.6471016	739	739, 157, 600	0	961
+690	Prêter attention à ce que tu fais est une des clés les plus importantes pour réussir.	Paying attention to what you are doing is one of the most important keys to success.	Paying attention to what you are doing is one of the most important keys to success.	True	True	1.6452073	462	462, 368, 921	1.0	462
+691	C'est un mot pour lequel j'aimerais trouver un substitut.	Today is June 18th and it is Muiriel's birthday!	It's a word I'd like to find a substitute for.	False	False	1.7164216	739	739, 701, 712	0	809
+692	Bois-tu de la bière ou du vin ?	Do you drink beer or wine?	Do you drink beer or wine?	True	True	1.4913149	699	699, 600, 157	1.0	699
+693	Nous sommes maintenant en phase.	The victory is ours.	We're on the same page now.	False	False	1.5979176	280	280, 715, 921	0	383
+694	Il sera heureux de vous voir.	Happy birthday, Muiriel!	He'll be glad to see you.	False	False	1.6808192	740	740, 280, 715	0	698
+695	Pourquoi demandes-tu ?	Who is your favorite author?	Why are you asking?	False	True	1.4585761	600	600, 827, 921	0.5	827
+696	Quiconque se trouve-t-il à bord ?	Who is your favorite author?	Is anyone on board?	False	True	1.5354388	600	600, 550, 699	0.5	550
+697	Quelqu'un ici sait-il comme le faire ?	Who is your favorite author?	Does someone here know how to do this?	False	False	1.652305	600	600, 601, 543	0	42
+698	Je ferai de mon mieux pour ne pas perturber tes révisions.	Happy birthday, Muiriel!	I'll do my best not to disturb your studying.	False	False	1.6801496	740	740, 715, 916	0	764
+699	Je n'ai parlé à personne.	I drink his beer.	I didn't talk to anybody.	False	False	1.5909367	701	701, 549, 724	0	622
+700	Je ne peux pas vivre comme ça.	Your daily life is your temple and your religion.	I can't live that kind of life.	False	False	1.6658983	715	715, 228, 594	0	774
+701	Tu as vendu des pommes au marché.	This coffee is too bitter.	You sold some apples at the market.	False	True	1.6058484	150	150, 701, 691	0.3333333333333333	691
+702	Tom a toujours voulu aller dans l'armée de l'air.	He who writes reads twice.	Tom always wanted to join the air force.	False	False	1.721248	468	468, 715, 749	0	284
+703	Lorsqu'elle était jeune, elle était très belle.	When she was young, she was very beautiful.	When she was young, she was very beautiful.	True	True	1.6685894	24	24, 739, 928	1.0	24
+704	Nous sentions comme la terre tremblait.	Your daily life is your temple and your religion.	We felt the earth tremble.	False	False	1.5719415	715	715, 280, 957	0	8
+705	Il n'est pas dans mon intention d'être égoïste.	Your daily life is your temple and your religion.	I don't intend to be selfish.	False	False	1.7078503	715	715, 701, 368	0	811
+706	Je ne suis pas un vrai poisson, je ne suis qu'une simple peluche.	Your daily life is your temple and your religion.	I'm not a real fish, I'm just a mere plushy.	False	False	1.6454256	715	715, 701, 621	0	801
+707	Je t'ai presque tiré dessus.	I drink his beer.	I almost shot you.	False	False	1.6131773	701	701, 713, 724	0	662
+708	Je pensais que tu aimais apprendre de nouvelles choses.	Your daily life is your temple and your religion.	I thought you liked to learn new things.	False	False	1.6285056	715	715, 368, 245	0	822
+709	Parfois des questions nous informent plus que des réponses.	Who is your favorite author?	Sometimes, questions provide us with more information than answers.	False	True	1.7102872	600	600, 149, 312	0.5	149
+710	Il est onze heures, les enfants doivent aller au lit, ils ont école demain.	Your daily life is your temple and your religion.	It's 11 o'clock. The children must go to bed. They have school tomorrow.	False	False	1.7133552	715	715, 739, 448	0	429
+711	Merci beaucoup d'être ainsi fidèle à notre magasin depuis si longtemps.	Please hang your coat in the anteroom.	Thank you very much for patronizing our store for a long time.	False	False	1.6562098	234	234, 740, 280	0	426
+712	Pour une certaine raison je me sens plus vivant la nuit.	Happy birthday, Muiriel!	For some reason I feel more alive at night.	False	False	1.6729358	740	740, 701, 715	0	791
+713	C'est notre unique spectacle.	The victory is ours.	It's our only show.	False	False	1.684475	280	280, 715, 351	0	299
+714	Mon père a l'habitude venir à la maison à six heures.	Is dad in the kitchen?	My father usually comes home at six.	False	False	1.6884425	157	157, 715, 514	0	217
+715	Je ne sais qu'une chose, c'est que je ne sais rien.	Do you recognize anyone?	I only know this: that I know nothing.	False	False	1.6301172	543	543, 600, 701	0	466
+716	De nombreux clients viennent consulter cet avocat.	Keep your head low.	Many clients come to that lawyer for advice.	False	False	1.7080468	301	301, 351, 708	0	380
+717	Veux-tu bien mettre la table contre le mur ?	Who is your favorite author?	Please put the table next to the wall.	False	False	1.6101183	600	600, 724, 291	0	257
+718	Qu'est-ce que tu fais ?	Who is your favorite author?	What are you doing?	False	False	1.5748901	600	600, 601, 724	0	737
+719	Je bois sa bière.	I drink his beer.	I drink his beer.	True	True	1.5718327	701	701, 280, 724	1.0	701
+720	Veuillez mettre votre ceinture de sécurité.	Your daily life is your temple and your religion.	Please fasten your seat belt.	False	False	1.6692328	715	715, 301, 280	0	482
+721	N'importe qui pourrait faire ça.	Your daily life is your temple and your religion.	Anyone could do that.	False	False	1.7075622	715	715, 543, 600	0	555
+722	L'homme est pour l'homme un ennemi plus dangereux que les forces de la nature ou les bêtes sauvages.	Man is a more dangerous foe to man than the elements of nature or animals in the wild.	Man is a more dangerous foe to man than the elements of nature or animals in the wild.	True	True	1.6786457	652	652, 600, 17	1.0	652
+723	Quelque chose ne va pas avec les freins.	Who is your favorite author?	Something is wrong with the brakes.	False	False	1.6698029	600	600, 550, 715	0	325
+724	C'est pourquoi nous te voulons.	The victory is ours.	That's why we want you.	False	False	1.6897511	280	280, 921, 234	0	657
+725	J'ai engagé quelqu'un aujourd'hui.	I found a pair of gloves under the chair.	I hired someone today.	False	False	1.6919719	712	712, 715, 301	0	36
+726	Je connais tout le monde, ici.	Your daily life is your temple and your religion.	I know everybody here.	False	False	1.5935054	715	715, 280, 301	0	94
+727	Si je voulais te faire peur, je te raconterais ce dont j'ai rêvé il y a quelques semaines.	I drink his beer.	If I wanted to scare you, I would tell you what I dreamt about a few weeks ago.	False	False	1.6537093	701	701, 715, 724	0	870
+728	Dans les années 50, on citait les Finnois comme ayant les régimes alimentaires les moins sains du monde.	In the 1950's, the Finns were cited as having one of the least healthy diets in the world.	In the 1950's, the Finns were cited as having one of the least healthy diets in the world.	True	True	1.7232689	987	987, 723, 157	1.0	987
+729	Qui que ce soit d'autre a-t-il peur ?	Who is your favorite author?	Is anybody else scared?	False	False	1.5827328	600	600, 699, 543	0	565
+730	« Merci de m'aider. » « Il n'y a pas de quoi. »	Cool story, bro.	"""Thanks for the help."" ""Don't mention it."""	False	False	1.7028261	489	489, 562, 715	0	971
+731	Super histoire, mon vieux !	Welcome to our restaurant!	Cool story, bro.	False	False	1.5154221	351	351, 740, 280	0	489
+732	J'ai un point de côté.	I drink his beer.	I've got a pain in my side.	False	False	1.704667	701	701, 715, 438	0	341
+733	En découvrant que les autres avaient réussi, elle devint verte de jalousie.	You ran in the garden.	Upon finding out about the others' success, she turned green with envy.	False	True	1.6461011	214	214, 233, 280	0.5	233
+734	Tu devrais dormir.	You ran in the garden.	You should go to sleep.	False	False	1.5987754	214	214, 280, 715	0	771
+735	Ne regarde pas la télévision.	Cool story, bro.	Don't watch TV.	False	False	1.5995955	489	489, 351, 740	0	460
+736	Je n'ai plus peur.	Sometimes, questions provide us with more information than answers.	I'm not afraid anymore.	False	False	1.650208	149	149, 543, 724	0	272
+737	Pratiquement tout le monde est venu.	He who writes reads twice.	Just about everyone came.	False	False	1.674595	468	468, 368, 215	0	96
+738	Je ne sais pas si je l'ai encore.	Do you recognize anyone?	I don't know if I still have it.	False	False	1.6616056	543	543, 715, 701	0	914
+739	Je commence à en avoir assez de vos plaintes.	I drink his beer.	I'm getting tired of your complaints.	False	False	1.7397301	701	701, 715, 957	0	193
+740	L'hirondelle est un oiseau migrateur.	The swallow is a migratory bird.	The swallow is a migratory bird.	True	True	1.640098	196	196, 548, 101	1.0	196
+741	J'ai une autre bonne idée.	I drink his beer.	I have another good idea.	False	False	1.6505252	701	701, 301, 438	0	446
+742	J'ai froid ce matin.	I drink his beer.	I feel cold this morning.	False	False	1.6395657	701	701, 724, 715	0	718
+743	On connait par les fleurs l'excellence du fruit.	We know by the flowers the quality of the fruit.	We know by the flowers the quality of the fruit.	True	True	1.6347148	480	480, 280, 740	1.0	480
+744	Son assiduité lui a rapporté le succès.	You sold some apples at the market.	His diligence earned him success.	False	True	1.7384256	691	691, 701, 686	0.3333333333333333	686
+745	Je veux des gardes postés ici et je les veux maintenant !	Who is your favorite author?	I want guards posted here and I want them here now.	False	False	1.676111	600	600, 601, 739	0	388
+746	Je suis trop bête... J'essaie de t'expliquer des choses que je ne comprends pas moi-même.	I drink his beer.	I'm so dumb... I'm trying to explain things to you that I don't understand myself.	False	False	1.62607	701	701, 715, 774	0	951
+747	Dès le départ, je n'ai jamais eu l'intention d'habiter dans une grande ville.	I had no intention of living in a large city from the start.	I had no intention of living in a large city from the start.	True	True	1.6827515	252	252, 715, 828	1.0	252
+748	Quel est votre auteur favori ?	Who is your favorite author?	Who is your favorite author?	True	True	1.540276	600	600, 601, 108	1.0	600
+749	Vous n'avez rien à faire sauf vous faire confiance.	Your daily life is your temple and your religion.	All you can do is trust one another.	False	False	1.6513629	715	715, 600, 699	0	922
+750	Il me faut le dire à quelqu'un.	I drink his beer.	I have to tell someone.	False	False	1.7076875	701	701, 712, 600	0	38
+751	Dépêche-toi !	Happy birthday, Muiriel!	Hurry it up!	False	False	1.5985649	740	740, 301, 715	0	788
+752	Mon avis diffère un peu du vôtre.	I drink his beer.	My opinion is a little different from yours.	False	True	1.6322277	701	701, 724, 302	0.3333333333333333	302
+753	C'est pourquoi je me fie à toi.	Today is June 18th and it is Muiriel's birthday!	That's why I trust you.	False	False	1.677353	739	739, 715, 214	0	564
+754	Est-ce que tu es sûr ?	Who is your favorite author?	Are you sure?	False	False	1.5828736	600	600, 738, 921	0	785
+755	C’est un jeu de mots.	Read a book!	This is a pun.	False	False	1.7258316	448	448, 331, 468	0	937
+756	Je dois te poser une question idiote.	I drink his beer.	I need to ask you a silly question.	False	False	1.6627738	701	701, 621, 600	0	875
+757	Ne t'approche pas de ça !	This can't be!	Don't go near that!	False	True	1.6388671	955	955, 440, 301	0.5	440
+758	Ce n'est pas quelque chose que n'importe qui peut faire.	Do you recognize anyone?	It's not something anyone can do.	False	False	1.7177441	543	543, 600, 468	0	913
+759	Il t'aime.	I love you!	He loves you.	False	False	1.6519476	892	892, 715, 701	0	459
+760	Ça porte malheur de dire ça.	You can't be too careful when you drive.	It's bad luck to say that.	False	False	1.758546	228	228, 445, 489	0	410
+761	Je m'excuse, je ne peux pas rester longtemps.	Your daily life is your temple and your religion.	I'm sorry, I can't stay long.	False	False	1.6700994	715	715, 701, 482	0	994
+762	J'ai estimé qu'il était préférable de ne pas y aller sans vous.	I drink his beer.	I figured it was better not to go without you.	False	False	1.7435021	701	701, 234, 828	0	589
+763	C'est horriblement lent.	That can't be good for you.	It's excruciatingly slow.	False	False	1.7125928	665	665, 214, 955	0	303
+764	Mais sérieusement, l'épisode 21 m'a presque fait pleurer de rire.	You sold some apples at the market.	Seriously though, episode 21 made me almost cry while laughing.	False	False	1.6254743	691	691, 701, 548	0	909
+765	S'il te plaît, ne pleure pas.	I drink his beer.	Please don't cry.	False	False	1.6287612	701	701, 468, 739	0	974
+766	La dernière personne à qui j'ai raconté mon idée a pensé que j'étais cinglé.	Your daily life is your temple and your religion.	The last person I told my idea to thought I was nuts.	False	False	1.609698	715	715, 701, 724	0	777
+767	Une calamité a été évitée par pure chance.	There is nothing more refreshing than a cold beer on a hot day.	A calamity was avoided by sheer luck.	False	False	1.6413023	48	48, 548, 701	0	411
+768	J'ai l'impression que cette nuit va être une bonne nuit !	Your daily life is your temple and your religion.	I have a feeling that tonight is going to be a good night!	False	False	1.6607916	715	715, 701, 724	0	664
+769	J'aurai un déjeuner qui t'attendra.	Today is June 18th and it is Muiriel's birthday!	I'll have lunch waiting for you.	False	False	1.6379158	739	739, 715, 724	0	676
+770	Je me suis arrêté pour pouvoir fumer une cigarette.	I drink his beer.	I stopped so I could smoke a cigarette.	False	True	1.6348283	701	701, 484, 283	0.5	484
+771	Quelqu'un peut-il ouvrir une fenêtre ?	Can someone open a window?	Can someone open a window?	True	True	1.6156327	53	53, 551, 699	1.0	53
+772	Pour une fois dans ma vie je fais un bon geste... Et ça ne sert à rien.	Your daily life is your temple and your religion.	For once in my life I'm doing a good deed... And it is useless.	False	False	1.6595757	715	715, 739, 368	0	381
+773	Tout le monde a des secrets.	You ran in the garden.	Everybody has secrets.	False	False	1.6438292	214	214, 489, 715	0	75
+774	Personne ne va vous employer.	Your daily life is your temple and your religion.	Nobody will hire you.	False	False	1.7192316	715	715, 489, 600	0	517
+775	Ne sous-estime pas ma puissance.	The victory is ours.	Do not underestimate my power.	False	True	1.5784032	280	280, 916, 715	0.5	916
+776	J'ai appelé Susan pour m'excuser, mais elle m'a raccroché au nez.	You ran in the garden.	I called Susan to apologize to her, but she hung up on me.	False	False	1.6228508	214	214, 701, 724	0	425
+777	Tout le monde vous apprécie.	The victory is ours.	Everybody likes you.	False	False	1.604843	280	280, 715, 301	0	417
+778	Tout ne se rapporte pas à vous.	The victory is ours.	Not everything is about you.	False	False	1.6315913	280	280, 715, 834	0	578
+779	J'apprends l'anglais parce que je veux aller aux États Unis.	Your daily life is your temple and your religion.	I'm studying English because I plan to go to the United States.	False	False	1.684937	715	715, 701, 594	0	458
+780	Je suis venu pour vous souhaiter bonne chance.	Your daily life is your temple and your religion.	I came to wish you good luck.	False	False	1.5977939	715	715, 480, 797	0	418
+781	Ne fume pas ici.	Your daily life is your temple and your religion.	Don't smoke here.	False	False	1.665725	715	715, 396, 280	0	602
+782	Es-tu déjà allé à l'étranger ?	Who is your favorite author?	Have you ever been abroad?	False	True	1.6044583	600	600, 543, 264	0.3333333333333333	264
+783	Ce n'est pas important.	Cool story, bro.	This is not important.	False	False	1.7374338	489	489, 739, 715	0	844
+784	Apporte de l'eau avec le seau.	I drink his beer.	Bring water with the bucket.	False	False	1.6374282	701	701, 739, 150	0	708
+785	Bats-toi comme un homme !	Your daily life is your temple and your religion.	Fight like a man!	False	False	1.645979	715	715, 280, 301	0	174
+786	L'homme qui conduit le bus est un bon ami à moi.	He who writes reads twice.	The man driving the bus is a good friend of mine.	False	False	1.6964931	468	468, 739, 701	0	592
+787	Tom a pris trois grandes respirations.	I drink his beer.	Tom took three deep breaths.	False	True	1.6567538	701	701, 349, 412	0.3333333333333333	412
+788	Dans cette bibliothèque, il y a beaucoup de livres.	Today is June 18th and it is Muiriel's birthday!	There are a great many books in this library.	False	False	1.6594361	739	739, 468, 562	0	342
+789	Il me fallait le dire à quelqu'un.	I found a pair of gloves under the chair.	I had to tell somebody.	False	False	1.7006509	712	712, 701, 214	0	41
+790	Je vais le dire à tout le monde.	Your daily life is your temple and your religion.	I'm going to tell everybody.	False	False	1.6039327	715	715, 280, 594	0	509
+791	Tu voulais me parler de liberté ?	Your daily life is your temple and your religion.	You wanted to tell me about freedom?	False	False	1.6069227	715	715, 724, 600	0	868
+792	Il me donne des coups de pied !	Today is June 18th and it is Muiriel's birthday!	He's kicking me!	False	False	1.720068	739	739, 724, 931	0	784
+793	Je n'ai simplement voulu prendre aucun risque.	Please hang your coat in the anteroom.	I just didn't want to take any chances.	False	False	1.7073123	234	234, 543, 321	0	734
+794	Thomas mange comme un cochon.	I drink his beer.	Tom eats like a pig.	False	False	1.7108191	701	701, 468, 739	0	171
+795	Est-ce que vous dormez mal la nuit ?	Where is my Meerschaum pipe?	Do you have trouble sleeping at night?	False	False	1.5980787	724	724, 600, 699	0	211
+796	Je déteste ça quand il y a trop de gens.	Who is your favorite author?	I hate it when there are a lot of people.	False	False	1.7406518	600	600, 468, 715	0	853
+797	Personne n'était chez moi.	Where is my Meerschaum pipe?	Nobody was home.	False	False	1.6976148	724	724, 715, 594	0	518
+798	Tout le monde attend dans la pièce d'à côté.	Your daily life is your temple and your religion.	Everyone is waiting in the other room.	False	False	1.6230254	715	715, 724, 214	0	64
+799	Je connais quelqu'un qui peut t'aider.	Your daily life is your temple and your religion.	I know someone who can help you.	False	False	1.7167187	715	715, 600, 228	0	34
+800	Aujourd'hui j'ai étudié le chinois pendant deux heures.	I drink his beer.	Today I studied Chinese for two hours.	False	False	1.6995201	701	701, 715, 301	0	223
+801	Je pense que ce n'est qu'un hasard.	Today is June 18th and it is Muiriel's birthday!	I think it is a mere coincidence.	False	False	1.7046796	739	739, 724, 600	0	129
+802	Supporter peut être insupportable.	He who writes reads twice.	Bearing can be unbearable.	False	True	1.7023044	468	468, 932, 262	0.5	932
+803	L'avion atterrira dans une heure.	The plane will land in an hour.	The plane will land in an hour.	True	True	1.6665764	259	259, 701, 214	1.0	259
+804	Je t'ai mené précisément où je voulais.	Your daily life is your temple and your religion.	I got you all right where I want you.	False	False	1.6151526	715	715, 724, 749	0	655
+805	Leur voyage fut remis en raison de la pluie.	The cat is in its basket.	Their trip was postponed because of the rain.	False	False	1.7276547	548	548, 214, 701	0	451
+806	Le commerce entre Les États-Unis et la Chine a beaucoup augmenté.	There has been a large increase in trade between the United States and China.	There has been a large increase in trade between the United States and China.	True	True	1.6865997	154	154, 691, 708	1.0	154
+807	Ils savent pourquoi.	Who is your favorite author?	They know why.	False	False	1.6523584	600	600, 740, 921	0	472
+808	Si vous ne vous fiez pas à eux, ils ne se fieront pas à vous.	Do you recognize anyone?	If you don't trust them, they won't trust you.	False	False	1.6264579	543	543, 699, 715	0	568
+809	Où est ma pipe en écume de mer ?	Where is my Meerschaum pipe?	Where is my Meerschaum pipe?	True	True	1.5588456	724	724, 548, 739	1.0	724
+810	Fous-moi juste la paix ! Tu es pathétique !	Your daily life is your temple and your religion.	Just leave me alone. You're pathetic.	False	False	1.557169	715	715, 280, 740	0	611
+811	Je l'aime en dépit de ses défauts.	Your daily life is your temple and your religion.	I love him despite his faults.	False	False	1.6933906	715	715, 701, 916	0	710
+812	Ça ne devrait pas être dur pour toi.	Your daily life is your temple and your religion.	That shouldn't be hard for you.	False	False	1.7175739	715	715, 468, 489	0	669
+813	Je n’ai pas de compte sur ces forums.	Who is your favorite author?	I do not have an account in these forums.	False	False	1.6860328	600	600, 601, 739	0	840
+814	Qui vivra, verra.	You ran in the garden.	Let's wait and see.	False	False	1.5829017	214	214, 480, 489	0	271
+815	Presque tous sont venus.	The victory is ours.	Almost everyone came.	False	False	1.6224886	280	280, 480, 551	0	227
+816	Vous ne pouvez pas être trop prudent quand vous conduisez.	Do you drink beer or wine?	You can't be too careful when you drive.	False	False	1.6783862	699	699, 715, 543	0	228
+817	Vous avez vendu des pommes au marché.	Who is your favorite author?	She sold some apples at the market.	False	False	1.6231349	600	600, 691, 701	0	694
+818	Je sortais de chez moi, lorsqu'il s'est mis à pleuvoir.	Where is my Meerschaum pipe?	I was leaving home, when it started to rain.	False	False	1.5735524	724	724, 701, 600	0	95
+819	Tout le monde sait ça.	Your daily life is your temple and your religion.	Everyone knows that.	False	False	1.6500238	715	715, 280, 921	0	63
+820	J'ai estimé qu'il était préférable de ne pas y aller sans toi.	I drink his beer.	I figured that it was better not to go without you.	False	False	1.7458596	701	701, 712, 828	0	591
+821	Il se peut que leur communication soit beaucoup plus complexe que nous le pensions.	How do you find food in outer space?	Their communication may be much more complex than we thought.	False	False	1.6818076	921	921, 368, 600	0	968
+822	Il tient pour principe de faire une promenade chaque matin.	Today is June 18th and it is Muiriel's birthday!	He makes it a rule to take a walk every morning.	False	True	1.6449192	739	739, 701, 617	0.3333333333333333	617
+823	Est-ce que tout le monde s'amuse ?	Where is my Meerschaum pipe?	Is everyone having fun?	False	False	1.6083417	724	724, 600, 551	0	87
+824	Elle est très intéressée par la musique.	She has a great interest in music.	She has a great interest in music.	True	True	1.5965542	289	289, 593, 215	1.0	289
+825	Beaucoup de gens ne pouvaient pas le reconnaître sous ce déguisement.	Do you drink beer or wine?	Quite a few people couldn't recognize him in that disguise.	False	True	1.6874256	699	699, 214, 433	0.3333333333333333	433
+826	Je sais que certaines personnes valorisent mon travail.	Your daily life is your temple and your religion.	I know that some people value my work.	False	True	1.6555777	715	715, 338, 701	0.5	338
+827	Je ne fais que parler !	Happy birthday, Muiriel!	I'm just saying!	False	False	1.6244447	740	740, 783, 724	0	802
+828	Ça ne commence pas avant huit heures trente.	Happy birthday, Muiriel!	It doesn't start until eight thirty.	False	True	1.6839414	740	740, 739, 978	0.3333333333333333	978
+829	"""Pourquoi tu n'y vas pas ?"" ""Parce que je ne veux pas."""	Who is your favorite author?	"""Why aren't you going?"" ""Because I don't want to."""	False	False	1.6184312	600	600, 921, 543	0	996
+830	Avez-vous vu qui que ce soit partir ?	Do you drink beer or wine?	Did you see anyone leave?	False	False	1.5448782	699	699, 600, 921	0	633
+831	Je dois aller au lit.	Where is my Meerschaum pipe?	I have to go to bed.	False	False	1.6645474	724	724, 701, 715	0	854
+832	Nous ne pouvons pas satisfaire vos besoins.	Your daily life is your temple and your religion.	We cannot meet your needs.	False	False	1.6620523	715	715, 280, 482	0	49
+833	Je déteste absolument l'écriture formelle !	Your daily life is your temple and your religion.	I utterly despise formal writing!	False	True	1.6065819	715	715, 740, 925	0.3333333333333333	925
+834	T'ai-je entendu parler à quelqu'un ?	Do you drink beer or wine?	Did I hear you talking to someone?	False	False	1.5678358	699	699, 600, 543	0	50
+835	Je ne suis pas un grand voyageur.	Your daily life is your temple and your religion.	I am not much of a traveller.	False	False	1.6485786	715	715, 957, 489	0	905
+836	Il ne viendra pas aujourd'hui.	Today is June 18th and it is Muiriel's birthday!	He will not come today.	False	True	1.708055	739	739, 220, 955	0.5	220
+837	Y a-t-il qui que ce soit là-dedans ?	Who is your favorite author?	Anybody in here?	False	True	1.5820704	600	600, 562, 699	0.5	562
+838	Je ne sais pas ce que tu veux dire.	Your daily life is your temple and your religion.	I don't know what you mean.	False	False	1.5757535	715	715, 594, 543	0	866
+839	Il prit cette décision.	I drink his beer.	He decided on that.	False	False	1.7190405	701	701, 739, 468	0	316
+840	Il existe différents types de niqab, dont certains couvrent tout le visage.	There are different types of niqab, some of which cover the entire face.	There are different types of niqab, some of which cover the entire face.	True	True	1.565944	719	719, 723, 548	1.0	719
+841	"Comment épelles-tu ""pretty"" ?"	Who is your favorite author?	"How do you spell ""pretty""?"	False	False	1.5881728	600	600, 921, 157	0	992
+842	Oh, il y a un papillon !	Oh, there's a butterfly!	Oh, there's a butterfly!	True	True	1.6410594	787	787, 351, 739	1.0	787
+843	Quoique je fasse, elle dit que je peux faire mieux.	Who is your favorite author?	Whatever I do, she says I can do better.	False	False	1.6085749	600	600, 921, 724	0	927
+844	Pour une certaine raison le microphone ne marchait pas tout à l'heure.	Happy birthday, Muiriel!	For some reason the microphone didn't work earlier.	False	False	1.6889123	740	740, 739, 214	0	752
+845	C'est ce que j'aurais dit.	Keep your head low.	This is what I would have said.	False	False	1.637594	301	301, 715, 280	0	805
+846	Je ne suis pas contente.	Your daily life is your temple and your religion.	I'm not satisfied.	False	False	1.5590004	715	715, 489, 301	0	682
+847	Quelqu'un pourrait-il me passer un couteau ?	Who is your favorite author?	Could someone hand me a knife?	False	False	1.6800299	600	600, 53, 699	0	51
+848	Elle travaille aussi dur que n'importe quel autre étudiant.	Your daily life is your temple and your religion.	She works as hard as any other student.	False	False	1.691399	715	715, 931, 554	0	158
+849	Quand je me suis réveillé j'étais triste.	Your daily life is your temple and your religion.	When I woke up, I was sad.	False	False	1.5715637	715	715, 724, 230	0	820
+850	La marche des Beurs a éclaté suite à plusieurs épisodes de racisme et de violence.	The Beurs March broke out after several episodes of racism and violence.	The Beurs March broke out after several episodes of racism and violence.	True	True	1.6514256	725	725, 567, 481	1.0	725
+851	Quel était donc cette chanson que tu as chantée ?	Who is your favorite author?	What was that song you were singing?	False	False	1.5637169	600	600, 724, 108	0	370
+852	Pour faire cela, il te faut prendre des risques.	To travel hopefully is a better thing than to arrive.	In order to do that, you have to take risks.	False	False	1.7566707	368	368, 601, 239	0	825
+853	Je n'aime pas quand les mathématiciens qui en savent beaucoup plus que moi ne savent pas s'exprimer explicitement.	I don't like it when mathematicians who know much more than I do can't express themselves explicitly.	I don't like it when mathematicians who know much more than I do can't express themselves explicitly.	True	True	1.6383164	873	873, 701, 724	1.0	873
+854	Elle est aimable.	The cat is in its basket.	She is kind.	False	True	1.690692	548	548, 215, 697	0.3333333333333333	697
+855	J'ai parlé avec tout le monde.	Your daily life is your temple and your religion.	I talked to everybody.	False	False	1.6216099	715	715, 594, 701	0	506
+856	Il tend à la paresse.	I drink his beer.	He is inclined to be lazy.	False	False	1.6489764	701	701, 548, 571	0	5
+857	Elle a mené ses affaires au succès.	Welcome to our restaurant!	She guided her business to success.	False	False	1.6906936	351	351, 567, 107	0	683
+858	Qu'est-ce que tout le monde regarde ?	Who is your favorite author?	What's everyone staring at?	False	False	1.62373	600	600, 921, 724	0	81
+859	Sais-tu où est resté Tom ?	Who is your favorite author?	Do you know where Tom's staying?	False	False	1.5495648	600	600, 264, 601	0	373
+860	Pourquoi n'admets-tu pas ton erreur ?	Who is your favorite author?	Why don't you admit your mistake?	False	False	1.5052607	600	600, 601, 921	0	490
+861	Pourquoi tout le monde est-il si calme ?	Who is your favorite author?	Why's everybody so quiet?	False	False	1.5695851	600	600, 699, 864	0	512
+862	Le vieillard mourut de faim.	Where is my Meerschaum pipe?	The old man starved to death.	False	False	1.6317793	724	724, 739, 740	0	727
+863	Je ne veux pas té déranger.	Do not underestimate my power.	I don't want to bother you.	False	False	1.6490297	916	916, 740, 543	0	732
+864	Mon oncle m'a donné un beau cadeau.	Today is June 18th and it is Muiriel's birthday!	I was given a nice present by my uncle.	False	False	1.6347431	739	739, 740, 715	0	687
+865	Cendrillon avait deux belles-sœurs perfides.	Today is June 18th and it is Muiriel's birthday!	Cinderella had two wicked stepsisters.	False	False	1.6777854	739	739, 715, 740	0	251
+866	Je n'ai vu personne l'employer.	I drink his beer.	I didn't see anyone using it.	False	False	1.6431406	701	701, 916, 514	0	623
+867	Je vous souhaite à toutes bonne chance.	Your daily life is your temple and your religion.	I wish you all good luck.	False	False	1.5890487	715	715, 480, 740	0	392
+868	Ça dépend du temps.	Cool story, bro.	It depends on the weather.	False	False	1.6710918	489	489, 468, 715	0	671
+869	Tente ta chance !	This can't be!	Try your luck!	False	False	1.6392298	955	955, 337, 280	0	166
+870	Je n'aurais jamais dû vous quitter.	Your daily life is your temple and your religion.	I never should have left you.	False	False	1.5836091	715	715, 985, 301	0	654
+871	Tu m'intimides toujours.	Your daily life is your temple and your religion.	I'm still intimidated by you.	False	True	1.640564	715	715, 406, 724	0.5	406
+872	Tout le monde veut te rencontrer, tu es célèbre !	Your daily life is your temple and your religion.	Everyone wants to meet you. You're famous!	False	False	1.6134491	715	715, 280, 921	0	923
+873	J'ai trouvé une paire de gants sous la chaise.	I found a pair of gloves under the chair.	I found a pair of gloves under the chair.	True	True	1.6356738	712	712, 701, 548	1.0	712
+874	Ma mère joue bien du piano.	My mother plays the piano well.	My mother plays the piano well.	True	True	1.585567	100	100, 724, 931	1.0	100
+875	Je respecte Monsieur Brown.	The victory is ours.	I respect Mr. Brown.	False	False	1.5865884	280	280, 701, 715	0	282
+876	Tu courais dans le jardin.	Your daily life is your temple and your religion.	You ran in the garden.	False	True	1.5994563	715	715, 214, 280	0.5	214
+877	Il est avec ses parents.	He's with his parents.	He's with his parents.	True	True	1.7240658	134	134, 468, 176	1.0	134
+878	Je n'ai jamais été interpellé par un étranger.	I have never been spoken to by a foreigner before.	I have never been spoken to by a foreigner before.	True	True	1.6516058	327	327, 828, 985	1.0	327
+879	Tout le monde est dans le salon à regarder la télé.	Welcome to our restaurant!	Everyone is in the living room watching TV.	False	True	1.6687617	351	351, 724, 67	0.3333333333333333	67
+880	Qu'est-ce qui te retient éveillé si tard ?	Who is your favorite author?	What keeps you up so late?	False	False	1.639046	600	600, 724, 601	0	928
+881	Deux élèves sont absents aujourd'hui.	Muiriel is 20 now.	Two students are absent today.	False	True	1.7083495	741	741, 739, 229	0.3333333333333333	229
+882	Lave le bureau !	Welcome to our restaurant!	Wash the writing table.	False	False	1.5980558	351	351, 714, 788	0	348
+883	Il a pu déduire l'équipement de son bureau de ses impôts.	I drink his beer.	He could write off his work room's furnishing from his taxes.	False	False	1.7093357	701	701, 691, 548	0	479
+884	Quiconque t'y a-t-il vu ?	Do you recognize anyone?	Did anybody see you there?	False	False	1.6049268	543	543, 699, 600	0	646
+885	Mon pantalon est mouillé.	Where is my Meerschaum pipe?	My trousers are wet.	False	False	1.6274755	724	724, 739, 548	0	700
+886	Bien entendu je me suis excusé, en précisant que le premier rendez-vous était prioritaire.	I was beside myself with joy when I heard the news.	Of course I apologised, saying that the first appointment had priority.	False	False	1.6053369	230	230, 701, 715	0	420
+887	L'archer tua le cerf.	Today is June 18th and it is Muiriel's birthday!	The archer killed the deer.	False	False	1.6605899	739	739, 701, 724	0	984
+888	Il était vraiment bon marché.	I drink his beer.	It was really cheap.	False	False	1.7148492	701	701, 739, 448	0	463
+889	Non, c'est pas mon nouveau petit ami.	Happy birthday, Muiriel!	No, he's not my new boyfriend.	False	False	1.6650188	740	740, 739, 715	0	885
+890	J'habite tout près.	Your daily life is your temple and your religion.	I live near here.	False	False	1.5677259	715	715, 724, 701	0	243
+891	C'est là que réside le problème.	Today is June 18th and it is Muiriel's birthday!	That's where the problem is.	False	False	1.7180301	739	739, 724, 551	0	920
+892	C'était probablement ce qui a influencé leur décision.	Is dad in the kitchen?	That was probably what influenced their decision.	False	False	1.675352	157	157, 691, 87	0	803
+893	Je te trouverai.	Who is your favorite author?	I'll find you.	False	False	1.637707	600	600, 715, 724	0	360
+894	Cette montagne a une hauteur de trois mille mètres.	This mountain has an altitude of 3,000 meters.	This mountain has an altitude of 3,000 meters.	True	True	1.6557391	2	2, 291, 548	1.0	2
+895	Même si tu n'as rien à te reprocher, tu devrais t'excuser.	Who is your favorite author?	Even if you are not to blame, you should apologize.	False	False	1.6166376	600	600, 234, 701	0	423
+896	Tu m'as trahie.	I drink his beer.	You betrayed me.	False	False	1.6551657	701	701, 214, 715	0	487
+897	"""Je ne te laisserai pas faire du mal à mes amis!"" ""Je n'avais pas l'intention de faire du mal à tes amis."""	Your daily life is your temple and your religion.	"""I won't let you hurt my friends!"" ""I wasn't going to hurt your friends."""	False	False	1.6531446	715	715, 228, 955	0	444
+898	Tom s'est promis qu'il ne ferait plus jamais la même erreur.	Today is June 18th and it is Muiriel's birthday!	Tom made a promise to himself that he would never make the same mistake again.	False	False	1.662844	739	739, 701, 548	0	127
+899	Je vais au magasin.	Where is my Meerschaum pipe?	I am going shopping.	False	False	1.6086018	724	724, 715, 701	0	266
+900	Discutons du problème avec eux.	Who is your favorite author?	Let's discuss the problem with them.	False	False	1.703035	600	600, 715, 739	0	205
+901	Pouvez-vous me donner votre numéro de téléphone?	Do you drink beer or wine?	Can you give me your phone number?	False	True	1.5904253	699	699, 724, 324	0.3333333333333333	324
+902	Tom n'a jamais été en prison.	Tom has never been in prison.	Tom has never been in prison.	True	True	1.6928144	182	182, 562, 715	1.0	182
+903	Je ne peux rien ajouter à cela.	What's the name of your ship?	I can't add anything to that.	False	False	1.6498873	108	108, 594, 701	0	183
+904	Je t'ai rencontré, et je t'ai aimé encore plus qu'avant.	Your daily life is your temple and your religion.	I liked you even more when I met you.	False	True	1.660186	715	715, 724, 116	0.3333333333333333	116
+905	Ma sœur possède un piano.	Today is June 18th and it is Muiriel's birthday!	My sister has a piano.	False	False	1.6267178	739	739, 724, 701	0	673
+906	L'air conditionné semble désormais fonctionner.	Muiriel is 20 now.	The air conditioner seems to be working now.	False	False	1.7141852	741	741, 283, 548	0	395
+907	Si ce n'est pas maintenant, alors quand ?	If not now, then when?	If not now, then when?	True	True	1.7031934	465	465, 543, 739	1.0	465
+908	Il a trouvé l'expérience plaisante.	I drink his beer.	He found the experience enjoyable.	False	False	1.7297945	701	701, 548, 828	0	131
+909	Il a raté le train de 8h30.	You ran in the garden.	He missed the 8:30 train.	False	False	1.7026491	214	214, 739, 701	0	224
+910	Les Allemands sont très ingénieux.	The Germans are very crafty.	The Germans are very crafty.	True	True	1.724822	990	990, 839, 701	1.0	990
+911	Tom retira ses vêtements et les mit dans la machine à laver.	I drink his beer.	Tom took his clothes off and put them into the washing machine.	False	True	1.6837797	701	701, 548, 202	0.3333333333333333	202
+912	Ils sont sur le chemin de la maison.	Is dad in the kitchen?	They are on their way home.	False	False	1.6869351	157	157, 739, 214	0	235
+913	C'est quelque chose de complètement différent.	You are saying you intentionally hide your good looks?	That's a horse of a different color.	False	False	1.7040229	839	839, 214, 701	0	331
+914	Tu es tellement impatiente avec moi.	Your daily life is your temple and your religion.	You're so impatient with me.	False	False	1.6168928	715	715, 594, 487	0	773
+915	Je n'aurais pas dû me déconnecter.	Your daily life is your temple and your religion.	I shouldn't have logged off.	False	False	1.6261535	715	715, 594, 985	0	898
+916	Personne n'y vit.	There's nobody home.	Nobody lives there.	False	False	1.7271391	514	514, 468, 562	0	521
+917	Ce n'est pas tellement une surprise, non ?	Do you recognize anyone?	It's not much of a surprise, is it?	False	False	1.6572766	543	543, 497, 699	0	891
+918	Veux-tu quelque chose à boire ?	Do you drink beer or wine?	Want to drink something?	False	False	1.5165229	699	699, 600, 921	0	958
+919	Pourriez-vous m'indiquer le chemin du zoo ?	How do you find food in outer space?	Could you tell me the way to the zoo?	False	False	1.6026831	921	921, 699, 543	0	204
+920	Elaine est à l'hôpital.	Is dad in the kitchen?	Elaine is in hospital.	False	True	1.6341491	157	157, 457, 551	0.5	457
+921	Bienvenue à Tatoeba !	Welcome to Tatoeba!	Welcome to Tatoeba!	True	True	1.4479885	567	567, 351, 696	1.0	567
+922	Je ne suis pas heureuse.	Your daily life is your temple and your religion.	I am not happy.	False	True	1.5604143	715	715, 681, 594	0.5	681
+923	Elle est toujours aussi belle.	Your daily life is your temple and your religion.	She is as beautiful as ever.	False	False	1.6518447	715	715, 280, 740	0	141
+924	Je ne t'aurais jamais tiré dessus.	Communism will never be reached in my lifetime.	I never would've shot you.	False	False	1.640785	985	985, 701, 301	0	660
+925	Je ne suis pas un artiste. Je n'ai jamais eu l'esprit pour ça.	I am not an artist. I never had the knack for it.	I am not an artist. I never had the knack for it.	True	True	1.675874	828	828, 774, 594	1.0	828
+926	Un monument a été érigé à la mémoire des défunts.	Today is June 18th and it is Muiriel's birthday!	A monument was erected in memory of the deceased.	False	False	1.6732893	739	739, 468, 997	0	354
+927	Passe plus tard, j'ai quelque chose pour toi !	Your daily life is your temple and your religion.	Come by later, I have something for you.	False	False	1.6214349	715	715, 931, 740	0	672
+928	Est-ce que nous sommes des écureuils fous ?	Who is your favorite author?	Are we mad squirrels?	False	False	1.5241709	600	600, 601, 921	0	101
+929	Ce n'est pas la peine de faire semblant de me faire croire que je crois des choses que tu ne crois pas !	Who is your favorite author?	It's no use pretending to make me believe that I believe things you don't believe!	False	False	1.6413417	600	600, 368, 979	0	949
+930	Je les appellerai demain quand je reviendrai.	Your daily life is your temple and your religion.	I’ll call them tomorrow when I return home.	False	False	1.5898806	715	715, 740, 724	0	769
+931	Pouvons-nous y croire ?	How do you find food in outer space?	Can we believe that?	False	False	1.5795624	921	921, 600, 699	0	99
+932	C'est une des meilleures artistes actuelles.	She is among the best artists of today.	She is among the best artists of today.	True	True	1.6114699	215	215, 601, 489	1.0	215
+933	Il me faut quelqu'un à qui je puisse parler.	Who is your favorite author?	I need someone who I can talk to.	False	False	1.7059665	600	600, 701, 715	0	31
+934	Quelles autres options ai-je ?	Who is your favorite author?	What other options do I have?	False	False	1.5460676	600	600, 157, 921	0	904
+935	Vous avez dû dépenser une fortune pour cette bague de mariage !	Happy birthday, Muiriel!	You must have dropped a bundle for that wedding ring!	False	False	1.5958619	740	740, 739, 600	0	326
+936	En fait je suis un idiot.	Your daily life is your temple and your religion.	I'm actually a mutt.	False	False	1.665315	715	715, 701, 438	0	216
+937	Lorsqu'il est triste, il se retire.	Today is June 18th and it is Muiriel's birthday!	When he's sad, he withdraws from other people.	False	False	1.6962724	739	739, 701, 280	0	663
+938	C'est combien pour aller jusqu'à l'hôtel Hilton ?	Who is your favorite author?	How much is the fare to the Hilton Hotel?	False	False	1.6931988	600	600, 157, 601	0	107
+939	Qui est votre auteur favori ?	Who is your favorite author?	Who's your favorite writer?	False	True	1.5062478	600	600, 601, 724	0.5	601
+940	Veuillez vous asseoir ici.	Where is my Meerschaum pipe?	Please sit here.	False	False	1.6050866	724	724, 740, 351	0	597
+941	Attends-tu quelqu'un ?	Who is your favorite author?	Are you waiting for someone?	False	False	1.5459418	600	600, 699, 542	0	59
+942	Elle a du mal à nager.	What is your favorite TV program?	She was having a hard time swimming.	False	False	1.6650562	349	349, 489, 368	0	208
+943	Ils étaient tous tellement fatigués qu'ils ne pouvaient rien faire, sauf bailler.	Who is your favorite author?	They were all so tired that they could do nothing but yawn.	False	False	1.6898226	600	600, 699, 701	0	254
+944	Je n'ai rien de mieux à faire.	Your daily life is your temple and your religion.	I have nothing better to do.	False	False	1.7111541	715	715, 489, 957	0	906
+945	Quelqu'un peut-il m'aider, je vous prie ?	Who is your favorite author?	Can somebody please help me?	False	False	1.5934807	600	600, 699, 543	0	54
+946	Je ne sais simplement pas quoi dire...	Your daily life is your temple and your religion.	I just don't know what to say.	False	False	1.6503497	715	715, 543, 489	0	747
+947	Au commencement, Dieu créa le ciel et la terre.	The victory is ours.	In the beginning God created the heaven and the earth.	False	True	1.5526448	280	280, 0, 715	0.5	0
+948	Je n'ai pas besoin de me faire sermonner par toi.	Your daily life is your temple and your religion.	I don't need to be lectured by you.	False	False	1.6910048	715	715, 701, 594	0	402
+949	Pourquoi ont-ils refusé votre proposition ?	Who is your favorite author?	Why did they turn down your proposal?	False	False	1.4638052	600	600, 699, 349	0	304
+950	Arrête de me considérer comme quelqu'un de « normal » !	I drink his beer.	"Stop seeing me as a ""normal"" person!"	False	False	1.763899	701	701, 715, 283	0	952
+951	La classe commence à 8h30.	The class begins at 8:30.	The class begins at 8:30.	True	True	1.6315548	249	249, 333, 224	1.0	249
+952	« Qu'est-ce qu'il se passe dans la grotte ? Je suis curieux. » « Je n'en ai aucune idée. »	Who is your favorite author?	"""What's going on in the cave? I'm curious."" ""I have no idea."""	False	False	1.6581717	600	600, 724, 921	0	962
+953	Je suis venu à Tokyo il y a trois ans et ai vécu ici depuis.	Your daily life is your temple and your religion.	I came to Tokyo three years ago and have been living here ever since.	False	True	1.649731	715	715, 264, 998	0.3333333333333333	998
+954	Tu aurais dû la fermer.	Your daily life is your temple and your religion.	You should have kept your mouth shut.	False	False	1.5443892	715	715, 214, 280	0	22
+955	Vous auriez dû y être prêts depuis hier.	Your daily life is your temple and your religion.	You were supposed to have this finished by yesterday.	False	False	1.6029432	715	715, 280, 740	0	364
+956	J'ai des problèmes de concentration.	I drink his beer.	I have problems concentrating.	False	False	1.7114522	701	701, 601, 724	0	375
+957	La burqa est un choix.	The burqa is a choice.	The burqa is a choice.	True	True	1.5786651	723	723, 707, 283	1.0	723
+958	Arrêtez de vous poser des questions sans intérêt.	Do you drink beer or wine?	Stop asking yourself useless questions.	False	False	1.6060263	699	699, 600, 149	0	439
+959	Mes bagages ne sont pas arrivés. Que s'est-il passé?	Who is your favorite author?	My luggage didn't arrive. What happened?	False	False	1.6254508	600	600, 601, 739	0	614
+960	Je déteste la chimie.	The victory is ours.	I hate chemistry.	False	False	1.5866256	280	280, 701, 489	0	900
+961	Mon ordinateur fonctionne au poil, maintenant.	Welcome to our restaurant!	My computer works fine now.	False	False	1.6358247	351	351, 724, 739	0	390
+962	Lucie connaît Marie.	The victory is ours.	Lucy knows Mary.	False	False	1.6051583	280	280, 740, 351	0	473
+963	Tu dois te laver les cheveux.	I drink his beer.	You should wash your hair.	False	False	1.6647388	701	701, 724, 715	0	115
+964	Cette bourse d'étude m'a été accordée par le conseil départemental.	The cat is in its basket.	This study grant was given to me by the departmental council.	False	False	1.6912768	548	548, 301, 701	0	15
+965	Où sont tous les autres ?	Is anyone in there?	Where's everyone else?	False	False	1.6005781	551	551, 554, 827	0	90
+966	Je viens de petit-déjeuner.	Where is my Meerschaum pipe?	I've just eaten breakfast.	False	False	1.5888302	724	724, 214, 739	0	705
+967	Tu pourrais au moins essayer d'être un peu plus poli, même si ce n'est pas dans ta nature.	He who writes reads twice.	You could at least try to be a bit more polite, even though it's not like you.	False	False	1.6774368	468	468, 368, 715	0	953
+968	J'espère n'avoir offensé personne.	Do you recognize anyone?	I hope I haven't offended anyone.	False	False	1.6841062	543	543, 701, 726	0	532
+969	Actuellement Tom ne regarde pas la télévision.	What is your favorite TV program?	Tom isn't watching TV now.	False	True	1.6542392	349	349, 250, 739	0.5	250
+970	Le problème est que je n'ai pas de temps pour cela.	Today is June 18th and it is Muiriel's birthday!	The problem is I don't have time for it.	False	False	1.7017181	739	739, 715, 358	0	3
+971	Soudain, ma mère se mit à chanter.	Where is my Meerschaum pipe?	Suddenly, my mother started singing.	False	False	1.5957344	724	724, 214, 280	0	585
+972	J'étais dans les montagnes.	I was in the mountains.	I was in the mountains.	True	True	1.5865744	749	749, 715, 280	1.0	749
+973	Ils te soutiendront.	The victory is ours.	They'll be rooting for you.	False	False	1.5953463	280	280, 740, 726	0	677
+974	Je ne savais pas d'où ça venait.	Your daily life is your temple and your religion.	I didn't know where it came from.	False	False	1.638638	715	715, 214, 543	0	842
+975	Je me réjouis d'être celui qui te le dit.	Your daily life is your temple and your religion.	I'm glad to be the one who tells you.	False	False	1.6296327	715	715, 701, 600	0	609
+976	J'ai le même sentiment à ton sujet.	Your daily life is your temple and your religion.	I feel the same way about you.	False	False	1.6671042	715	715, 701, 438	0	579
+977	« Ne nous sommes-nous pas rencontrés quelque part avant ? » demanda l'étudiant.	Who is your favorite author?	"""Haven't we met somewhere before?"" asked the student."	False	False	1.5991848	600	600, 280, 699	0	981
+978	J'aurais pas imaginé qu'un jour j'irais chercher « viagra » dans Wikipédia.	I drink his beer.	"I wouldn't have thought I would someday look up ""Viagra"" in Wikipedia."	False	False	1.6331573	701	701, 214, 724	0	877
+979	Je n'ai vu personne d'autre.	I drink his beer.	I didn't see anyone else.	False	False	1.642311	701	701, 543, 774	0	624
+980	Lis un livre !	Your daily life is your temple and your religion.	Read a book!	False	True	1.63322	715	715, 351, 448	0.3333333333333333	448
+981	Vous m'avez presque brisé la mâchoire.	Where is my Meerschaum pipe?	You nearly broke my jaw.	False	False	1.540173	724	724, 701, 234	0	428
+982	Quelqu'un pourrait-il aller me chercher une cuillère ?	Who is your favorite author?	Could somebody get me a spoon?	False	False	1.6471068	600	600, 699, 53	0	52
+983	Ça ne me surprend pas.	Do you recognize anyone?	It doesn't surprise me.	False	False	1.6698025	543	543, 489, 740	0	789
+984	Essayons quelque chose !	The victory is ours.	Let's try something.	False	False	1.5543227	280	280, 600, 738	0	736
+985	Un Japonais ne ferait jamais une telle chose.	"""A rolling stone gathers no moss"" is a saying."	A Japanese would never do such a thing.	False	True	1.6722691	957	957, 214, 982	0.3333333333333333	982
+986	Qu'est-ce que tu as répondu ?	Who is your favorite author?	What did you answer?	False	False	1.5469322	600	600, 108, 601	0	884
+987	L'équipement de son bureau était déductible des impôts.	Maria is wearing a burqa.	The furnishing of his work room was tax deductible.	False	False	1.6404498	707	707, 548, 404	0	478
+988	Il faut joindre l'utile à l'agréable.	Today is June 18th and it is Muiriel's birthday!	Usefulness must be combined with pleasantness.	False	False	1.6693954	739	739, 280, 726	0	393
+989	Ferme cette porte !	Welcome to our restaurant!	Shut that door.	False	False	1.5823007	351	351, 788, 740	0	152
+990	On pouvait voir l'allégresse dans le visage du président lorsqu'il annonça que nos actions vont être cotées au premier marché de la bourse de Tokyo.	I drink his beer.	You could see the elation in the president's face when he announced that our shares are going to be listed on the First Section of the TSE next year.	False	False	1.652012	701	701, 691, 548	0	431
+991	Fais-moi savoir s'il y a quoi que ce soit que je puisse faire.	Your daily life is your temple and your religion.	Let me know if there's anything I can do.	False	False	1.6838062	715	715, 699, 600	0	975
+992	Je ne peux pas l'expliquer non plus.	Do not underestimate my power.	Neither can I explain it.	False	False	1.6659062	916	916, 594, 183	0	907
+993	Tu peux le faire !	Your daily life is your temple and your religion.	You can do it.	False	False	1.6845016	715	715, 600, 931	0	850
+994	Peut-être que ce sera la même chose pour lui.	Today is June 18th and it is Muiriel's birthday!	Maybe it will be exactly the same for him.	False	False	1.6786793	739	739, 600, 715	0	833
+995	Je ne t'en demanderai pas plus pour aujourd'hui.	Today is June 18th and it is Muiriel's birthday!	I won't ask you anything else today.	False	False	1.6881247	739	739, 715, 740	0	856
+996	Elle a acheté un grille-pain, une cafetière, un œufrier et un batteur-mixeur.	She bought a toaster, a coffeemaker, an egg cooker and a hand mixer.	She bought a toaster, a coffeemaker, an egg cooker and a hand mixer.	True	True	1.6245689	717	717, 701, 694	1.0	717
+997	Qui que ce soit est-il blessé ?	Who is your favorite author?	Is anybody hurt?	False	False	1.572685	600	600, 738, 551	0	563
+998	Je ne veux pas attendre aussi longtemps.	Your daily life is your temple and your religion.	I don't want to wait that long.	False	False	1.6471418	715	715, 979, 740	0	895
+999	La même solution est valable dans ce cas.	The cat is in its basket.	The same explanation is true of that case.	False	False	1.6220303	548	548, 691, 12	0	207

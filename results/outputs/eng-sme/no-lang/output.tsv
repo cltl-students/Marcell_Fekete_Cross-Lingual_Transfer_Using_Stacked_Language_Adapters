@@ -1,0 +1,1001 @@
+	Sentence	Predicted	Gold	K_1_correct	K_3_correct	K_1_scores	K_1_predicted_indices	K_3_predicted_indices	Reciprocal_ranks	True_indices
+0	KAppfinder	KAppfinder	KAppfinder	True	True	0.0	500	500, 95, 578	1.0	500
+1	Viidodat	Cursor	Scope	False	False	0.5953258	643	643, 359, 252	0	383
+2	1200 čd	1200dpi	1200dpi	True	True	0.76110125	765	765, 841, 306	1.0	765
+3	Mendoza (MZ)	Mendoza (MZ)	Mendoza (MZ)	True	True	0.0	172	172, 284, 605	1.0	172
+4	Iranalašgiella	Teleorman	Persian	False	False	0.8710917	731	731, 578, 935	0	97
+5	Geavat & iežat signála	Add & platform name	Use customised bell	False	False	0.8251755	403	403, 215, 648	0	779
+6	Lasit árvvu	Alū ksne	Add value	False	False	0.75217164	264	264, 366, 354	0	494
+7	jeara	Bevel	ask	False	False	0.62731624	202	202, 935, 183	0	516
+8	& Vállje čálána	Luboš Luň ák	& Select Printer	False	False	0.9948877	366	366, 868, 81	0	471
+9	Ii gávdnan prográmma « nspluginscan ». Ii sáhte ohcat Netscape- lassemoduvllaid.	Oroomieh Lakeiran. kgm	The nspluginscan executable cannot be found. Netscape plugins will not be scanned.	False	False	0.7819375	139	139, 527, 459	0	251
+10	Sáhttá čájehit/ lohkat ja rievdadit/ čállit	Luboš Luň ák	Can View/ Read & Modify/ Write	False	False	0.8686898	366	366, 264, 841	0	653
+11	KDE- prográmma	KDE (new)	KDE Application	False	False	0.5324538	231	231, 988, 667	0	386
+12	Čájeheapmi	Logout	Browsing	False	False	0.7733501	486	486, 367, 768	0	242
+13	Geavaheaddjedieđut	Oroomieh Lakeiran. kgm	User & Info	False	False	0.80309796	139	139, 489, 330	0	409
+14	undo-type	undo-type	Could not open thumbnail '%s': %sundo-type	False	False	0.0	77	77, 785, 546	0	705
+15	Badjerádji:	Al Madinah	Max clients:	False	False	0.91870403	592	592, 484, 214	0	960
+16	Go dát lea válljejuvvon, de vi- gohččumat badjelgehččet Kate sisahuksejuvvon gohččumiid. Ovdamearka dihte: Ctrl + R máksá « daga ođđasit », iige čájet ohcan - ja buhttenláseža mii lea standárda.	Luboš Luň ák	When selected, vi commands will override Kate 's built-in commands. For example: Ctrl+R will redo, and override the standard action (showing the search and replace dialogue).	False	False	0.86276126	366	366, 264, 539	0	447
+17	Čájet olles dokumeantabálgá namahusholggas	Alū ksne	Show the complete document path in the window caption	False	False	0.8701948	264	264, 366, 459	0	129
+18	Vállje visot	Flatten	Select all	False	False	0.86591005	83	83, 496, 220	0	353
+19	Eretlaktimin	Override	Disconnect	False	False	0.83263624	452	452, 847, 434	0	950
+20	Ovddit máŧasdoalli	Ömnögov ĭ	Former co-maintainer	False	False	0.51122737	81	81, 264, 841	0	805
+21	Gaskageardán	Sindh	Medium	False	False	0.7839571	600	600, 627, 483	0	791
+22	Borg	Burn	Jul	False	False	0.5139054	585	585, 242, 833	0	467
+23	& Gidde gilkora	& Send	& Close Tab	False	False	0.8284918	444	444, 459, 659	0	868
+24	Viečča ođđa, somás tiŋggaid!	Luboš Luň ák	Get Hot New Stuff!	False	False	0.9942014	366	366, 81, 60	0	645
+25	Musihkka	Kapoita	Music	False	False	0.5753101	354	354, 338, 383	0	712
+26	Amerihká ovttastuvvan stáhtat	Luboš Luň ák	United States	False	False	0.9933505	366	366, 841, 459	0	482
+27	& Kryptere dán oasi	& Send	Encrypt this part	False	False	0.90317786	444	444, 973, 459	0	720
+28	@ item: inmenu	SVN Add@item: inmenu	SVN Add@item: inmenu	True	True	0.32439137	521	521, 985, 882	1.0	521
+29	Speadjalastte siidui ceakkoávssa bokte	Alū ksne	Mirror pages along vertical axis	False	False	0.89636505	264	264, 354, 139	0	182
+30	KDE 2 ja 3 standárda sievánfáddá	Qt plugins	The default cursor theme in KDE 2 and 3	False	False	0.77175796	988	988, 461, 977	0	400
+31	Čáhci lea eallin.	Târgu Jiuromania. kgm	Water is life.	False	False	1.0011429	240	240, 769, 366	0	46
+32	Namahis dokumeanta	Transparency	Untitled Document	False	False	0.86569047	666	666, 669, 452	0	212
+33	Mo manná?	Where did you learn Latin?	How is it going?	False	False	0.9102212	55	55, 486, 568	0	14
+34	Ii gávdnan CUPS- bálvá mii lea jođus	Luboš Luň ák	Unable to find a running CUPS server	False	False	0.7418617	366	366, 264, 81	0	675
+35	kcmclock	kcmclock	kcmclock	True	True	0.0	223	223, 500, 925	1.0	223
+36	Vuosttaš oassefinálii oassálasttii 19 riikka.	Alū ksne	Nineteen countries participated in the first semi-final. 	False	False	0.9089999	264	264, 507, 81	0	209
+37	Seaillut álgoproporšuvnna (mihttogori)	Luboš Luň ák	Retain original aspect ratio	False	False	0.81206775	366	366, 264, 81	0	956
+38	Sádde láse ovtta čállinbeavddi vulosguvlui	Luboš Luň ák	Window One Desktop Down	False	False	0.8064623	366	366, 264, 273	0	538
+39	(reiveteaksta)	Kapoita	(body part)	False	False	0.9067867	354	354, 264, 578	0	886
+40	zaire2006. kgm	Kasaï orientalzaire2006. kgm	Kasaï orientalzaire2006. kgm	True	True	0.5435201	958	958, 880, 933	1.0	958
+41	undo-type	undo-type	Add Horizontal Guide	False	False	0.0	77	77, 785, 546	0	274
+42	Oktiičatnon	KAlarm	Connecting	False	False	0.7762799	578	578, 669, 583	0	300
+43	Geavat & iešmeroštuvvon siidoravddaid	Guimarasphilippines. kgm	& Use custom margins	False	False	0.9160681	459	459, 877, 143	0	615
+44	Heaittihuvvo...	Run To...	Exiting...	False	False	0.9175546	618	618, 728, 595	0	166
+45	Metralaš mihtut sáhttet geavahit dáid prefivssaid: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E- 01), c (centi, 1E- 02), m (milli, 1E- 03), u (micro, 1E- 06), n (nano, 1E- 09), p (pico, 1E- 12), f (femto, 1E- 15), a (atto, 1E- 18).	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	True	True	0.019065976	539	539, 241, 285	1.0	539
+46	Čálán	Charging	Printer	False	False	0.65390205	659	659, 669, 359	0	917
+47	Oidnen maiddái Niillasa.	Oroomieh Lakeiran. kgm	I saw Nils as well	False	False	0.89948547	139	139, 240, 764	0	25
+48	Mo hurgá?	Where did you learn Latin?	How is it going?	False	False	0.98647	55	55, 594, 56	0	13
+49	1200 čd	1200dpi	1200 DPI	False	True	0.76110125	765	765, 841, 306	0.3333333333333333	306
+50	Christian Gebauer	Christian Gebauer	Christian Gebauer	True	True	0.0	534	534, 597, 100	1.0	534
+51	Muorra	Kalomo	Wood	False	False	0.36098075	568	568, 367, 583	0	833
+52	Ii leat addon ulbmilfiilanama.	Oroomieh Lakeiran. kgm	No target filename has been given.	False	False	0.94055367	139	139, 489, 264	0	892
+53	Ivdnecoahkkádusaid ja merkenbuorideamit	Ecasound Effektrack	Schema and text selection improvements	False	False	0.838485	439	439, 768, 354	0	698
+54	IMSUM( árvu; árvu; …)	PERMUT(total; permutated)	IMSUM(value; value;...)	False	False	0.7380767	276	276, 846, 993	0	804
+55	Doaimmat   …	Ömnögov ĭ	Edit...	False	False	0.6781404	81	81, 220, 635	0	380
+56	Jus leat válljen automáhtalaččat válljet govaža, de válljet man guhká ádjána sieván galgá leat govaža bajábealde ovdalgo dat merkejuvvo.	Luboš Luň ák	If you have checked the option to automatically select icons, this slider allows you to select how long the mouse pointer must be paused over the icon before it is selected.	False	False	0.9370259	366	366, 264, 841	0	82
+57	philippines. kgm	Bataanphilippines. kgm	Kabuntalan	False	False	0.37702823	245	245, 621, 360	0	669
+58	bangladesh. kgm	Not Bangladeshbangladesh. kgm	Not Bangladeshbangladesh. kgm	True	True	0.39417744	891	891, 457, 66	1.0	891
+59	QShortcut	WirelessQShortcut	Page Up	False	False	0.3890704	247	247, 766, 420	0	926
+60	Dán láhkai áigi čájehuvvo.	Alū ksne	This is how the time will be displayed.	False	False	0.81560993	264	264, 366, 484	0	370
+61	Láse 1. čállinbeavdái	Luboš Luň ák	Window to Desktop 1	False	False	0.94795907	366	366, 871, 430	0	435
+62	Guovttebealát badjin (Veallut)	Alū ksne	Double Top (Landscape)	False	False	0.8848593	264	264, 489, 273	0	410
+63	Aktiivalaš láseComment	Gradient Blue-RedComment	Another window is activated	False	False	0.70794153	665	665, 919, 766	0	299
+64	Son hupmá veahá eŋgelasgiela .	Egerhungary. kgm	He speaks English a little.	False	False	0.96195436	181	181, 264, 81	0	12
+65	Oaidnaleapmai.	Alū ksne	See you.	False	False	1.0589519	264	264, 139, 595	0	33
+66	_Čoavdaga:	_Blue:	_Key:	False	False	0.8128538	340	340, 981, 90	0	358
+67	Raba liŋkka	Alū ksne	Open Link	False	False	0.74504375	264	264, 366, 354	0	968
+68	Siiddut	Kapoita	Pages	False	False	0.6047683	354	354, 83, 669	0	515
+69	IEX	IEX	IEX	True	True	2.3841858e-07	901	901, 859, 963	1.0	901
+70	Juogadeami standárdspiehkastat	Retalhuleu	Standard deviation of the distribution	False	False	0.858405	489	489, 871, 578	0	250
+71	Čállinbeavdái	KAlarm	To & Desktop	False	False	0.8072429	578	578, 366, 669	0	215
+72	ACPI	ACPI	ACPI	False	True	7.1525574e-07	565	565, 923, 505	0.5	923
+73	40 – 56 MB muitu oktiibuot	Oroomieh Lakeiran. kgm	40 - 56 MB Total RAM	False	True	0.90938044	139	139, 264, 787	0.3333333333333333	787
+74	XBMName	XBM	XBM	True	True	0.29870808	859	859, 977, 451	1.0	859
+75	Liibme fiillas	Freehand	Paste From File	False	False	0.77361715	801	801, 83, 338	0	920
+76	Rulle bajásguvlui	Retalhuleu	Scroll Up	False	False	0.9082186	489	489, 366, 264	0	402
+77	Geavaheaddjit	ZAngbandGenericName	Users	False	False	0.8570435	451	451, 484, 139	0	120
+78	Mun lean ilus odne	Luboš Luň ák	I'm happy today	False	False	0.832984	366	366, 264, 220	0	21
+79	Guorus osiiguin	Monufia	& With empty fields	False	False	0.72107923	583	583, 367, 486	0	835
+80	Sajáiduhtte/ođasmahte	Overwrite & Destination	Install/update	False	False	0.91126	764	764, 264, 643	0	138
+81	Guovddáš AmerihkáName	ZAngbandGenericName	America, CentralName	False	False	0.810143	451	451, 578, 839	0	996
+82	philippines. kgm	Bataanphilippines. kgm	Nabunturanphilippines. kgm	False	True	0.37702823	245	245, 621, 360	0.3333333333333333	360
+83	ATM fierbmadatdoaimmat	Sipaliwinisweden. kgm	ATM Networking	False	False	0.9227555	143	143, 481, 223	0	717
+84	Ceahkke	Mukdahan	The Dash	False	False	0.74898195	627	627, 242, 472	0	690
+85	Danne mon ráhkistan du	Do you want to resign?	Because I love you.	False	False	1.0139545	594	594, 187, 55	0	0
+86	cap-style	undo-type	Bevel	False	False	0.5264907	77	77, 785, 546	0	202
+87	Čále htdig- diehtovuođu máhpa bálgá.	htdig	Enter the path to the htdig database folder.	False	False	0.9832854	841	841, 366, 264	0	99
+88	Stáhtus	Flatten	Status	False	False	0.66278934	83	83, 669, 571	0	541
+89	Vuolil SáksonagiellaName	SinhalaName	Low Saxon	False	False	0.7531986	697	697, 768, 451	0	688
+90	Doaimmat diehtu	Detach Tab	Account Info	False	False	0.8047334	635	635, 264, 354	0	384
+91	undo-type	undo-type	Text layer	False	False	0.0	77	77, 785, 546	0	695
+92	MONTHS () - funkšuvdna dieđiha galle mánu leat guovtti dáhtona gaskkas. Goalmmát paramehter mearrida rehkenastinvuogi: Jos paramehteris lea 0, de dieđiha MONTHS () mánuid stuorimus logu dan guovtti beaivvi gaskkas. Jos paramenteris lea 1, de dieđiha dušše galle olles mánu leat dáhtonis nubbái.	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	"WEEKS(""2002-19-02 "";"" 2002-19-02 ""; 1) returns 0, because there is not a whole week in between, starting at the first day of the week (monday or sunday, depending on your local settings)"	False	False	0.834816	539	539, 527, 366	0	241
+93	Davvi- AfrihkáName	SodipodiName	Africa, NorthernName	False	False	0.6836934	768	768, 839, 925	0	814
+94	Buot	Bevel	All	False	False	0.3913722	202	202, 935, 243	0	789
+95	& Váldde eret siskkildeami	Alū ksne	& Clean Indentation	False	False	1.019361	264	264, 81, 871	0	729
+96	Válddahus	KAlarm	Description	False	False	0.7662828	578	578, 83, 81	0	308
+97	Reaidorávvagiid duogášgovva	Kardzhalibulgaria. kgm	Opaque background image for tooltips	False	False	0.87904215	430	430, 366, 973	0	288
+98	Jearat nama ja máhpa go girjemearkkat lasihuvvojit	Luboš Luň ák	Ask for name and folder when adding bookmarks	False	False	0.8708904	366	366, 264, 354	0	611
+99	Makkár ivdni lea liŋkkain mat eai leat galleduvvon vel.	Alū ksne	What color links should be that have not yet been clicked on	False	False	0.82763886	264	264, 366, 25	0	673
+100	Ii sáhttán rahpat skriptafiilla «% 1 »	Login Name: %1 (uid: %2)	"Failed to open scriptfile ""%1"""	False	False	0.8520944	937	937, 304, 871	0	776
+101	Giittos eatnat!	Get Hot New Stuff!	Thank you very much!	False	False	0.8463925	645	645, 31, 6	0	38
+102	Hálidatgo álgosiidu ii oidno fierpmádatgolganprofiillas?	Guimarasphilippines. kgm	Do you want to disable showing the introduction in the webbrowsing profile?	False	False	0.9430201	459	459, 249, 139	0	777
+103	Ovdánahtti (HTML čájehanmašiidna, JavaScript)	Developer (HTML rendering engine, JavaScript)	Developer (HTML rendering engine, JavaScript)	True	True	0.7263324	423	423, 527, 461	1.0	423
+104	Máŋge merkejuvvon teavstta/ áđa( id) čuohpusgirjái	Alū ksne	Copy the selected text or item(s) to the clipboard	False	False	0.7918384	264	264, 139, 366	0	828
+105	Filtii% 1 rabadettiin.	Radius %1 (z)	Open of %1 failed.	False	False	0.8949485	304	304, 354, 139	0	668
+106	IMABS( kompleaksa lohku) dieđiha kompleaksa logu norpma. Kompleaksa logu hápmi lea x+yi.	Alū ksne	"IMARGUMENT(""12 "") returns"" #Div/ 0 """	False	False	0.8823848	264	264, 199, 285	0	146
+107	Resursamáhpat leat konttus:	Alū ksne	& Resource folders are in account:	False	False	0.95996296	264	264, 778, 293	0	406
+108	& Geavat standárdan	& Send	Set as & Default	False	False	0.9680455	444	444, 489, 871	0	314
+109	Čálihangieđaheapmi dábálaš geavaheaddjin Muhtun čálihan gieđahallandoaimmat gáibidit hálddašeaddji vuoigatvuođaid. Geavat « Hálddašandilli » boalu dás vuolábealde álggahit dán reaiddu hálddašanvuoigatvuođaiguin.	Oroomieh Lakeiran. kgm	"Print management as normal user Some print management operations may need administrator privileges. Use the ""Administrator Mode"" button below to start this print management tool with administrator privileges."	False	False	0.9559618	139	139, 366, 484	0	587
+110	Ii sáhttán sáddet sisa árvosáni.	Alū ksne	The rating could not be submitted.	False	False	1.0541711	264	264, 366, 484	0	562
+111	Kyrillalaš/Ukrainagiella	KAlarm	Cyrillic/Ukrainian	False	False	0.78209555	578	578, 366, 81	0	307
+112	Vállje čuolddaid:	Alū ksne	Select columns:	False	False	0.9537742	264	264, 366, 430	0	581
+113	standárda	Flatten	default	False	False	0.7978294	83	83, 643, 635	0	967
+114	htdig	htdig	htdig	True	True	0.0	841	841, 765, 925	1.0	841
+115	Peršuvnnalaš dieđut	Luboš Luň ák	Personal Information	False	False	0.7559724	366	366, 264, 669	0	576
+116	oceania. kgm	Clarendonjamaica. kgm	Adamstown	False	False	0.4139564	293	293, 481, 933	0	976
+117	Arch Cpaper size	Arch Cpaper size	Arch Cpaper size	True	True	3.5762787e-07	103	103, 365, 995	1.0	103
+118	Galle elementta oktiibuot	Flatten	CHIDIST(13.27; 5) returns 0.021	False	False	0.92173696	83	83, 264, 439	0	983
+119	Atlántaáhpi/ Canary	Atlantic/ Canary	Atlantic/ Canary	True	True	0.8143463	634	634, 841, 264	1.0	634
+120	Álo	Bevel	Always	False	False	0.52281463	202	202, 578, 669	0	636
+121	Beassansátni:	Original:	Password:	False	False	1.0777049	390	390, 186, 795	0	596
+122	Beduinnat orrot sáttoábis.	Alū ksne	Bedouins live in the desert.	False	False	0.774426	264	264, 635, 659	0	1
+123	Fiila maid rahpat	Alū ksne	File to open	False	False	0.9573926	264	264, 697, 792	0	799
+124	Mu namma lea Tom.	I am Tom.	My name's Tom.	False	True	0.7249119	15	15, 23, 30	0.3333333333333333	30
+125	Goargu	Charging	Surname	False	False	0.5229764	659	659, 367, 486	0	751
+126	NAMA	NAME	NAME	True	True	0.31126451	963	963, 701, 95	1.0	963
+127	Gaskkalduhte	Kapoita	Abort	False	False	0.6895077	354	354, 669, 578	0	238
+128	"CONVERT( 3; ""lbm""; ""kg"") dieđiha 1, 3608"	"CONVERT(3; ""lbm""; ""kg"") equals 1.3608"	"CONVERT(3; ""lbm""; ""kg"") equals 1.3608"	True	True	0.33996153	794	794, 285, 539	1.0	794
+129	puertorico. kgm	Mocapuertorico. kgm	Catañopuertorico. kgm	False	False	0.4832542	233	233, 389, 511	0	696
+130	San Luis (SL)	San Luis (SL)	San Luis (SL)	True	True	0.0	284	284, 172, 605	1.0	284
+131	Ii mihkiige	Oroomieh Lakeiran. kgm	Nothing	False	False	0.7417631	139	139, 264, 486	0	708
+132	egypt. kgm	Qalyubiaegypt. kgm	Qalyubiaegypt. kgm	True	True	0.6231688	973	973, 880, 181	1.0	973
+133	Earát	Automatic	Others	False	False	0.76359665	715	715, 443, 434	0	637
+134	Mii leat dávjá Romssas.	Luboš Luň ák	We are often in Tromsø.	False	False	0.85022974	366	366, 489, 264	0	47
+135	zambia_ districts. kgm	Kalomozambia_districts. kgm	Kalomozambia_districts. kgm	True	True	0.19230509	498	498, 793, 797	1.0	498
+136	Dus ii leat lohkanvuoigatvuohta du sáddejuvvon e- boasta máhppii.	Alū ksne	You do not have read/ write permission to your sent-mail folder.	False	False	0.98468006	264	264, 484, 539	0	552
+137	Bártnis lea heasta.	Luboš Luň ák	The boy has a horse.	False	False	0.99339485	366	366, 264, 240	0	40
+138	Kwajalein	Kwajalein	Kwajalein	True	True	1.1920929e-07	205	205, 259, 701	1.0	205
+139	Dárkkis ahte dokumeanta gusto	Alū ksne	Check the document for validity	False	False	0.81370425	264	264, 439, 354	0	105
+140	MikronesiafederašuvdnaName	SodipodiName	Micronesia, Federated States ofName	False	False	0.7102827	768	768, 451, 412	0	418
+141	Oktii gádden ahte ledjen meaddán, muhto feilejin.	Luboš Luň ák	Once I thought I was wrong. Turns out I was mistaken.	False	False	0.9478352	366	366, 264, 139	0	32
+142	Lassemoduvla	Luboš Luň ák	Plugin	False	False	0.8233938	366	366, 81, 489	0	359
+143	UNIX- čoahkkáldatName	UNIX SchemeName	UNIX SchemeName	True	True	0.57710814	630	630, 768, 977	1.0	630
+144	IrákaName	MarathiName	Iraq	False	False	0.51767886	839	839, 925, 183	0	654
+145	Jienat	Shanbe	Sounds	False	False	0.5118022	367	367, 935, 486	0	295
+146	Sajádat	Kabuntalan	Status	False	False	0.6229521	669	669, 354, 243	0	272
+147	Beaivvalaččat	Bevel	Daily	False	False	0.7874174	202	202, 578, 635	0	555
+148	Guhttaivnnát buoriduvvon čohkkehus	Luboš Luň ák	Six Colour Enhanced Composite	False	False	0.9609637	366	366, 430, 264	0	623
+149	paper size	paper size	#10 Envelopepaper size	False	False	0.0	639	639, 995, 103	0	407
+150	& Joatkke	& Close Tab	& Resume	False	False	0.8640698	868	868, 729, 471	0	809
+151	& Geavaheaddjinamma:	Ha Noivietnam. kgm	& Username:	False	False	0.8639579	595	595, 139, 459	0	894
+152	Reivelistu – ođđa reivvet	Ömnögov ĭ	Message List - New Messages	False	False	0.8698313	81	81, 264, 366	0	375
+153	Sillit	Plugin	Filters	False	False	0.47174585	359	359, 252, 935	0	421
+154	Guatemala	Guatemala	Guatemala	True	True	2.3841858e-07	646	646, 577, 724	1.0	646
+155	philippines. kgm	Bataanphilippines. kgm	Kidapawan City	False	False	0.37702823	245	245, 621, 360	0	955
+156	Ubuntu Prográmmaguovddáža	GNU Krell MonitorsName	Ubuntu Software Centre	False	False	0.8579161	291	291, 977, 667	0	432
+157	Deaddil F8 dahje Shiftnbsp; +F8 mannat ovddit/ čuovvuvaš čájeheapmái.	When selected, vi commands will override Kate 's built-in commands. For example: Ctrl+R will redo, and override the standard action (showing the search and replace dialogue).	Press F8 or Shift+F8 to switch to the next/ previous frame.	False	False	0.83393264	447	447, 937, 521	0	265
+158	SRA0	SRA0	SRA0	True	True	3.5762787e-07	721	721, 859, 701	1.0	721
+159	Vállje fiilla	Teleorman	File Selection	False	False	0.8405578	731	731, 354, 83	0	201
+160	Fonttat	Fonts	Fonts	True	True	0.62879896	184	184, 359, 252	1.0	184
+161	Mun dieđán.	Alū ksne	I know.	False	False	0.9072746	264	264, 731, 366	0	20
+162	Erenoamáš beassanvuoigatvuođat	Alū ksne	Advanced Permissions	False	False	0.76652014	264	264, 139, 366	0	750
+163	Bija árvosáni dán bihtái: 5	Alū ksne	Last. fm: Skip Current Track	False	False	0.96623945	264	264, 620, 366	0	989
+164	Muitu	Wanica	Memory	False	False	0.5879681	935	935, 467, 532	0	852
+165	Laddejuvvo	Plugin	Charging	False	False	0.6780182	359	359, 252, 489	0	659
+166	italyprovince. kgm	Vercelliitalyprovince. kgm	Mantova	False	False	0.45453048	736	736, 249, 143	0	774
+167	Iskka mánus guvlui	Luboš Luň ák	Negative lookahead	False	False	0.7286571	366	366, 264, 220	0	347
+168	poland. kgm	Nyalasudan. kgm	Ł ódź	False	False	0.45233762	933	933, 481, 293	0	939
+169	Váldde eret	KAlarm	Remove	False	False	0.9448118	578	578, 643, 446	0	301
+170	Christian Muehlhaeuser	Christian Gebauer	Andrew Turner	False	False	0.4534514	597	597, 534, 532	0	931
+171	Kommeanta:	Alū ksne	Comment:	False	False	1.0032247	264	264, 354, 937	0	186
+172	Geavaheaddjit	ZAngbandGenericName	Users	False	False	0.8570435	451	451, 484, 139	0	663
+173	VI: DÁBÁLAŠ MODUS	VI: NORMAL MODE	VI: NORMAL MODE	True	True	0.44198442	197	197, 237, 651	1.0	197
+174	Lohkka	Bevel	Lock	False	False	0.5810548	202	202, 467, 183	0	831
+175	"BIN2OCT (""1010"") dieđiha « 12 »"	"OCT2BIN(""12 "") returns"" 1010 """	BIN2OCT(value)	False	False	0.5879886	842	842, 404, 285	0	480
+176	Nohkkat %s	Sleep %s	Sleep %s	True	True	0.72330797	906	906, 937, 304	1.0	906
+177	KurdagiellaName	ChinaName	Kurdish	False	False	0.6447604	965	965, 697, 839	0	526
+178	Várra leat gávdnat dihkki prográmmas.	Alū ksne	You may have encountered a bug in the program.	False	False	0.9492936	264	264, 366, 430	0	229
+179	11 liigelođa	11 Extra Bins	11 Extra Bins	True	True	0.9433284	820	820, 321, 786	1.0	820
+180	%1 sekundda	%1 seconds	%1 seconds	True	True	0.58517087	132	132, 304, 837	1.0	132
+181	Muital meattáhusaid birra mat čuožžilit vuojedettiin JavaScript- koda.	Alū ksne	Enables the reporting of errors that occur when JavaScript code is executed.	False	False	0.9043851	264	264, 527, 988	0	969
+182	MarathigiellaName	MarathiName	MarathiName	True	True	0.27329767	839	839, 697, 768	1.0	839
+183	Cyanalit	Cyan	Cyan	True	True	0.59006965	243	243, 801, 583	1.0	243
+184	Giitu.	Oroomieh Lakeiran. kgm	Thanks.	False	False	1.0558832	139	139, 354, 875	0	36
+185	Gerund	Mauren	Transmission PreferencesGerund	False	False	0.550441	532	532, 100, 467	0	778
+186	Dokumeantalistu	Shortcut	Document List	False	False	0.880664	991	991, 656, 300	0	553
+187	Terminála	Name	Terminal	False	False	0.7152612	286	286, 395, 938	0	392
+188	Jorgal lásku	Kabuntalan	Flip horizontally	False	False	0.7972429	669	669, 354, 731	0	104
+189	Gaskaboddosaš vurkejuvvon dieđut (nugo faviconat, fierpmesiiddut)	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	Cached information (e. g. favicons, web-pages)	False	True	0.9321195	539	539, 749, 382	0.5	749
+190	iran. kgm	Panjshirafghanistan. kgm	Kerman	False	False	0.45292783	66	66, 933, 880	0	638
+191	Ii makkárge ivdnimudden	Luboš Luň ák	No Color Adjustment	False	False	0.716517	366	366, 264, 81	0	582
+192	undo-type	undo-type	undo-type	False	True	0.0	77	77, 785, 546	0.5	785
+193	Kyrillalaš/Ruoššagiella	Luboš Luň ák	Cyrillic/Russian	False	False	0.7826979	366	366, 264, 578	0	959
+194	italy. kgm	Uliastaymongolia. kgm	Beershebaitaly. kgm	False	False	0.5801562	249	249, 683, 844	0	273
+195	Juoge ođđa, somás tiŋggaid	Luboš Luň ák	Share Hot New Stuff	False	False	0.8516698	366	366, 264, 81	0	64
+196	Gárgadas:	Queue:	Queue:	True	True	0.93185735	90	90, 732, 351	1.0	90
+197	WordReference. com – jorgaleapmi: fránskkagielas eŋgelasgilliiQuery	ZAngbandGenericName	WordReference. com Translation: French to English	False	True	0.7902701	451	451, 459, 327	0.3333333333333333	327
+198	@ title: tab	Fonts@title: tab	Fonts@title: tab	True	True	0.29556274	222	222, 894, 262	1.0	222
+199	Bálggis	Plugin	Path	False	False	0.6247754	252	252, 359, 578	0	416
+200	Šelges bábir	Alū ksne	Glossy Paper	False	False	0.73891425	264	264, 578, 366	0	128
+201	Gos boađát?	Where do you come from?	Where are you from?	False	False	0.9044411	56	56, 55, 594	0	54
+202	background, style	Status & desctab-style	Lock Screenbackground, style	False	False	0.64130974	940	940, 693, 751	0	196
+203	Mii du namma lea?	Where did you learn Latin?	What is your name?	False	False	1.006396	55	55, 489, 594	0	50
+204	Vuolit Cassette	Palette	Lower Cassette	False	False	0.6292193	374	374, 65, 83	0	114
+205	Čállinprográmma	KAlarm	Composer	False	False	0.80800855	578	578, 330, 579	0	169
+206	saudi_ arabia. kgm	'Asirsaudi_arabia. kgm	'Asirsaudi_arabia. kgm	True	True	0.39264488	214	214, 481, 293	1.0	214
+207	Doaimmat váldoprošeavtta   …	Luboš Luň ák	Edit Main Project...	False	False	0.97440624	366	366, 507, 736	0	849
+208	Molsso geavaheaddji	Logout	Switch User	False	False	0.7482135	486	486, 568, 880	0	687
+209	Čálit bovssa mii čájeha dokumeantašlája typográfalaš njuolggadusaid, nugo lea meroštuvvon dálá syntaksamerkemis.	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	Print a box displaying typographical conventions for the document type, as defined by the syntax highlighting being used.	False	False	0.95130074	527	527, 430, 264	0	861
+210	Diehtu	Retalhuleu	Information	False	False	0.58719766	489	489, 935, 583	0	333
+211	Heivet šearpma   …	Ömnögov ĭ	Configure Display...	False	False	0.7939694	81	81, 264, 366	0	208
+212	Prográmmaálggaheapmi Dáppe heivehat prográmmaálggahan ávaštusa.	Lampangthailand. kgm	Launch Feedback You can configure the application-launch feedback here.	False	False	0.8743981	332	332, 459, 484	0	109
+213	protected visibility	& Tableprotected visibility	& Tableprotected visibility	True	True	0.72491825	292	292, 608, 442	1.0	292
+214	Sillenheivehusat	Retalhuleu	Filter Settings	False	False	0.7940645	489	489, 532, 83	0	781
+215	Luboš Luňák	Luboš Luň ák	Luboš Luň ák	True	True	0.32019174	366	366, 202, 638	1.0	366
+216	Dás válljet jus láserámmain lea seamma ivdnigo namahusholggas.	Alū ksne	When selected, the window borders are drawn using the titlebar colors; otherwise, they are drawn using normal border colors.	False	False	0.9847827	264	264, 366, 484	0	549
+217	2880   ×   1440 čd	360x180 dpi	2880 x 1440 DPI	False	True	0.8105769	348	348, 357, 495	0.5	357
+218	Duppalcoahkkal fálloboalu:	Kapoita	Double click on menu button:	False	False	0.9477645	354	354, 332, 437	0	848
+219	GuatemalaName	GuatemalaName	GuatemalaName	True	True	5.9604645e-07	577	577, 965, 646	1.0	577
+220	Čájet earáid bajábealde	Luboš Luň ák	Keep & Above Others	False	False	0.87619054	366	366, 635, 264	0	179
+221	Oahpahus	Kabuntalan	Education	False	False	0.6280792	669	669, 935, 643	0	137
+222	Čatnamin	Shanbe	Mounting	False	False	0.72099304	367	367, 659, 583	0	445
+223	handedness	handedness	handedness	True	True	2.3841858e-07	71	71, 300, 135	1.0	71
+224	paper size	paper size	Choukei 2 Envelopepaper size	False	False	0.0	639	639, 995, 103	0	836
+225	Radius% 1 (z)	Radius %1 (z)	Radius %1 (z)	True	True	0.0	304	304, 758, 837	1.0	304
+226	azerbaijan. kgm	Ali Bayramli cityazerbaijan. kgm	Ali Bayramli cityazerbaijan. kgm	True	True	0.4424541	382	382, 66, 457	1.0	382
+227	"IMDIV (""12+i""; ""12- i"") dieđiha « 0, 986207+0, 16551i »"	"IMDIV(1.2; ""3.4+5i"") returns ""0.111597-0.164114i"""	"IMDIV(1.2; ""3.4+5i"") returns ""0.111597-0.164114i"""	True	True	0.39884615	285	285, 794, 404	1.0	285
+228	Oktiibuot	Abort	Total	False	False	0.6300248	238	238, 338, 669	0	298
+229	Sáhpánnavigašuvdna	Luboš Luň ák	Mouse Navigation	False	False	0.8785368	366	366, 264, 330	0	821
+230	QShortcut	WirelessQShortcut	WirelessQShortcut	True	True	0.3890704	247	247, 766, 420	1.0	247
+231	Teaksta	Flatten	Text	False	False	0.7165148	83	83, 202, 354	0	232
+232	Jugat go gáfe?	Do you want coffee?	Would you like some coffee?	False	False	0.82296836	6	6, 594, 56	0	58
+233	mongolia. kgm	Mörönmongolia. kgm	Ömnögov ĭ	False	False	0.35703683	683	683, 249, 293	0	81
+234	_Čájet (%s)	_Zoom (%s)	_Zoom (%s)	True	True	0.6770582	603	603, 304, 937	1.0	603
+235	hungary. kgm	Egerhungary. kgm	Egerhungary. kgm	True	True	0.38036466	181	181, 933, 249	1.0	181
+236	pagingprocess status	Parsing document	paging	False	True	0.6250875	365	365, 792, 71	0.5	792
+237	Árkka iešvuođat	Luboš Luň ák	Sheet Properties	False	False	0.7274084	366	366, 264, 841	0	335
+238	Namma	Logout	Name	False	False	0.38755095	486	486, 568, 367	0	286
+239	Automáhtalaš	KAlarm	Automatic	False	False	0.8119137	578	578, 338, 731	0	443
+240	Mus lea bussá.	Alū ksne	I have a cat.	False	False	0.9186704	264	264, 240, 366	0	18
+241	pakistan. kgm	Quettapakistan. kgm	Quettapakistan. kgm	True	True	0.30942082	457	457, 66, 382	1.0	457
+242	philippines. kgm	Bataanphilippines. kgm	Puerto Princesa Cityphilippines. kgm	False	True	0.37702823	245	245, 621, 360	0.5	621
+243	Boasttočállojuvvon sánit	htdig	Misspelt Words	False	False	0.92455566	841	841, 366, 264	0	574
+244	Japánalaš Kaku konfáluhtta # 4	Luboš Luň ák	Japanese Kaku envelope #4	False	True	0.87217903	366	366, 264, 149	0.3333333333333333	149
+245	Gaskkalduvvon	KAlarm	Aborted	False	False	0.654053	578	578, 81, 489	0	961
+246	& Lassáneaddji sorteren	Ad Dhahirahoman. kgm	Sort & Increasing	False	False	0.93584573	484	484, 139, 958	0	550
+247	Viežžamin olggoža% 1: ii   …	Luboš Luň ák	Fetching cover for %1...	False	False	0.8141836	366	366, 81, 304	0	728
+248	Ovdamearkkat	KAlarm	Examples	False	False	0.7433928	578	578, 768, 713	0	856
+249	Gustohis skeaŋkagoartakoda	Oroomieh Lakeiran. kgm	ERROR: Parse error for argument 2 (count)	False	False	0.9251584	139	139, 264, 578	0	204
+250	Háliidatgo duođas dan bargat?	Alū ksne	Are you sure?	False	False	0.9355478	264	264, 81, 366	0	422
+251	@ title: column	Date@title: column	Date	False	False	0.21868324	262	262, 985, 894	0	391
+252	Win- boallu lea aktiivalaš.	Alū ksne	The Win key is now active.	False	False	0.96356344	264	264, 595, 139	0	948
+253	Njealječiegahas	Retalhuleu	Square	False	False	0.74754894	489	489, 264, 578	0	734
+254	Skearruin	Mauren	Albums	False	False	0.62127686	532	532, 83, 935	0	271
+255	3- geardán, x- gođus	Luboš Luň ák	3-passes x-weaving	False	False	0.87551475	366	366, 841, 264	0	762
+256	BahmanaEthiopian month 1 - ShortName	Africa, NorthernName	of Pagumen	False	False	0.740937	814	814, 996, 241	0	87
+257	Turks - og Caicos- sullot	Turks And Caicos Islands	Turks And Caicos Islands	True	True	0.46996295	735	735, 418, 303	1.0	735
+258	Gohččočopma	Luboš Luň ák	Call Stack	False	False	0.6905923	366	366, 659, 220	0	96
+259	Ja	Path	And	False	False	0.6054009	416	416, 202, 467	0	559
+260	Čájet & earáid bajábealde	KAlarm	Keep above others	False	False	0.95201933	578	578, 366, 669	0	974
+261	Sirdin gaskkalduvvoi.	KAlarm	Transmission aborted.	False	False	0.9099996	578	578, 264, 81	0	499
+262	Buhttes ivnnit	Alū ksne	Solid Colours	False	False	0.87940943	264	264, 366, 489	0	84
+263	Ráhkat gilkora láses mii juo gávdno, alege ráhkat ođđa láse	Luboš Luň ák	Create a new tab in an existing window rather than creating a new window	False	False	0.8937949	366	366, 264, 181	0	567
+264	Mátketelefuvdna	OKHalftoneMode	Mobile Phone	False	False	0.93927777	713	713, 821, 439	0	316
+265	Girjemearkkat	Kapoita	Bookmarks	False	False	0.61687744	354	354, 578, 669	0	898
+266	DOLLAR( nummir; desimálat)	INTRATE(settlement; maturity; investment; redemption; basis)	The DOLLAR() function converts a number to text using currency format, with the decimals rounded to the specified place. Although the name is DOLLAR, this function will do the conversion according to the current locale.	False	False	0.64228165	846	846, 276, 237	0	199
+267	GNU Krell, vuogádatgoziheapmiName	GNU Krell MonitorsName	GNU Krell MonitorsName	True	True	0.67415404	291	291, 722, 150	1.0	291
+268	Šládja:	Black:	Type:	False	False	0.8405049	732	732, 186, 578	0	190
+269	marker	Add value	Out of developermarker	False	False	0.6430944	494	494, 644, 395	0	106
+270	QShortcut	WirelessQShortcut	Page UpQShortcut	False	True	0.3890704	247	247, 766, 420	0.3333333333333333	420
+271	^Sajáiduhttit Kubuntu Netbook	^Install Kubuntu Netbook	^Install Kubuntu Netbook	True	True	0.4559493	629	629, 633, 420	1.0	629
+272	Ruhta:	Black:	Money:	False	False	0.8079264	732	732, 90, 351	0	930
+273	Teaksta: Čále	KAlarm	Text: Write	False	False	0.8032607	578	578, 374, 937	0	282
+274	Ođđa gohččun	Luboš Luň ák	New command	False	False	0.66230726	366	366, 578, 81	0	135
+275	Álgovuolggalaš čálli	Luboš Luň ák	Original author	False	False	0.6667881	366	366, 81, 578	0	275
+276	Luoitte dovddana dása	Luboš Luň ák	Drop Sensor Here	False	False	0.8790362	366	366, 264, 841	0	281
+277	Bisset čuojaheami	Kapoita	Play if stopped, pause if playing	False	False	0.9039315	354	354, 669, 264	0	458
+278	Oidnen maiddái Niillasa.	Oroomieh Lakeiran. kgm	I saw Nils too	False	False	0.89948547	139	139, 240, 764	0	26
+279	ja	and	and	True	True	0.7503737	258	258, 90, 434	1.0	258
+280	Alt- boallu lea lohkkaduvvon ja lea dál aktiivalaš čuovvuvaš boallodeaddilemiide.	Alū ksne	The Alt key has been locked and is now active for all of the following keypresses.	False	False	0.88525224	264	264, 366, 527	0	543
+281	Sajádat:	Company:	Position:	False	False	0.9062512	997	997, 186, 928	0	372
+282	Automáhtalaš čállindárkkisteapmi	Alū ksne	Auto Spell Check	False	False	0.9313253	264	264, 366, 578	0	593
+283	Malaigiella	Monufia	Malay	False	False	0.5691788	583	583, 935, 801	0	121
+284	Ii leat media% 1- ovttadaga várás	Creating folder %1	No media in device for %1	False	False	0.8435583	339	339, 304, 640	0	730
+285	sudan. kgm	Nyalasudan. kgm	Kapoita	False	False	0.46254182	933	933, 880, 332	0	354
+286	Bálvalusgieđahalli Dábalaččat leat guokte sierra bálvalusšlájat: Bálvalusat mat mannet johtui KDE álggahettiin Bálvalusat mat mannet johtui go lea darbu Dat maŋemuš šládja čájehuvvojit álkivuođa dihte. Eará bálvalusaid sáhttá álggahit dahje bissehit. Hálddašandilis sáhtát dasa lassin válljet guđe bálvalusat galget mannat johtui KDE- álggahettiin. Leage várrogas. KDE dárbbaša muhton dáin bálvalusain. Ale časkke bálvalusaid eret jos it dieđe maid barggat.	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	Service Manager This module allows you to have an overview of all plugins of the KDE Dæmon, also referred to as KDE Services. Generally, there are two types of service: Services invoked at startup Services called on demand The latter are only listed for convenience. The startup services can be started and stopped. In Administrator mode, you can also define whether services should be loaded at startup. Use this with care: some services are vital for KDE; do not deactivate services if you do not know what you are doing.	False	True	0.86194766	539	539, 527, 366	0.5	527
+287	sweden. kgm	Sipaliwinisweden. kgm	Skåne County	False	False	0.47931242	143	143, 683, 66	0	334
+288	Muitte	Memory	Remember	False	False	0.55192065	852	852, 676, 374	0	599
+289	Temperatuvraavádat	Kabuntalan	Thermal Zone	False	False	0.85866714	669	669, 571, 768	0	108
+290	Čabu teavstta sisafievrridanlásaš	Sétifalgeria. kgm	Plain Text Import Dialog	False	False	0.97086596	871	871, 459, 669	0	790
+291	Goas don fas boađát?	Do you want to resign?	When will you come again?	False	False	0.8568562	594	594, 56, 55	0	53
+292	"ARABIC (""IV"") dieđiha 4"	"ARABIC(""IV "") returns 4"	"ARABIC(""IV "") returns 4"	True	True	0.47389698	89	89, 842, 404	1.0	89
+293	Raba máhpa	Detach Tab	Open Folder	False	False	0.7717624	635	635, 366, 354	0	448
+294	thailand. kgm	Lampangthailand. kgm	Mukdahan	False	False	0.57973003	332	332, 933, 457	0	627
+295	FearagiellaName	ChessMailGenericName	Faroese	False	False	0.53646505	759	759, 412, 451	0	116
+296	Sajádat	Kabuntalan	Status	False	False	0.6229521	669	669, 354, 243	0	682
+297	Gidde & dán čájeheami	Luboš Luň ák	Close Current View	False	False	0.89308	366	366, 841, 507	0	727
+298	undo-type	undo-type	undo-type	True	True	0.0	77	77, 785, 546	1.0	77
+299	italyprovince. kgm	Vercelliitalyprovince. kgm	Ascoli Piceno	False	False	0.45453048	736	736, 249, 143	0	136
+300	Boahttevuohta lea eahpesihkar.	Oroomieh Lakeiran. kgm	The future is uncertain.	False	False	0.9963896	139	139, 264, 489	0	41
+301	Ii vuordinsieván	SodipodiName	No Busy Cursor	False	False	0.9115186	768	768, 871, 677	0	756
+302	Áđaid govat	KAlarm	Images for widgets	False	False	0.8800744	578	578, 635, 211	0	672
+303	Lulli- AfrihkáName	SodipodiName	Africa, Southern	False	False	0.7410208	768	768, 871, 925	0	862
+304	Jua	Jul	Yes	False	False	0.45251513	467	467, 935, 202	0	670
+305	Váldde eret válljejuvvon gilkora	Luboš Luň ák	Remove selected tag	False	False	0.97741914	366	366, 264, 143	0	453
+306	venezuela. kgm	Apurevenezuela. kgm	Apurevenezuela. kgm	True	True	0.5510001	885	885, 389, 511	1.0	885
+307	Attes ođđa « sádde viidáset » prefivssa:	Reply Subject Prefixes	Enter new forward prefix:	False	False	0.8897053	560	560, 871, 98	0	869
+308	10x15paper size	10x15paper size	10x15paper size	True	True	0.0	767	767, 748, 495	1.0	767
+309	Joavkkustanvuohki	Kapoita	Grouping Method	False	False	0.8703201	354	354, 264, 489	0	982
+310	Dihkkendiehtu	Retalhuleu	Debug Information	False	False	0.73408794	489	489, 659, 635	0	590
+311	& geardduheami@ info: whatsthis	& occurrence(s)@info: whatsthis	& occurrence(s)@info: whatsthis	True	True	0.41301847	788	788, 396, 222	1.0	788
+312	Geahččal   …	Ömnögov ĭ	Test...	False	False	0.6927831	81	81, 366, 264	0	263
+313	_Sádde	Cursor	_Send	False	False	0.64894307	643	643, 981, 344	0	153
+314	Mun in bora bierggu.	Login Name: %1 (uid: %2)	I don't eat meat.	False	False	0.96507907	937	937, 264, 133	0	16
+315	Ovdačájeheapmi	Retalhuleu	Preview	False	False	0.768028	489	489, 139, 330	0	185
+316	Vuođđolassemodula filtii. Standárdan geavahuvvo dál vuosttaš olámuttus ALSA- ovttadat.	Luboš Luň ák	The Platform Plugin failed. This is a fallback to use the first ALSA device available.	False	False	0.8608451	366	366, 459, 430	0	586
+317	Bienat	Plugin	Details	False	False	0.54181755	359	359, 252, 242	0	927
+318	Dávvet lea ruovttus.	Alū ksne	David is at home.	False	False	0.9856163	264	264, 81, 366	0	5
+319	uruguay. kgm	Riveruruguay. kgm	Riveruruguay. kgm	True	True	0.511974	389	389, 249, 498	1.0	389
+320	Ovttasbargu	Retalhuleu	Collaborate	False	False	0.6574315	489	489, 578, 367	0	130
+321	Skále láse olgešbeallái	Luboš Luň ák	Pack Window to the Right	False	False	0.98396254	366	366, 264, 871	0	614
+322	Beassansátni	Kabuntalan	Password	False	False	0.7584224	669	669, 643, 202	0	206
+323	Bures boahtin% s mašiidnii% n fierpmis	Could not open thumbnail '%s': %sundo-type	Welcome to %s at %n	False	False	0.88840497	705	705, 264, 366	0	117
+324	LARGE () - funkšuvdna dieđiha k: át stuorimus árvvu dáhtain.	Alū ksne	The LARGE() function returns the k-th largest value from the data set.	False	False	0.8295306	264	264, 794, 949	0	195
+325	mongolia. kgm	Mörönmongolia. kgm	Mörönmongolia. kgm	True	True	0.35703683	683	683, 249, 293	1.0	683
+326	HEX2BIN( árvu)	IEX	The HEX2BIN() function returns the value formatted as a binary number.	False	False	0.7802825	901	901, 963, 480	0	798
+327	1 diibmu	Monufia	1 hour	False	False	0.7761769	583	583, 765, 568	0	112
+328	Ii sáhttán čállit dáhtaid maid hálidit vurket. Vállje mo dál galggašii joatkit.	Luboš Luň ák	Data you requested to be saved could not be written. Please choose how you want to proceed.	False	False	0.9482279	366	366, 264, 484	0	760
+329	Automáhtalaččat álggahuvvon bargovuorru lohkkaduvvo dan seammás (jus lea KDE- bargovuorru). Dán láhkai lea álki oažžut hui jođánis sisačáliheami mii gullá dušše ovtta geavaheaddjái. @ title: group	Luboš Luň ák	The automatically started session will be locked immediately (provided it is a KDE session). This can be used to obtain a super-fast login restricted to one user. @title: group	False	False	0.8701284	366	366, 264, 139	0	488
+330	& Ráhkat ođđa máhpa   …	Luboš Luň ák	& Create New Folder...	False	False	0.7964748	366	366, 81, 264	0	680
+331	@ title: window	Do Not Start@title: window	Subject:	False	False	0.3435223	985	985, 813, 894	0	88
+332	Čále dihkkeváidalusa (eŋgelasgillii, jos vejolaš). Go coahkkalat « Sádde », de sáddejuvvo e- boasta dán prográmma fuolaheaddjái ja KDE dihkkelistui.	Alū ksne	"Enter the text (in English if possible) that you wish to submit for the bug report. If you press ""Send"", a mail message will be sent to the maintainer of this program."	False	False	0.90813494	264	264, 139, 539	0	270
+333	Page size	paper size	ISO B3Page size	False	False	0.34705162	639	639, 695, 103	0	772
+334	ČuvgesKorállaruoksatcolor	KataTudoQuery	LightCoral	False	False	0.673416	476	476, 713, 578	0	437
+335	philippines. kgm	Bataanphilippines. kgm	Pagadian City	False	False	0.37702823	245	245, 621, 360	0	483
+336	Jorbaduvvon čiegat	htdig	Round Corners	False	False	0.81471694	841	841, 202, 578	0	254
+337	Galgga gilkora	Wanica	Detach Tab	False	False	0.8007355	935	935, 659, 669	0	635
+338	boerre@ skolelinux. no	malcolm. hunter@gmx. co. uk	Your emails	False	False	0.72011876	396	396, 755, 389	0	419
+339	Duogáš	Charging	Background	False	False	0.58498454	659	659, 366, 635	0	192
+340	Almmolaš	KAlarm	Public	False	False	0.6444627	578	578, 366, 489	0	158
+341	Koreagiella	Wanica	Korean	False	False	0.68209827	935	935, 202, 83	0	76
+342	Dušše teaksta	Luboš Luň ák	Text Only	False	False	0.8840692	366	366, 571, 666	0	704
+343	Historihkka	Kapoita	History	False	False	0.80293465	354	354, 338, 731	0	126
+344	Guinea- Bissau peso	Guinea-Bissau Peso	Guinea-Bissau Peso	True	True	0.411772	259	259, 211, 205	1.0	259
+345	"DSTDEVP( Diehtovuođđu; ""Bajilčála""; eavttut)"	"DSTDEVP(Database; ""Header""; Conditions)"	"DSTDEVP(Database; ""Header""; Conditions)"	True	True	0.7815342	962	962, 139, 937	1.0	962
+346	Olles siidu	Alū ksne	Entire Page	False	False	0.6517391	264	264, 354, 643	0	943
+347	dict. cc Jorgaleapmi: Eŋgelasgielas duiskkagilliiName	Guimarasphilippines. kgm	dict. cc Translation: English to German	False	False	0.7319391	459	459, 139, 430	0	699
+348	ClanbomberName	Clanbomber	Clanbomber	True	True	0.32148075	579	579, 451, 965	1.0	579
+349	Dánmárku	Luboš Luň ák	Denmark	False	False	0.7729256	366	366, 643, 578	0	156
+350	Austrália/ ACT	Australia/ ACT	Australia/ ACT	True	True	0.22181702	283	283, 79, 94	1.0	283
+351	Válddahus:% 1	Group: %1	Description: %1	False	False	0.6484921	758	758, 304, 388	0	154
+352	Vuollánat go?	Where do you come from?	Do you want to resign?	False	False	0.9421656	56	56, 122, 55	0	594
+353	Lassemoduvla	Luboš Luň ák	Plugin	False	False	0.8233938	366	366, 81, 489	0	252
+354	Merkejuvvon teaksta	Alū ksne	Selection Text	False	False	0.87395227	264	264, 366, 607	0	867
+355	Son ráhkista nieiddaid.	Alū ksne	He likes girls.	False	False	0.9873463	264	264, 697, 354	0	10
+356	Assás bábir	Kabuntalan	Thick Paper	False	False	0.7050829	669	669, 202, 635	0	78
+357	Vurke gova	Logout	Save Image	False	False	0.6427771	486	486, 220, 367	0	198
+358	Mii du namma lea?	Where did you learn Latin?	What's your name?	False	False	1.006396	55	55, 489, 594	0	51
+359	Don leat doavttir.	Retalhuleu	You are a doctor.	False	False	0.9650235	489	489, 240, 994	0	59
+360	Mun lean Tom.	I am Tom.	I'm Tom.	False	False	0.93784094	15	15, 220, 489	0	23
+361	romania. kgm	Clarendonjamaica. kgm	Teleorman	False	False	0.5509213	293	293, 507, 933	0	731
+362	Guossoheaddji	Logout	Host	False	False	0.6616547	486	486, 367, 659	0	970
+363	Prográmmat	Folders	Applications	False	False	0.7177129	329	329, 238, 224	0	899
+364	Mearrit siiddu fárdda	Retalhuleu	Show Columns	False	False	0.921244	489	489, 635, 643	0	716
+365	_Bija sisa	Bevel	_Insert	False	False	0.8201847	202	202, 600, 981	0	551
+366	Ii sáhttán álggahit e- boastaklieantta	Alū ksne	Could not Launch Mail Client	False	False	0.98906815	264	264, 484, 459	0	92
+367	Jus dát leavga lea bidjon, de buot ođđa fiillat ožžot máhpa joavkku.	Luboš Luň ák	If this flag is set, the group of this folder will be set for all new files.	False	False	0.87356055	366	366, 264, 539	0	761
+368	Proseanta	Monufia	Percentage	False	False	0.66052413	583	583, 935, 338	0	644
+369	Namma	Logout	Name	False	False	0.38755095	486	486, 568, 367	0	395
+370	Merke dán molssaeavttu jus teakstamodusprográmma addá gullevaš dieđut heaittedettiin. Jus guođát terminálláse rabasin de dáiddát oažžut dáid dieđuid.	Alū ksne	Check this option if the text mode application offers relevant information on exit. Keeping the terminal emulator open allows you to retrieve this information.	False	False	0.9464636	264	264, 366, 527	0	572
+371	beaivvi	Alū ksne	day(s)	False	False	0.70337963	264	264, 992, 202	0	714
+372	Šládja:	Black:	Type:	False	False	0.8405049	732	732, 186, 578	0	674
+373	Govdodat ferte leat unnimus 1.	Oroomieh Lakeiran. kgm	Width must be at least 1.	False	False	0.88840127	139	139, 595, 763	0	757
+374	Ságastallan- ID	GuatemalaName	Conversation ID	False	False	0.7414384	577	577, 322, 605	0	328
+375	Váldoreaidoholga	SinhalaName	Main Toolbar	False	False	0.77519464	697	697, 768, 354	0	290
+376	view-padding-color	built-in	As in _Preferences	False	False	0.700776	908	908, 71, 103	0	838
+377	Molsso nuppi čállinbeavdáiComment	kcmclock	Change to Desktop 2Comment	False	False	0.7954737	223	223, 766, 575	0	998
+378	Oppalaš heivehusat	Alū ksne	General Settings	False	False	0.81332827	264	264, 366, 841	0	425
+379	Nolla dahje ovtta deaivama	Overwrite & Destination	Zero or one occurrences	False	False	0.92490685	764	764, 354, 550	0	686
+380	& Vuojudeapmi	& Send	& Embedding	False	False	0.85017836	444	444, 459, 489	0	216
+381	XScorchComment	XScorchComment	XScorchComment	True	True	1.1920929e-07	766	766, 85, 998	1.0	766
+382	Iešdefinerejuvvon 4	ZAngbandGenericName	Custom 4	False	False	0.86380565	451	451, 778, 507	0	826
+383	OANEHISBEAIVI	VI: NORMAL MODE	SHORTWEEKDAY	False	True	0.6395323	197	197, 237, 651	0.3333333333333333	651
+384	Guhkkodat	Kapoita	Duration	False	False	0.5670004	354	354, 669, 659	0	373
+385	Mun lean Melanie.	I'm Melanie.	I'm Melanie.	True	True	1.029292	22	22, 489, 220	1.0	22
+386	Loahppa:	Money:	End:	False	False	0.8578476	930	930, 351, 90	0	393
+387	Ii oktage	undo-type	None	False	False	0.7701328	77	77, 785, 546	0	870
+388	Geassemánnu	Kabuntalan	June	False	False	0.81600094	669	669, 128, 607	0	723
+389	Gidde	Freehand	Close	False	False	0.6049322	801	801, 107, 128	0	907
+390	suriname. kgm	Gwembezambia_districts. kgm	Wanica	False	False	0.5753366	793	793, 143, 498	0	935
+391	caribbean. kgm	Clarendonjamaica. kgm	Regina	False	False	0.6208956	293	293, 389, 245	0	107
+392	Bija sisa jierpmás linnjámolsuma	Luboš Luň ák	Insert Smart Newline	False	False	0.8664162	366	366, 322, 162	0	413
+393	algeria. kgm	Médéaalgeria. kgm	Not Algeria	False	False	0.3875953	844	844, 481, 293	0	642
+394	Son bovdii su.	Alū ksne	She invited him.	False	False	0.9926963	264	264, 992, 139	0	35
+395	60 gráda	60 Degrees	60 Degrees	True	True	0.74415493	529	529, 312, 112	1.0	529
+396	Don oahpat eŋgelasgiela.	Egerhungary. kgm	You learn English.	False	False	0.91160536	181	181, 264, 81	0	62
+397	Alitruona	Monufia	Blue Green	False	False	0.46056628	583	583, 935, 359	0	315
+398	Dušše čálihahtti	Luboš Luň ák	Write-only	False	False	0.8785522	366	366, 354, 264	0	624
+399	Validitehta	Kapoita	VarP	False	False	0.7401997	354	354, 697, 576	0	992
+400	zambia_ districts. kgm	Kalomozambia_districts. kgm	Gwembezambia_districts. kgm	False	True	0.19230509	498	498, 793, 797	0.5	793
+401	SMPTE240M	SMPTE240M	SMPTE240M	True	True	0.0	141	141, 701, 859	1.0	141
+402	Buot reivvet leat sirdojun ruskalihtái	Luboš Luň ák	Moved all messages to the trash	False	False	0.92411613	366	366, 264, 841	0	889
+403	Muituprocess heading	Digits	Memory	False	False	0.7941469	677	677, 437, 300	0	676
+404	& Eará   … @ title: menu	Fonts@title: tab	& Other...	False	False	0.60951674	222	222, 894, 788	0	193
+405	Prográmmat	Folders	Applications	False	False	0.7177129	329	329, 238, 224	0	905
+406	unnit	Wanica	lesser	False	False	0.6111704	935	935, 238, 643	0	890
+407	Válddahus	KAlarm	Description	False	False	0.7662828	578	578, 83, 81	0	843
+408	Num Lock- boallu lea dál aktiverejuvvon.	Lock Screenbackground, style	The Num Lock key has been activated.	False	False	0.9776143	196	196, 347, 459	0	853
+409	caribbean. kgm	Clarendonjamaica. kgm	Plymouth	False	False	0.6208956	293	293, 389, 245	0	825
+410	Boastakoarttta	KAlarm	Postcards	False	False	0.8217087	578	578, 489, 532	0	647
+411	Sáddemin reivviid	Alū ksne	Sending messages	False	False	0.89426804	264	264, 354, 677	0	702
+412	Menddo unnán dahje ollu argumeanttat.	Alū ksne	Incorrect number of arguments.	False	False	0.8653488	264	264, 366, 841	0	540
+413	Dát máksá ahte ii lean vejolaš lohkat fiilla dahje máhpa% 1 sisdoalu, danne go dus ii leat lohkanvuoigatvuohta.	Oroomieh Lakeiran. kgm	This means that the contents of the requested file or folder %1 could not be retrieved, as read access could not be obtained.	False	False	0.9131279	139	139, 264, 484	0	207
+414	SAO/ R96R	SAO/ R96R	SAO/ R96R	True	True	1.1920929e-07	855	855, 304, 916	1.0	855
+415	Lea hálddašeaddji	Luboš Luň ák	Is Admin	False	False	0.8467386	366	366, 841, 484	0	545
+416	FluxboxComment	FluxboxComment	FluxboxComment	True	True	2.3841858e-07	85	85, 766, 598	1.0	85
+417	Sihko máhpa boaresmuvvan reivviid	Luboš Luň ák	Expire Folder	False	False	0.845029	366	366, 841, 264	0	827
+418	Oza & metadieđu osiin:	htdig	Search & metainfo sections:	False	False	1.0922856	841	841, 729, 916	0	305
+419	Meattáhus	Abort	Error	False	False	0.7379961	238	238, 635, 801	0	434
+420	Molsso vihttanuppelogát čállinbeavdáiComment	Luboš Luň ák	Change to Desktop 15Comment	False	False	0.90175295	366	366, 476, 713	0	575
+421	TAN( Desimálaárvu)	TAN(Float)	TAN(Float)	True	True	0.586833	617	617, 697, 701	1.0	617
+422	Joavku	Kapoita	Group	False	False	0.6638824	354	354, 183, 202	0	689
+423	Čálihanstáhtus –% 1	Ömnögov ĭ	Printing Status - %1	False	False	0.9011233	81	81, 430, 459	0	235
+424	Nummir:	Queue:	Number:	False	False	0.9068115	90	90, 937, 817	0	606
+425	Ii sáhttán ráhkadit ođđa proseassa. Vuogádagas dáidá leat nu ollu proseassat jođus go lea lohppi dahje dus dáidá leat nu ollu proseassat jođus juo mii dus lea lohppi.	Luboš Luň ák	Unable to create new process. The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached.	False	False	0.93686604	366	366, 264, 539	0	371
+426	Mun áiggun oahppa.	Luboš Luň ák	I want to learn.	False	False	0.94909763	366	366, 264, 841	0	28
+427	belarus. kgm	Minsk(City)belarus. kgm	Minsk(City)belarus. kgm	True	True	0.38413525	975	975, 507, 249	1.0	975
+428	Mátketelefuvdnanummi	Ecasound Effektrack	Mobile Number	False	False	0.94594765	439	439, 713, 607	0	440
+429	Ráhkkaneamen	Retalhuleu	Preparing	False	False	0.75088346	489	489, 669, 83	0	872
+430	Čájet dušše sievána vuolde	Luboš Luň ák	Only on Hover	False	False	0.8819314	366	366, 264, 635	0	496
+431	paper size	paper size	paper size	True	True	0.0	639	639, 995, 103	1.0	639
+432	B2 JIS	B2 JIS	B2 JIS	True	True	0.0	468	468, 816, 721	1.0	468
+433	Unna čáhppes	Luboš Luň ák	Small black	False	False	0.9200721	366	366, 635, 243	0	310
+434	Čájet listtu	Kapoita	Show list	False	False	0.82694507	354	354, 366, 669	0	657
+435	Aktivere olggosfiilla:	SodipodiName	& Enable output file	False	False	0.8816588	768	768, 764, 937	0	525
+436	Dábálaš	Luboš Luň ák	Normal	False	False	0.66023195	366	366, 81, 578	0	866
+437	Vurke beassansáni	Logout	Store Password	False	False	0.835768	486	486, 367, 583	0	648
+438	Heivet   …	Ömnögov ĭ	Configure...	False	False	0.6242087	81	81, 513, 841	0	726
+439	sweden. kgm	Sipaliwinisweden. kgm	Västmanland County	False	False	0.47931242	143	143, 683, 66	0	405
+440	Gaskaboddosaš láse váldoi eretName	Rivneukraine. kgm	Transient window (a dialogue) is removedName	False	False	0.90473425	507	507, 871, 994	0	566
+441	sudan. kgm	Nyalasudan. kgm	Nyalasudan. kgm	True	True	0.46254182	933	933, 880, 332	1.0	933
+442	Cokka vuogádatgárcui	No Busy Cursor	Docking in System Tray	False	False	0.88488483	756	756, 643, 354	0	426
+443	Beaivvi	Shanbe	Day	False	False	0.60896134	367	367, 202, 568	0	952
+444	ACPI	ACPI	ACPI	True	True	7.1525574e-07	565	565, 923, 505	1.0	565
+445	MySpace	MySpace	MySpace	True	True	2.3841858e-07	823	823, 152, 255	1.0	823
+446	Fuodni	Freehand	Bad	False	False	0.565029	801	801, 450, 226	0	807
+447	Namma	Logout	Label	False	False	0.38755095	486	486, 568, 367	0	69
+448	Fitnodat:	Position:	Company:	False	False	0.8757007	492	492, 372, 90	0	997
+449	PKR	PKR	PKR	True	True	0.0	536	536, 652, 800	1.0	536
+450	Sirre bargguid	Detach Tab	Job Separation	False	False	0.7913995	635	635, 801, 264	0	658
+451	Letter, 600x600 čd	Letter, 600x600 DPI	Letter, 600x600 DPI	True	True	0.5631609	622	622, 978, 514	1.0	622
+452	BlackboxComment	FluxboxComment	The Common Desktop Environment, a proprietary industry standard desktop environment	False	False	0.25509012	85	85, 766, 998	0	289
+453	Bargočujuhus	Freehand	Work Address	False	False	0.752089	801	801, 379, 238	0	719
+454	Dáida maid leat vihkki mašiinnas, vaikko ii leat nu jáhkkehahtti.	Alū ksne	Although unlikely, a hardware error may have occurred.	False	False	0.9276273	264	264, 366, 539	0	616
+455	Gustohis fiilanamat	Kapoita	Invalid Filenames	False	False	0.9632652	354	354, 338, 792	0	463
+456	Govat	Kerman	Images	False	False	0.5286765	638	638, 801, 486	0	296
+457	Siskkildas meattáhus Sáddes meattáhusraportta dáppe: http: // bugs. kde. org% 1	Internal Error Please send a full bug report at http: / /bugs. kde. org %1	Internal Error Please send a full bug report at http: / /bugs. kde. org %1	True	True	0.6446996	924	924, 733, 143	1.0	924
+458	Krypteren (sihko formáhterema)	Ecasound Effektrack	Encrypt (delete markup)	False	False	0.95995474	439	439, 354, 617	0	936
+459	Bálkes rievdadusaid?	Continue from the end?	Discard Changes?	False	False	1.0230739	753	753, 14, 13	0	122
+460	BattleballGenericName	ChessMailGenericName	Battleball	False	False	0.33236945	759	759, 451, 412	0	95
+461	Sihkkun lea geargan. @ info: status	Lampangthailand. kgm	Delete operation completed.	False	False	0.8554205	332	332, 933, 240	0	349
+462	Bangladesh	Bangladesh	Bangladesh	True	True	0.0	188	188, 654, 482	1.0	188
+463	Buot artisttat	Bevel	All Artists	False	False	0.73662496	202	202, 876, 841	0	151
+464	Goas don fas boađát?	Do you want to resign?	When are you going back?	False	False	0.8568562	594	594, 56, 55	0	52
+465	Čájet fiilla sierra čájeheaddjis	Luboš Luň ák	Show file in separate viewer	False	False	0.8312113	366	366, 264, 659	0	706
+466	Duppal	Unmount	Dual	False	False	0.41609883	176	176, 935, 359	0	780
+467	govat	Printer	pictures	False	False	0.68414724	917	917, 925, 384	0	547
+468	Ii sáhtte	Alū ksne	Not capable	False	False	0.88875055	264	264, 366, 21	0	649
+469	Divtte láse alo leat eará lásiid vuolábealde	Alū ksne	Try to keep the window below other windows	False	False	0.871179	264	264, 366, 507	0	178
+470	2880   ×   720 čd FOL	2880 x 720 DPI FOL	2880 x 720 DPI FOL	True	True	0.5141125	896	896, 357, 874	1.0	896
+471	Teakstabihttáloahppa	Retalhuleu	End of Paragraph	False	False	0.87881327	489	489, 768, 550	0	684
+472	Paleahtta	Wanica	Palette	False	False	0.4828112	935	935, 583, 801	0	374
+473	Human eŋgelasgiela.	Egerhungary. kgm	I speak English.	False	False	0.85549676	181	181, 264, 139	0	27
+474	Duiskkagiella	Wanica	German	False	False	0.6114056	935	935, 583, 243	0	378
+475	Ii sáhte rievdadit čálánheivehusat% 1 várás.	Kardzhalibulgaria. kgm	Unable to modify settings of printer %1.	False	False	0.926443	430	430, 871, 484	0	554
+476	Diehto čájehuvvoName	SodipodiName	An information message is being shown	False	False	0.79539394	768	768, 451, 264	0	802
+477	Ii gávdnan lásečikŋadan lassemoduvla.	Luboš Luň ák	No window decoration plugin library was found.	False	False	0.87881625	366	366, 139, 264	0	113
+478	Buhtádus	Retalhuleu	"REGEXP(""15, 20, 26, 41 "";"" ([0-9]+), *[0-9]+$ "";"" ""; 1) ="" 26 """	False	False	0.7554811	489	489, 252, 359	0	474
+479	Buot	Bevel	All	False	False	0.3913722	202	202, 935, 243	0	194
+480	Alit- rukses ivdnerievdadeapmiComment	Choose application-launch feedback styleName	Gradient Blue-RedComment	False	False	0.7240484	829	829, 633, 722	0	665
+481	Agibeaivái	Connecting	Forever	False	False	0.9136162	300	300, 669, 354	0	987
+482	uruguay. kgm	Riveruruguay. kgm	Duraznouruguay. kgm	False	False	0.511974	389	389, 249, 498	0	994
+483	Buot fiillat	Flatten	All Files	False	False	0.7919154	83	83, 354, 374	0	323
+484	Govat	Kerman	Images	False	False	0.5286765	638	638, 801, 486	0	144
+485	Vaikko makkár	Kapoita	Any	False	False	0.776942	354	354, 183, 83	0	808
+486	180x180 čd	360x180 dpi	180x180 DPI	False	True	0.62297034	348	348, 874, 514	0.5	874
+487	MpegTVName	MpegTV	MpegTV	True	True	0.18419611	73	73, 977, 839	1.0	73
+488	LOG () - funkšuvdna dieđiha x árvvu logaritmma mas lea vuođđolohku 10.	"CONVERT(3; ""lbm""; ""kg"") equals 1.3608"	A floating point value, greater than zero	False	False	0.81895626	794	794, 131, 285	0	569
+489	OpenPGP- reive – vuolláičála ii leat dárkkistuvvon	Alū ksne	OpenPGP Message - Unchecked Signature	False	False	0.8772619	264	264, 988, 420	0	782
+490	Brihttálaš	Luboš Luň ák	Imperial	False	False	0.7551552	366	366, 669, 578	0	770
+491	Siđatgo gáfe?	Where do you come from?	Do you want coffee?	False	False	0.8682318	56	56, 55, 594	0	6
+492	Álkkibut geavaheapmi	Kapoita	Accessibility	False	False	0.9068191	354	354, 768, 264	0	608
+493	latvia. kgm	Clarendonjamaica. kgm	Alū ksne	False	False	0.47768342	293	293, 143, 933	0	264
+494	Amerihká/ Edmonton	America/ Edmonton	America/ Edmonton	True	True	0.6683221	79	79, 634, 711	1.0	79
+495	iran. kgm	Panjshirafghanistan. kgm	Oroomieh Lakeiran. kgm	False	False	0.45292783	66	66, 933, 880	0	139
+496	seammá go	Cursor	not in	False	False	0.7938504	643	643, 264, 635	0	946
+497	Arvi	Bevel	Rain	False	False	0.5366875	202	202, 183, 338	0	537
+498	Oppalaš	Luboš Luň ák	General	False	False	0.5473881	366	366, 252, 359	0	321
+499	ii mihkkige	htdig	none	False	False	0.7469708	841	841, 791, 77	0	752
+500	Geavaheaddjilakta	Kapoita	User Interface	False	False	0.8555441	354	354, 697, 635	0	558
+501	Miessemánnu	Kabuntalan	May	False	False	0.85550046	669	669, 638, 643	0	602
+502	GESTEP( 4; 3) dieđiha 1	MEDIAN(12; 7; 8; 2) equals 7.5	GESTEP(4; 3) returns 1	False	True	0.6255754	620	620, 993, 983	0.5	993
+503	Duođaštus mas lea dát namma gávdno juo. Hálidatgo duođas dan buhttet?	Luboš Luň ák	A certificate with that name already exists. Are you sure that you wish to replace it?	False	False	0.97168636	366	366, 841, 539	0	464
+504	guatemala. kgm	Riveruruguay. kgm	Retalhuleu	False	False	0.45067894	389	389, 481, 880	0	489
+505	Álgovuolggalaš čálli	Luboš Luň ák	Original author	False	False	0.6667881	366	366, 81, 578	0	879
+506	Geavat ođđa málle juohke hávego% 1 álggahuvvo	Luboš Luň ák	Could not open the file for reading (check read permissions).	False	False	0.8052459	366	366, 841, 81	0	612
+507	Ecasound effeaktamašiidnaName	SodipodiName	Ecasound Effektrack	False	True	0.6600666	768	768, 451, 439	0.3333333333333333	439
+508	Amas	Monufia	Unknown	False	False	0.46616495	583	583, 568, 935	0	984
+509	KataTudoQuery	KataTudoQuery	KataTudoQuery	True	True	0.0	476	476, 85, 247	1.0	476
+510	Šearbmá molsu mearriduvvon ivdnái nu guhkká go lea mearriduvvon dás vuolábealde.	Luboš Luň ák	The screen will turn to a custom color for the amount of time specified below.	False	False	0.8809533	366	366, 264, 430	0	203
+511	Ale olggosfievrrit	Alū ksne	Do n't export	False	False	0.7950454	264	264, 366, 81	0	187
+512	Vuoje gitta   …	Ömnögov ĭ	Run To...	False	False	0.77667856	81	81, 841, 187	0	618
+513	Fohkus lásii:	Comment:	Focus window:	False	False	0.9290565	186	186, 795, 351	0	912
+514	ukraine. kgm	Not Ukraineukraine. kgm	Rivneukraine. kgm	False	True	0.4927492	279	279, 507, 975	0.5	507
+515	Ii gávdnan KDE- fáddavuorká% 1	Login Name: %1 (uid: %2)	Unable to find the KDM theme archive %1.	False	False	0.7943891	937	937, 366, 339	0	640
+516	Maid galgá vurkedettiin dahkat	Kapoita	What to do when archiving	False	False	0.8953798	354	354, 841, 366	0	436
+517	Vállje beaivvi@ info: tooltip	Pick Date@info: tooltip	Pick Date@info: tooltip	True	True	0.66442585	882	882, 99, 521	1.0	882
+518	_Sisačálit	Luboš Luň ák	_Login	False	True	0.86495376	366	366, 981, 578	0.5	981
+519	Prográmma mii addá oktavuođa% 1 - protokolla bokte, heaittihuvvui báifahkka.	Alū ksne	The program on your computer which provides access to the %1 protocol has unexpectedly terminated.	False	False	0.86171174	264	264, 871, 139	0	834
+520	caribbean. kgm	Clarendonjamaica. kgm	Saint Barthelemy (France)	False	False	0.6208956	293	293, 389, 245	0	519
+521	ROUND( árvu; [logut]) - funkšuvdna dieđiha jorbejuvvon árvvu. « Logut » máksá galle nummira galget leat logus. Jos « logut » leat 0 dahje guorus, de árvu jorbejuvvo bajás lagamuš čavdelohkui. Jos « logut » lea unnit go 0, de nummira čavdelohkooassi jorbejuvvo.	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	Digits	False	False	0.59607255	539	539, 241, 631	0	677
+522	Telefuvnnat:	Telephones:	Telephones:	True	True	0.9306667	811	811, 925, 960	1.0	811
+523	Dávvi	Bevel	North	False	False	0.67489934	202	202, 801, 243	0	613
+524	Desimálaárvu	Kabuntalan	MEDIAN(12; 7; 8; 2) equals 7.5	False	False	0.8235842	669	669, 354, 731	0	620
+525	ZAngbandGenericName	ZAngbandGenericName	ZAngbandGenericName	True	True	1.1920929e-07	451	451, 759, 412	1.0	451
+526	Son vázzá nuoraidskuvlla.	Sétifalgeria. kgm	He goes to junior high.	False	False	0.9848474	871	871, 264, 844	0	7
+527	Tabealla	Wanica	Table	False	False	0.4990685	935	935, 583, 731	0	148
+528	Čáhppat:	Matagalpa	Black:	False	False	1.0187231	322	322, 354, 592	0	732
+529	Ruoná (cyanalit ja fiskat)	Kapoita	Green (Cyan and Yellow)	False	False	0.881142	354	354, 264, 937	0	986
+530	Olggosfievrrit	Luboš Luň ák	Export	False	False	0.84985733	366	366, 83, 81	0	450
+531	Bures boahtin Tatoebai!	Welcome to Tatoeba!	Welcome to Tatoeba!	True	True	0.9680767	49	49, 31, 756	1.0	49
+532	Olgeš leahkkakaseahtta	Alū ksne	Right Cartridge	False	False	0.8207395	264	264, 366, 489	0	520
+533	& Ollašuhttindoaibmanvuogi:	Kardzhalibulgaria. kgm	& Completion mode:	False	False	0.97164035	430	430, 264, 139	0	528
+534	Vuostálasvuohta	Kabuntalan	Contrast	False	False	0.84536386	669	669, 354, 220	0	571
+535	Gávnnai eanet go ovtta man- siidu mii heivii.	Alū ksne	There is more than one matching man page.	False	False	1.0041981	264	264, 139, 366	0	535
+536	KiinnáName	MarathiName	ChinaName	False	False	0.5733777	839	839, 697, 768	0	965
+537	Gos don ohppet latiinnagiela?	Retalhuleu	Where did you learn Latin?	False	True	1.0247493	489	489, 764, 55	0.3333333333333333	55
+538	@ title	Date@title: column	Who do you want to sign as?	False	False	0.5747273	262	262, 985, 533	0	142
+539	Namahus:	Black:	Title:	False	False	0.78791773	732	732, 390, 90	0	93
+540	Čádná dán čájeheami oktii earáide, vai máhpparievdadusat oidnojit buot čájehemiin.	Rivneukraine. kgm	Sets the view as 'linked '. A linked view follows folder changes made in other linked views.	False	False	0.9808979	507	507, 264, 484	0	972
+541	ChessMailGenericName	ChessMailGenericName	ChessMailGenericName	True	True	1.1920929e-07	759	759, 412, 451	1.0	759
+542	Raba fiilla	Freehand	Open file	False	False	0.7591386	801	801, 83, 338	0	157
+543	Shanbe	Shanbe	Shanbe	True	True	1.1920929e-07	367	367, 486, 568	1.0	367
+544	Smávva govažat	Luboš Luň ák	Small Icons	False	False	0.78585315	366	366, 635, 643	0	832
+545	Guovlu	Kerman	Region	False	False	0.5802014	638	638, 359, 252	0	398
+546	Galbarihcis eai leat bánit.	Retalhuleu	Turtles don't have teeth.	False	False	0.9501847	489	489, 264, 139	0	45
+547	Gierdu	Wanica	Circle	False	False	0.53921676	935	935, 486, 659	0	91
+548	Bonja gova	Wanica	Skew Image	False	False	0.7387186	935	935, 486, 202	0	854
+549	& Terminálamolssaeavttut:	Guimarasphilippines. kgm	& Terminal options:	False	False	0.977057	459	459, 181, 871	0	125
+550	Miessemánnu	Kabuntalan	May	False	False	0.85550046	669	669, 638, 643	0	140
+551	Sajáiduhttojuvvon	Alū ksne	Installed	False	False	0.8878491	264	264, 768, 756	0	446
+552	Reive	Mauren	Body	False	False	0.45673418	532	532, 100, 359	0	171
+553	afghanistan. kgm	Panjshirafghanistan. kgm	Panjshirafghanistan. kgm	True	True	0.25441766	66	66, 457, 382	1.0	66
+554	argentina. kgm	Riveruruguay. kgm	Formosa	False	False	0.54113114	389	389, 885, 511	0	427
+555	SodipodiName	SodipodiName	SodipodiName	True	True	0.0	768	768, 412, 925	1.0	768
+556	Olggosčáliheapmi	Ömnögov ĭ	Logout	False	False	0.81688666	81	81, 768, 489	0	486
+557	Son bovdii su.	Alū ksne	He invited her.	False	False	0.9926963	264	264, 992, 139	0	8
+558	philippines. kgm	Bataanphilippines. kgm	Laguna	False	False	0.37702823	245	245, 621, 360	0	605
+559	Sturrodat:	Charging	Size:	False	False	0.9974662	659	659, 330, 351	0	431
+560	Lohkkat bargovuoru álo	Kapoita	Force session locking	False	False	0.8252263	354	354, 366, 264	0	369
+561	GenericName	NotesName	KCachegrind	False	False	0.4837886	175	175, 925, 412	0	330
+562	% 1- protokollain ii leat vejolaš rahpat fiillaid.	Alū ksne	Opening files is not supported with protocol %1.	False	False	0.85539985	264	264, 139, 937	0	324
+563	Gambier- sullot	KAlarm	Gambier Islands	False	False	0.7514045	578	578, 202, 184	0	303
+564	Láse minimerejuvvoComment	Mail Summary SetupComment	Window MinimiseComment	False	True	0.70380306	919	919, 660, 165	0.5	660
+565	DB- 208A (1 gárri)	DB-208A (1 Tray)	DB-208A (1 Tray)	True	True	0.2970848	337	337, 932, 306	1.0	337
+566	Romániagiella	Retalhuleu	Romanian	False	False	0.721387	489	489, 583, 731	0	769
+567	(2) VuogádatgohččumatName	ZAngbandGenericName	(2) System Calls	False	False	0.77918506	451	451, 937, 713	0	604
+568	Ollu giitu!	You are welcome!	Thank you very much!	False	False	0.8982532	60	60, 645, 38	0	39
+569	Jorgaleapmi	Kapoita	Conversion	False	False	0.74953747	354	354, 659, 489	0	227
+570	VFAT heivvolaš & namat	TAN(Float)	Overwrite & Destination	False	False	0.8863654	617	617, 841, 223	0	764
+571	Com- 10 Env	Com-10 Env	Com-10 Env	True	True	0.0	267	267, 505, 701	1.0	267
+572	Dan gujis lea boares viessu.	Queue:	There is an old house on this street.	False	False	1.0350771	90	90, 264, 181	0	43
+573	Čáhppesdásit	Kabuntalan	Black Levels	False	False	0.8668027	669	669, 354, 571	0	115
+574	& Bajit rádji:	Egerhungary. kgm	& Upper limit:	False	False	0.9797406	181	181, 937, 214	0	909
+575	Stuoris	Cyan	Large	False	False	0.6276107	243	243, 83, 935	0	544
+576	_Čájet	KAlarm	_View	False	False	0.72087455	578	578, 981, 429	0	573
+577	% 1- fiila	Radius %1 (z)	%1 File	False	True	0.68288326	304	304, 219, 758	0.5	219
+578	Stáhtus	Flatten	Status	False	False	0.66278934	83	83, 669, 571	0	531
+579	Pixmap- govaid čiehkámuitu	Pixmap Cache	Pixmap Cache	True	True	0.8589958	164	164, 139, 439	1.0	164
+580	SodipodiName	SodipodiName	Sodipodi	False	False	0.0	768	768, 412, 925	0	379
+581	Skearrut olggožiid haga	htdig	Albums Without Cover	False	False	0.8195628	841	841, 366, 264	0	497
+582	Jos leat merken miinu dokumeanttas, de ii šat merkejuvvo.	Alū ksne	If you have selected something within the current document, this will no longer be selected.	False	False	0.90169144	264	264, 958, 889	0	897
+583	Syntáksamerken Ferite várás	Ecasound Effektrack	Highlighting for Ferite	False	True	0.8261504	439	439, 669, 189	0.3333333333333333	189
+584	CAD	CAD	CAD	True	True	4.7683716e-07	505	505, 661, 443	1.0	505
+585	Máhppalistu ii leat olamuttus	Alū ksne	Folder Listing Unavailable	False	False	0.9125842	264	264, 489, 366	0	256
+586	"Stuorra čujuhus – 1 4/ 10   ×   3 1/ 2 """	"Large Address - 1 4/ 10 x 3 1/ 2 """	"Large Address - 1 4/ 10 x 3 1/ 2 """	True	True	0.46882093	509	509, 311, 794	1.0	509
+587	Njuolggobálggis	Luboš Luň ák	Shortcut	False	False	0.80976045	366	366, 81, 489	0	991
+588	vietnam. kgm	Quettapakistan. kgm	Kon Tum	False	False	0.5844052	457	457, 481, 332	0	220
+589	Beaivi	Shanbe	Date@title: column	False	False	0.4240135	367	367, 568, 486	0	262
+590	st	htdig	Another link to %sst	False	False	0.7594342	841	841, 516, 344	0	313
+591	Sálket historihka?	Where did you learn Latin?	Clear History?	False	False	0.9080794	55	55, 56, 594	0	745
+592	Ođđa profiila	Cursor	New Profile	False	False	0.82394505	643	643, 366, 264	0	902
+593	_Raba...	Run To...	_Open…	False	False	0.56854224	618	618, 524, 263	0	74
+594	LRD	LRD	LRD	True	True	3.5762787e-07	652	652, 701, 800	1.0	652
+595	puertorico. kgm	Mocapuertorico. kgm	Mocapuertorico. kgm	True	True	0.4832542	233	233, 389, 511	1.0	233
+596	"INTRATE (""2001- 02- 28""; ""2001- 08- 31""; 1000000; 2000000; 1) dieđiha 1, 98"	"WEEKS(""2002-19-02 "";"" 2002-19-02 ""; 1) returns 0, because there is not a whole week in between, starting at the first day of the week (monday or sunday, depending on your local settings)"	INTRATE(settlement; maturity; investment; redemption; basis)	False	False	0.4877274	241	241, 539, 794	0	846
+597	Čájet reaidoholggas	Alū ksne	Show in toolbar	False	False	0.78218925	264	264, 330, 347	0	508
+598	& Doaimma dása:	Queue:	Act on:	False	False	0.87264085	90	90, 528, 909	0	134
+599	Vuoje	Bevel	Delete to the end of the word	False	False	0.4785273	202	202, 935, 801	0	98
+600	Deavdde Vástádusčujuhusgietti	Ömnögov ĭ	Set Reply-To To	False	False	0.7759212	81	81, 489, 330	0	783
+601	ERFC () - funkšuvdna dieđiha komplementeara meattáhusfunkšuvnna.	Ecasound Effektrack	The ERFC() function returns the complementary error function.	False	False	1.0737559	439	439, 459, 705	0	336
+602	Eará čujuhusat	Kabuntalan	Other Addresses	False	False	1.0106975	669	669, 792, 841	0	387
+603	600 čd fotografiija	360x180 dpi	600 DPI Photo	False	True	0.77076876	348	348, 350, 765	0.5	350
+604	align-reference-type	Status & desctab-style	Active layer	False	False	0.75307643	940	940, 222, 985	0	361
+605	Álgovuolggálaš:	Flatness:	Original:	False	False	0.9624531	351	351, 937, 90	0	390
+606	Lasit mildusa reivii. Dát leat geardduhahtti.	Alū ksne	Add an attachment to the mail. This can be repeated	False	False	0.94354796	264	264, 489, 214	0	893
+607	Vurke nugo	Bevel	Save As	False	False	0.69643915	202	202, 731, 338	0	703
+608	Čađačuovgi	Luboš Luň ák	Transparency	False	False	0.72545254	366	366, 489, 578	0	666
+609	RelašuvnnatGenericName	ZAngbandGenericName	RelationshipsGenericName	False	True	0.47228944	451	451, 759, 412	0.3333333333333333	412
+610	canada. kgm	Bafoussamcanada. kgm	Bafoussamcanada. kgm	True	True	0.5172584	481	481, 389, 933	1.0	481
+611	Kommentára:% 1Bitrate: 160 kbits/ s	Comment: %1Bitrate: 160 kbits/ s	Comment: %1Bitrate: 160 kbits/ s	True	True	0.3634981	733	733, 787, 518	1.0	733
+612	Ráhkat globála diehtovuođu	Alū ksne	Create global database	False	False	0.82999635	264	264, 366, 635	0	922
+613	Sisafievrrit	Bevel	Import	False	False	0.8035084	202	202, 669, 583	0	226
+614	Buorre kvalitehta	Kabuntalan	High Quality	False	False	0.8063266	669	669, 354, 83	0	438
+615	Prefiksa% 1 ii gávdnon.	Login Name: %1 (uid: %2)	The prefix %1 cannot be bound.	False	True	0.78280926	937	937, 366, 915	0.3333333333333333	915
+616	Olggosfievrrit vCard 3. 0   …	Sétifalgeria. kgm	Export vCard 3.0...	False	False	0.8054229	871	871, 766, 291	0	221
+617	Geargan	Mounting	Done	False	False	0.42214596	445	445, 801, 833	0	248
+618	Sisačálihannamma:% 1 (uid:% 2)	Login Name: %1 (uid: %2)	Login Name: %1 (uid: %2)	True	True	0.58674717	937	937, 304, 620	1.0	937
+619	_Beassansátni:	Kabuntalan	_Password:	False	False	1.0243729	669	669, 795, 655	0	813
+620	Albániagiella	Plugin	Albanian	False	False	0.7674062	252	252, 359, 489	0	493
+621	Gaskamearka	Freehand	Space	False	False	0.66463304	801	801, 935, 243	0	152
+622	& Vuoigatvuođat	Cursor	& Permissions	False	False	0.97307205	643	643, 489, 366	0	246
+623	& Prográmmat mat eai gula bargovuoruin:	Alū ksne	Applications to be excluded from sessions:	False	False	0.9399855	264	264, 528, 139	0	522
+624	Ruovttomáhppa	Matagalpa	Home Folder	False	False	0.8063544	322	322, 489, 220	0	845
+625	Heivet e- boastačoahkkáigeasuComment	FluxboxComment	Mail Summary SetupComment	False	True	0.7282357	85	85, 919, 766	0.5	919
+626	Vaikko makkár	Kapoita	Any	False	False	0.776942	354	354, 183, 83	0	297
+627	algeria. kgm	Médéaalgeria. kgm	Sétifalgeria. kgm	False	False	0.3875953	844	844, 481, 293	0	871
+628	Šládja: XXXXXXX	Type: XXXXXXX	Type: XXXXXXX	True	True	0.46879172	588	588, 937, 794	1.0	588
+629	Lágamus sturrodat ja skála	Kapoita	Nearest Size and Scale	False	False	0.8922006	354	354, 578, 366	0	167
+630	PERMUT( 8; 5) dieđiha 6720	MEDIAN(12; 7; 8; 2) equals 7.5	PERMUT(total; permutated)	False	False	0.6585115	620	620, 983, 285	0	276
+631	Sahtedohko	Kapoita	Random	False	False	0.6848407	354	354, 395, 286	0	224
+632	7 3/ 4- konfaluhtta 3 7/ 8   ×   7 1/ 2 dumá	7 3/ 4 Envelope 3 7/ 8 x 7 1/ 2 in	7 3/ 4 Envelope 3 7/ 8 x 7 1/ 2 in	True	True	0.45733953	311	311, 620, 794	1.0	311
+633	& Vuolláičále reivve	Luboš Luň ák	& Sign Message	False	False	1.0034919	366	366, 81, 871	0	123
+634	Šládja	Plugin	Type	False	False	0.66532207	359	359, 252, 532	0	424
+635	Heiveheapmi	SodipodiName	Configuration	False	False	0.7699356	768	768, 583, 935	0	277
+636	bidjá prográmmanama	Alū ksne	sets the application name	False	False	0.901005	264	264, 181, 655	0	180
+637	Borgemánnu	Cursor	August	False	False	0.752661	643	643, 669, 264	0	260
+638	Muitte beassansáni	Alū ksne	Remember password	False	False	0.9318149	264	264, 397, 669	0	655
+639	& MáhcatCoptic month 13 - LongName	ChessMailGenericName	Mesore	False	False	0.76181865	759	759, 722, 829	0	331
+640	Ráhkadeamen máhpa% 1	Radius %1 (z)	Creating folder %1	False	False	0.8409146	304	304, 484, 293	0	339
+641	Standárda	Wanica	Default	False	False	0.6251353	935	935, 801, 83	0	747
+642	Raba sierra láses	Luboš Luň ák	Open in separate window	False	False	0.88857555	366	366, 367, 643	0	111
+643	KMahjonggGenericName	ZAngbandGenericName	4 Winds	False	False	0.25743103	451	451, 412, 759	0	784
+644	Čájet mildosa:% 1	Radius %1 (z)	View Attachment: %1	False	False	0.72793794	304	304, 235, 758	0	518
+645	Sajáiduhtte/ođasmahte	Overwrite & Destination	Install/update	False	False	0.91126	764	764, 264, 643	0	564
+646	Gohččumis ii leat gáibáduvvon sárgá% 1.	Luboš Luň ák	The command does not contain the required tag %1.	False	False	0.76057005	366	366, 430, 264	0	739
+647	Fierbmeheivehusat	Retalhuleu	Network Settings	False	False	0.7840489	489	489, 330, 635	0	225
+648	Namahus	Monufia	Title	False	False	0.47552872	583	583, 367, 935	0	218
+649	Geavaheaddjiageanta	Retalhuleu	User Agent	False	False	0.7969862	489	489, 139, 459	0	840
+650	paper size	paper size	A4x6paper size	False	False	0.0	639	639, 995, 103	0	748
+651	Automáhtalaš	KAlarm	Automatic	False	False	0.8119137	578	578, 338, 731	0	715
+652	© 2000– 2007 KDE ovdánahtit	KDE (new)	Copyright 2000-2007, KDE developers	False	False	0.76057744	231	231, 988, 929	0	584
+653	algeria. kgm	Médéaalgeria. kgm	Adrar	False	False	0.3875953	844	844, 481, 293	0	806
+654	BelgiaName	BelgiumName	BelgiumName	True	True	0.3871125	491	491, 965, 175	1.0	491
+655	RANDBETWEEN () - funkšuvdna dieđiha pseudo- deivvolaš nummira gaskal vuolimus ja bajimus árvvu. Jos vuolimus_ árvu > bajimus_ árvu funkšuvdna dieđiha Err (meattáhus).	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	Top value	False	False	0.8154528	539	539, 949, 983	0	460
+656	Čáhppat juohkke ivnni sadjái	Luboš Luň ák	Black for any colour	False	False	0.8866055	366	366, 264, 139	0	964
+657	Ii sáhte geahččalit čálána:	Alū ksne	Unable to test printer:	False	False	0.97682214	264	264, 871, 181	0	170
+658	Rievdat teakstaivnni:	Login Name: %1 (uid: %2)	Change text colour:	False	False	0.89026284	937	937, 768, 764	0	127
+659	Árbevirolaš fállovuođđoduvvun prográmmaálggaheaddjiName	ZAngbandGenericName	Traditional menu based application launcherName	False	False	0.8507234	451	451, 844, 973	0	904
+660	Riikakoda:	Original:	Country code:	False	False	0.93850183	390	390, 875, 351	0	650
+661	Teknihkalaš bienat	Alū ksne	Technical Details	False	False	0.90681136	264	264, 354, 669	0	679
+662	Áigi ovdalgo:	Luboš Luň ák	Time Remaining:	False	False	0.9594884	366	366, 264, 139	0	817
+663	Máhccat & ovddit bargovuoru	Luboš Luň ák	Restore & previous session	False	False	0.8681159	366	366, 223, 841	0	465
+664	Ruoksat:	Red:	Red:	True	True	1.0061901	875	875, 678, 354	1.0	875
+665	Čális áigetabeallačájeheapmin	ZAngbandGenericName	Print as & timetable view	False	False	0.9265994	451	451, 459, 669	0	268
+666	Artihkkalat	KAlarm	Articles	False	False	0.67125416	578	578, 489, 81	0	691
+667	trådløst: er ikke slått på	PERMUT(total; permutated)	wireless: is not enabled	False	False	0.9778949	276	276, 86, 104	0	475
+668	Sádde vástádusa čujuhussii   …	Ömnögov ĭ	Reply To...	False	False	0.860836	81	81, 366, 430	0	865
+669	Heivehusat	Mauren	Settings	False	False	0.66702604	532	532, 83, 489	0	888
+670	Globála eaktu	Kabuntalan	Global Alternate	False	False	0.8007525	669	669, 635, 659	0	822
+671	Prográmma	Status	Program	False	False	0.7136339	531	531, 541, 272	0	455
+672	Mildosa namahus	lesser	Attachment Title	False	False	0.7507231	890	890, 801, 935	0	737
+673	Skriptagieđahalli	SodipodiName	Script Manager	False	False	0.8866819	768	768, 354, 83	0	626
+674	Sáhtátgo veahkehit?	Do you want to resign?	Can you help me?	False	False	0.99543595	594	594, 56, 55	0	3
+675	Plasma- dáhtamohtorComment	Plasma Data EngineComment	Plasma Data EngineComment	True	True	0.683166	598	598, 713, 919	1.0	598
+676	Sus leat rukses lieđit.	Alū ksne	She has red flowers.	False	False	0.8932278	264	264, 366, 354	0	34
+677	Ruoksat	Kapoita	Red	False	False	0.71408236	354	354, 83, 638	0	173
+678	PCL3GUI	PCL3GUI	PCL3GUI	True	True	0.0	667	667, 247, 859	1.0	667
+679	tab-style	undo-type	Status & desctab-style	False	False	0.45223165	546	546, 785, 77	0	940
+680	_Alit:	_Blue:	_Blue:	True	True	0.53253484	340	340, 280, 981	1.0	340
+681	Classname ii leat meroštuvvon.	Oroomieh Lakeiran. kgm	No classname specified.	False	False	0.9173641	139	139, 937, 507	0	462
+682	Mus leat dušše guokte máná.	Luboš Luň ák	I only have two children.	False	False	0.93097067	366	366, 240, 264	0	24
+683	Oppalaš	Luboš Luň ák	General	False	False	0.5473881	366	366, 252, 359	0	681
+684	Profiilla	Wanica	Profile	False	False	0.51186454	935	935, 583, 801	0	253
+685	Iranalašgiella	Teleorman	Persian	False	False	0.8710917	731	731, 578, 935	0	887
+686	Go_hččun_	htdig	Co_mmand:	False	False	0.8030598	841	841, 366, 981	0	280
+687	Skearrot	Flatten	Disks	False	False	0.6148126	83	83, 354, 659	0	433
+688	% 1 ii doarjjo fiilamáŋgen	Oroomieh Lakeiran. kgm	Copying files within %1 is not supported.	False	False	0.83319557	139	139, 264, 937	0	70
+689	Álkkibut geavaheapmi	Kapoita	Accessibility	False	False	0.9068191	354	354, 768, 264	0	442
+690	NohtatName	MarathiName	NotesName	False	False	0.42339158	839	839, 925, 697	0	175
+691	catalonia_ comarques. kgm	Catañopuertorico. kgm	Alta Ribagorça	False	False	0.65061736	696	696, 498, 885	0	610
+692	Teaksta: Máŋossihko	Oroomieh Lakeiran. kgm	Text: Backspace	False	False	0.78663707	139	139, 264, 937	0	743
+693	undo-type	undo-type	Large (256x256)undo-type	False	False	0.0	77	77, 785, 546	0	910
+694	oman. kgm	Yambiosudan. kgm	Ad Dhahirahoman. kgm	False	False	0.41879344	880	880, 933, 481	0	484
+695	Čájeheamit	Retalhuleu	Views	False	False	0.77325475	489	489, 486, 367	0	490
+696	Sirdde čállinmearkka ovddit linnjái	Luboš Luň ák	Audio element playback controls and status display	False	False	0.8068124	366	366, 264, 81	0	177
+697	Fiskadagat	Autosum	Height	False	False	0.7150543	338	338, 578, 354	0	513
+698	@ title: window	Do Not Start@title: window	Do Not Start@title: window	True	True	0.3435223	985	985, 813, 894	1.0	985
+699	Ođđa profiila	Cursor	New Profile	False	False	0.82394505	643	643, 366, 264	0	851
+700	Sirdde X:	Queue:	Anti-aliasing	False	False	0.7605678	90	90, 280, 795	0	381
+701	«% 1 » ii oroleaman máhppa. Váldde eret fiilla, dat lea ovddas.	Oroomieh Lakeiran. kgm	'%1 'does not appear to be a folder. Please move the file out of the way.	False	False	0.8304248	139	139, 366, 332	0	174
+702	Váldoreaidoholga	SinhalaName	Main Toolbar	False	False	0.77519464	697	697, 768, 354	0	953
+703	KDE (ođđa)	KDE (new)	KDE (new)	True	True	0.38232064	231	231, 988, 929	1.0	231
+704	Liigeparamehterat:	Signature Algorithm:	Extra parameters:	False	False	1.0518397	542	542, 189, 170	0	428
+705	B5paper size	B5paper size	B5paper size	True	True	2.3841858e-07	995	995, 918, 748	1.0	995
+706	Geavat & fontta mas lea giddes govdodat	Duraznouruguay. kgm	Use Fixed Font	False	False	0.80024576	994	994, 249, 459	0	830
+707	Čuovga	Plugin	Light	False	False	0.5497246	252	252, 359, 578	0	938
+708	Oppalaš	Luboš Luň ák	General	False	False	0.5473881	366	366, 252, 359	0	786
+709	boerre@ skolelinux. no	malcolm. hunter@gmx. co. uk	Show applications by & name:	False	False	0.72011876	396	396, 755, 389	0	754
+710	Čálit & duogášivnni	Luboš Luň ák	Draw background color	False	False	0.9897288	366	366, 430, 264	0	971
+711	Heivet oppalaš Konqueror láhttemaName	Configure general Konqueror behaviourName	Configure general Konqueror behaviourName	True	True	0.7379124	165	165, 412, 697	1.0	165
+712	Vurke dáhpáhusaid jeavddalaččat	Luboš Luň ák	Regularly archive events	False	False	0.8337945	366	366, 264, 841	0	548
+713	Suddje dokumeantta	Alū ksne	Protect Document	False	False	0.9065702	264	264, 343, 98	0	454
+714	minuhta	Kapoita	minutes	False	False	0.6942706	354	354, 765, 583	0	72
+715	Geavat duogáža	Kabuntalan	Enable background	False	False	0.85428977	669	669, 635, 659	0	693
+716	Bábirgárri	KAlarm	Paper Tray	False	False	0.7237749	578	578, 81, 366	0	210
+717	Olgešbealis gurutbeallái	Luboš Luň ák	Right to Left	False	False	0.89558554	366	366, 841, 264	0	810
+718	NamahusComment	XScorchComment	One Column Portrait	False	False	0.43967628	766	766, 598, 85	0	942
+719	Vállje linnjámolssunmearkka ivnni: Statálaš linnjámolsun Ceakkunjulges linnjá mii čájeha makkár čuolddas linnjá molsošuvvo. Dynamálaš linnjámolsun Njoalla čájehuvvo gurutbeal daid linnjáid main lea linnjámolsun.	Luboš Luň ák	Sets the color of Word Wrap-related markers: Static Word Wrap A vertical line which shows the column where text is going to be wrapped Dynamic Word Wrap An arrow shown to the left of visually-wrapped lines	False	False	0.7877197	366	366, 264, 539	0	68
+720	Addá unnit ovdavuora válljejuvvon bálvalussii ja sirdá dan vulos listtus.	Luboš Luň ák	Assigns a lower priority to the selected service, moving it down in the list.	False	False	0.92398906	366	366, 264, 527	0	101
+721	Gohččun	Luboš Luň ák	Command	False	False	0.6270604	366	366, 252, 359	0	217
+722	Christian Gebauer	Christian Gebauer	Christian Gebauer	False	True	0.0	534	534, 597, 100	0.5	597
+723	OKHalftoneMode	OKHalftoneMode	OKHalftoneMode	True	True	2.3841858e-07	713	713, 925, 766	1.0	713
+724	teaksta 40x25 (7)	text 40x25 (7)	text 40x25 (7)	True	True	0.57356465	978	978, 910, 767	1.0	978
+725	Leage buorre.	Alū ksne	You are welcome.	False	False	0.918025	264	264, 643, 981	0	61
+726	Fiila	Wanica	File	False	False	0.391829	935	935, 801, 583	0	191
+727	Dulkomin dokumeantta	Kon Tum	Parsing document	False	False	0.8978585	220	220, 669, 764	0	365
+728	ukraine. kgm	Not Ukraineukraine. kgm	Not Ukraineukraine. kgm	True	True	0.4927492	279	279, 507, 975	1.0	279
+729	5- lođát boastaboksa rievnnuiguin	Abort	5 Bin Mailbox with Stapler	False	False	1.1149844	238	238, 264, 294	0	133
+730	Doaimmat	Monufia	Edit	False	False	0.53748786	583	583, 568, 935	0	345
+731	Doaimmat   …	Ömnögov ĭ	Edit...	False	False	0.6781404	81	81, 220, 635	0	881
+732	Mu namma lea Tom.	I am Tom.	My name is Tom.	False	False	0.7249119	15	15, 23, 30	0	29
+733	Duogášivdni   …	Ömnögov ĭ	& Background Color...	False	False	0.76845884	81	81, 366, 264	0	417
+734	Álggahan áigi:	Queue:	Start & time:	False	False	0.9227655	90	90, 709, 354	0	678
+735	Čuohpusgirjjis   …	Ömnögov ĭ	From & Clipboard...	False	False	0.7844318	81	81, 264, 366	0	580
+736	zambia_ districts. kgm	Kalomozambia_districts. kgm	Zambezizambia_districts. kgm	False	True	0.19230509	498	498, 793, 797	0.3333333333333333	797
+737	Dát duođaštus ii gula dása.	Alū ksne	This certificate is not relevant.	False	False	0.94454896	264	264, 366, 81	0	470
+738	Beassansáni čájehanšládja	Luboš Luň ák	Password echo type	False	False	0.9023757	366	366, 66, 489	0	979
+739	MNT	MNT	MNT	True	True	0.0	701	701, 652, 800	1.0	701
+740	puertorico. kgm	Mocapuertorico. kgm	Trujillo Alto	False	False	0.4832542	233	233, 389, 511	0	724
+741	Váldde eret	KAlarm	Remove	False	False	0.9448118	578	578, 643, 446	0	160
+742	Lea mielddus	lesser	Has Attachment	False	False	0.84138834	890	890, 801, 935	0	601
+743	CODE( teaksta)	CHARTOASCII(value)	The CODE() function returns a numeric code for the first character in a text string.	False	False	0.790014	237	237, 617, 846	0	478
+744	Bahá	Body	Angry	False	False	0.6342521	171	171, 121, 416	0	740
+745	Goargu:	Logout	Surname:	False	False	0.8038212	486	486, 643, 659	0	921
+746	Fuodni	Freehand	Bad	False	False	0.565029	801	801, 450, 226	0	914
+747	Sieván	Wanica	Cursor	False	False	0.5174105	935	935, 532, 367	0	643
+748	liechtenstein. kgm	Duraznouruguay. kgm	Mauren	False	False	0.6942797	994	994, 389, 683	0	532
+749	Sisafievrrit & Galeon girjemearkkaid   …	Ömnögov ĭ	Import & Galeon Bookmarks...	False	False	0.94557357	81	81, 768, 550	0	662
+750	Liige duogáš	Luboš Luň ák	Alternate Background	False	False	0.64884996	366	366, 264, 635	0	570
+751	Vuojuhanláhkái Javaprográmmaš čájeheaddjiName	Clarendonjamaica. kgm	Embedded Java Applet ViewerName	False	False	0.75028074	293	293, 66, 633	0	239
+752	QShortcut	WirelessQShortcut	Back Forward	False	False	0.3890704	247	247, 766, 420	0	415
+753	& Kryptere reivve	& Send	& Encrypt Message	False	False	0.7673693	444	444, 973, 459	0	377
+754	Máhpat	Detach Tab	Folders	False	False	0.56235695	635	635, 322, 416	0	329
+755	Meattáhus	Abort	Error	False	False	0.7379961	238	238, 635, 801	0	847
+756	Oppalaš mearkaiešvuođat	Luboš Luň ák	General Character Properties	False	False	0.8231857	366	366, 264, 841	0	563
+757	Raba & ulbmila	Kardzhalibulgaria. kgm	Open & Destination	False	False	0.9476123	430	430, 366, 890	0	557
+758	saudi_ arabia. kgm	'Asirsaudi_arabia. kgm	Al Madinah	False	False	0.39264488	214	214, 481, 293	0	592
+759	204x98 čd	204x98 DPI	204x98 DPI	True	True	0.7771033	932	932, 348, 765	1.0	932
+760	Ii sáhte ráhkadit ozu% 1:	Alū ksne	Unable to create directory %1.	False	False	0.9433123	264	264, 170, 871	0	763
+761	GenericName	NotesName	Format	False	False	0.4837886	175	175, 925, 412	0	163
+762	Afrihká/ Tripoli	Africa/ Tripoli	Africa/ Tripoli	True	True	0.55602825	850	850, 634, 472	1.0	850
+763	Nummerejuvvon listuStyle name	Enumerated ListStyle name	Enumerated ListStyle name	True	True	0.6558614	671	671, 633, 521	1.0	671
+764	NetscapeName	NetscapeName	NetscapeName	True	True	0.0	977	977, 722, 239	1.0	977
+765	Ii merken	Kapoita	No selection	False	False	0.7907629	354	354, 841, 226	0	159
+766	YCbCr	YCbCr	YCbCr	True	True	0.0	916	916, 973, 992	1.0	916
+767	David lea ruovttus.	Târgu Jiuromania. kgm	David is at home.	False	False	1.0296944	240	240, 214, 280	0	4
+768	vietnam. kgm	Quettapakistan. kgm	Ha Noivietnam. kgm	False	False	0.5844052	457	457, 481, 332	0	595
+769	Lasit & vuogádatnama	Kabuntalan	Add & platform name	False	False	0.8185253	669	669, 841, 659	0	403
+770	Guovvamánnu	KAlarm	February	False	False	0.86684895	578	578, 669, 243	0	124
+771	Boaldde	Mauren	Burn	False	False	0.5641469	532	532, 252, 359	0	585
+772	paper size	paper size	prc 16kpaper size	False	False	0.0	639	639, 995, 103	0	495
+773	Dárkkis ahte eai leat prográmmat mat geavahit dán ovttadaga ja geahččal ođđasit.	Alū ksne	Check that no applications are accessing the device, and try again.	False	False	0.90623534	264	264, 366, 841	0	632
+774	« Sádde & viidáset » fáddáprefivssat	Sipaliwinisweden. kgm	Reply Subject Prefixes	False	False	0.79820466	143	143, 871, 628	0	560
+775	Válddahus:	Flatness:	Description:	False	False	0.98447895	351	351, 238, 354	0	928
+776	boerre@ skolelinux. no	malcolm. hunter@gmx. co. uk	andrew_coles@yahoo. co. uk	False	True	0.72011876	396	396, 755, 389	0.5	755
+777	Jođánisboalut váldojuvvon eret	Luboš Luň ák	Accelerators removed	False	False	0.8822355	366	366, 264, 841	0	469
+778	Duolbbasvuohta:	Kapoita	Flatness:	False	False	0.77447736	354	354, 669, 629	0	351
+779	Sárggastus	Flatten	Freehand	False	False	0.7825973	83	83, 669, 731	0	801
+780	liechtenstein. kgm	Duraznouruguay. kgm	Triesen	False	False	0.6942797	994	994, 389, 683	0	100
+781	Ii suoivvaneapmi	Alū ksne	No dithering	False	False	0.79256666	264	264, 139, 484	0	343
+782	GESTEP( x; y)	GESTEP(4; 3) returns 1	The GESTEP() function returns 1 if x greater or equals y, otherwise returns 0. y defaults to 0.	False	False	0.35001493	993	993, 804, 949	0	131
+783	QFontDatabase	ChessMailGenericName	Gujarati	False	False	0.80480075	759	759, 150, 476	0	342
+784	"DMIN( A1: C5; ""Bálká""; A9: A11)"	"OCT2BIN(""55 "") returns"" 101101 """	"DMIN(Database; ""Header""; Conditions)"	False	True	0.6646875	404	404, 408, 285	0.5	408
+785	EBU nannii skábmamánu 17. b. 2017, ahte 43 riikka oassálastá jagi 2018 gilvvohallamii. Dát lea stuorámus mearri oasseválddiin ja seamma mearri go lei jagiin 2008 ja 2011 gilvvohallamiin.	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	Forty-three countries participate in the contest, equalling the record of the 2008 and 2011 editions. 	False	False	0.8118404	539	539, 958, 871	0	589
+786	Ávvobeaivi	Bevel	Anniversary	False	False	0.81250286	202	202, 578, 238	0	741
+787	Ii leat vejolaš oaidnit máhppalisttuid geavahettiin protokolla% 1.	Oroomieh Lakeiran. kgm	Listing folders is not supported for protocol %1.	False	False	0.8445114	139	139, 958, 143	0	110
+788	^Sajáiduhttit Ubuntu Studio	^Install Ubuntu Studio	^Install Ubuntu Studio	True	True	0.6362488	746	746, 629, 633	1.0	746
+789	Čájet/ čiega erenoamáš molssaeavttuid	Luboš Luň ák	Show/ hide advanced options	False	False	0.8472955	366	366, 139, 264	0	517
+790	LávderáhkadeaddjiName	SodipodiName	Scene Modeler	False	False	0.7050084	768	768, 839, 451	0	656
+791	KDE- govašdoaimmaheaddji	Clarendonjamaica. kgm	KDE Icon Editor	False	False	0.8387202	293	293, 667, 484	0	929
+792	KNodeGenericName	ZAngbandGenericName	KNode	False	False	0.26179886	451	451, 412, 759	0	925
+793	360x180 čd	360x180 dpi	360x180 dpi	True	True	0.4870695	348	348, 874, 514	1.0	348
+794	Vállje JavaScript- doaibmanvuogi guossoheaddji dahje domena várás dás bajábealde.	Developer (HTML rendering engine, JavaScript)	Select a JavaScript policy for the above host or domain.	False	False	0.7943574	423	423, 99, 988	0	230
+795	Bija fiilla sisa   …	Ömnögov ĭ	Insert File...	False	False	0.7771554	81	81, 366, 264	0	718
+796	Erenoamáš	Teleorman	Advanced	False	False	0.6390636	731	731, 635, 669	0	966
+797	amas	Cyan	unknown	False	False	0.59464943	243	243, 338, 238	0	619
+798	Raba dokumeantta.	Overwrite & Destination	Document to open	False	False	1.0124156	764	764, 795, 41	0	812
+799	Oanehaš	Retalhuleu	Short	False	False	0.6357801	489	489, 366, 486	0	326
+800	Čoahkkáigeasut	Ecasound Effektrack	Summaries	False	False	0.908293	439	439, 489, 330	0	503
+801	Durkkagiella	Wanica	Turkish	False	False	0.6807778	935	935, 659, 202	0	944
+802	pakistan. kgm	Quettapakistan. kgm	Sindh	False	False	0.30942082	457	457, 66, 382	0	600
+803	Gurut siidoravda	Contrast	Left Margin	False	False	0.88774	571	571, 354, 71	0	700
+804	mongolia. kgm	Mörönmongolia. kgm	Uliastaymongolia. kgm	False	True	0.35703683	683	683, 249, 293	0.5	249
+805	thailand. kgm	Lampangthailand. kgm	Lampangthailand. kgm	True	True	0.57973003	332	332, 933, 457	1.0	332
+806	Iešadderen	Mauren	Autosum	False	False	0.81399393	532	532, 961, 100	0	338
+807	_Oza...	_Find...	_Find...	True	True	0.62749994	524	524, 618, 166	1.0	524
+808	Dán siidus leat rievdadusat mat eai leat sáddejuvvon. Jus giddet dán siiddu, de dát rievdadusat mannet duššái.	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	This page contains changes that have not been submitted. Reloading the page will discard these changes.	False	False	0.9101453	539	539, 527, 846	0	883
+809	Ruoktot	Flatten	Home	False	False	0.5475185	83	83, 354, 731	0	255
+810	gaskal	VarP	equal to or less than	False	False	0.71763134	992	992, 416, 669	0	257
+811	@ title: tab	Fonts@title: tab	You must enter a sound file when %1 is selected as the default sound type@title: tab	False	False	0.29556274	222	222, 894, 262	0	147
+812	Muhto manne?	Discard Changes?	But why?	False	False	0.8921418	122	122, 302, 57	0	2
+813	& Ruoktosiidu:	& Name:	& Homepage:	False	False	1.0320519	533	533, 768, 459	0	530
+814	Rufiyaa	Rufiyaa	Rufiyaa	True	True	0.0	397	397, 568, 486	1.0	397
+815	Daga ohcama mii earuha stuorra ja smávva bustávaid: Jus ozat « Piera », de dat ii oainne « piera », iige « PIERA », dušše « Piera ».	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	Perform a case sensitive search: entering the pattern'Joe' will not match'joe' or'JOE', only'Joe'.	False	True	0.73750603	539	539, 241, 631	0.3333333333333333	631
+816	Coahkkal dása vai muddet: man láhkai prográmma vuodjejuvvo, álggahan- feedback, D- Bus- molssaeavttuid dahje geavaheaddjin man namas vuodjejuvvo.	Rivneukraine. kgm	Click here to modify the way this application will run, launch feedback, D-Bus options or to run it as a different user.	False	False	0.89378	507	507, 527, 484	0	356
+817	Amas	Monufia	Unknown	False	False	0.46616495	583	583, 568, 935	0	685
+818	Kelttalaš	Retalhuleu	Celtic	False	False	0.5923325	489	489, 578, 366	0	873
+819	gurut	htdig	left	False	False	0.6888776	841	841, 635, 643	0	394
+820	Gaskaeurohpalaš	KAlarm	Central European	False	False	0.7486814	578	578, 669, 659	0	441
+821	Čáhppat ja Ruoná (Cyan- alit, fiskat, čáhppat)	Luboš Luň ák	Black and Green (Cyan, Yellow, Black)	False	False	0.9297341	366	366, 264, 958	0	819
+822	Ii leat heahti!	Thank you very much!	No worries!	False	False	0.97367215	38	38, 39, 60	0	31
+823	Sajáiduhtte/ođasmahte	Overwrite & Destination	Install/update	False	False	0.91126	764	764, 264, 643	0	561
+824	Lásedoaimmat	Kapoita	Window Actions	False	False	0.7450912	354	354, 226, 452	0	319
+825	Jua	Jul	Yes	False	False	0.45251513	467	467, 935, 202	0	456
+826	Ii meroštuvvon	Alū ksne	Undefined	False	False	0.8257725	264	264, 366, 765	0	609
+827	& Doalat earáid bajábealde	Detach Tab	Keep & Above Others	False	False	0.8676301	635	635, 659, 643	0	309
+828	KWord: a AmiPro- olggosfievrridansilliName	SodipodiName	KWord AmiPro Export FilterName	False	True	0.6057615	768	768, 722, 451	0.5	722
+829	NextJobOnSameSheet	NextJobOnSameSheet	NextJobOnSameSheet	True	True	2.3841858e-07	633	633, 722, 766	1.0	633
+830	% 1 ivnnit	%1 File	%1 Colors	False	False	0.6989739	219	219, 758, 388	0	837
+831	TAN( Desimálaárvu)	TAN(Float)	The TAN() function returns the tangent of x, where x is given in radians.	False	False	0.586833	617	617, 697, 701	0	355
+832	& Sádde	& Send	& Send	True	True	0.9609345	444	444, 216, 868	1.0	444
+833	Linnjá:% 1	Group: %1	Line: %1	False	True	0.6608937	758	758, 388, 304	0.5	388
+834	Evttohuslistu	Retalhuleu	Suggestion List	False	False	0.7887124	489	489, 81, 583	0	664
+835	Sirdde gurutguvlui	Cursor	Move Left	False	False	0.88573945	643	643, 489, 330	0	771
+836	Meattáhus rabadettiin% 1 čállindihte	Radius %1 (z)	Error opening %1 for writing.	False	False	0.89975786	304	304, 366, 264	0	341
+837	Gii don leat?	Where did you learn Latin?	Who are you?	False	False	0.9576982	55	55, 489, 56	0	57
+838	Son bovdii mu.	Alū ksne	He invited me.	False	False	0.97152793	264	264, 139, 880	0	9
+839	Lohkka	Bevel	Lock	False	False	0.5810548	202	202, 467, 183	0	625
+840	ii sisttisdoala	Alū ksne	does not contain	False	False	0.80330396	264	264, 765, 992	0	86
+841	IvdnáiStyle name	NextJobOnSameSheet	Colorful	False	False	0.7442701	633	633, 671, 451	0	694
+842	Čájet logo	Hide panel	Show logo	False	False	0.86352897	320	320, 531, 272	0	863
+843	Eai leat profiillat olámuttus	Guimarasphilippines. kgm	No profiles available	False	False	1.0455482	459	459, 339, 877	0	738
+844	Dábálaš teaksta:	Luboš Luň ák	Normal text:	False	False	0.9556134	366	366, 264, 186	0	709
+845	philippines. kgm	Bataanphilippines. kgm	Guimarasphilippines. kgm	False	False	0.37702823	245	245, 621, 360	0	459
+846	Áimmahušši	Kapoita	Maintainer	False	False	0.8347888	354	354, 669, 578	0	607
+847	« Meattáhus » dieđáhusbovssaš	Luboš Luň ák	'Error 'message box	False	False	0.7869563	366	366, 871, 264	0	773
+848	& Iesvuođat   …	Ömnögov ĭ	Properties	False	False	0.813094	81	81, 841, 973	0	796
+849	& Jietnadássi:	& Send	& Volume:	False	False	0.99204993	444	444, 764, 550	0	903
+850	Doaimmat konttu	Kapoita	Edit Account	False	False	0.7252984	354	354, 220, 669	0	473
+851	Elula	Wanica	of Elul	False	False	0.47993565	935	935, 583, 489	0	945
+852	Dulbe	Wanica	Flatten	False	False	0.39467072	935	935, 801, 643	0	83
+853	sudan. kgm	Nyalasudan. kgm	Yambiosudan. kgm	False	True	0.46254182	933	933, 880, 332	0.5	880
+854	SáhkajoavkologanName	SodipodiName	Usenet News ReaderName	False	False	0.6381395	768	768, 451, 412	0	63
+855	& Váldde eret fáttá	And	& Remove Theme	False	False	1.1182497	559	559, 332, 366	0	999
+856	Tom bovdii mu.	Oroomieh Lakeiran. kgm	Tom invited me.	False	False	0.95817137	139	139, 264, 366	0	44
+857	Váldde eret merkema	htdig	Unselect All	False	False	0.96126175	841	841, 446, 880	0	510
+858	Sajádat:	Company:	Position:	False	False	0.9062512	997	997, 186, 928	0	492
+859	Desimálaárvvut dahje árvogaska	Kabuntalan	LOGNORMDIST(0.1; 0; 1) equals 0.01	False	False	0.8569025	669	669, 366, 841	0	949
+860	puertorico. kgm	Mocapuertorico. kgm	Humacaopuertorico. kgm	False	True	0.4832542	233	233, 389, 511	0.3333333333333333	511
+861	"OCT2BIN (""12"") dieđiha « 1010 »"	"OCT2BIN(""12 "") returns"" 1010 """	"OCT2BIN(""12 "") returns"" 1010 """	True	True	0.50021327	842	842, 404, 285	1.0	842
+862	Bargogieđahallan	KCachegrind	Job Spooling	False	False	0.67527866	330	330, 242, 252	0	162
+863	Láse 15. čállinbeavdái	KAlarm	Window to Desktop 15	False	False	1.0012963	578	578, 366, 575	0	261
+864	Leage buorre!	No worries!	You are welcome!	False	True	0.75061536	31	31, 645, 60	0.3333333333333333	60
+865	Ivdnečoahkkádus álkes geavaheami várás	Luboš Luň ák	Accessible Color Scheme	False	False	0.862713	366	366, 430, 871	0	941
+866	Nieiddas lea vielges heasta.	Kapoita	The girl has a white horse.	False	False	1.046854	354	354, 347, 513	0	42
+867	QShortcut	WirelessQShortcut	Bass Up	False	False	0.3890704	247	247, 766, 420	0	65
+868	Ii gávdno dákkár merken: «% 1 »	Luboš Luň ák	No such highlighting '%1 '	False	False	0.8186687	366	366, 620, 937	0	294
+869	Antárktis/ Casey	Antarctica/ Casey	Antarctica/ Casey	True	True	0.744689	94	94, 578, 264	1.0	94
+870	Joavku:% 1	Login Name: %1 (uid: %2)	Group: %1	False	True	0.74937975	937	937, 388, 758	0.3333333333333333	758
+871	Eaktu	Error	Position	False	False	0.77970016	847	847, 434, 917	0	266
+872	paper size	paper size	JB7paper size	False	False	0.0	639	639, 995, 103	0	918
+873	Mun lean Tom.	I am Tom.	I am Tom.	True	True	0.93784094	15	15, 220, 489	1.0	15
+874	Rahppan filtii	Retalhuleu	Unlocking failed	False	False	0.9452094	489	489, 697, 768	0	385
+875	Japánalaš guhkes konfáluhtta Number 3	Luboš Luň ák	Japanese Long Envelope Number 3	False	True	0.92665935	366	366, 399, 264	0.5	399
+876	Oza:	Money:	Find:	False	False	0.7953663	930	930, 351, 90	0	504
+877	Alit bajilčálaStyle name	Enumerated ListStyle name	Blue Heading	False	False	0.7836658	671	671, 430, 273	0	692
+878	Vietnamagiella	Wanica	Vietnamese	False	False	0.72324324	935	935, 583, 367	0	118
+879	Ii leat almmolaš čoavdda mii nanne vuolláičállaga	Alū ksne	No public key to verify the signature	False	False	0.9268336	264	264, 366, 794	0	145
+880	Geavaheaddjenamma	Debug Information	Username	False	False	0.8668716	590	590, 710, 108	0	485
+881	Geavahuvvon sadji	Kapoita	Used Space	False	False	0.9451549	354	354, 143, 139	0	278
+882	Moscow+07 – Amur River	Moscow+07 - Amur River	Moscow+07 - Amur River	True	True	0.28240955	815	815, 501, 634	1.0	815
+883	Geargan	Mounting	Done	False	False	0.42214596	445	445, 801, 833	0	857
+884	XfigName	Xfig	Xfig	True	True	0.27563787	775	775, 977, 766	1.0	775
+885	Dáhpáhusat	Matagalpa	Events	False	False	0.8405713	322	322, 635, 489	0	911
+886	MMK	MMK	MMK	True	True	1.1920929e-07	800	800, 652, 925	1.0	800
+887	Badjelgeahča	Retalhuleu	Override	False	False	0.6997417	489	489, 659, 578	0	452
+888	_Sádde	Cursor	_Send	False	True	0.64894307	643	643, 981, 344	0.3333333333333333	344
+889	Sirdde bajás	Alū ksne	Move Up	False	False	0.79628444	264	264, 669, 354	0	487
+890	boerre@ skolelinux. no	malcolm. hunter@gmx. co. uk	malcolm. hunter@gmx. co. uk	True	True	0.72011876	396	396, 755, 389	1.0	396
+891	Bovssarámma govdodat	SodipodiName	The width of the box outline	False	False	0.84219766	768	768, 756, 643	0	325
+892	Čoahkkáigeassu	Retalhuleu	Summary	False	False	0.9601687	489	489, 627, 439	0	641
+893	algeria. kgm	Médéaalgeria. kgm	Médéaalgeria. kgm	True	True	0.3875953	844	844, 481, 293	1.0	844
+894	KNewStuff- riškus	KNewStuff contributions	KNewStuff contributions	True	True	0.7230004	168	168, 925, 722	1.0	168
+895	Háliidatgo duođas máhcahit buot reaidoholggaid standárdafárdii? Rievdadusat doaibmagohtet dakkaviđe.	Ad Dhahirahoman. kgm	Do you really want to reset all toolbars of this application to their default? The changes will be applied immediately.	False	False	0.99922204	484	484, 264, 139	0	318
+896	Diehtu	Retalhuleu	Information	False	False	0.58719766	489	489, 935, 583	0	317
+897	romania. kgm	Clarendonjamaica. kgm	Târgu Jiuromania. kgm	False	False	0.5509213	293	293, 507, 933	0	240
+898	Mana dán čuldii	Alū ksne	Navigate to this column	False	False	0.961102	264	264, 366, 958	0	951
+899	Oahpasmahttin	Retalhuleu	Overview	False	False	0.69272983	489	489, 635, 322	0	362
+900	RAND () - funkšuvdna dieđiha pseudo- deivvolaš nummira gaskal 0 ja 1.	The GESTEP() function returns 1 if x greater or equals y, otherwise returns 0. y defaults to 0.	The RAND() function returns a pseudo-random number between 0 and 1.	False	False	0.7980398	131	131, 285, 794	0	512
+901	Dát lea speallárdiehtu	Retalhuleu	This is a player message	False	False	0.8804498	489	489, 264, 635	0	556
+902	Maŋábealli	Retalhuleu	Rear	False	False	0.6023748	489	489, 568, 367	0	183
+903	CHARTOASCII( árvu)	CHARTOASCII(value)	CHARTOASCII(value)	True	True	0.46085238	237	237, 197, 617	1.0	237
+904	360x360 čd, dábálaš bábir, ránesivnnit	360x180 dpi	360x360dpi, plain paper, greyscale	False	False	0.9025626	348	348, 539, 366	0	514
+905	Ráhkat & girjemearkka dán siidui	Kapoita	& Bookmark This Page	False	False	0.91400385	354	354, 366, 264	0	411
+906	Rievdat gova?	htdig	Resize Image?	False	False	0.8865684	841	841, 55, 122	0	302
+907	zambia_ districts. kgm	Kalomozambia_districts. kgm	Kalomo	False	False	0.19230509	498	498, 793, 797	0	568
+908	MID () - funkšuvdna dieđiha oassestreaŋgga mii sisttisdoallá 'guhkkodat' bustávaid streaŋggas, rehkenaston 'sajádat' rájes.	Alū ksne	Length	False	False	0.8820282	264	264, 539, 139	0	954
+909	Dát funkšuvdna dieđiha - 1 jos nummir lea negatiiva, 0 jos nummir lea nolla, ja 1 jos nummir lea positiiva.	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	This function returns -1 if the number is negative, 0 if the number is null and 1 if the number is positive.	False	True	0.8194258	539	539, 742, 131	0.5	742
+910	Giella	Wanica	Language	False	False	0.5630008	935	935, 583, 445	0	479
+911	Durkkagiella	Wanica	Turkish	False	False	0.6807778	935	935, 659, 202	0	75
+912	Moai goasii báziime busses.	Oroomieh Lakeiran. kgm	We both have almost missed the bus.	False	False	0.91527057	139	139, 264, 354	0	48
+913	"OCT2BIN (""55"") dieđiha « 101101 »"	"OCT2BIN(""55 "") returns"" 101101 """	"OCT2BIN(""55 "") returns"" 101101 """	True	True	0.4890511	404	404, 842, 285	1.0	404
+914	Ii árvoštuvvan	Luboš Luň ák	Not rated	False	False	0.8091433	366	366, 264, 81	0	980
+915	Boastaboksa – molssaeaktu	Ömnögov ĭ	Mailbox - Option	False	False	0.89120924	81	81, 489, 354	0	913
+916	& Nummir:	& Name:	& Number:	False	False	0.7934003	533	533, 530, 732	0	102
+917	Gaskkalduhte	Kapoita	Cancel	False	False	0.6895077	354	354, 669, 578	0	876
+918	sisahuksejuvvon	KAlarm	built-in	False	False	0.916497	578	578, 143, 264	0	908
+919	_Raba...	Run To...	_Open…	False	False	0.56854224	618	618, 524, 263	0	155
+920	Gávnnai syklalaš liŋkka máŋgedettiin% 1	Kardzhalibulgaria. kgm	Found a cyclic link while copying %1.	False	False	0.808908	430	430, 366, 81	0	506
+921	Vuolláičállinalgoritma:	Kapoita	Signature Algorithm:	False	False	0.96932983	354	354, 756, 669	0	542
+922	jamaica. kgm	Riveruruguay. kgm	Clarendonjamaica. kgm	False	True	0.53020704	389	389, 481, 293	0.3333333333333333	293
+923	Fotonat	Printer	Photons	False	False	0.5839256	917	917, 338, 661	0	990
+924	italyprovince. kgm	Vercelliitalyprovince. kgm	Vercelliitalyprovince. kgm	True	True	0.45453048	736	736, 249, 143	1.0	736
+925	Vuoje & gohččuma	Luboš Luň ák	Run & command	False	False	0.6898408	366	366, 578, 659	0	864
+926	Geavat _Fierpmádatlogan	Transmission PreferencesGerund	Use _Web Browser	False	False	0.8126503	778	778, 463, 845	0	707
+927	Hui unni	Kon Tum	Tiny	False	False	0.7347379	220	220, 367, 486	0	803
+928	sudan. kgm	Nyalasudan. kgm	Al-Fashirsudan. kgm	False	False	0.46254182	933	933, 880, 332	0	628
+929	Galgga	Bevel	Unmount	False	False	0.45102787	202	202, 801, 731	0	176
+930	undo-type	undo-type	undo-type	False	True	0.0	77	77, 785, 546	0.3333333333333333	546
+931	sweden. kgm	Sipaliwinisweden. kgm	Sipaliwinisweden. kgm	True	True	0.47931242	143	143, 683, 66	1.0	143
+932	Vállje dán boalu jos áiggot sirdit válljejuvvon silli ovtta ceahki vulos bajábeal listtus. Dat lea ávkkálaš daningo reivet mannet silliid čađa listtu ortnegis: Bajimus silli geahččaluvvo vuosttamužžan. Jos vahágis leat válljen dán boalu, de sáhtat gáhtat go válljet bajás boalu.	For metric units any of the following prefixes can be used: E (exa, 1E+18), P (peta, 1E+15), T (tera, 1E+12), G (giga, 1E+09), M (mega, 1E+06), k (kilo, 1E+03), h (hecto, 1E+02), e (dekao, 1E+01), d (deci, 1E-01), c (centi, 1E-02), m (milli, 1E-03), u (micro, 1E-06), n (nano, 1E-09), p (pico, 1E-12), f (femto, 1E-15), a (atto, 1E-18).	Click this button to move the currently-selected filter down one in the list above. This is useful since the order of the filters in the list determines the order in which they are tried on messages: The topmost filter gets tried first. If you have clicked this button accidentally, you can undo this by clicking on the Up button.	False	False	0.8282627	539	539, 366, 430	0	200
+933	Mus leat ollut girjjit.	Kapoita	I have many books.	False	False	1.0051442	354	354, 264, 841	0	19
+934	Ivdni (buorre kvalitehta)	KAlarm	Color (High Quality)	False	False	0.8834927	578	578, 439, 430	0	858
+935	Heivet ollašuhttinortnega   …	Alū ksne	Configure Completion Order...	False	False	0.9308052	264	264, 841, 139	0	502
+936	tab-style	undo-type	Current statustab-style	False	False	0.45223165	546	546, 785, 77	0	67
+937	Vállje makkár ávaštus galga leat prográmmaid álggahettiinName	Luboš Luň ák	Choose application-launch feedback styleName	False	False	0.8242012	366	366, 264, 81	0	829
+938	Rulle ovtta linnjá vulosguvlui	Luboš Luň ák	Scroll Page Down	False	False	0.79870284	366	366, 264, 81	0	884
+939	Álgge:	Queue:	Begin:	False	False	0.7397232	90	90, 709, 186	0	795
+940	Dárkkis jos ovttadat leat válmmas; jos lea vurkenmedium ja jos ovttadat lea laktašuvvon ja alde.	Alū ksne	Check that the device is ready; removable drives must contain media, and portable devices must be connected and powered on.; and try again.	False	False	0.84372604	264	264, 366, 527	0	414
+941	Ovdánahtti (Netscape lassemoduladoarjja)	OKHalftoneMode	Developer (Netscape plugin support)	False	False	0.8277364	713	713, 977, 139	0	461
+942	Ovttadat	Logout	Device	False	False	0.5858474	486	486, 367, 568	0	661
+943	Dihkkendiehtu	Retalhuleu	Debug Information	False	False	0.73408794	489	489, 659, 635	0	710
+944	nicaragua. kgm	Riveruruguay. kgm	Matagalpa	False	False	0.51189625	389	389, 233, 511	0	322
+945	egypt. kgm	Qalyubiaegypt. kgm	Monufia	False	False	0.6231688	973	973, 880, 181	0	583
+946	& Automáhtalaš čállindárkkisteapmi	Luboš Luň ák	& Automatic Spellchecking	False	False	0.9067315	366	366, 459, 871	0	449
+947	Duogášivdni	Luboš Luň ák	& Background	False	False	0.8696103	366	366, 635, 768	0	368
+948	Jeara juohkke háve go fierpmádatsiidu viggá ráhpat báhccanláse.	Luboš Luň ák	Prompt every time a popup window is requested.	False	False	0.97386193	366	366, 264, 332	0	818
+949	KAlarmComment	XScorchComment	KAlarm	False	False	0.35712957	766	766, 598, 85	0	578
+950	romania. kgm	Clarendonjamaica. kgm	Sibiu	False	False	0.5509213	293	293, 507, 933	0	472
+951	Jorgalusat	Charging	Translations	False	False	0.66507995	659	659, 638, 669	0	80
+952	Moscow+03 – Novosibirsk	Moscow+03 - Novosibirsk	Moscow+03 - Novosibirsk	True	True	0.25261688	501	501, 815, 975	1.0	501
+953	Unnidit	Wanica	Zoom _Out	False	False	0.56543756	935	935, 338, 243	0	429
+954	Fiila	Wanica	File	False	False	0.391829	935	935, 801, 583	0	860
+955	Ii sáhttán viežžat gaskabálvaheivehanskripta	Kardzhalibulgaria. kgm	Could not find a usable proxy configuration script	False	False	0.88099706	430	430, 484, 451	0	466
+956	Page size	paper size	Select the index you want to reference	False	False	0.34705162	639	639, 695, 103	0	591
+957	CRL ii leat olámuttus.	CHIDIST(13.27; 5) returns 0.021	CRL not available.	False	False	0.9463421	983	983, 237, 332	0	236
+958	bulgaria. kgm	Kardzhalibulgaria. kgm	Kardzhalibulgaria. kgm	True	True	0.5365449	430	430, 249, 683	1.0	430
+959	Socket- doaibma ii dorjojuvvo	Oroomieh Lakeiran. kgm	The socket operation is not supported	False	False	0.91743815	139	139, 484, 768	0	523
+960	FierpmádatgolgadeapmiName	SodipodiName	Web BrowsingName	False	False	0.6678971	768	768, 451, 759	0	744
+961	Libanon punda	Kapoita	Lebanese Pound	False	True	0.9006772	354	354, 397, 947	0.3333333333333333	947
+962	90 gráda	90 Degrees	90 Degrees	True	True	0.74796	312	312, 529, 765	1.0	312
+963	Itáliagiella	Crotone	Italian	False	False	0.79752135	878	878, 774, 136	0	228
+964	Čiega panela	Hide panel	Hide panel	True	True	0.6976714	320	320, 171, 354	1.0	320
+965	JIS B5	JIS B5	JIS B5	True	True	2.3841858e-07	816	816, 468, 963	1.0	816
+966	KuickShow- dieđut	About KuickShow	About KuickShow	True	True	0.68151474	363	363, 633, 768	1.0	363
+967	& Váidal dihkiid dahje sávaldagaid	Alū ksne	& Report Bugs or Wishes	False	False	0.89606845	264	264, 430, 841	0	895
+968	zaire2006. kgm	Kasaï orientalzaire2006. kgm	Équateur	False	False	0.5435201	958	958, 880, 933	0	211
+969	italyprovince. kgm	Vercelliitalyprovince. kgm	Crotone	False	False	0.45453048	736	736, 249, 143	0	878
+970	Muitte	Memory	Remember	False	False	0.55192065	852	852, 676, 374	0	957
+971	Go lea vejolaš	Luboš Luň ák	File Extension of Source	False	False	0.58653665	366	366, 264, 578	0	234
+972	ASINH () - funkšuvdna rehkenastá x variábela jorggu hyperbolalaš sinusa; dat lea dat árvu man hyperbolalaš sinus lea x.	The GESTEP() function returns 1 if x greater or equals y, otherwise returns 0. y defaults to 0.	ACOSH(0) equals NaN	False	False	0.7559879	131	131, 949, 794	0	352
+973	Molsso	Monufia	Change	False	False	0.5990797	583	583, 935, 857	0	269
+974	Stuoris	Cyan	Large	False	False	0.6276107	243	243, 83, 935	0	401
+975	Meattáhus: Ii sáhtte rahpat « smb. conf » nammasaš heivehusfiilla	Guimarasphilippines. kgm	"Error: Unable to open configuration file ""smb. conf"""	False	False	0.8202636	459	459, 871, 139	0	287
+976	Guovdu	Charging	Centre	False	False	0.6605201	659	659, 202, 638	0	364
+977	Árbevirolaš kiinnálašgiella	Luboš Luň ák	Chinese Traditional	False	False	0.7885326	366	366, 264, 81	0	725
+978	Viidáseabbut sáddejuvvonmessage status	Sétifalgeria. kgm	Forwarded	False	False	0.9565258	871	871, 264, 940	0	477
+979	V. 120 - ja V. 24- leahtot ISDN: a	V.120 V.24 rate ISDN	V.120 V.24 rate ISDN	True	True	0.644516	346	346, 910, 722	1.0	346
+980	Boastohámát URL: a% 1	Login Name: %1 (uid: %2)	Malformed URL %1.	False	False	0.7640754	937	937, 154, 733	0	119
+981	philippines. kgm	Bataanphilippines. kgm	Bataanphilippines. kgm	True	True	0.37702823	245	245, 621, 360	1.0	245
+982	Jaddat	Charging	Shut Down	False	False	0.5836623	659	659, 935, 635	0	376
+983	Amerihká/ Tijuana	America/ Tijuana	America/ Tijuana	True	True	0.550177	711	711, 634, 79	1.0	711
+984	Ovttastahte	Logout	Consolidate	False	False	0.7600534	486	486, 83, 583	0	877
+985	Rulle bajásQWebPage	Scroll upQWebPage	Scroll upQWebPage	True	True	0.64278245	150	150, 633, 476	1.0	150
+986	SinhalagiellaName	SinhalaName	SinhalaName	True	True	0.2251296	697	697, 839, 768	1.0	697
+987	Autovurkejuvvon fiila gávdno namahis dokumeantta várás dáppe:% 1. Fiila lea ráhkaduvvon% 2 Hálidat go rahpat dan?	Luboš Luň ák	An autosaved file for an unnamed document exists in %1. This file is dated %2 Do you want to open it?	False	False	0.93019366	366	366, 527, 539	0	824
+988	Jos dát merkejuvvo, de KDM erohallá geavaheddjiid alfabehtalaččat. Muđui geavaheaddjit čájehuvvojit dan ortnegis mii lea beassansátnefiillas.	Alū ksne	If this is ticked, KDM will alphabetically sort the user list. Otherwise users are listed in the order they appear in the password file.	False	False	0.9125531	264	264, 937, 763	0	900
+989	Gos boađát?	Where do you come from?	Where do you come from?	True	True	0.9044411	56	56, 55, 594	1.0	56
+990	Mun in dieđe.	Do n't export	I don't know.	False	False	1.0891508	187	187, 41, 732	0	17
+991	Ruoksat	Kapoita	Red	False	False	0.71408236	354	354, 83, 638	0	244
+992	Unnit fontta	Wanica	Decrease Font Sizes	False	False	0.6837268	935	935, 338, 583	0	934
+993	Stuorit fonta	Fonts	Increase Font Size	False	False	0.84927857	184	184, 571, 546	0	161
+994	Giitu.	Oroomieh Lakeiran. kgm	Thank you.	False	False	1.0558832	139	139, 354, 875	0	37
+995	Joatkke loahpa rájes?	Luboš Luň ák	Continue from the end?	False	False	0.9436189	366	366, 56, 594	0	753
+996	& Namma:	& Send	& Name:	False	True	0.85693634	444	444, 533, 528	0.5	533
+997	Son orru dás.	Alū ksne	He lives here.	False	False	1.1272173	264	264, 643, 183	0	11
+998	Čális du beassansáni rievdadandihte heivehusaid:	Alū ksne	Please enter your password in order to save your settings:	False	False	0.9609529	264	264, 484, 628	0	213
+999	Qt- lassemodulat	Retalhuleu	Qt plugins	False	False	0.7988615	489	489, 264, 765	0	988

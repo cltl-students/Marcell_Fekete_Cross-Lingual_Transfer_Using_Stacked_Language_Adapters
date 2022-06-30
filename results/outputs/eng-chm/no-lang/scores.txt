@@ -1,0 +1,3 @@
+{'accuracy': 14.3}
+{'k_3_accuracy': 20.2}
+{'mean reciprocal rank': 0.169}

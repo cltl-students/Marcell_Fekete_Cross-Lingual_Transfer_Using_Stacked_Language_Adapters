@@ -1,0 +1,1001 @@
+	Sentence	Predicted	Gold	K_1_correct	K_3_correct	K_1_scores	K_1_predicted_indices	K_3_predicted_indices	Reciprocal_ranks	True_indices
+0	Сертификатым пемгыдемдыме огыл. Кече ден жапым шке компьютерыштет терге.	Memory allocation error	The certificate is not valid yet. Check that your computer's date and time are accurate.	False	False	1.1077747	130	130, 545, 864	0	500
+1	%s %s. Ешартыш увераҥарым налашлан, `%s -h' пого.	%s (%s)	%s %s. Try `%s -h' for more information.	False	False	1.1932249	236	236, 652, 511	0	383
+2	Пайдаланышым тӱкылаш	You have left this chat.	Block User	False	False	1.2948091	376	376, 487, 8	0	765
+3	Электронике	Video Camera	Electronics	False	False	1.251882	203	203, 843, 389	0	172
+4	Каталог серверым йодыштын кертме огыл.	Logging stopped. Future messages in this conversation will not be logged.	Could not query the directory server.	False	False	1.1621251	707	707, 570, 592	0	97
+5	detach: Тиде сессийым кӱрлаш	Possible Matches	detach: Detach this session	False	False	1.2159182	898	898, 727, 539	0	779
+6	Тӱшка-влакым иктыш ушаш	He lives in Yoshkar-Ola.	Merge Groups	False	False	1.179962	52	52, 53, 694	0	494
+7	Монитор	Mouse	Monitor	False	False	1.2167286	452	452, 846, 580	0	516
+8	Пыштыше	Alpha	Boot loader	False	False	1.1567875	389	389, 467, 196	0	471
+9	Тиде вашкылым кораҥдет гын, тушко пурышо чыламутланыше кораҥдалтеш	He lives in Yoshkar-Ola.	Removing this contact will also remove all the buddies in the contact	False	False	1.1980035	52	52, 53, 202	0	251
+10	Тый %s мутланымаш лӱмер гыч кораҥдет. Шуйынет?	How many theaters are there in Yoshkar-Ola?	You are about to remove %s from your buddy list. Do you want to continue?	False	False	1.206598	4	4, 2, 52	0	653
+11	Койдымолан каласымашым колташ огеш лий:	He lives in Yoshkar-Ola.	Message could not be sent, not allowed while invisible:	False	False	1.1628594	52	52, 3, 53	0	386
+12	Возалтмаш йоҥылыш	She lives in Yoshkar-Ola.	Registration Error	False	False	1.1597412	53	53, 52, 789	0	242
+13	PIN-код чын огыл. Тудо цифр-влак дене гына лийшаш [0-9].	The PIN is invalid. It should only consist of digits [0-9].	The PIN is invalid. It should only consist of digits [0-9].	True	True	1.1065581	409	409, 308, 406	1.0	409
+14	_Пайдаланыше лӱм:	Method:	User_name:	False	False	1.2534533	788	788, 619, 458	0	705
+15	%s Финч угыч ушнаш тӧчаш огеш тӱҥал, кызыт йоҥылышым тӧрлате да шке шотан возышым угыч чӱктӧ.	0 people in room	%s Finch will not attempt to reconnect the account until you correct the error and re-enable the account.	False	False	1.2180154	390	390, 53, 52	0	960
+16	Mxit дене ушымо годым йоҥылыш лийын. (лудмо йыжыҥ 0x05)	The PIN is invalid. It should only consist of digits [0-9].	A connection error occurred to MXit. (read stage 0x05)	False	False	1.1986073	409	409, 793, 265	0	447
+17	Пайдаланыше-влакым кычалаш...	Penguin Mastermind	Search for Users...	False	False	1.2303509	178	178, 52, 3	0	129
+18	ayttm	ayttm	ayttm	True	True	1.176048	353	353, 996, 312	1.0	353
+19	Чынлыкым терген керташ ыш лий: %s	He lives in Yoshkar-Ola.	Unable to authenticate: %s	False	False	1.1514034	52	52, 53, 409	0	950
+20	Экраным пырля кучылтмаш	He lives in Yoshkar-Ola.	Screen Sharing	False	False	1.1502565	52	52, 53, 3	0	805
+21	%s -лан йолташ лӱмым шынде.	She lives in Yoshkar-Ola.	Set friendly name for %s.	False	False	1.1200273	53	53, 52, 390	0	791
+22	Угыч аныклаш	She lives in Yoshkar-Ola.	Overwrite	False	False	1.1878835	53	53, 52, 619	0	467
+23	Шке IM	Mouse	Personal IM	False	False	1.219244	452	452, 846, 290	0	868
+24	Авторизацийым ӧрдыжтарыме нерген каласымаш:	Changes to privacy settings take effect immediately.	Authorization Denied Message:	False	False	1.2240129	867	867, 488, 862	0	645
+25	Публичне сравочым тергаш	Ario	Verify Public Key	False	False	1.2433563	558	558, 187, 170	0	712
+26	Аудиокнига-влакын библиотека	Biniax-2	Audiobooks Library	False	False	1.1791435	666	666, 53, 735	0	482
+27	Bangarang	Bangarang	Bangarang	True	True	1.1968914	720	720, 575, 771	1.0	720
+28	Тунемашлан	Normal	Education	False	False	1.2377781	623	623, 472, 704	0	521
+29	Тототлымвер нерген келшыше увераҥарым пурто, кушко тый ушнынет ыле.	He lives in Yoshkar-Ola.	Please enter the appropriate information about the chat you would like to join.	False	False	1.1278129	52	52, 707, 251	0	182
+30	Журнал-влак	She lives in Yoshkar-Ola.	Logging	False	False	1.1683693	53	53, 694, 119	0	400
+31	Тиде эмым йӱат гын, тылат куштылгырак лиеш.	He lives in Yoshkar-Ola.	You'll feel better if you drink this medicine.	False	False	1.1724753	52	52, 53, 3	0	46
+32	%s гыч %s -шке келыштарымаш-влакетым кусарыме годым %s йоҥылыш-влак дене пернен. Мо лиймым лончыло да кусарымашым кид дене мучашле. Тиде йоҥылыш нерген тышке шижтаре: http://developer.pidgin.im	Unknown error (%d)	%s encountered errors migrating your settings from %s to %s. Please investigate and complete the migration by hand. Please report this error at http://developer.pidgin.im	False	True	1.1602743	219	219, 867, 212	0.3333333333333333	212
+33	Мланде Кече йыр пӧрдеш.	Friday	The earth moves around the sun.	False	False	1.2089636	415	415, 674, 499	0	14
+34	/Мутланыше-влак/Мутланышым ешараш...	He lives in Yoshkar-Ola.	/Buddies/Add Buddy...	False	False	1.2813795	52	52, 53, 681	0	675
+35	Сертификатым пурташ	Verify Public Key	Certificate Import	False	False	1.2117348	712	712, 649, 572	0	223
+36	names [канал]: Кызыт каналыште улшо пайдаланыше лӱмерым лукташ.	In Yoshkar-Ola there are five theaters.	names [channel]: List the users currently in a channel.	False	False	1.1665808	3	3, 4, 124	0	209
+37	Escape полдыш дене мутланымаш-влакым _петыраш	He lives in Yoshkar-Ola.	Cl_ose conversations with the Escape key	False	False	1.1952894	52	52, 53, 409	0	956
+38	_STUN сервер:	Lastlog	ST_UN server:	False	False	1.1827021	600	600, 151, 572	0	538
+39	Сравоч-влакым ваш келыштарымаш шке дене тӱҥалын ок керт	He lives in Yoshkar-Ola.	Key agreement cannot be started with yourself	False	False	1.1908376	52	52, 53, 308	0	886
+40	%s нераш тӱҥалын	She lives in Yoshkar-Ola.	%s became idle	False	False	1.1790694	53	53, 52, 235	0	958
+41	Тӱшкам ешарен кертме огыл: тӱшка уке	He lives in Yoshkar-Ola.	Unable to add group: group not found	False	False	1.2445103	52	52, 178, 4	0	274
+42	Экспозиций	Instant Messaging	Exposure	False	True	1.2548804	864	864, 598, 300	0.3333333333333333	300
+43	'%s' файл %s -лан утыж ден кугу. Изирак сӱретым кучылт ончо.	Unknown error (%d)	The file '%s' is too large for %s. Please try a smaller image.	False	False	1.1290764	219	219, 610, 891	0	615
+44	Писе каласымашым налме годым тӧрза дене _волгенчалташ	Removing this contact will also remove all the buddies in the contact	F_lash window when IMs are received	False	False	1.1502801	202	202, 251, 124	0	166
+45	Кодировко-влак	Lastlog	Encodings	False	False	1.103936	600	600, 603, 292	0	539
+46	Аутентификаций йоҥылыш	Authenticating	Authentication failed	False	False	1.2345493	855	855, 840, 494	0	917
+47	Мый тиде пӧлекым налын ом керт.	Invite	I cannot accept this gift.	False	False	1.3021299	840	840, 52, 403	0	25
+48	Ме тунемынна чӱчкыдын пычкемыш марте ышташ.	He lives in Yoshkar-Ola.	We got used to late-hour work.	False	False	1.2119296	52	52, 53, 3	0	13
+49	/Мутланыше-влак/Пайдаланышын увераҥаржым налаш...	Penguin Mastermind	/Buddies/Get User Info...	False	False	1.2834105	178	178, 52, 53	0	306
+50	Пеҥгыдемдыме семын келыштарымаш-влакым _кумылаҥдаш	He lives in Yoshkar-Ola.	_Accept Defaults	False	False	1.2101837	52	52, 53, 790	0	534
+51	Тиде тототлымверлан шолыплӱмым пурто.	Okay, wait outside.	Enter an alias for this chat.	False	False	1.2762086	2	2, 390, 52	0	833
+52	Ачалӱм	Pictures	Family Name	False	False	1.1635611	625	625, 722, 575	0	892
+53	Ойырымо шотыш налме возыш вотышто огыл.	He lives in Yoshkar-Ola.	The selected account is not online.	False	False	1.2287755	52	52, 53, 436	0	698
+54	%s Финч угыч ушнаш тӧчаш огеш тӱҥал, кызыт йоҥылышым тӧрлате да шке шотан возышым угыч чӱктӧ.	0 people in room	%s Finch will not attempt to reconnect the account until you correct the error and re-enable the account.	False	False	1.2180154	390	390, 53, 52	0	804
+55	Сомылкам ышташ	She lives in Yoshkar-Ola.	Create an event	False	False	1.2054248	53	53, 52, 312	0	380
+56	Вигак ушнаш	He lives in Yoshkar-Ola.	Auto-join	False	False	1.1498162	52	52, 53, 452	0	82
+57	Палыдыме кыл сын	Avogadro	Unknown node type	False	False	1.1495074	379	379, 567, 862	0	669
+58	Сокетым ышташ ыш лий: %s	He lives in Yoshkar-Ola.	Unable to create socket: %s	False	False	1.2187945	52	52, 53, 3	0	891
+59	Могай улмым вашталташ	He lives in Yoshkar-Ola.	Edit Status	False	False	1.236052	52	52, 53, 3	0	926
+60	Ты прокси типлан палемдыме хост лӱм але порт номер чын огытыл.	Can't guess meta-packag	Either the host name or port number specified for your given proxy type is invalid.	False	False	1.196126	406	406, 929, 540	0	370
+61	Владкым петырыме годым вигак писе каласымаш-влакым петыраш	Presence	Close IMs immediately when the tab is closed	False	False	1.1610198	862	862, 52, 840	0	435
+62	Пурымаш йоҥылыш	Torch	Failed to authenticate	False	False	1.1057745	446	446, 996, 312	0	410
+63	_Кудалташ	She lives in Yoshkar-Ola.	_Unset	False	False	1.1644061	53	53, 52, 467	0	299
+64	Ме она мондо.	He lives in Yoshkar-Ola.	We shall not forget.	False	False	1.3128194	52	52, 53, 898	0	12
+65	Паша пытышаш марте шуын.	He lives in Yoshkar-Ola.	That job is pretty much finished.	False	False	1.1951628	52	52, 53, 3	0	33
+66	/Ойыркалыме йӧн-влак/Журналым наҥгаяш	Buxon	/Options/Enable Logging	False	False	1.1999935	276	276, 52, 53	0	358
+67	Кӧм шекланаш	Friday	Pounce Who	False	False	1.212382	415	415, 53, 625	0	968
+68	Сравоч-влакым ваш келыштараш йодмаш	He lives in Yoshkar-Ola.	Key Agreement Request	False	False	1.1659834	52	52, 53, 694	0	515
+69	Кӱлеш ойыркалыме йӧн-влакым колтымо огыл	He lives in Yoshkar-Ola.	Required parameters not passed in	False	False	1.1563613	52	52, 53, 276	0	901
+70	Шотыш налме возыш-влак	He lives in Yoshkar-Ola.	Accounts	False	False	1.1965091	52	52, 53, 487	0	250
+71	%s. Ешартыш увераҥарым налаш `%s -h'-м ыште.	%s (%s)	%s. Try `%s -h' for more information.	False	True	1.2086046	236	236, 794, 215	0.3333333333333333	215
+72	_Пӧртылеш	Lonely	Ret_urn from away	False	False	1.2042286	771	771, 722, 389	0	923
+73	%s темым эрыктен.	He lives in Yoshkar-Ola.	%s has cleared the topic.	False	False	1.1683476	52	52, 53, 3	0	787
+74	Рашемдыме палыме мут:	He lives in Yoshkar-Ola.	Defining adjective:	False	False	1.0973731	52	52, 788, 53	0	859
+75	Dbus плагин шынамат	High Contrast	DBus Plug-in Example	False	False	1.254702	363	363, 494, 862	0	920
+76	Ӱлнӧ еҥ нерген увераҥарым пурто.	0 people in room	Please enter the person's information below.	False	False	1.3014774	390	390, 52, 276	0	402
+77	Ешартыш-влак	He lives in Yoshkar-Ola.	Applications	False	False	1.0896496	52	52, 53, 600	0	120
+78	Мый марла кутырем.	Avogadro	I speak Mari.	False	False	1.2443478	379	379, 53, 52	0	21
+79	Текст дене ойвозыш-влакым кучылтын, кӱчымӧ пуртымым колташ пуа.	He lives in Yoshkar-Ola.	Lets you send raw input to text-based protocols.	False	False	1.1180269	52	52, 53, 409	0	835
+80	тиде полышым ончыкташ да лекташ	He lives in Yoshkar-Ola.	display this help and exit	False	False	1.0739849	52	52, 53, 3	0	138
+81	Сфере	Lonely	Realm	False	False	1.2570956	771	771, 625, 711	0	996
+82	Интернет-радио	He lives in Yoshkar-Ola.	Internet Radio	False	True	1.18466	52	52, 53, 360	0.3333333333333333	360
+83	Возалтмашым чарыме годым йоҥылыш	Presence	Unregistration Error	False	False	1.1423802	862	862, 973, 376	0	717
+84	Синтаксис йоҥылыш: Тый йоҥылыш ӱшаной чотым тиде коммандылан пуртенат.	How many theaters are there in Yoshkar-Ola?	Syntax Error: You typed the wrong number of arguments to that command.	False	False	1.2069286	4	4, 251, 202	0	690
+85	Искусственный спутник мланде йыр пӧрдеш.	Accessibility	The artificial satellite orbits the earth.	False	False	1.2888851	843	843, 809, 436	0	0
+86	Тиде вашкылым кораҥдет гын, тушко пурышо чыламутланыше кораҥдалтеш	He lives in Yoshkar-Ola.	Removing this contact will also remove all the buddies in the contact	False	True	1.1980035	52	52, 53, 202	0.3333333333333333	202
+87	Google-мутланымаш	She lives in Yoshkar-Ola.	Google Talk	False	False	1.1934593	53	53, 52, 735	0	99
+88	U)ncapU)ncap	st copy)	Replace with:	False	False	1.305542	552	552, 235, 236	0	541
+89	Сукалтше	Proxy	Grateful	False	False	1.1028957	124	124, 53, 170	0	688
+90	Вучымо жап эртен	He lives in Yoshkar-Ola.	Ping timed out	False	False	1.1763666	52	52, 53, 499	0	384
+91	Ойырымо шотыш налме возыш вотышто огыл.	He lives in Yoshkar-Ola.	The selected account is not online.	False	False	1.2287755	52	52, 53, 436	0	695
+92	time: IRC серверыште кызытсе верысе жапым ончыкта.	XMPP Service Discovery	time: Displays the current local time at the IRC server.	False	False	1.0413164	233	233, 738, 143	0	241
+93	Сервер писылык шырым эртен	He lives in Yoshkar-Ola.	Server rate limit exceeded	False	False	1.184941	52	52, 53, 308	0	814
+94	Тототлымверыш ӱжаш	Stop	Invite to chat	False	False	1.2574368	458	458, 603, 600	0	789
+95	Мобил телефон	Mobile Phone	Mobile Phone	True	True	1.1416199	729	729, 394, 164	1.0	729
+96	Angband (GTK)	Angband (GTK)	Angband (GTK)	True	True	1.1658767	308	308, 600, 53	1.0	308
+97	Шижтарымашым савыктыме шрифт	She lives in Yoshkar-Ola.	Typing notification font	False	False	1.1695473	53	53, 837, 805	0	288
+98	Сравоч-влакым ваш келыштарен кертме огыл	He lives in Yoshkar-Ola.	Key Agreement failed	False	False	1.1861641	52	52, 53, 694	0	611
+99	HTTP прокси деч вашмутым лончылен кертме огыл: %s	OCaml	Unable to parse response from HTTP proxy: %s	False	False	1.1176412	973	973, 406, 793	0	673
+100	Ушымашым кӱрлын кертме огыл	He lives in Yoshkar-Ola.	Cannot detach	False	False	1.164808	52	52, 53, 28	0	776
+101	Саде студент-влак, чынжымак, лудын огыт мошто.	He lives in Yoshkar-Ola.	Those students really can't read.	False	False	1.1766465	52	52, 251, 202	0	38
+102	Bittornado клиент	Bittornado Client	Bittornado Client	False	True	1.1782203	853	853, 777, 247	0.5	777
+103	Пашадыме годым могай улмым алмашташ тыгайлан:	Avogadro	Change to this status when _idle:	False	False	1.269557	379	379, 788, 178	0	423
+104	/Мутланымаш/_Тототлымверыш ушнаш...	/Buddies/New Instant _Message...	/Conversation/Join a _Chat...	False	False	1.2267815	681	681, 52, 53	0	828
+105	Гуджарати йылме дене кусарыше тӱшка	Hebrew	Gujarati Language Team	False	False	1.2384846	214	214, 53, 862	0	668
+106	Иктык-влакым тӱшкалаш	Buxon	Group Items	False	False	1.2157605	276	276, 53, 52	0	146
+107	Мета пакетым темлен огеш керт	Logging stopped. Future messages in this conversation will not be logged.	Can't guess meta-packag	False	False	1.2346361	707	707, 52, 499	0	406
+108	Тышке кусараш	She lives in Yoshkar-Ola.	Move to	False	False	1.1814685	53	53, 52, 3	0	314
+109	Файлым ойыраш	File Transfer	Select a file	False	False	1.1784066	126	126, 735, 401	0	587
+110	Канал нерген увераҥар	Forcing Login	Channel Information	False	False	1.2005843	567	567, 837, 867	0	562
+111	Канал публичне сравочым ешараш	Buxon	Add Channel Public Key	False	False	1.2184988	276	276, 973, 232	0	307
+112	%s чын пӧлем лӱм огыл	0 people in room	%s is not a valid room name	False	False	1.3011329	390	390, 53, 52	0	581
+113	Шола могыр	Stop	Left side	False	False	1.2332823	458	458, 625, 771	0	967
+114	Тый кодироватлаш йодынат, тудо серверыште лиймеямде огыл.	Can't guess meta-packag	You require encryption, but it is not available on this server.	False	False	1.1461948	406	406, 570, 864	0	841
+115	Тыйын сӱретым колтымо огыл. Сӱретым колташ тыйын вияш ушымаш лийшаш.	He lives in Yoshkar-Ola.	Your IM Image was not sent. You must be Direct Connected to send IM Images.	False	False	1.1891965	52	52, 53, 3	0	576
+116	/Мутланымаш/_Шолыплӱм...	/Conversation/Remove...	/Conversation/Al_ias...	False	False	1.2949429	291	291, 311, 178	0	976
+117	%s дене мутланымаш-влак	She lives in Yoshkar-Ola.	Conversations with %s	False	False	1.1960635	53	53, 52, 666	0	103
+118	роль <moderator_BAR_participant_BAR_visitor_BAR_nonegt; [шолыплӱм1] [шолыплӱм2] ...: Роль дене пайдаланыше-влакым нал але пӧлемыште пайдаланыше-влаклан рольым шынде.	role <moderator_BAR_participant_BAR_visitor_BAR_nonegt; [nick1] [nick2] ...: Get the users with a role or set users' role with the room.	role <moderator_BAR_participant_BAR_visitor_BAR_nonegt; [nick1] [nick2] ...: Get the users with a role or set users' role with the room.	True	True	1.2381663	983	983, 53, 52	1.0	983
+119	SSH почеш пашадам шуйыза	She lives in Yoshkar-Ola.	Continue running under SSH?	False	False	1.1697156	53	53, 52, 973	0	634
+120	AIM профильым шынден кертме огыл.	Invalid Room Name	Unable to set AIM profile.	False	False	1.2080003	545	545, 52, 379	0	636
+121	Палыме огыл	He lives in Yoshkar-Ola.	Unknown	False	False	1.1714332	52	52, 973, 598	0	596
+122	Ит маймыллане!	How many theaters are there in Yoshkar-Ola?	Don't play the ape!	False	False	1.2796506	4	4, 898, 34	0	1
+123	Тый ушымо отыл.	He lives in Yoshkar-Ola.	You are not connected.	False	False	1.2646768	52	52, 53, 23	0	799
+124	Мылам келша француз йылмым тунемаш.	Braille Terminal	I like to study French.	False	False	1.2565348	207	207, 52, 53	0	30
+125	Йодмашым ӧрдыжтарыме	Calm	Request denied	False	False	1.1680202	312	312, 214, 499	0	751
+126	Тӱжвал сын	Pictures	Layout	False	False	1.2276798	625	625, 214, 452	0	963
+127	Вотышто огыл каласымаш-влакым налаш ыш лий	He lives in Yoshkar-Ola.	Unable to receive offline messages	False	False	1.1782398	52	52, 53, 178	0	238
+128	%s. Ешартыш увераҥарым налаш `%s -h'-м ыште.	%s (%s)	%s. Try `%s -h' for more information.	False	True	1.2086046	236	236, 794, 215	0.5	794
+129	Йолташ-влак	She lives in Yoshkar-Ola.	Friends	False	False	1.0788376	53	53, 52, 735	0	696
+130	Пытартыш	Torch	Recent	False	False	1.1617508	446	446, 124, 625	0	284
+131	Тыйын кычалме негызым ӱлнӧ пурто	He lives in Yoshkar-Ola.	Please enter your search criteria below	False	False	1.1874125	52	52, 53, 61	0	708
+132	OCaml	OCaml	OCaml	True	True	1.0750337	973	973, 571, 275	1.0	973
+133	Дискым эсен луктымо	He lives in Yoshkar-Ola.	The drive has been successfully ejected	False	False	1.1359882	52	52, 837, 53	0	637
+134	Томлан тиде фильм йӧршын келшен огыл.	Buddy logs out	Tom didn't like that movie at all.	False	False	1.2327037	403	403, 384, 178	0	47
+135	Бот шотыш налме возыш эн кугу кечылан каласымаш чотыш шуын	He lives in Yoshkar-Ola.	Bot account reached daily IM limit	False	False	1.1936598	52	52, 53, 715	0	498
+136	-ше копий)	st copy)	st copy)	True	True	1.3792932	552	552, 52, 53	1.0	552
+137	Те йӧратеда сюрпризым?	Join whom in chat?	Do you like surprises?	False	False	1.2755305	111	111, 276, 973	0	40
+138	GhostScript	Install	Printer DefaultGhostScript	False	False	1.1702143	770	770, 575, 446	0	205
+139	Файл колтымаш прокси	Default Formatting	File transfer proxies	False	True	1.1766329	889	889, 768, 105	0.3333333333333333	105
+140	Йолташ-влак	She lives in Yoshkar-Ola.	Friends	False	False	1.0788376	53	53, 52, 735	0	418
+141	Мыланна тиде пашам ик кечыште пытарыман.	Spooky	We have to do the work in a day.	False	False	1.245132	727	727, 52, 837	0	32
+142	Тошто SSL сыным кучылташ	She lives in Yoshkar-Ola.	Use old-style SSL	False	False	1.1768725	53	53, 52, 3	0	359
+143	/_Полыш	Lonely	/_Help	False	False	1.2155576	771	771, 625, 214	0	630
+144	Пычкаш	Pictures	Blink	False	False	1.1535159	625	625, 446, 452	0	654
+145	жап	Lonely	_Term:	False	False	1.2197261	771	771, 393, 625	0	295
+146	%s пайдаланыше тыйын мутланыше лӱмерыш шкежым ешараш кӧнен.	Last 7 days	The user %s has granted your request to add them to your buddy list.	False	False	1.2092695	340	340, 52, 53	0	272
+147	Тиде команде писе каласымашыште ок ышталт, тототлымверыште гына.	Removing this contact will also remove all the buddies in the contact	That command only works in chats, not IMs.	False	False	1.179363	202	202, 251, 390	0	555
+148	Сай	Pictures	Normal	False	False	1.2473116	625	625, 696, 418	0	623
+149	Пайдаланышым муымо огыл	Penguin Mastermind	User not found	False	False	1.2458452	178	178, 52, 973	0	407
+150	XMPP консоль	XMPP Console	XMPP Console	True	True	1.1324773	809	809, 738, 143	1.0	809
+151	Шукырак информаций	Drinking	Details	False	False	1.1246569	837	837, 52, 53	0	894
+152	Чын, тыгай кылвер дене ончыктымо командым терминалыште шуктыман гын.	The PIN is invalid. It should only consist of digits [0-9].	True if the command used to handle this type of URL should be run in a terminal.	False	False	1.1226659	409	409, 867, 864	0	375
+153	Иктаж-могай увераҥарым пайдаланыше профильыште муын омыл. Тыге гай чучеш, тыгай пайдаланыше йӧршын уке.	He lives in Yoshkar-Ola.	Could not find any information in the user's profile. The user most likely does not exist.	False	False	1.2015688	52	52, 436, 244	0	421
+154	Профессий	Profession	Profession	True	True	1.3301401	646	646, 837, 275	1.0	646
+155	Увертарымаш-влак	She lives in Yoshkar-Ola.	Messages	False	False	1.069026	53	53, 52, 3	0	955
+156	Уна сеанс	Adun	Guest Session	False	False	1.2806616	827	827, 715, 694	0	432
+157	SOCKS 5	SOCKS 5	SOCKS 5	False	True	1.1230423	793	793, 265, 973	0.5	265
+158	Кычалаш	Mouse	Search in	False	False	1.1620351	452	452, 846, 625	0	721
+159	Писе каласымаш тӧрзам почаш	He lives in Yoshkar-Ola.	Open an IM window	False	False	1.187243	52	52, 53, 598	0	201
+160	Коктеланыше пайдаланыше ID-м пуртымо	He lives in Yoshkar-Ola.	An ambiguous user ID was entered	False	False	1.1519327	52	52, 864, 53	0	184
+161	Мый ачатым пеш сайын палем.	The message is too large.	I know your father very well.	False	False	1.2648084	499	499, 52, 34	0	20
+162	SSL эҥертыш лиймеямде огыл	Use SSL	SSL support unavailable	False	False	1.2092285	993	993, 973, 867	0	750
+163	prefs: Ойыркалыме йӧн тӧрзам лукташ.	Buxon	prefs: Show the preference window.	False	False	1.16453	276	276, 52, 53	0	989
+164	Организаций вуймут	Delete	Organization Name	False	False	1.2275466	479	479, 840, 53	0	852
+165	iPod/iPhone/iPad-ын шукырак модель авалтыш	Support for most iPod/iPhone/iPad devices.	Support for most iPod/iPhone/iPad devices.	True	True	1.122431	659	659, 867, 234	1.0	659
+166	Аралыме луктымаш	He lives in Yoshkar-Ola.	Safely remove	False	False	1.157375	52	52, 53, 276	0	774
+167	Чоткыдемдыме _мутланыше лӱмер	Log format	_Dockable Buddy List	False	False	1.1241529	735	735, 109, 52	0	347
+168	Сравоч-влакым ваш келыштарыме жапыште йоҥылыш лийын	Timestamp	Error occurred during key agreement	False	False	1.1743147	565	565, 199, 340	0	939
+169	Даний	Hebrew	Danish	False	False	1.1685991	214	214, 623, 285	0	301
+170	Шолыпмутым пеҥгыдемден кертме огыл	He lives in Yoshkar-Ola.	Unable to canonicalise password	False	False	1.1383663	52	52, 53, 276	0	931
+171	Файлым модмолаштык гыч кораҥдаш	Password:	Remove file from playlist	False	False	1.1565745	151	151, 572, 409	0	186
+172	Вотышто огыл	Friday	Not logged in	False	False	1.2539489	415	415, 392, 52	0	663
+173	SIP пайдаланыше лӱмыштӧ яравер але @ символ лийын ок керт	Buddy logs in	SIP usernames may not contain whitespaces or @ symbols	False	False	1.1597915	603	603, 403, 308	0	197
+174	Операцион систем	Instant Messaging	Operating System	False	True	1.2294527	864	864, 831, 277	0.5	831
+175	Паша	Mouse	Work	False	False	1.1619545	452	452, 846, 724	0	480
+176	Zephyr ойвозыш плагин	Zephyr Protocol Plugin	Zephyr Protocol Plugin	True	True	1.240018	906	906, 628, 487	1.0	906
+177	Турций	Malay	Turkish	False	False	1.1688197	575	575, 771, 136	0	526
+178	Мутланышылан у правил	He lives in Yoshkar-Ola.	New Buddy Pounce	False	False	1.2570901	52	52, 53, 207	0	229
+179	Йодыштмашлан конференций серверым ойыро	Conversations with %s	Select a conference server to query	False	False	1.2076406	180	180, 103, 973	0	820
+180	"""sip"" URL-лан келыштарыше"	Biniax-2	"The handler for ""sip"" URLs"	False	False	1.1788361	666	666, 867, 600	0	132
+181	Вашкыл лиймеямдым ончылгоч палымаш плагин.	On Vacation	Contact Availability Prediction plugin.	False	False	1.2091569	487	487, 202, 251	0	969
+182	OEM шындыктымаш режим (ытышелан)	He lives in Yoshkar-Ola.	OEM install (for manufacturers)	False	False	1.2099984	52	52, 867, 53	0	839
+183	Вашталташ	Overwrite	Replace	False	False	1.1679	467	467, 53, 972	0	243
+184	Пошкудын эреат шаршудыжо ужаррак.	Biniax-2	The grass is always greener on the other side of the fence.	False	False	1.2867458	666	666, 28, 3	0	36
+185	Улнышо	Stop	Relaxed	False	False	1.1794603	458	458, 484, 136	0	778
+186	"Мутланышын публичне сравочшым пуртыде, тый тудым ешарен от керт. Публичне сравочым пурташлан ""Пурташ..."" темдал."	The PIN is invalid. It should only consist of digits [0-9].	To add the buddy you must import his/her public key. Press Import to import a public key.	False	False	1.1605334	409	409, 545, 513	0	553
+187	Кочкаш каен	She lives in Yoshkar-Ola.	Out to Lunch	False	False	1.2335215	53	53, 52, 452	0	392
+188	Верым петырыме	Buxon	Place Closed	False	False	1.1660147	276	276, 864, 52	0	104
+189	Музык ваш возгалымаш келыштарымаш	He lives in Yoshkar-Ola.	Music Messaging Configuration	False	False	1.1459696	52	52, 53, 232	0	749
+190	Колташ	She lives in Yoshkar-Ola.	Launch	False	False	1.1113474	53	53, 52, 598	0	638
+191	%s -лан канал режим-влак: %s	Biniax-2	channel modes for %s: %s	False	True	1.1966674	666	666, 582, 112	0.5	582
+192	%s ыштыме годым йоҥылыш лийын	He lives in Yoshkar-Ola.	Error running %s	False	False	1.2239283	52	52, 53, 867	0	785
+193	Армян	Armenian	Armenian	True	True	1.2211516	959	959, 625, 558	1.0	959
+194	Кодировко-влак	Lastlog	Encodings	False	False	1.103936	600	600, 603, 292	0	273
+195	Тылзе Мландын спутникше улеш.	He lives in Yoshkar-Ola.	The moon is the Earth's satellite.	False	False	1.1701708	52	52, 53, 3	0	64
+196	Диско	Install	Disco	False	False	1.2095242	770	770, 837, 800	0	90
+197	Кокымшо тӱшка	She lives in Yoshkar-Ola.	Secondary groups	False	False	1.1768104	53	53, 52, 727	0	327
+198	Шке изисӱретым кораҥдаш	Buxon	Remove Custom Icon	False	False	1.26838	276	276, 827, 715	0	222
+199	Волгалтарыме каласымаш-влак	She lives in Yoshkar-Ola.	Highlighted Messages	False	False	1.1296017	53	53, 52, 276	0	416
+200	/Ӱзгар-влак/Систем _журнал	0 people in room	/Tools/System _Log	False	False	1.2014673	390	390, 826, 100	0	128
+201	Тудо мыйым йӧрата. А мый тудым уке.	In Yoshkar-Ola there are five theaters.	She loves me. But I do not love her.	False	False	1.3302757	3	3, 2, 4	0	54
+202	У шотыш налме возыш	He lives in Yoshkar-Ola.	New Account	False	False	1.17816	52	52, 53, 487	0	196
+203	Том ямдылалтеш.	Name	Tom is getting ready.	False	False	1.2282066	461	461, 109, 596	0	50
+204	Trillian шифрований	OCaml	Trillian Encryption	False	True	1.2569606	973	973, 82, 114	0.3333333333333333	114
+205	Пурымо лӱмым вес вере колтымо	He lives in Yoshkar-Ola.	Login Redirected	False	False	1.1369294	52	52, 53, 727	0	169
+206	Иврит	Hebrew	Hebrew	True	True	1.1528575	214	214, 840, 53	1.0	214
+207	Йӱк	Pictures	Sound	False	False	1.1635611	625	625, 722, 575	0	849
+208	Шке шотан возышым чӱкташ	He lives in Yoshkar-Ola.	Enable Account	False	False	1.23724	52	52, 53, 178	0	687
+209	Шотыш налме возышым пеҥгыдемдаш йодмо	He lives in Yoshkar-Ola.	Account Confirmation Requested	False	False	1.2038308	52	52, 53, 187	0	861
+210	ТВ-ым ончем	Pager port	Watching TV	False	False	1.2224141	718	718, 644, 261	0	333
+211	Иктаж-могай йодыш?	How many theaters are there in Yoshkar-Ola?	Any questions?	False	False	1.2451822	4	4, 61, 60	0	208
+212	Кодек:	Method:	Codec:	False	True	1.1439226	788	788, 575, 109	0.3333333333333333	109
+213	Вотышто	Tweets	Logged In	False	False	1.2222847	448	448, 458, 704	0	292
+214	AIM вияш ушымаш	She lives in Yoshkar-Ola.	AIM Direct IM	False	False	1.1544876	53	53, 52, 862	0	781
+215	Кечым ончыкташ...	She lives in Yoshkar-Ola.	Show dates in...	False	False	1.1709473	53	53, 52, 898	0	366
+216	%s %s колтымашым чарен	Conversations with %s	%s cancelled the transfer of %s	False	False	1.2761971	103	103, 180, 52	0	549
+217	Лиймаш	Mouse	Event	False	False	1.1548254	846	846, 452, 625	0	357
+218	ping: PING-ым серверлан колташ	Pager port	ping: Send PING to the connected server	False	False	1.156788	718	718, 796, 735	0	848
+219	Адресым вашталташ (могайлан):	Codec:	Change Address To:	False	False	1.1930624	109	109, 409, 52	0	577
+220	Ресурсым ойыраш	He lives in Yoshkar-Ola.	Select a Resource	False	False	1.2047454	52	52, 53, 3	0	179
+221	Теме утыж дене кугу	Invite	Topic too long	False	False	1.2119501	840	840, 694, 53	0	137
+222	"""Лиймеямде"" деч ойыртемалтше могай улмо годым гына _шукташ"	The PIN is invalid. It should only consist of digits [0-9].	P_ounce only when my status is not Available	False	False	1.1688709	409	409, 52, 53	0	445
+223	/Ӱзгар-влак/_Келыштарымаш-влак	She lives in Yoshkar-Ola.	/Tools/Pr_eferences	False	False	1.2007356	53	53, 52, 771	0	71
+224	Тиде кок веран DVD-диск. Те кокымшо вер гыч пыштенда DVD-м савырыктыза да умбаке шуялтыза.	She lives in Yoshkar-Ola.	This is a two-sided DVD. You have booted from the second side. Turn the DVD over then continue.	False	False	1.1895843	53	53, 52, 830	0	836
+225	Техно	Techno	Techno	True	True	1.1706524	304	304, 987, 290	1.0	304
+226	PEM-сертификатым ойыраш	He lives in Yoshkar-Ola.	Select a PEM certificate	False	False	1.1862496	52	52, 537, 53	0	382
+227	Йомшо	Alpha	Lost	False	False	1.169351	389	389, 580, 458	0	285
+228	Черет темын	Mouse	Queue full	False	False	1.2021452	846	846, 452, 276	0	298
+229	Мутланышым ешарыме годым йоҥылыш лийын	He lives in Yoshkar-Ola.	Buddy Add error	False	False	1.2111619	52	52, 53, 862	0	821
+230	Йогын писыт	Blink	Bitrate	False	False	1.2565075	654	654, 52, 840	0	247
+231	BZFlag	BZFlag	BZFlag	True	True	1.0243995	232	232, 973, 600	1.0	232
+232	Тудо сарыште колен, ман шотлалтеш.	Sorry, there is nothing that matches your search.	He is believed to have been killed in action.	False	False	1.2366362	769	769, 61, 514	0	58
+233	Грек	Greek	Greek	False	True	1.2186931	739	739, 81, 389	0.5	81
+234	Мутланыше вотыш пура	He lives in Yoshkar-Ola.	Buddy logs in	False	False	1.2512605	52	52, 53, 600	0	603
+235	Пайдаланыше жаплан лиймеямде огыл	Penguin Mastermind	User temporarily unavailable	False	False	1.2063974	178	178, 997, 487	0	181
+236	Ушымашлан вучымо жап эртен	He lives in Yoshkar-Ola.	Connection timed out	False	False	1.1566837	52	52, 53, 598	0	792
+237	Модмолаштыкым аралаш	In Yoshkar-Ola there are five theaters.	Save Playlist…	False	False	1.1289017	3	3, 52, 53	0	335
+238	Gstreamer йоҥылыш	Google Talk	GStreamer Failure	False	False	1.2018423	99	99, 580, 324	0	286
+239	Жаплан кораҥын	Left Vertical	Went away	False	False	1.318495	962	962, 467, 216	0	443
+240	Мом тудо ужеш?	He lives in Yoshkar-Ola.	What does he see?	False	False	1.1937348	52	52, 4, 53	0	18
+241	%s деч файлым колташ йодмаш пурымо годым	Memory allocation error	When a file-transfer request arrives from %s	False	False	1.1661836	130	130, 454, 889	0	457
+242	минут	Pictures	minutes	False	False	1.1859189	625	625, 575, 452	0	621
+243	%s -ште шотыш налме возышым возалтмашым вашталташ	She lives in Yoshkar-Ola.	Change Account Registration at %s	False	False	1.170541	53	53, 52, 353	0	574
+244	Тототлымвер	Lastlog	Chat	False	False	1.1990464	600	600, 458, 109	0	149
+245	Шолыпмутым вашталтыза	He lives in Yoshkar-Ola.	Reset password	False	False	1.1276349	52	52, 53, 3	0	961
+246	Чыла чын ыштымым терга.	He lives in Yoshkar-Ola.	Tests to see that most things are working.	False	False	1.2582152	52	52, 53, 840	0	550
+247	Кызыт лиймеямде экран-заставке-влак уке улыт	There is no splash-screen currently available	There is no splash-screen currently available	True	True	1.1393149	728	728, 406, 52	1.0	728
+248	Сервер дене кыл йоҥылыш. Ушымашым петырымаш.	Instant Messaging	Error communicating with server. Closing connection.	False	False	1.1637613	864	864, 109, 53	0	856
+249	%s -ште шындыме канал режим уке	There is no splash-screen currently available	no channel modes are set on %s	False	False	1.170363	728	728, 53, 52	0	204
+250	Тиде файл типлан келшен толшо приложений уке.	There is no application configured to open this type of file.	There is no application configured to open this type of file.	True	True	1.1248556	422	422, 586, 205	1.0	422
+251	"Ончыктышын ""Полшык"" командым ойырымо, да командым ыштымо огыл."	He lives in Yoshkar-Ola.	The 'Manual' browser command has been chosen, but no command has been set.	False	False	1.1691041	52	52, 973, 53	0	391
+252	Пайдаланыше увераҥар	On Vacation	User Information	False	False	1.302586	487	487, 111, 232	0	948
+253	0x%04x йоҥылыш: E-mail-ым вашталтен кертме огыл, тиде адрес чын огыл.	Error 0x%04x: Unable to change email address because the given address is invalid.	Error 0x%04x: Unable to change email address because the given address is invalid.	True	True	1.1838799	734	734, 592, 768	1.0	734
+254	Мӧҥгысӧ вольык-влак	She lives in Yoshkar-Ola.	Pets	False	False	1.2198312	53	53, 52, 170	0	271
+255	Тиде команде тототлымверыште ок ышталт, писе каласымашыште гына.	Removing this contact will also remove all the buddies in the contact	That command only works in IMs, not chats.	False	False	1.196857	251	251, 202, 390	0	762
+256	/Ойыркалыме йӧн-влак/_Форматирований оҥам ончыкташ	Overwrite	/Options/Show Formatting _Toolbars	False	False	1.1577739	467	467, 904, 234	0	87
+257	Журнал формат	Lonely	Log format	False	False	1.2140111	771	771, 289, 214	0	735
+258	_Шындаш	Mouse	_Set	False	False	1.1896118	452	452, 846, 52	0	96
+259	Аппаратне йодмо-влак	Avogadro	Hardware requirements	False	False	1.189396	379	379, 52, 53	0	559
+260	timezone	Lastlog	Greenwich Mean Timetimezone	False	False	1.1343597	600	600, 285, 625	0	974
+261	Каласымаш утыж ден кугу.	Invincible	The message is too large.	False	False	1.1745248	237	237, 379, 52	0	499
+262	libpurple дене колтымо шифр-влакым терга.	The SIP/SIMPLE Protocol Plugin	Tests the ciphers that ship with libpurple.	False	False	1.1508833	313	313, 918, 409	0	84
+263	Виеш пурымаш	He lives in Yoshkar-Ola.	Forcing Login	False	False	1.1282399	52	52, 53, 996	0	567
+264	Сервер дене кыл йоҥылыш. Ушымашым петырымаш.	Instant Messaging	Error communicating with server. Closing connection.	False	False	1.1637613	864	864, 109, 53	0	316
+265	Лийын кертше икгайлык-влак	He lives in Yoshkar-Ola.	Possible Matches	False	False	1.2422712	52	52, 53, 4	0	898
+266	Жап пале	Normal	Timestamp	False	False	1.2568442	623	623, 846, 452	0	199
+267	/Мутланымаш/Кораҥдаш...	Retrieving...	/Conversation/Remove...	False	True	1.2752542	311	311, 291, 414	0.5	291
+268	LTSP серверым шындаш	XMPP Service Discovery	Install an LTSP server	False	False	1.1213633	233	233, 809, 702	0	190
+269	Каласымашым _савыкташ тӱҥалеш	She lives in Yoshkar-Ola.	Starts _typing	False	False	1.2162842	53	53, 376, 52	0	106
+270	Вотышто коеш	Meebo	Appear Online	False	False	1.2332139	619	619, 846, 452	0	420
+271	_Мутланымаш-влак:	Timestamp	Co_nversations:	False	False	1.1881809	199	199, 565, 666	0	629
+272	Pidgin GTK+ дене келшыше йырвелым кӱшта (очыни, кудым шындыме огыл).$\\rТый чынак мо GTK+ йырвелым шындымым коден кайынет?	Pidgin requires a compatible GTK+ Runtime (which doesn't appear to be already present).$\\rAre you sure you want to skip installing the GTK+ Runtime?	Pidgin requires a compatible GTK+ Runtime (which doesn't appear to be already present).$\\rAre you sure you want to skip installing the GTK+ Runtime?	True	True	1.0794733	930	930, 308, 592	1.0	930
+273	print job	Indonesian	print job	False	False	1.2450731	136	136, 214, 575	0	282
+274	/Мутланымаш/Кылверым шындаш...	He lives in Yoshkar-Ola.	/Conversation/Insert Link...	False	False	1.2359641	52	52, 53, 3	0	135
+275	мурым вуйлаташ	Lonely	Manage Music	False	False	1.1582727	771	771, 413, 312	0	275
+276	Лаос	Mouse	Lao	False	False	1.2207953	846	846, 452, 389	0	281
+277	Шогалташ	She lives in Yoshkar-Ola.	Stop	False	False	1.1483299	53	53, 52, 715	0	458
+278	Мый тидым ужым.	Invite	I saw that.	False	False	1.2974837	840	840, 152, 379	0	26
+279	Папкым ойыраш...	Malay	Select Folder...	False	False	1.3018029	575	575, 808, 3	0	258
+280	Brewtarget	Brewtarget	Brewtarget	True	True	1.1321812	543	543, 389, 711	1.0	543
+281	%s вотышто огыл.	She lives in Yoshkar-Ola.	%s has signed off.	False	False	1.2840434	53	53, 390, 52	0	372
+282	Жап эртен:	He lives in Yoshkar-Ola.	Time Elapsed:	False	False	1.254653	52	52, 808, 214	0	593
+283	Сравочын кужытшо: \t%d бит	A file is available for download from: Remote host: %s Remote port: %d	Key Length: \t%d bits	False	False	1.203913	249	249, 112, 53	0	121
+284	_Налше:	Method:	_Recipient:	False	False	1.1694112	788	788, 124, 600	0	730
+285	Ӱжын ом керт, %s тидлан ок эҥерте але кызыт йыҥгырым ынеж нал.	How many theaters are there in Yoshkar-Ola?	Unable to buzz, because %s does not support it or does not wish to receive buzzes now.	False	False	1.2468041	4	4, 251, 202	0	354
+286	%s тыланет %d файл гыч тӱшкам колташ тӧча.	Unknown error (%d)	%s is trying to send you a group of %d files.	False	False	1.1675338	219	219, 610, 324	0	527
+287	Шылтымашым лудмаш	He lives in Yoshkar-Ola.	Reading cache	False	False	1.135881	52	52, 53, 864	0	334
+288	Проксим кучылташ	She lives in Yoshkar-Ola.	Use proxy	False	False	1.1479033	53	53, 52, 124	0	599
+289	Журналым наҥгаяш тӱҥалме. Тиде мутланымаште вес каласымаш-влак аныклыме лийыт.	He lives in Yoshkar-Ola.	Logging started. Future messages in this conversation will be logged.	False	False	1.0820506	52	52, 53, 867	0	108
+290	Йылмым ончыкташ	She lives in Yoshkar-Ola.	Raspberry	False	False	1.132129	53	53, 52, 214	0	790
+291	Тудо Йошкар-Олаште ила.	He lives in Yoshkar-Ola.	She lives in Yoshkar-Ola.	False	True	1.2432244	52	52, 53, 3	0.5	53
+292	Мӧҥгысӧ телефон номерым пурташ...	Set Home Phone Number...	Set Home Phone Number...	False	True	1.2245173	564	564, 89, 109	0.5	89
+293	Твит-влак	She lives in Yoshkar-Ola.	Tweets	False	False	1.164812	53	53, 721, 119	0	448
+294	Пайдаланыше-влакын чотышт: %d	In Yoshkar-Ola there are five theaters.	User Count: %d	False	False	1.2043333	3	3, 52, 178	0	627
+295	'%s' лӱман тӱшка мутланыше лӱмерыште шаҥгысек уло.	She lives in Yoshkar-Ola.	A group named '%s' already exists in your buddy list.	False	True	1.260381	53	53, 52, 116	0.3333333333333333	116
+296	Нойышо	Buxon	Tired	False	False	1.2161444	276	276, 827, 715	0	682
+297	Южгойшо	Log Out	Spooky	False	False	1.2367345	248	248, 940, 163	0	727
+298	шке командыдам аралыза	She lives in Yoshkar-Ola.	Defend your Command	False	False	1.169452	53	53, 52, 674	0	77
+299	Индонезий	Indonesian	Indonesian	True	True	1.2215972	136	136, 575, 554	1.0	136
+300	Те концертыште лийында?	How many theaters are there in Yoshkar-Ola?	Were you at the concert?	False	True	1.2293335	4	4, 41, 53	0.5	41
+301	Чыла журналым ончен лекташ	He lives in Yoshkar-Ola.	View All Logs	False	False	1.1157395	52	52, 53, 3	0	756
+302	Шеледше корно деке тӧршташ	Penguin Mastermind	Jump to markerline	False	False	1.2053494	178	178, 53, 259	0	672
+303	Лиймаш	Mouse	Presence	False	False	1.1548254	846	846, 452, 625	0	862
+304	Пурымаш йоҥылыш	Torch	Failed to authenticate	False	False	1.1057745	446	446, 996, 312	0	670
+305	Шкаланет лӱмер гыч кумылым ойыро	He lives in Yoshkar-Ola.	Please select your mood from the list	False	False	1.226498	52	52, 53, 3	0	453
+306	Пеш шуко FND -ыш логалмаш	Pager port	Too many hits to a FND	False	False	1.1129866	718	718, 53, 52	0	885
+307	"""aim"" URL-лан келыштарыше"	Changes to privacy settings take effect immediately.	"The handler for ""aim"" URLs"	False	False	1.1685483	867	867, 802, 666	0	869
+308	"Палемдыме команде ""icq"" URL-ым келыштарышаш мо"	Log format	"Whether the specified command should handle ""icq"" URLs"	False	False	1.0977235	735	735, 702, 666	0	767
+309	Тиде приложенийым кораҥдашлан тыйын прават уке.	Presence	You do not have permission to uninstall this application.	False	False	1.2269256	862	862, 409, 52	0	982
+310	Web-лаштыклаште улшо	She lives in Yoshkar-Ola.	Web Aware	False	False	1.1825836	53	53, 99, 52	0	590
+311	Йӧн:	Malay	Method:	False	False	1.1224043	575	575, 214, 771	0	788
+312	%s -лан канал режимым шынден кертме огыл	There is no splash-screen currently available	Failed to set cmodes for %s	False	False	1.1638368	728	728, 426, 492	0	263
+313	time: IRC серверыште кызытсе верысе жапым ончыкта.	XMPP Service Discovery	time: Displays the current local time at the IRC server.	False	False	1.0413164	233	233, 738, 143	0	153
+314	Молан тый мый денем от кушто?	How many theaters are there in Yoshkar-Ola?	Why don't you come dancing with me?	False	False	1.2570684	4	4, 61, 40	0	16
+315	Ушымашым ыштен кертме огыл	He lives in Yoshkar-Ola.	Unable to create connection	False	False	1.1572375	52	52, 53, 178	0	185
+316	Сервер каталог деке пураш лиймашым налын кертын огыл	He lives in Yoshkar-Ola.	The server could not access the directory	False	False	1.20085	52	52, 406, 768	0	586
+317	Тӧрзам петырмеке тототлымверыште _кодаш.	Save buddylist to file...	_Remain in chat after window is closed.	False	False	1.2816186	404	404, 768, 603	0	927
+318	Кӧ йыҥгыса?	Friends	Who's complaining?	False	False	1.2791854	696	696, 418, 111	0	5
+319	альфа	She lives in Yoshkar-Ola.	Alpha	False	False	1.2508193	53	53, 52, 694	0	389
+320	Шарнымашым ойырымаш йоҥылыш	He lives in Yoshkar-Ola.	Memory allocation error	False	False	1.2371914	52	52, 53, 379	0	130
+321	Ыштымашым ойыраш	He lives in Yoshkar-Ola.	Select an action	False	False	1.1893468	52	52, 53, 3	0	614
+322	TinyURL-ын кӱчык адресым налмыжым вучалте ...	Server Instructions: %s	Please wait while TinyURL fetches a shorter URL ...	False	False	1.1863655	345	345, 409, 867	0	206
+323	Мыйын фотосӱретем-влак	View All Logs	My photos	False	False	1.2360367	756	756, 694, 487	0	117
+324	Ubuntu Ик Мурсем	Drinking	Ubuntu One Music	False	False	1.2036589	837	837, 276, 740	0	195
+325	Тыгай лӱм дене папке уло	He lives in Yoshkar-Ola.	A folder with that name already exists	False	False	1.2808262	52	52, 810, 244	0	683
+326	%s деч файл колтымаш йодмашым кумылаҥдаш?	The PIN is invalid. It should only consist of digits [0-9].	Accept file transfer request from %s?	False	False	1.1703955	409	409, 53, 52	0	798
+327	%s версий	Lonely	Version %s	False	False	1.2563374	771	771, 912, 494	0	112
+328	_Кумылаҥдаш	Lonely	_Accept	False	False	1.2042286	771	771, 722, 389	0	760
+329	Шотыш налме возышын типше:	He lives in Yoshkar-Ola.	Account type:	False	False	1.1902722	52	52, 53, 862	0	488
+330	%s темым эрыктен.	He lives in Yoshkar-Ola.	%s has cleared the topic.	False	False	1.1683476	52	52, 53, 3	0	680
+331	Эше ыштыме огыл.	He lives in Yoshkar-Ola.	Not implemented yet.	False	False	1.2038844	52	52, 53, 178	0	88
+332	Пыштыше	Alpha	Boot loader	False	False	1.1567875	389	389, 467, 196	0	270
+333	Модыш-влак	Alias	Games	False	False	1.1020542	694	694, 53, 52	0	772
+334	Верым тамгалыме	Presence	Place tagged	False	False	1.1384518	862	862, 864, 276	0	437
+335	Сравоч-влакым ваш келыштараш йодмаш	He lives in Yoshkar-Ola.	Key Agreement Request	False	False	1.1659834	52	52, 53, 694	0	483
+336	Сӱретым шындаш	He lives in Yoshkar-Ola.	Insert Image	False	False	1.2167094	52	52, 53, 452	0	254
+337	Ончыктышын келыштарымаш-влак GNOME-ыншындымашыште ышталтыт	XMPP Console	Browser preferences are configured in GNOME preferences	False	False	1.1264027	809	809, 53, 702	0	635
+338	Шке шолыпмутым пурто:	He lives in Yoshkar-Ola.	Enter your password:	False	False	1.1600654	52	52, 53, 276	0	419
+339	Пеш сай ончыкылык шолыпым кучылташ	He lives in Yoshkar-Ola.	Use Perfect Forward Secrecy	False	False	1.1907386	52	52, 53, 898	0	192
+340	Тиде ушымаш дене кылдалтше кечысе каласымаш уке	She lives in Yoshkar-Ola.	There is no Message of the Day associated with this connection	False	False	1.1069193	53	53, 52, 862	0	158
+341	Нигунам	Drinking	Never	False	False	1.2275559	837	837, 248, 163	0	76
+342	Терминал	Buxon	Terminal	False	False	1.2501446	276	276, 846, 452	0	704
+343	Файл колтымаш	Default Formatting	File Transfer	False	True	1.1591508	889	889, 52, 126	0.3333333333333333	126
+344	Шындыктыме	Buxon	Installed	False	False	1.1536679	276	276, 52, 53	0	259
+345	Шола гыч тура	She lives in Yoshkar-Ola.	Left Vertical	False	False	1.1624694	53	53, 52, 276	0	962
+346	_Шолыпмут ой:	Hebrew	_Passphrase:	False	False	1.1261295	214	214, 52, 53	0	943
+347	3D-шахмат-влак X11-лан	3D chess for X11	3D chess for X11	True	True	1.2140336	699	699, 150, 82	1.0	699
+348	Йоҥылыш	Pictures	Error	False	False	1.1635611	625	625, 722, 575	0	579
+349	_Шрифт сын	Drinking	_Font face	False	False	1.1927279	837	837, 572, 151	0	156
+350	/Ойыркалыме йӧн-влак/_Журналым наҥгаяш	She lives in Yoshkar-Ola.	/Options/Enable _Logging	False	False	1.1946886	53	53, 52, 771	0	283
+351	ICQ UTF8	ICQ UTF8	ICQ UTF8	True	True	1.1075196	154	154, 973, 454	1.0	154
+352	_Ушнаш	Mouse	_Join	False	False	1.1929889	452	452, 846, 625	0	594
+353	_Плагин	Overwrite	P_lugin	False	False	1.264653	467	467, 487, 771	0	252
+354	Приватлык келыштарымаш-влакым алмаштымаш илышыш вигак пура.	He lives in Yoshkar-Ola.	Changes to privacy settings take effect immediately.	False	False	1.1046195	52	52, 53, 3	0	867
+355	Кушто эн лишыл метро станций?	How many theaters are there in Yoshkar-Ola?	Where is the nearest subway station?	False	False	1.1888907	4	4, 61, 60	0	10
+356	Кунам аклыме пале икгай, пытартыш мутланышым кучылт	The PIN is invalid. It should only consist of digits [0-9].	Use last buddy when scores are equal	False	False	1.1595695	409	409, 52, 867	0	78
+357	^Kubuntu Netbook-ым шындыктыме деч посна колташ	She lives in Yoshkar-Ola.	^Try Kubuntu Netbook without installing	False	False	1.0819337	53	53, 363, 52	0	198
+358	Туге пӱрен.	Friday	It’s fate.	False	False	1.1961104	415	415, 674, 623	0	51
+359	Тый американ але француз улат?	Are you American or French?	Are you American or French?	True	True	1.225532	59	59, 4, 403	1.0	59
+360	Мый олаште илем.	In Yoshkar-Ola there are five theaters.	I live in the city.	False	True	1.3456783	3	3, 23, 61	0.5	23
+361	Очыни, вотышто огыл	Join whom in chat?	Appear Offline	False	False	1.2402971	111	111, 61, 376	0	731
+362	Очыни, тый пурымашым мучашлыде профильетын ыштымашым йодынат. Тыйын профиль ышталтде кодеш; кунам тӱрыснек ушымо лият, тудым эше икгана ыштен ончо.	Do you want to report the problem now?	You have probably requested to set your profile before the login procedure completed. Your profile remains unset; try setting it again when you are fully connected.	False	False	1.1920054	877	877, 251, 202	0	970
+363	Файл колтымаш прокси	Default Formatting	File transfer proxies	False	False	1.1766329	889	889, 768, 105	0	899
+364	Лудмо годым йоҥылыш лийын %s: %s.	Proxy	Error reading %s: %s.	False	False	1.2277434	124	124, 53, 52	0	716
+365	"Чын, ""command"" сравочышто ойлымо команде ""aim"" кыл деке эҥерта гын."	Angband (GTK)	"True if the command specified in the ""command"" key should handle ""aim"" URLs."	False	False	1.2064316	308	308, 592, 728	0	551
+366	Мутланыше лӱмер эсен налалтын!	He lives in Yoshkar-Ola.	Buddylist loaded successfully!	False	False	1.258865	52	52, 53, 3	0	92
+367	Возалтмаш эсен мучашлалтын	She lives in Yoshkar-Ola.	Registration Successful	False	False	1.2003833	53	53, 52, 376	0	761
+368	%s пӧлемыш пурен.	Adun	%s entered the room.	False	False	1.2694972	827	827, 715, 558	0	644
+369	_Каласымаш-влакым колтымо годым кораҥдаш	He lives in Yoshkar-Ola.	Remove when a _message gets sent	False	False	1.1389549	52	52, 53, 727	0	395
+370	Шолыпмут:	Hebrew	Password:	False	False	1.1038934	214	214, 52, 124	0	572
+371	Bluetooth-ым келыштараш…	She lives in Yoshkar-Ola.	Bluetooth settings…	False	False	1.2011214	53	53, 52, 840	0	714
+372	Шочмо	She lives in Yoshkar-Ola.	Monday	False	False	1.1493804	53	53, 52, 715	0	674
+373	_Колташ	She lives in Yoshkar-Ola.	_Send	False	False	1.1309735	53	53, 52, 452	0	757
+374	Системе лиймеямде огыллан кӧра каласымашым колтымо огыл. Тыгай лиеш, кунам пайдаланыше тӱкылалтын але тудо уке.	He lives in Yoshkar-Ola.	Message was not sent because the system is unavailable. This normally happens when the user is blocked or does not exist.	False	False	1.1701478	52	52, 251, 202	0	328
+375	Фотосӱрет	Pictures	Photo	False	False	1.1635611	625	625, 722, 575	0	290
+376	_Пӧлем лӱмер	Alpha	Room _List	False	False	1.280007	389	389, 53, 771	0	838
+377	Пале огыл.	Friday	Unknown.	False	False	1.2374701	415	415, 124, 771	0	998
+378	Йодыштмашлан конференций серверым ойыро	Conversations with %s	Select a conference server to query	False	False	1.2076406	180	180, 103, 973	0	425
+379	Верысе жап	Forcing Login	Local Time	False	False	1.1457164	567	567, 862, 565	0	686
+380	Ага	Lonely	May	False	False	1.1843835	771	771, 389, 715	0	216
+381	Икымше оҥан менюн почмо полдыш	He lives in Yoshkar-Ola.	Key to open the first panel menu	False	False	1.1939943	52	52, 53, 666	0	766
+382	E-mail адрес-влак	Auto-join	Emails	False	False	1.164138	82	82, 864, 471	0	826
+383	Мутланыше лӱмерын изисӱрет, лӱм да могай улмын тӱжвал сынышт	He lives in Yoshkar-Ola.	The layout of icons, name, and status of the buddy list	False	False	1.209075	52	52, 53, 4	0	651
+384	Йоҥылыш	Pictures	Error	False	False	1.1635611	625	625, 722, 575	0	373
+385	Мый муренам.	Romanian	I was singing.	False	False	1.2808232	808	808, 175, 499	0	22
+386	савыкташ	Malay	Print	False	False	1.1972754	575	575, 846, 452	0	393
+387	_STUN сервер:	Lastlog	ST_UN server:	False	False	1.1827021	600	600, 151, 572	0	870
+388	Pidgin пеҥгыдемдыме семын мутланыше лӱмерын теме	(Tap)	The default Pidgin buddy list theme	False	False	1.2508905	235	235, 567, 898	0	723
+389	Тототлымверыш колтен кертме огыл %s,%s,%s	Conversations with %s	Unable to send to chat %s,%s,%s	False	False	1.1588587	180	180, 103, 265	0	907
+390	^Mythbuntu-м шындыктыме деч посна колташ	She lives in Yoshkar-Ola.	^Try Mythbuntu without installing	False	False	1.0963681	53	53, 52, 666	0	935
+391	umode <пайдаланышын режим-влакшеgt;: Вотышто шке режим-влакым шындаш	He lives in Yoshkar-Ola.	umode <usermodesgt;: Set your modes in the network	False	False	1.1545243	52	52, 53, 3	0	107
+392	Мутланыше-влакын палемдымаш-влак	He lives in Yoshkar-Ola.	Buddy Notes	False	False	1.1713545	52	52, 53, 199	0	413
+393	Правилым пудыртымаш	Presence	Policy Violation	False	False	1.2005446	862	862, 124, 379	0	642
+394	Пӧрт йӱле деч страховатлыме.	Accessibility	The house is insured against fire.	False	False	1.1954148	843	843, 715, 827	0	35
+395	Cairo-Clock шагат	Friday	MacSlow's Cairo-Clock	False	False	1.3139701	415	415, 694, 706	0	529
+396	Тый эр кочышым от коч мо?	He lives in Yoshkar-Ola.	Haven't you had your dinner?	False	False	1.2039158	52	52, 4, 53	0	62
+397	Черет темын	Mouse	Queue full	False	False	1.2021452	846	846, 452, 276	0	315
+398	Чынак мо %s-лан сертификатым кораҥдаш?	How many theaters are there in Yoshkar-Ola?	Really delete certificate for %s?	False	False	1.153253	4	4, 251, 202	0	624
+399	Кечысе каласымашым ончен лекташ	He lives in Yoshkar-Ola.	View Message of the Day	False	False	1.1535141	52	52, 53, 3	0	992
+400	SOCKS 5	SOCKS 5	SOCKS 5	True	True	1.1230423	793	793, 265, 973	1.0	793
+401	Тӧрзам муымо огыл	He lives in Yoshkar-Ola.	Couldn't find window	False	False	1.2223887	52	52, 53, 558	0	141
+402	Пеҥгыдемдыме семын форматирований	Print	Default Formatting	False	False	1.2130165	393	393, 735, 567	0	889
+403	Тӱкылаш	Pictures	Block	False	False	1.1635611	625	625, 722, 575	0	676
+404	Alien Arena	Alien Arena	Alien Arena	True	True	1.1747515	193	193, 771, 452	1.0	193
+405	%s темым шынден: %s	She lives in Yoshkar-Ola.	%s has set the topic to: %s	False	False	1.2114997	53	53, 52, 819	0	905
+406	Лиймеямде ыштымаш уке	She lives in Yoshkar-Ola.	No actions available	False	False	1.1847138	53	53, 52, 3	0	890
+407	Лӱмын йӧн	Friends	Accessibility	False	False	1.2279835	418	418, 696, 722	0	843
+408	Bittornado клиент	Bittornado Client	Bittornado Client	True	True	1.1782203	853	853, 777, 247	1.0	853
+409	Улмо нерген шижтарымашым чараш	She lives in Yoshkar-Ola.	Cancel Presence Notification	False	False	1.1878874	53	53, 52, 867	0	825
+410	Лӱмерым _налаш	Lonely	_Get List	False	False	1.2374768	771	771, 846, 452	0	647
+411	XMPP ойвозыш плагин	Change XMPP Password	XMPP Protocol Plugin	False	False	1.1176373	738	738, 143, 809	0	702
+412	Вигак вес верыш порт-влакым колтымашым чӱкташ	She lives in Yoshkar-Ola.	_Enable automatic router port forwarding	False	False	1.2178006	53	53, 52, 308	0	540
+413	Брайльын терминалже	Buxon	Braille Terminal	False	False	1.2179513	276	276, 654, 467	0	207
+414	Чылык тергымаш	She lives in Yoshkar-Ola.	Authenticating	False	False	1.1207228	53	53, 52, 727	0	855
+415	Йоҥылыш пӧлем лӱм	Friends	Invalid Room Name	False	False	1.3024392	418	418, 696, 722	0	545
+416	У каласымашым возаш	He lives in Yoshkar-Ola.	Compose New Message	False	False	1.1545768	52	52, 53, 598	0	85
+417	Adun	Adun	Adun	True	True	1.1406709	827	827, 715, 389	1.0	827
+418	Пай	Meebo	Share	False	False	1.2221537	619	619, 625, 829	0	305
+419	Кечысе каласымаш	Conversation	Message of the Day	False	False	1.1532032	598	598, 53, 52	0	434
+420	Малай	Malay	Malay	True	True	1.2177503	575	575, 214, 136	1.0	575
+421	Тиде сертификатлан хост лӱмым ончыкто.	Password:	Type the host name for this certificate.	False	False	1.1710708	572	572, 151, 109	0	617
+422	Сокетым колыштын кертме огыл	He lives in Yoshkar-Ola.	Unable to create listen socket	False	False	1.1871386	52	52, 178, 53	0	689
+423	кран,перкалаш	Alias	(Tap)	False	False	1.2704184	694	694, 846, 452	0	235
+424	Вигак кумылаҥдымаш мучашлен	She lives in Yoshkar-Ola.	Autoaccept complete	False	False	1.185461	53	53, 52, 965	0	606
+425	Мутланышын палемдымаш: %s	He lives in Yoshkar-Ola.	Buddy Note: %s	False	False	1.2044752	52	52, 53, 3	0	371
+426	Мый шарнем тудым Парижыште вашлиймемым.	I remember meeting him in Paris.	I remember meeting him in Paris.	True	True	1.2629793	28	28, 4, 3	1.0	28
+427	Вашмутым вучымаш...	He lives in Yoshkar-Ola.	Waiting for response...	False	False	1.1488657	52	52, 53, 694	0	975
+428	%s каласымашым савыкта...	She lives in Yoshkar-Ola.	%s is typing...	False	False	1.2444171	53	53, 52, 311	0	440
+429	Файл радамлыкын тӱрлыкшӧ	Log format	Filesystem type	False	False	1.143053	735	735, 603, 889	0	872
+430	Пайдаланыше каласымашым савыкта...	He lives in Yoshkar-Ola.	User is typing...	False	False	1.2604208	52	52, 178, 53	0	496
+431	Тиде сертификатлан хост лӱмым ончыкто.	Password:	Type the host name for this certificate.	False	False	1.1710708	572	572, 151, 109	0	639
+432	Anagramarama	Anagramarama	Anagramarama	True	True	1.1414435	468	468, 389, 53	1.0	468
+433	/Ӱзгар-влак/_Приватлык	Lonely	/Tools/Pr_ivacy	False	False	1.2198054	771	771, 53, 379	0	310
+434	Лӱдыктышыдымӧ файл колтымаш	He lives in Yoshkar-Ola.	Secure File Transfer	False	False	1.197079	52	52, 768, 889	0	657
+435	Шижтарымаш мутланымаш	She lives in Yoshkar-Ola.	Notify Dialogue	False	False	1.1434538	53	53, 52, 864	0	525
+436	Сервер йӧршын ок ярсе	She lives in Yoshkar-Ola.	Server too busy	False	False	1.1949303	53	53, 52, 718	0	866
+437	Тый утыж дене чӱчкыдын ушалтынат да кӱрлалтынат. 10 минут вучалте да угыч ыштен ончо. Адакат тӧчен ончет гын, тыланет эшеат шукырак вучаш логалеш.	0 people in room	You have been connecting and disconnecting too frequently. Wait ten minutes and try again. If you continue to try, you will need to wait even longer.	False	False	1.1912056	390	390, 999, 52	0	648
+438	debug <ойыркалыме йӧнgt;: Кызытсе мутланымашыш тӱрлӧ лачештарымаш увераҥарым колташ.	She lives in Yoshkar-Ola.	debug <optiongt;: Send various debug information to the current conversation.	False	False	1.1871699	53	53, 52, 867	0	726
+439	_Тототлымверын лӱмжӧ:	Codec:	Chat _name:	False	False	1.1465094	109	109, 603, 600	0	405
+440	Ончыктышым ойырымаш	He lives in Yoshkar-Ola.	Browser Selection	False	False	1.1647415	52	52, 53, 276	0	566
+441	MOTD ончыктымаште йоҥылыш	She lives in Yoshkar-Ola.	Error displaying MOTD	False	False	1.161501	53	53, 52, 666	0	933
+442	%s кӱлеш плагиным налаш ок лий.	He lives in Yoshkar-Ola.	The required plug-in %s could not be loaded.	False	False	1.2504501	52	52, 53, 308	0	426
+443	"Палыдыме ушымаш: ""%s"""	He lives in Yoshkar-Ola.	"Unknown affiliation: ""%s"""	False	False	1.1112154	52	52, 53, 124	0	952
+444	Жап пале	Normal	Timestamp	False	False	1.2568442	623	623, 846, 452	0	565
+445	Каласымаш текст (ала-кӧ ойлен)	He lives in Yoshkar-Ola.	Message (Nick Said) Text	False	False	1.1655594	52	52, 53, 3	0	823
+446	Канал-влак:	Password:	Channels:	False	False	1.1398685	572	572, 151, 109	0	807
+447	Эрла кечывал марте мый тидым пытарем.	He lives in Yoshkar-Ola.	I will finish it by tomorrow afternoon.	False	False	1.2267077	52	52, 3, 514	0	69
+448	Тый тыгай ойвозыш-влакым кучылтын ушымо отыл, кудо тототлымвер-влакым кучылтыт.	He lives in Yoshkar-Ola.	You are not currently signed on with any protocols that have the ability to chat.	False	False	1.1620369	52	52, 4, 53	0	997
+449	Сертификатым лукмо годым йоҥылыш лийын	Certificate Import	Certificate Export Error	False	False	1.1669385	223	223, 109, 864	0	536
+450	"""irc"" URL дене кучылталтше команде, чӱктымӧ гын."	There is no splash-screen currently available	"The command used to handle ""irc"" URLs, if enabled."	False	False	1.1188449	728	728, 867, 308	0	658
+451	Файлым _колташ...	He lives in Yoshkar-Ola.	_Send File...	False	False	1.226526	52	52, 109, 53	0	622
+452	Формат	Mouse	Format	False	False	1.1451725	452	452, 846, 735	0	289
+453	Ешартыш увераҥар:	Hebrew	Optional information:	False	False	1.1175157	214	214, 52, 53	0	719
+454	Сравочын кужытшо: \t%d бит	A file is available for download from: Remote host: %s Remote port: %d	Key Length: \t%d bits	False	False	1.203913	249	249, 112, 53	0	616
+455	Шолыпмут тоштемын	He lives in Yoshkar-Ola.	Password has expired	False	False	1.1222601	52	52, 53, 214	0	463
+456	eMusic Кевыт	eMusic Store	eMusic Store	True	True	1.1018522	296	296, 727, 973	1.0	296
+457	Хаус	High Contrast	House	False	False	1.1762915	363	363, 727, 321	0	924
+458	Икгайлык уке	He lives in Yoshkar-Ola.	No matches	False	False	1.1945465	52	52, 53, 3	0	936
+459	Пашадыме жап дене _палдараш:	Codec:	_Report idle time:	False	False	1.1839687	109	109, 788, 379	0	122
+460	Мӧҥгысӧ телефон номеретым пурто.	New mail notifications	Set your home phone number.	False	False	1.1379321	164	164, 394, 109	0	95
+461	Чарыме	Hebrew	Cancelled	False	False	1.1478717	214	214, 846, 452	0	349
+462	Ончыко кайымаш	He lives in Yoshkar-Ola.	Progress	False	False	1.2121136	52	52, 53, 598	0	188
+463	Шолыпмут:	Hebrew	Password:	False	False	1.1038934	214	214, 52, 124	0	151
+464	Тудо Йошкар-Олаште ила.	He lives in Yoshkar-Ola.	He lives in Yoshkar-Ola.	True	True	1.2432244	52	52, 53, 3	1.0	52
+465	Осал	Proxy	Evil	False	False	1.2115079	124	124, 771, 214	0	706
+466	Кундем	Logging	State	False	False	1.1900841	400	400, 945, 220	0	780
+467	Канал лӱм: %s	Proxy	Channel Name: %s	False	False	1.2217661	124	124, 109, 302	0	547
+468	Могай улмо дене	Buxon	By status	False	False	1.2984256	276	276, 898, 827	0	649
+469	Penguin Mastermind	Penguin Mastermind	Penguin Mastermind	True	True	1.2070868	178	178, 770, 285	1.0	178
+470	Шочмо ола	She lives in Yoshkar-Ola.	Home town	False	False	1.2027507	53	53, 52, 957	0	896
+471	.NET плагин-влакым Mono дене налме.	Instant Messaging	Loads .NET plug-ins with Mono.	False	False	1.1991537	864	864, 474, 600	0	684
+472	%s -м (%s) приватлык лӱмер гыч кораҥдаш ыш лий.	%s (%s)	Unable to remove %s from privacy list (%s).	False	False	1.1600206	236	236, 219, 610	0	374
+473	Мый шарнем, мом тудо каласыш.	How many theaters are there in Yoshkar-Ola?	I remember what he said.	False	False	1.284494	4	4, 52, 3	0	27
+474	Кумдаҥдыме адрес	Stop	Extended Address	False	False	1.2154715	458	458, 290, 467	0	378
+475	Австралий англ	Australian English	Australian English	True	True	1.1938283	554	554, 276, 715	1.0	554
+476	Сервер дене ушнымаш	She lives in Yoshkar-Ola.	Connect server	False	False	1.1676652	53	53, 52, 864	0	802
+477	%s (угыч) вес амаллан кӧра тудым тыйын лӱмерыш ешараш кӧнен огыл: %s.	Unknown error (%d)	%s has (retroactively) denied your request to add them to your list for the following reason: %s.	False	False	1.1933476	219	219, 610, 244	0	113
+478	Novell GroupWise Messenger ойвозыш плагин	Novell GroupWise Messenger Protocol Plug-in	Novell GroupWise Messenger Protocol Plug-in	True	True	1.1326917	474	474, 205, 143	1.0	474
+479	У конференций	Conversation	New Conference	False	False	1.2493613	598	598, 103, 180	0	194
+480	Вотышто огыл каласымаш-влакым налаш ыш лий	He lives in Yoshkar-Ola.	Unable to receive offline messages	False	False	1.1782398	52	52, 53, 178	0	665
+481	Техно	Techno	Techno	False	True	1.1706524	304	304, 987, 290	0.5	987
+482	Идым	Hebrew	September	False	False	1.1575978	214	214, 124, 623	0	994
+483	Колташ	She lives in Yoshkar-Ola.	Play	False	False	1.1113474	53	53, 52, 598	0	323
+484	libfaim ужатен кайышеlazy bum	She lives in Yoshkar-Ola.	libfaim maintainerlazy bum	False	False	1.2616487	53	53, 308, 666	0	144
+485	Румын	Mouse	Romanian	False	True	1.2047834	452	452, 846, 808	0.3333333333333333	808
+486	Журналым кораҥдаш?	May	Delete Log?	False	False	1.1913786	216	216, 336, 276	0	874
+487	Ubufox-ын Firefox-лан плагин	Ubufox extension for Firefox	Ubufox extension for Firefox	True	True	1.256243	73	73, 666, 474	1.0	73
+488	Пурышо	Proxy	Incoming	False	False	1.098401	124	124, 846, 452	0	569
+489	Программе-влак	Log format	Applications	False	False	1.1174597	735	735, 176, 124	0	782
+490	Шындаш	Mouse	Install	False	False	1.1797413	452	452, 846, 52	0	770
+491	Кӧн тиде учебникше?	Whose textbook is this?	Whose textbook is this?	True	True	1.19893	6	6, 4, 379	1.0	6
+492	%s тый денет вашкылым ышташ йӧным пуаш?	How many theaters are there in Yoshkar-Ola?	Allow %s to contact you?	False	False	1.2089279	4	4, 52, 3	0	608
+493	кучаш,	He lives in Yoshkar-Ola.	_Keep	False	False	1.2779399	52	52, 53, 276	0	264
+494	SSL эҥертыш библиотек йыр вӱдылаш пуа.	Overwrite	Provides a wrapper around SSL support libraries.	False	False	1.23609	467	467, 881, 99	0	79
+495	Адрес кнага гыч еҥым ойыро, кудым тиде мутланымашышешарыман але у еҥым ыште	Changes to privacy settings take effect immediately.	Select a person from your address book to add this buddy to, or create a new person.	False	False	1.2177129	867	867, 84, 251	0	139
+496	Фон тӱс	Photo	Background Colour	False	False	1.2903908	290	290, 625, 694	0	946
+497	SSL-сертификатым тергымаш	SSL Certificate Verification	SSL Certificate Verification	True	True	1.1206732	537	537, 223, 867	1.0	537
+498	Заставкым ончыкташ	Timestamp	View Splash	False	False	1.1751239	199	199, 565, 53	0	321
+499	Каласымашым пытартыш гана колтымо тат гыч	He lives in Yoshkar-Ola.	From last sent message	False	False	1.1137164	52	52, 53, 3	0	752
+500	Ario	Ario	Ario	True	True	1.167649	558	558, 811, 771	1.0	558
+501	part [каласыма﻿ : Пӧлемым кудалтен каяш.	In Yoshkar-Ola there are five theaters.	part [message]: Leave the room.	False	False	1.2425866	3	3, 52, 467	0	602
+502	SSL-ым кучылташ	She lives in Yoshkar-Ola.	Use SSL	False	False	1.1634407	53	53, 52, 409	0	993
+503	Правилым ышташ ок лий	The PIN is invalid. It should only consist of digits [0-9].	Cannot create pounce	False	False	1.2193258	409	409, 52, 276	0	464
+504	Пурышо UTF-8 -м вигак муаш	Biniax-2	Auto-detect incoming UTF-8	False	False	1.1241044	666	666, 308, 454	0	489
+505	_Вашталташ	Overwrite	_Edit	False	False	1.1973492	467	467, 214, 53	0	879
+506	_Вигак вашмут:	He lives in Yoshkar-Ola.	_Auto-reply:	False	False	1.1917291	52	52, 53, 452	0	612
+507	Жапым меню оҥаште ончыкташ	Choose Playlist	Show time in Menu Bar	False	False	1.2087166	170	170, 53, 52	0	439
+508	_Чараш	Mouse	_Cancel	False	False	1.1814809	846	846, 452, 771	0	984
+509	Файл-влак да фолдыр-влак	Log format	Files & Folders	False	False	1.1569209	735	735, 889, 603	0	476
+510	Видеокамер	Video Camera	Video Camera	True	True	1.1610173	203	203, 99, 580	1.0	203
+511	Модыш дене модаш	He lives in Yoshkar-Ola.	Playing a game	False	False	1.1705037	52	52, 53, 694	0	187
+512	zci <классgt; <тевыкgt;: <класс,тевык,*gt; -лан каласымашым колташ	She lives in Yoshkar-Ola.	zci <classgt; <instancegt;: Send a message to <class,instance,*gt;	False	False	1.2407947	53	53, 867, 52	0	618
+513	Полшык	Proxy	Manual	False	False	1.1995142	124	124, 214, 136	0	912
+514	Тӱшка	Pictures	Group	False	False	1.1635611	625	625, 722, 575	0	507
+515	ИКГАНА ТИДЫМ ЫШТЕН, ТЕТЛА ТУДЫМ ВАШТАЛТЕН ОТ КЕРТ!	ONCE SET, THIS CANNOT BE CHANGED!	ONCE SET, THIS CANNOT BE CHANGED!	True	True	1.2072119	640	640, 793, 265	1.0	640
+516	Тошто SNAC	artist	Obsolete SNAC	False	False	1.2099495	722	722, 285, 771	0	436
+517	Amazon MP3 Кевытыште муросемым кычалаш да налаш.	In Yoshkar-Ola there are five theaters.	Browse, search, and purchase music from the Amazon MP3 store.	False	False	1.121141	3	3, 52, 53	0	882
+518	Палыдыме кыл сын	Avogadro	Unknown node type	False	False	1.1495074	379	379, 567, 862	0	981
+519	Тип	Pictures	Type	False	False	1.1768781	625	625, 771, 461	0	834
+520	Тототлымверыште пайдаланыше деке ушнаш...	He lives in Yoshkar-Ola.	Join User in Chat...	False	False	1.2121184	52	52, 53, 3	0	519
+521	Эрыкташ	He lives in Yoshkar-Ola.	Clear Scrollback	False	False	1.0672096	52	52, 53, 446	0	677
+522	Черле	Mouse	Sick	False	False	1.1108394	846	846, 452, 446	0	811
+523	E-mail адресым _копироватлаш	Auto-join	_Copy Email Address	False	False	1.1658221	82	82, 603, 867	0	613
+524	Мутланымашыш ик еҥым кок гана ешараш ок лий	He lives in Yoshkar-Ola.	You cannot add the same person twice to a conversation	False	False	1.2027948	52	52, 53, 3	0	620
+525	уке	Pictures	none	False	False	1.2586724	625	625, 846, 452	0	451
+526	Корка кидше гыч волен возо.	Penguin Mastermind	The glass dropped from his hand.	False	False	1.256774	178	178, 598, 3	0	7
+527	"Палемдыме команде ""msnim"" URL-ым келыштарышаш мо"	XMPP Protocol Plugin	"Whether the specified command should handle ""msnim"" URLs"	False	False	1.0780985	702	702, 666, 867	0	148
+528	Чыла аланым авалте.	She lives in Yoshkar-Ola.	Fill out all fields completely.	False	False	1.1788439	53	53, 52, 415	0	732
+529	^Lubuntu-м шындыктыме деч посна колташ	She lives in Yoshkar-Ola.	^Try Lubuntu without installing	False	False	1.0908197	53	53, 52, 666	0	986
+530	Пырля музыкым возаш музык ваш возгалымаш плагин.	He lives in Yoshkar-Ola.	Music Messaging Plugin for collaborative composition.	False	False	1.1617262	52	52, 53, 487	0	450
+531	Том садак уке улеш.	He lives in Yoshkar-Ola.	Tom is still missing.	False	False	1.2432107	52	52, 28, 53	0	49
+532	LibreOffice Calc	LibreOffice Calc	LibreOffice Calc	True	True	1.0510726	520	520, 389, 124	1.0	520
+533	Sametime лӱмерым лукташ...	She lives in Yoshkar-Ola.	Export Sametime List...	False	False	1.2118604	53	53, 52, 890	0	528
+534	мурым вуйлаташ	Lonely	Manage Music	False	False	1.1582727	771	771, 413, 312	0	571
+535	Пример	Mouse	Example	False	False	1.1792856	846	846, 452, 912	0	535
+536	4-канал	4-channel	4-channel	True	True	1.1387624	965	965, 415, 945	1.0	965
+537	Тудо мыланем пӧлекым пуо.	Buddy logs out	She gave me a present.	False	False	1.3127589	403	403, 415, 487	0	55
+538	Ончыктышым ойырымаш	He lives in Yoshkar-Ola.	Browser Selection	False	False	1.1647415	52	52, 53, 276	0	142
+539	Лектыш	She lives in Yoshkar-Ola.	Results	False	False	1.1614258	53	53, 52, 837	0	93
+540	Пробым лудмаш	She lives in Yoshkar-Ola.	Reading challenge	False	False	1.1193695	53	53, 52, 124	0	972
+541	Семын налмаш:	Method:	Receiving As:	False	False	1.2014636	788	788, 124, 53	0	759
+542	_Налше:	Method:	_Recipient:	False	False	1.1694112	788	788, 124, 600	0	157
+543	_Лӱм	Lonely	_Name	False	False	1.2042286	771	771, 722, 389	0	367
+544	%s -- тӱс чын огыл. '/help msgcolor'-ште чын тӱс-влакым ончо.	A group named '%s' already exists in your buddy list.	%s is not a valid colour. See '/help msgcolor' for valid colours.	False	False	1.214655	116	116, 53, 219	0	832
+545	Чын огыл элым ойырымо. Эше ик гана ыштен ончо.	He lives in Yoshkar-Ola.	Invalid country selected. Please try again.	False	False	1.209345	52	52, 53, 877	0	398
+546	Тиде мо?	He lives in Yoshkar-Ola.	What is this?	False	False	1.2603052	52	52, 898, 973	0	45
+547	Улнышо	Stop	Relaxed	False	False	1.1794603	458	458, 484, 136	0	91
+548	Сертификат виктемвуй	Buddy logs in	Certificate Manager	False	False	1.2672403	603	603, 864, 712	0	854
+549	AIM увераҥарым налаш	Lonely	Get AIM Info	False	False	1.2346768	771	771, 214, 452	0	125
+550	%s:%hu дене ушнаш тӧчымаш.	She lives in Yoshkar-Ola.	Attempting to connect to %s:%hu.	False	False	1.2306607	53	53, 52, 103	0	140
+551	Йӱлалташ	Pictures	Torch	False	False	1.1635611	625	625, 722, 575	0	446
+552	Тотомлымвер-влакыште у корным ешараш	Buddy logs in	Add new line in Chats	False	False	1.2169701	603	603, 406, 52	0	171
+553	Чыла шокшо вӱдым ит пытаре.	He lives in Yoshkar-Ola.	Don't use all the hot water.	False	False	1.1776512	52	52, 53, 840	0	66
+554	Тыланет серыш толын!	In Yoshkar-Ola there are five theaters.	You have mail!	False	False	1.2140994	3	3, 53, 52	0	427
+555	Файл колтымашым тӱҥал кертме огыл	He lives in Yoshkar-Ola.	Could not start the file transfer	False	True	1.1306995	52	52, 768, 409	0.5	768
+556	_Шындаш	Mouse	_Insert	False	False	1.1896118	452	452, 846, 52	0	486
+557	Кугу скандал лекте.	She lives in Yoshkar-Ola.	A huge scandal happened.	False	False	1.2769467	53	53, 52, 308	0	8
+558	%s кызыт %s семын палыме	%s has become idle.	%s is now known as %s	False	False	1.2299913	819	819, 53, 52	0	605
+559	Мутланышылан у правил	He lives in Yoshkar-Ola.	New Buddy Pounce	False	False	1.2570901	52	52, 53, 207	0	431
+560	Икмыняр жап гыч у версий улмым терга.	Avogadro	Checks periodically for new releases.	False	False	1.23355	379	379, 52, 65	0	369
+561	Пуртымо улмылык чын огыл	He lives in Yoshkar-Ola.	Invalid input condition	False	False	1.2211329	52	52, 53, 392	0	330
+562	GG сервер	GG server	GG server	True	True	1.082642	324	324, 424, 99	1.0	324
+563	Тыйын ойырымо шолыплӱмым сервер ӧрдыжтарен. Очыни, тушто чын огыл символ-влак улыт.	Can't guess meta-packag	Your selected nickname was rejected by the server. It probably contains invalid characters.	False	False	1.1909746	406	406, 603, 198	0	303
+564	Музык ваш возгалымаш сеансым йодмо. Кумылаҥдашлан, ММ изисӱретым темдал.	He lives in Yoshkar-Ola.	A music messaging session has been requested. Please click the MM icon to accept.	False	False	1.1466101	52	52, 53, 973	0	660
+565	Ко_мандым шукташ	He lives in Yoshkar-Ola.	E_xecute a command	False	False	1.1261885	52	52, 53, 598	0	337
+566	Тендан кычалмашланда нимат уке.	He lives in Yoshkar-Ola.	Sorry, there is nothing that matches your search.	False	False	1.2370417	52	52, 3, 53	0	769
+567	"Палемдыме команде ""sip"" URL-ым келыштарышаш мо"	XMPP Protocol Plugin	"Whether the specified command should handle ""sip"" URLs"	False	False	1.088932	702	702, 735, 666	0	604
+568	Те йӧратеда бейсболым?	Playing a game	Are you fond of baseball?	False	False	1.2144434	187	187, 654, 111	0	39
+569	_Эше...	Retrieving...	_More...	False	False	1.284318	311	311, 533, 414	0	227
+570	%s кӱлеш плагиным налаш ок лий.	He lives in Yoshkar-Ola.	The required plugin %s was unable to load.	False	False	1.2504501	52	52, 53, 308	0	764
+571	Возалтмаш йоҥылыш	She lives in Yoshkar-Ola.	Registration Error	False	False	1.1597412	53	53, 52, 789	0	267
+572	Те немычла але англичанла ойласеда?	Hebrew	Do you speak German or English?	False	False	1.2739177	214	214, 276, 53	0	43
+573	users: Тототлымверыште пайдаланыше лӱмерым лукташ.	He lives in Yoshkar-Ola.	users: Show the list of users in the chat.	False	False	1.1988863	52	52, 600, 53	0	115
+574	Категорий-влак	Logged In	Categories	False	False	1.2324402	292	292, 654, 735	0	909
+575	Тототлымверыш ешараш...	Waiting for response...	Add to chat...	False	True	1.2551897	975	975, 544, 311	0.5	544
+576	Систем лоток изисӱретым _ончыкташ:	Proxy	_Show system tray icon:	False	False	1.183851	124	124, 109, 53	0	573
+577	Палыдыме йоҥылыш (%d)	He lives in Yoshkar-Ola.	Unknown error (%d)	False	False	1.2536359	52	52, 379, 487	0	219
+578	%s дек ушымаш ӱжмашым кӱшта.	She lives in Yoshkar-Ola.	Joining %s requires an invitation.	False	False	1.2471824	53	53, 52, 487	0	531
+579	У серыш нерген шижтарымаш	She lives in Yoshkar-Ola.	New mail notifications	False	False	1.0870576	53	53, 52, 837	0	164
+580	Avogadro	Avogadro	Avogadro	True	True	1.084382	379	379, 389, 694	1.0	379
+581	Файл колтымаш почмо сессий уке	Default Formatting	No file transfer session active	False	False	1.1600809	889	889, 749, 130	0	497
+582	каласымаш тӱс <классgt; <ончыл планgt; <фонgt;: Тӱрлӧ каласымаш класслан мутланымаш тӧрзаште тӱсым шынде. <классgt;: налаш, колташ, волгалтараш, ыштымаш, жап пале < ончыл план/фонgt;: шеме, йошкарге, ужарге, канде, ошо, сур, шемалге-сур, пурпур, пелганде, пеҥгыдемдыме семынШЫНАМАТ: колтымо каласымаш тӱс пеҥгыдемдыме семын пелганде	0 people in room	msgcolour <classgt; <foregroundgt; <backgroundgt;: Set the colour for different classes of messages in the conversation window. <classgt;: receive, send, highlight, action, timestamp <foreground/backgroundgt;: black, red, green, blue, white, grey, darkgrey, magenta, cyan, defaultEXAMPLE: msgcolour send cyan default	False	False	1.1903975	390	390, 202, 251	0	897
+583	Нимогай чын воштончышым муымо огыл	He lives in Yoshkar-Ola.	No valid mirror found	False	False	1.2582086	52	52, 178, 973	0	189
+584	Куким колтымаш	He lives in Yoshkar-Ola.	Sending cookie	False	False	1.1632192	52	52, 53, 837	0	505
+585	%s почын ом керт: Пеш шуко гана вес вере колтымо	He lives in Yoshkar-Ola.	Could not open %s: Redirected too many times	False	False	1.144369	52	52, 53, 340	0	256
+586	Йыжъеҥ	Pictures	Member Since	False	False	1.1635611	625	625, 722, 575	0	509
+587	Вотышто огылым кӧнымӧ огыл	Friday	Not allowed when offline	False	False	1.2574595	415	415, 52, 53	0	991
+588	Шикш	Shy	Smoke	False	False	1.1878569	711	711, 837, 52	0	220
+589	%s-лан теме: %s	%s (%s)	The topic for %s is: %s	False	False	1.2266648	236	236, 582, 112	0	262
+590	SIP/SIMPLE ойвозыш плагин	The SIP/SIMPLE Protocol Plugin	The SIP/SIMPLE Protocol Plugin	True	True	1.1321108	313	313, 918, 738	1.0	313
+591	Colorspace fallback	Torch	Colorspace fallback	False	True	1.2844841	446	446, 220, 745	0.3333333333333333	745
+592	Лаптыргыше	Friday	Humbled	False	False	1.1393102	415	415, 674, 625	0	902
+593	Йоҥылыш нерген раш каласымашым ужашлан, лачештарымаш тӧрзам поч да угыч ыштен ончо.	He lives in Yoshkar-Ola.	Please open the debug window and try again to see the exact error message.	False	False	1.2044709	52	52, 53, 390	0	74
+594	%s гыч %s -шке	%s (%s)	At %s since %s	False	True	1.1935257	236	236, 582, 652	0.3333333333333333	652
+595	XMPP службым почмаш	XMPP Service Discovery	XMPP Service Discovery	True	True	1.0630546	233	233, 809, 702	1.0	233
+596	Коля	Mouse	Mouse	False	True	1.172276	452	452, 846, 276	0.5	846
+597	Шолыплӱм але канал жаплан лиймеямде огыл.	Logging stopped. Future messages in this conversation will not be logged.	Nick or channel is temporarily unavailable.	False	False	1.1645644	707	707, 499, 997	0	508
+598	Тототлымверыш колтен кертме огыл %s,%s,%s	Conversations with %s	Unable to send to chat %s,%s,%s	False	False	1.1588587	180	180, 103, 265	0	134
+599	Возалтмаш кӱлеш	She lives in Yoshkar-Ola.	Registration Required	False	False	1.1597412	53	53, 52, 789	0	98
+600	Сомылкам ышташ	She lives in Yoshkar-Ola.	Create an event	False	False	1.2054248	53	53, 52, 312	0	783
+601	Ага	Lonely	May	False	False	1.1843835	771	771, 389, 715	0	336
+602	%s чывышталам...	Retrieving...	Goosing %s...	False	False	1.2227527	311	311, 544, 975	0	387
+603	_Йоҥылыш дене мут-влакым волгалтараш	He lives in Yoshkar-Ola.	Highlight _misspelled words	False	False	1.1211269	52	52, 53, 276	0	350
+604	Функцийым ыштыме огыл	He lives in Yoshkar-Ola.	Feature Not Implemented	False	False	1.2044442	52	52, 251, 202	0	361
+605	Пӧлемыште 0 пайдаланыше	Overwrite	0 people in room	False	False	1.2698833	467	467, 623, 771	0	390
+606	Пӧлка	Pictures	Department	False	False	1.1635611	625	625, 722, 575	0	893
+607	Кӧм шекланаш	Friday	Pounce Who	False	False	1.212382	415	415, 53, 625	0	703
+608	Biniax-2	Biniax-2	Biniax-2	True	True	1.06921	666	666, 53, 308	1.0	666
+609	%s-лан у лӱмым пурто	Joining %s requires an invitation.	Please enter the new name for %s	False	False	1.233922	531	531, 390, 53	0	412
+610	Файлым почын кертме огыл.	Penguin Mastermind	Unable to open file.	False	False	1.148787	178	178, 409, 768	0	481
+611	Музык ваш возгалымаш сеансым йодмо. Кумылаҥдашлан, ММ изисӱретым темдал.	He lives in Yoshkar-Ola.	A music messaging session has been requested. Please click the MM icon to accept.	False	False	1.1466101	52	52, 53, 973	0	733
+612	%s ӱжеш %s тототлымверыш %s	At %s since %s	%s has invited %s to the chat room %s	False	False	1.154686	652	652, 236, 582	0	922
+613	Мутланыше изисӱрет	He lives in Yoshkar-Ola.	Buddy Icon	False	False	1.2048575	52	52, 53, 214	0	226
+614	Жап эртен:	He lives in Yoshkar-Ola.	Time Elapsed:	False	False	1.254653	52	52, 808, 214	0	438
+615	%s чывышталам...	Retrieving...	Goosing %s...	False	False	1.2227527	311	311, 544, 975	0	915
+616	Тудым угыч аныклынет мо?	How many theaters are there in Yoshkar-Ola?	Would you like to overwrite it?	False	False	1.1875473	4	4, 52, 61	0	221
+617	Лекташ	She lives in Yoshkar-Ola.	Log Out	False	False	1.132348	53	53, 846, 452	0	248
+618	Уэш колташ	He lives in Yoshkar-Ola.	Reboot	False	False	1.1364362	52	52, 53, 3	0	937
+619	Удыралме	He lives in Yoshkar-Ola.	Strikethrough	False	False	1.0711048	52	52, 53, 214	0	813
+620	Мер	Mouse	Social	False	False	1.1581779	846	846, 452, 575	0	493
+621	Ок ярсе	He lives in Yoshkar-Ola.	Busy	False	False	1.215859	52	52, 53, 988	0	152
+622	Журнал папкым _ончен лекташ	She lives in Yoshkar-Ola.	_Browse logs folder	False	False	1.2622342	53	53, 3, 52	0	246
+623	ICQ приватлык ойыркалыме йӧн-влак	He lives in Yoshkar-Ola.	ICQ Privacy Options	False	False	1.1593366	52	52, 53, 308	0	522
+624	Ушымаш чылыкым тергымаш	He lives in Yoshkar-Ola.	Authenticating connection	False	False	1.1371329	52	52, 53, 199	0	845
+625	Вигак вашмутым колтымо:	He lives in Yoshkar-Ola.	Auto-response sent:	False	False	1.1085182	52	52, 53, 3	0	919
+626	Жап	Normal	Date	False	False	1.2302277	623	623, 393, 912	0	297
+627	/Мутланымаш/Увераҥарым _налаш	He lives in Yoshkar-Ola.	/Conversation/_Get Info	False	False	1.2644129	52	52, 53, 356	0	871
+628	Словен	Slovenian	Slovenian	True	True	1.2372743	588	588, 625, 771	1.0	588
+629	Тӱжвал сын	Pictures	Layout	False	False	1.2276798	625	625, 214, 452	0	167
+630	Buxon	Buxon	Buxon	True	True	1.0767734	276	276, 389, 625	1.0	276
+631	Pidgin вот-лаштыкыш пурен лек	He lives in Yoshkar-Ola.	Visit the Pidgin Web Page	False	False	1.2664673	52	52, 600, 53	0	224
+632	Колтымаш...	She lives in Yoshkar-Ola.	Retrieving...	False	False	1.2251059	53	53, 414, 52	0	311
+633	шуко вебым ышташ	He lives in Yoshkar-Ola.	Make the most of the web	False	False	1.1469493	52	52, 53, 867	0	123
+634	GIMP сӱретым тӧрлатыше	Personal IM	GIMP Image Editor	False	False	1.2716953	868	868, 53, 324	0	424
+635	Сеансын параметр-влак	She lives in Yoshkar-Ola.	Session Options	False	False	1.214107	53	53, 52, 694	0	277
+636	%s дене мутланымаш-влак	She lives in Yoshkar-Ola.	Conversations with %s	False	False	1.1960635	53	53, 52, 666	0	180
+637	Луддымо каласымаш-влак нерген тыйым шижтараш шуко йӧным пуа.	He lives in Yoshkar-Ola.	Provides a variety of ways of notifying you of unread messages.	False	False	1.0969417	52	52, 53, 178	0	260
+638	_Тототлымверым ышташ	Codec:	Initiate _Chat	False	False	1.1796281	109	109, 867, 52	0	655
+639	Могай улмо изисӱрет теме:	Buxon	Status Icon Theme:	False	False	1.2795955	276	276, 52, 53	0	331
+640	Шыгыремдыме XML	Log format	Restricted XML	False	False	1.1672986	735	735, 52, 53	0	339
+641	Налмаш	Proxy	Receiving	False	False	1.1349368	124	124, 996, 446	0	747
+642	Тототлымверыште кӧ деке ушнаш?	He lives in Yoshkar-Ola.	Join whom in chat?	False	False	1.1805251	52	52, 53, 3	0	111
+643	Мутланыше _лӱмерым ончыкташ	She lives in Yoshkar-Ola.	Show Buddy _List	False	False	1.161519	53	53, 52, 199	0	784
+644	Тиде команде тототлымверыште ок ышталт, писе каласымашыште гына.	Removing this contact will also remove all the buddies in the contact	That command only works in IMs, not chats.	False	False	1.196857	251	251, 202, 390	0	518
+645	Мӧҥгысӧ телефон номерым пурташ...	Set Home Phone Number...	Set Home Phone Number...	True	True	1.2245173	564	564, 89, 109	1.0	564
+646	Грек	Greek	Greek	True	True	1.2186931	739	739, 81, 389	1.0	739
+647	Луддымо каласымаш годым	Calm	On unread messages	False	False	1.1140947	312	312, 52, 53	0	225
+648	Balder2D	Balder2D	Balder2D	True	True	1.0713816	218	218, 600, 556	1.0	218
+649	Ӱжаш	Pictures	Invite	False	False	1.1635611	625	625, 722, 575	0	840
+650	%s тыланет каласымашым жаплан савыктымым чарнен (%s)	Conversations with %s	%s has paused while typing to you (%s)	False	False	1.210077	103	103, 180, 628	0	748
+651	Adun	Adun	Adun	False	True	1.1406709	827	827, 715, 389	0.5	715
+652	Тӱткылыкым йодам %s...	Retrieving...	Requesting %s's attention...	False	False	1.2175186	311	311, 544, 975	0	584
+653	Тӱшка лӱм	Friends	Group name	False	False	1.2279835	418	418, 696, 722	0	806
+654	Поктен лукмо (%s)	He lives in Yoshkar-Ola.	Kicked (%s)	False	False	1.2232107	52	52, 53, 790	0	491
+655	Тыйын уло мо	He lives in Yoshkar-Ola.	Has you	False	False	1.2840157	52	52, 53, 403	0	460
+656	Конфигурацийын файлым кучылташ	XMPP Console	Use configuration file	False	False	1.1430013	809	809, 864, 749	0	964
+657	Шоктымо лӱмерым ойыро	He lives in Yoshkar-Ola.	Choose Playlist	False	False	1.1488464	52	52, 53, 276	0	170
+658	Торасе ушымашым ыштен кертме огыл	He lives in Yoshkar-Ola.	Remote Connection Failed	False	False	1.1622485	52	52, 53, 265	0	127
+659	Могай улмо / Пашадыме	Penguin Mastermind	Status / Idle	False	False	1.2187102	178	178, 973, 52	0	904
+660	WAP-сервер	WAP Server	WAP Server	True	True	1.0969986	650	650, 718, 233	1.0	650
+661	Муро-влак	He lives in Yoshkar-Ola.	Songs	False	False	1.1344374	52	52, 53, 715	0	679
+662	Торасе пайдаланыше йодмашетым ӧрдыжтарен.	He lives in Yoshkar-Ola.	The remote user has declined your request.	False	False	1.2181741	52	52, 53, 3	0	817
+663	Редакторым колтымо годым йоҥылыш лийын	He lives in Yoshkar-Ola.	Error Running Editor	False	False	1.2343274	52	52, 499, 867	0	465
+664	IP-адрес	Instant Messaging	IP Address	False	True	1.1767465	864	864, 875, 770	0.5	875
+665	Тӱшка лӱм: %s SHA1 парня пале: %s	Error reading %s: %s.	Common name: %s SHA1 fingerprint: %s	False	True	1.2306212	716	716, 542, 268	0.3333333333333333	268
+666	Идалык	She lives in Yoshkar-Ola.	Anniversary	False	False	1.1972613	53	53, 52, 124	0	691
+667	'delbuddy' команде ыш шукталт	She lives in Yoshkar-Ola.	'delbuddy' command failed	False	False	1.1737635	53	53, 52, 124	0	475
+668	Текст версийым колташ	Romanian	Run in test mode	False	False	1.1947029	808	808, 52, 53	0	865
+669	.anyone гыч пурташ	She lives in Yoshkar-Ola.	Import from .anyone	False	False	1.2645977	53	53, 52, 170	0	888
+670	%s вуй ӱмбалне кидым кормыжын тылат порым пуэн!	Last 7 days	%s has high-fived you!	False	False	1.2590784	340	340, 902, 379	0	822
+671	Пӧлка	Pictures	Department	False	False	1.1635611	625	625, 722, 575	0	455
+672	Йоҥылыш билет	Lonely	Bad ticket	False	False	1.1845424	771	771, 415, 52	0	737
+673	Файл радамлыкын тӱрлыкшӧ	Log format	Filesystem type	False	False	1.143053	735	735, 603, 889	0	626
+674	Йошкар-Олаште вич театр.	He lives in Yoshkar-Ola.	In Yoshkar-Ola there are five theaters.	False	True	1.2563577	52	52, 3, 53	0.5	3
+675	Мутланымаш	He lives in Yoshkar-Ola.	Conversation	False	False	1.1669514	52	52, 53, 199	0	598
+676	Пиалан лийза!	On Vacation	Good luck!	False	True	1.256288	487	487, 34, 403	0.5	34
+677	Вучыше режим	Invite	Suspend	False	False	1.1487025	840	840, 276, 52	0	173
+678	Пайдаланыше нерген увераҥарым налмаш...	He lives in Yoshkar-Ola.	Retrieving User Information...	False	False	1.2711946	52	52, 53, 311	0	667
+679	Лекташ	She lives in Yoshkar-Ola.	Log Out	False	False	1.132348	53	53, 846, 452	0	940
+680	Пытартыш 7 кече	He lives in Yoshkar-Ola.	Last 7 days	False	False	1.2397382	52	52, 862, 53	0	340
+681	программирований	Programming	Programming	True	True	1.2169759	462	462, 521, 829	1.0	462
+682	Мый ончем тиде видеом.	My photos	I am watching this video.	False	False	1.3068477	117	117, 379, 890	0	24
+683	/Мутланыше-влак/У писе _каласымаш...	He lives in Yoshkar-Ola.	/Buddies/New Instant _Message...	False	False	1.210463	52	52, 53, 628	0	681
+684	Тӱкылыме пайдаланышым ончыкто.	He lives in Yoshkar-Ola.	Type a user to block.	False	False	1.1678586	52	52, 827, 715	0	253
+685	Алфавит дене	Buxon	Alphabetically	False	False	1.1680994	276	276, 409, 109	0	887
+686	R)epl	She lives in Yoshkar-Ola.	-- Type space to continue -- R)epl	False	False	1.3229259	53	53, 52, 235	0	280
+687	_Сертификатым ончен лекташ...	Codec:	_View Certificate...	False	False	1.206606	109	109, 52, 53	0	433
+688	Ялысе илыш оласе деч тазарак.	He lives in Yoshkar-Ola.	Country life is healthier than city life.	False	False	1.2382901	52	52, 53, 308	0	70
+689	%s -м (%s) кораҥдыме лӱмерыш ешарен кертме огыл.	Unknown error (%d)	Unable to add %s to deny list (%s).	False	False	1.220141	219	219, 52, 53	0	442
+690	Шырий!	Yahoo News	Smile!	False	False	1.2199634	580	580, 93, 389	0	175
+691	Сӱретым аныклен кертме огыл: %s	How many theaters are there in Yoshkar-Ola?	Failed to store image: %s	False	False	1.2153373	4	4, 52, 3	0	610
+692	IRC шолыплӱм да серверыште яравер лийын ок керт	IRC nick and server may not contain whitespace	IRC nick and server may not contain whitespace	True	True	1.1057582	743	743, 474, 609	1.0	743
+693	ляпкымаш: тӱдын тӱткылыкшым налаш пайдаланышылан кычкыралаш	She lives in Yoshkar-Ola.	buzz: Buzz a user to get their attention	False	False	1.2545245	53	53, 52, 3	0	910
+694	Шокшо	Mouse	Hot	False	False	1.1723847	846	846, 452, 625	0	484
+695	Мутланыше-влакым _шижтараш, кунам нунылан каласымашым савыктет	He lives in Yoshkar-Ola.	_Notify buddies that you are typing to them	False	False	1.1662098	52	52, 53, 877	0	490
+696	%s йодеш %s гынат, тудым ястарен кертме огыл.	He lives in Yoshkar-Ola.	%s requires %s, but it failed to unload.	False	False	1.1428106	52	52, 53, 409	0	177
+697	Чын огыл каталог	He lives in Yoshkar-Ola.	Invalid Directory	False	False	1.2497118	52	52, 53, 415	0	513
+698	Могай улмо-влакым аныклыме	He lives in Yoshkar-Ola.	Saved Statuses	False	False	1.2181665	52	52, 898, 53	0	985
+699	Мутланымашым петыраш	He lives in Yoshkar-Ola.	Close conversation	False	False	1.2121152	52	52, 53, 199	0	851
+700	Вот-браузер Firefox	Boot loader	Firefox web browser	False	False	1.159814	270	270, 471, 684	0	381
+701	Мутланышын палемдымаш: %s	He lives in Yoshkar-Ola.	Buddy Note: %s	False	False	1.2044752	52	52, 53, 3	0	174
+702	Вот-лаштык	Lastlog	Web Page	False	False	1.1673281	600	600, 292, 53	0	953
+703	Galeon	Galeon	Galeon	True	True	1.1974478	231	231, 694, 771	1.0	231
+704	Шолыплӱм (ешартыш)	The artificial satellite orbits the earth.	Alias (optional)	False	False	1.2526965	0	0, 52, 53	0	428
+705	MSN Mobile лаштык-влаклан кӧнаш	Buddy logs in	Allow MSN Mobile pages?	False	False	1.1562438	603	603, 53, 600	0	995
+706	Мутланыше лӱмерым колтымаш	He lives in Yoshkar-Ola.	Retrieving buddy list	False	False	1.1748588	52	52, 53, 3	0	830
+707	Мутланышын ойпелештышыже	He lives in Yoshkar-Ola.	Buddy Comment	False	False	1.1949877	52	52, 53, 3	0	938
+708	Тыйын MSN мутланыше лӱмер жаплан лиймеямде огыл. Тидым варарак ыштен ончо.	Do you want to report the problem now?	Your MSN buddy list is temporarily unavailable. Please wait and try again.	False	False	1.1971301	877	877, 178, 52	0	786
+709	Бильярд	Lonely	Play Billard Game	False	False	1.2205878	771	771, 694, 413	0	754
+710	Муро-влак	He lives in Yoshkar-Ola.	Songs	False	False	1.1344374	52	52, 53, 715	0	971
+711	Файлым почмо годым йоҥылыш лийын.	Instant Messaging	An error occurred while opening the file.	False	False	1.1603401	864	864, 109, 735	0	165
+712	_Порт:	Lonely	_Port:	False	False	1.1630769	771	771, 214, 575	0	548
+713	MOTD-ым ончен лекташ	He lives in Yoshkar-Ola.	View MOTD	False	False	1.138258	52	52, 53, 3	0	454
+714	Ышташ, кунам мутланыше...	How many theaters are there in Yoshkar-Ola?	Pounce When Buddy...	False	False	1.2093682	4	4, 52, 53	0	72
+715	Колтымо годым пытартыш мут-влакым вашталташлан кӧнаш	He lives in Yoshkar-Ola.	Enable replacement of last word on send	False	False	1.0801346	52	52, 53, 409	0	693
+716	Пашазе ӱстел-влак	Lost	Workspaces	False	False	1.1610726	285	285, 53, 389	0	210
+717	Мутланышым кораҥден кертме огыл	He lives in Yoshkar-Ola.	Failed to remove buddy	False	False	1.1916245	52	52, 53, 3	0	810
+718	Мутланышын шолыплӱмжӧ	He lives in Yoshkar-Ola.	Alias Buddy	False	False	1.262618	52	52, 53, 603	0	942
+719	Эрла каныш кече.	He lives in Yoshkar-Ola.	Tomorrow's a holiday.	False	False	1.1858861	52	52, 53, 598	0	68
+720	Ка-Хин Чон	Ka-Hing Cheung	Ka-Hing Cheung	True	True	1.0662313	101	101, 281, 292	1.0	101
+721	Тӧрза вуймут тӱҥалтышыш у каласымаш-влак _чотым шындаш	He lives in Yoshkar-Ola.	Insert c_ount of new messages into window title	False	False	1.1411538	52	52, 53, 202	0	217
+722	Файлым ойыраш	File Transfer	Select a file	False	False	1.1784066	126	126, 735, 401	0	597
+723	GNUTLS дене SSL эҥертышым пуа.	Provides SSL support through GNUTLS.	Provides SSL support through GNUTLS.	True	True	1.1294949	713	713, 324, 313	1.0	713
+724	URL-ым да кылверым возен ончыктымашым пурто, кудым тый шындынет. Возен ончыктымаш ешартыш улеш.	The PIN is invalid. It should only consist of digits [0-9].	Please enter the URL and description of the link that you want to insert. The description is optional.	False	False	1.1372607	409	409, 666, 410	0	978
+725	Тый тыште илет?	Did you live here?	Did you live here?	True	True	1.2885168	61	61, 4, 42	1.0	61
+726	Кораҥдыме	Pictures	Rubbish Bin	False	False	1.1635611	625	625, 722, 575	0	191
+727	Йодыш-влакым пуэдем	Buxon	Questioning	False	False	1.1427554	276	276, 52, 53	0	365
+728	шке командыдам аралыза	She lives in Yoshkar-Ola.	Defend your Command	False	False	1.169452	53	53, 52, 674	0	279
+729	MOTD ончыктымаште йоҥылыш	She lives in Yoshkar-Ola.	Error displaying MOTD	False	False	1.161501	53	53, 52, 666	0	133
+730	Инструкций север: %s	Drinking	Server Instructions: %s	False	True	1.2189983	837	837, 345, 957	0.5	345
+731	Шолыпмут (эше ик гана)	He lives in Yoshkar-Ola.	Password (again)	False	False	1.1770673	52	52, 53, 3	0	881
+732	Мыйын шонымаште, Франций - Европышто эн мотор эл.	I think France is the most beautiful country in Europe.	I think France is the most beautiful country in Europe.	True	True	1.277214	29	29, 472, 61	1.0	29
+733	Gnt вашталтыш буфер	She lives in Yoshkar-Ola.	GntClipboard	False	False	1.2099423	53	53, 600, 718	0	417
+734	CdCat	CdCat	CdCat	True	True	1.1740254	678	678, 973, 979	1.0	678
+735	Yahoo Увер	Hebrew	Yahoo News	False	True	1.2214632	214	214, 53, 580	0.3333333333333333	580
+736	%s темым эрыктен.	He lives in Yoshkar-Ola.	%s has cleared the topic.	False	False	1.1683476	52	52, 53, 3	0	797
+737	Мобил лаштык-влакым кӧнаш/чараш...	Penguin Mastermind	Allow/Disallow Mobile Pages...	False	False	1.2308671	178	178, 4, 53	0	470
+738	Ышташ	Pictures	Create	False	False	1.2328734	625	625, 389, 458	0	979
+739	Кызытсе жаплан тый ушымаш деч кораҥдыме улат. Каласымаш-влак тунам колтымо лийыт, кунам тый вотыш пурет.	She lives in Yoshkar-Ola.	You are currently disconnected. Messages will not be received unless you are logged in.	False	False	1.1355894	53	53, 52, 3	0	701
+740	Йӱк-влак	Lost	Voices	False	False	1.178503	285	285, 694, 119	0	724
+741	Сертификат нерген увераҥар	Codec:	Certificate Information	False	False	1.2178638	109	109, 537, 151	0	160
+742	Файлым почаш...	He lives in Yoshkar-Ola.	Open File...	False	False	1.2158644	52	52, 178, 864	0	601
+743	MXit ID	MXit ID	MXit ID	False	True	1.0978189	928	928, 478, 771	0.5	478
+744	Коля дене ончыктымаш-влак	He lives in Yoshkar-Ola.	Mouse Gestures	False	False	1.1991041	52	52, 898, 276	0	740
+745	Кызытсе да у шолыпмутетым пурто.	He lives in Yoshkar-Ola.	Please enter your current password and your new password.	False	False	1.112206	52	52, 53, 409	0	921
+746	Эртык плагин журналым наҥгаяш кӱшта	Presence	History Plug-in Requires Logging	False	False	1.1921871	862	862, 840, 52	0	914
+747	Изисӱретыым шынден кертме огыл	He lives in Yoshkar-Ola.	Could not set icon	False	False	1.2070376	52	52, 53, 715	0	643
+748	Системым йӧрыкташ	Invite	System Shutdown	False	False	1.1887999	840	840, 276, 770	0	532
+749	_Лектыш	Drinking	_Crop	False	False	1.1848749	837	837, 625, 285	0	662
+750	Чаманен каласаш логалеш, тыйын йодышлан файл але папке-влак уке улыт.	The PIN is invalid. It should only consist of digits [0-9].	Sorry, there are no files or folders that match your search.	False	False	1.1158426	409	409, 406, 251	0	570
+751	Вес луддымо каласымаш-влакым лудашлан, колян пурла полдышым темдал...	Removing this contact will also remove all the buddies in the contact	Right-click for more unread messages...	False	False	1.1473844	202	202, 251, 52	0	239
+752	Кугарня	She lives in Yoshkar-Ola.	Friday	False	False	1.1915286	53	53, 598, 52	0	415
+753	Писе каласымаш-влакыште у корным ешараш	He lives in Yoshkar-Ola.	Add new line in IMs	False	False	1.1375517	52	52, 53, 3	0	377
+754	kick <каналgt; <шолыплӱмgt; [ойпелешты﻿ : Ппайдаланышым канал гыч кораҥдаш	part [message]: Leave the room.	kick <channelgt; <nickgt; [comment]: Kick client from channel	False	False	1.2916864	602	602, 102, 900	0	329
+755	"Ончыктышын ""Полшык"" командым ойырымо, да командым ыштымо огыл."	He lives in Yoshkar-Ola.	The 'Manual' browser command has been chosen, but no command has been set.	False	False	1.1691041	52	52, 973, 53	0	847
+756	Прокси _сын:	Proxy	Proxy _type:	False	False	1.2083211	124	124, 788, 109	0	563
+757	Койдымо	Spooky	Invisible	False	False	1.1387833	727	727, 52, 619	0	557
+758	Уэмдымаш-влакым тергыме годым йӧстык лийын	Changes to privacy settings take effect immediately.	A problem occurred when checking for the updates.	False	False	1.1444931	867	867, 862, 202	0	592
+759	Йоҥылыш: Торасе системе темлыме KE тӱшкалан ок эҥерте	SOCKS 5	Failure: Remote does not support proposed KE group	False	False	1.2712098	265	265, 793, 867	0	932
+760	Cantor	Pictures	Cantor	False	False	1.1729443	625	625, 575, 136	0	763
+761	Лекташ	She lives in Yoshkar-Ola.	Log Out	False	False	1.132348	53	53, 846, 452	0	163
+762	Мыскылалтше	She lives in Yoshkar-Ola.	Humiliated	False	False	1.2439071	53	53, 52, 389	0	850
+763	Сравоч-влакым ваш келыштарен кертме огыл	He lives in Yoshkar-Ola.	Key Agreement failed	False	False	1.1861641	52	52, 53, 694	0	671
+764	Шолыпмут тоштемын	He lives in Yoshkar-Ola.	Password has expired	False	False	1.1222601	52	52, 53, 214	0	977
+765	"""%s"" деч ""%s"" дек файл колтымаш налмаш вигак кумылаҥдалтын."	Re-read gtkrc files	"Autoaccepted file transfer of ""%s"" from ""%s"" completed."	False	False	1.1596417	812	812, 219, 610	0	159
+766	_Писе каласымаш тӧрза-влак	She lives in Yoshkar-Ola.	_IM windows	False	False	1.1727265	53	53, 52, 862	0	916
+767	Йошкар-Олаште мыняр театр?	In Yoshkar-Ola there are five theaters.	How many theaters are there in Yoshkar-Ola?	False	True	1.2543603	3	3, 4, 53	0.5	4
+768	Шынамат: stunserver.org	Lastlog	Example: stunserver.org	False	True	1.2144442	600	600, 595, 973	0.5	595
+769	Мутланыше вот гыч лектеш	He lives in Yoshkar-Ola.	Buddy logs out	False	False	1.1904655	52	52, 53, 3	0	403
+770	Прокси	She lives in Yoshkar-Ola.	Proxy	False	False	1.2302194	53	53, 52, 649	0	124
+771	Shotwell фотографий-влак менеджер	Shotwell Photo Manager	Shotwell Photo Manager	True	True	1.2332928	585	585, 864, 600	1.0	585
+772	Теме утыж дене кугу	Invite	Topic too long.	False	False	1.2119501	840	840, 694, 53	0	495
+773	Йырвел келыштарымаш-влакым кучылташ	He lives in Yoshkar-Ola.	Use Environmental Settings	False	False	1.134834	52	52, 53, 276	0	632
+774	Инженеринг	Log Out	Engineering	False	False	1.2149607	248	248, 940, 163	0	560
+775	MXit ID	MXit ID	MXit ID	True	True	1.0978189	928	928, 478, 771	1.0	928
+776	Мутланымашым тӱҥалше каласымашым налме	He lives in Yoshkar-Ola.	Message received begins conversation	False	False	1.2304602	52	52, 312, 53	0	755
+777	Тототлымвер-влак	Lastlog	Chats	False	False	1.151972	600	600, 603, 53	0	469
+778	Кораҥдаш	Pictures	Remove	False	False	1.1635611	625	625, 722, 575	0	351
+779	calibre	Pictures	calibre	False	False	1.1910272	625	625, 214, 575	0	801
+780	E-mail адрес-влак	Auto-join	Emails	False	False	1.164138	82	82, 864, 471	0	100
+781	Тый вашкыл-влакын эн кугу чот кугытыш шуынат	He lives in Yoshkar-Ola.	You have reached your limit for the number of contacts allowed	False	False	1.1786944	52	52, 53, 4	0	343
+782	Весе	Mouse	Other	False	False	1.2066939	452	452, 846, 214	0	131
+783	print job	Indonesian	Pendingprint job	False	False	1.2450731	136	136, 214, 575	0	342
+784	Мутланымаш _вкладкыш переключатлыме годым кораҥдаш	She lives in Yoshkar-Ola.	Remove on switch to conversation ta_b	False	False	1.1942003	53	53, 52, 409	0	408
+785	%s -ште шындыме канал режим уке	There is no splash-screen currently available	no channel modes are set on %s	False	False	1.170363	728	728, 53, 52	0	589
+786	"""msnim"" URL дене кучылталтше команде, чӱктымӧ гын."	Angband (GTK)	"The command used to handle ""msnim"" URLs, if enabled."	False	False	1.1053021	308	308, 728, 867	0	741
+787	Чынак мо %s-лан сертификатым кораҥдаш?	How many theaters are there in Yoshkar-Ola?	Really delete certificate for %s?	False	False	1.153253	4	4, 251, 202	0	110
+788	_Ӱлыч удыралме	She lives in Yoshkar-Ola.	_Underline	False	False	1.1165085	53	53, 52, 567	0	746
+789	Каннада	Pictures	Kannada	False	False	1.208636	625	625, 912, 285	0	517
+790	Плагиным келыштарыме деч ончыч налаш кӱлеш.	Presence	Plugin need to be loaded before you can configure it.	False	False	1.191857	862	862, 827, 715	0	656
+791	Вигак вес верыш порт-влакым колтымашым чӱкташ	She lives in Yoshkar-Ola.	_Enable automatic router port forwarding	False	False	1.2178006	53	53, 52, 308	0	929
+792	_Эше...	Retrieving...	_More...	False	False	1.284318	311	311, 533, 414	0	925
+793	Офис	Alias	Office	False	False	1.2699599	694	694, 575, 458	0	348
+794	Интересы	Presence	Interests	False	False	1.2307976	862	862, 840, 254	0	230
+795	Пейджер порт	Overwrite	Pager port	False	False	1.1959679	467	467, 572, 151	0	718
+796	IPC эҥертыш тест плагин сервер семын.	GG server	Test plugin IPC support, as a server.	False	False	1.1310425	324	324, 702, 313	0	966
+797	Мибо	Meebo	Meebo	True	True	1.1592938	619	619, 846, 452	1.0	619
+798	gtkrc файл-влакым угыч лудаш	Re-read gtkrc files	Re-read gtkrc files	True	True	1.0915228	812	812, 406, 735	1.0	812
+799	Мучашлалтше колтымаш-влакым _эрыкташDownload Details	He lives in Yoshkar-Ola.	Download Details	False	False	1.1445426	52	52, 53, 406	0	326
+800	Кок SILC сравоч-влакым налме годым йоҥылыш лийын	Angband (GTK)	Error loading SILC key pair	False	False	1.2012434	308	308, 600, 263	0	503
+801	%s ӱжеш %s тототлымверыш %s	At %s since %s	%s has invited %s to the chat room %s	False	False	1.154686	652	652, 236, 582	0	944
+802	Пытартыш палеbacklog	Proxy	Lastlog	False	False	1.170517	124	124, 479, 862	0	600
+803	Тый тиде сӱретым файл колтымаш дене колтен, тудым каласымашыш шынден але тиде пайдаланышылан мутланыше изисӱрет семын кучылтын кертат.	Removing this contact will also remove all the buddies in the contact	You can send this image as a file transfer, embed it into this message, or use it as the buddy icon for this user.	False	False	1.2131459	202	202, 251, 130	0	700
+804	Файл шупшын налаш лиймеямде: Торасе хост: %s Торасе порт: %d	A file is available for download from: Remote host: %s Remote port: %d	A file is available for download from: Remote host: %s Remote port: %d	True	True	1.1097629	249	249, 345, 151	1.0	249
+805	Чараш	Mouse	Cancel	False	False	1.1453035	452	452, 846, 694	0	332
+806	Йодмашым ӧрдыжтарыме	Calm	Request denied	False	False	1.1680202	312	312, 214, 499	0	338
+807	/Ӱзгар-влак/_Йӱк-влакым йӧрыкташ	0 people in room	/Tools/Mute _Sounds	False	False	1.2451873	390	390, 902, 904	0	524
+808	Пурымо лӱмым вес вере колтымо	He lives in Yoshkar-Ola.	Login Redirected	False	False	1.1369294	52	52, 53, 727	0	883
+809	У каласымашым возаш	He lives in Yoshkar-Ola.	Compose New Message	False	False	1.1545768	52	52, 53, 598	0	255
+810	Командым шуктымо годым вашпижмаш лийын:	Calm	There was a conflict in running the command:	False	False	1.1502974	312	312, 52, 53	0	257
+811	Эҥерталтеш	Pictures	Supports	False	False	1.1635611	625	625, 722, 575	0	147
+812	Йӧра, тӱнӧ вучалтыза.	He lives in Yoshkar-Ola.	Okay, wait outside.	False	False	1.2332587	52	52, 53, 214	0	2
+813	(Тый, очыни, 'make install'-ым ышташ монденат.)	(You probably forgot to 'make install'.)	(You probably forgot to 'make install'.)	True	True	1.1640087	530	530, 608, 4	1.0	530
+814	Аралыме луктымаш	He lives in Yoshkar-Ola.	Safely remove	False	False	1.157375	52	52, 53, 276	0	397
+815	_Вес лӱмым пуаш	On Vacation	_Rename	False	False	1.2400174	487	487, 389, 53	0	631
+816	/Ӱзгар-влак/Йӱк-влакым йӧрыкташ	0 people in room	/Tools/Mute Sounds	False	False	1.2291932	390	390, 902, 53	0	356
+817	%s тылат каласымашым колтенам (%s)	In Yoshkar-Ola there are five theaters.	%s has sent you a message. (%s)	False	False	1.189918	3	3, 340, 52	0	685
+818	Мутланымаш _вкладкыш переключатлыме годым кораҥдаш	She lives in Yoshkar-Ola.	Remove on switch to conversation ta_b	False	False	1.1942003	53	53, 52, 409	0	873
+819	Мобил телефон номер	Mobile Phone Number	Mobile Phone Number	True	True	1.1333572	394	394, 164, 729	1.0	394
+820	Шотыш налме возышым ешарыме огыл	OCaml	Account has been disabled	False	False	1.203444	973	973, 52, 53	0	441
+821	%s нераш тӱҥалын.	She lives in Yoshkar-Ola.	%s has become idle.	False	False	1.2073599	53	53, 52, 340	0	819
+822	Мылам тиде кнага ок келше.	The message is too large.	I don't like this book.	False	False	1.2406085	499	499, 52, 379	0	31
+823	Текст субтитрын файлым ойырза	File transfer proxies	Select a file to use for text subtitles	False	False	1.1610798	899	899, 105, 505	0	561
+824	Шке шырий-влак дене виктарымаш	Buxon	Custom Smiley Manager	False	False	1.1854085	276	276, 52, 53	0	319
+825	Кӱсен кутырчык	She lives in Yoshkar-Ola.	Cell phone	False	False	1.1378063	53	53, 52, 771	0	456
+826	Windows Live Messenger ойвозыш плагин	Windows Live Messenger Protocol Plugin	Windows Live Messenger Protocol Plugin	True	True	1.1460668	609	609, 864, 474	1.0	609
+827	Мутланышын E-mail адресшым савыкте, кудым тый кычалат.	Instant Messaging	Type the email address of the buddy you are searching for.	False	False	1.1694167	864	864, 474, 603	0	309
+828	шоктышо але мурызо	Buxon	artist	False	False	1.2390296	276	276, 499, 53	0	722
+829	Службо лиймеямде огыл	On Vacation	Service unavailable	False	False	1.1860791	487	487, 392, 513	0	633
+830	Йӱам	Pictures	Drinking	False	False	1.1635611	625	625, 722, 575	0	837
+831	_Кораҥдаш	Lonely	_Remove	False	False	1.2042286	771	771, 722, 389	0	355
+832	Мутланыше лӱмерым файл гыч налаш...	Buddy logs in	Load buddylist from file...	False	False	1.2207899	603	603, 109, 600	0	444
+833	Урду	Bangarang	Urdu	False	False	1.1424445	720	720, 446, 771	0	388
+834	_Шолыпмут:	Hebrew	_Password:	False	False	1.1508992	214	214, 124, 109	0	664
+835	Шкетын	Romanian	Lonely	False	False	1.2239826	808	808, 846, 452	0	771
+836	IRC сервер налме каласымашым умылен огыл.	XMPP Service Discovery	The IRC server received a message it did not understand.	False	False	1.1209044	233	233, 809, 841	0	341
+837	Тудо мыняр ияш?	How many theaters are there in Yoshkar-Ola?	How old is she?	False	False	1.2676146	4	4, 3, 15	0	57
+838	Куки - чыла пий дечат кумылло.	Good luck!	Cookie is the cutest of all the dogs.	False	False	1.2773769	34	34, 514, 898	0	9
+839	Фотосӱрет	Pictures	Pictures	True	True	1.1635611	625	625, 722, 575	1.0	625
+840	Тӧрза-влак _фокусыштеNotification Methods	Buddy logs in	_Focused windowsNotification Methods	False	False	1.1561078	603	603, 600, 784	0	86
+841	Шолыплӱм	Pictures	Alias	False	False	1.1635611	625	625, 722, 575	0	694
+842	Пайдаланыше нерген справкым кычалаш	Changes to privacy settings take effect immediately.	User lookup	False	False	1.1825972	867	867, 825, 409	0	863
+843	XMPP шолыпмутым вашталташ	XMPP Console	Change XMPP Password	False	False	1.191814	809	809, 52, 53	0	738
+844	Кычалмаш	She lives in Yoshkar-Ola.	Searching	False	False	1.093219	53	53, 52, 124	0	709
+845	Текст увераҥар, кунам мутланыше вотышто	Join whom in chat?	The text information for when a buddy is online	False	False	1.1662965	111	111, 4, 53	0	459
+846	%s тылат каласымашым савыктымым чарнен(%s)	%s has returned from being idle (%s)	%s has stopped typing to you (%s)	False	False	1.2196525	511	511, 725, 219	0	607
+847	Pidgin пеҥгыдемдыме семын могай улмо изисӱрет теме	Possible Matches	The default Pidgin status icon theme	False	False	1.2710043	898	898, 996, 275	0	773
+848	Cbrpager	Cbrpager	Cbrpager	True	True	1.1709429	796	796, 353, 973	1.0	796
+849	Ончалтыш	Sunday	View	False	False	1.1677463	945	945, 771, 363	0	903
+850	Пычкемышрак	Choose Playlist	Darker	False	False	1.2086458	170	170, 988, 830	0	473
+851	Рушарня	She lives in Yoshkar-Ola.	Sunday	False	False	1.1614134	53	53, 52, 837	0	945
+852	Шотыш налме возышын пашадыме жапшым кудалташ	He lives in Yoshkar-Ola.	Unset Account Idle Time	False	False	1.1893625	52	52, 53, 862	0	83
+853	win32 порт	win32 port	win32 port	True	True	1.1364914	880	880, 494, 566	1.0	880
+854	Тылзе Мландын спутникше улеш.	He lives in Yoshkar-Ola.	The moon is a satellite of the earth.	False	False	1.1701708	52	52, 53, 3	0	63
+855	Палыдыме йоҥылыш. Тототлымвер пӧлемыш угыч ушнен ончашлан, вот гыч лек да 5 минут вучалте	Unknown error. You may need to logout and wait five minutes before being able to rejoin a chatroom	Unknown error. You may need to logout and wait five minutes before being able to rejoin a chatroom	True	True	1.1873316	999	999, 251, 202	1.0	999
+856	Тиде кӧ?	Buxon	Who is this?	False	False	1.2417142	276	276, 840, 461	0	44
+857	%s тыланет %d файл гыч тӱшкам колташ тӧча.	Unknown error (%d)	%s is trying to send you a group of %d files.	False	False	1.1675338	219	219, 610, 324	0	510
+858	(%s) сервер могырышто приватлык келыштарымаш-влакым алмалташ ыш лий.	XMPP Service Discovery	Unable to change server side privacy settings (%s).	False	False	1.1225878	233	233, 809, 324	0	492
+859	Чурийкойышым колташ	He lives in Yoshkar-Ola.	Send emoticons	False	False	1.1807466	52	52, 53, 3	0	949
+860	%s нерымым чарнен (%s)	Unknown error (%d)	%s has returned from being idle (%s)	False	False	1.2723696	219	219, 235, 340	0	511
+861	Пайдаланыше лӱмым але еҥын шолыплӱмжым пурто, кудын журналжым тый ончен лекнет ыле.Options	Removing this contact will also remove all the buddies in the contact	Please enter the username or alias of the person whose log you would like to view.	False	False	1.1724712	202	202, 251, 178	0	842
+862	Возалтмаш %s@%s эсен мучашлалтын	She lives in Yoshkar-Ola.	Registration of %s@%s successful	False	False	1.1770357	53	53, 52, 353	0	162
+863	%s канал вотышто уке улеш	She lives in Yoshkar-Ola.	Channel %s does not exist in the network	False	False	1.1982718	53	53, 52, 340	0	261
+864	Тый розам ужат?	How many theaters are there in Yoshkar-Ola?	Do you see the rose?	False	False	1.2031546	4	4, 44, 3	0	60
+865	X-дисплейым муын кертме огыл	Penguin Mastermind	Couldn't find X display	False	False	1.1529315	178	178, 919, 666	0	941
+866	Те миеда вашлиймашыш?	Join whom in chat?	Are you going to the meeting?	False	False	1.2547696	111	111, 60, 877	0	42
+867	Хотя у меня стали иссякать силы, я не хочу показывать людям свою слабость.	I cannot accept this gift.	Although my strength has started to give out, I do not want to show my weakness to people.	False	True	1.3693159	25	25, 65, 37	0.5	65
+868	Илымвер-влак	She lives in Yoshkar-Ola.	Places Lived	False	False	1.1976659	53	53, 52, 694	0	294
+869	Категорий-влак	Logged In	Categories	False	False	1.2324402	292	292, 654, 735	0	94
+870	Ойгырымаш	He lives in Yoshkar-Ola.	Depression	False	False	1.2056608	52	52, 214, 53	0	758
+871	Пыштыше дискым вашталтыза	She lives in Yoshkar-Ola.	Change Boot Disk	False	False	1.1630914	53	53, 52, 467	0	266
+872	SIP/SIMPLE ойвозыш плагин	The SIP/SIMPLE Protocol Plugin	SIP/SIMPLE Protocol Plugin	False	True	1.1321108	313	313, 918, 738	0.5	918
+873	Могайже вара тӱрыс?	How many theaters are there in Yoshkar-Ola?	Which one is correct?	False	False	1.2864547	4	4, 111, 52	0	15
+874	ШЕКЛАНАШ	ONCE SET, THIS CANNOT BE CHANGED!	WATCH	False	False	1.2802974	640	640, 793, 265	0	385
+875	Лӱм:	Malay	First name:	False	False	1.1224043	575	575, 214, 771	0	399
+876	Паша деч кораҥше ыштыше-влак	He lives in Yoshkar-Ola.	Retired Developers	False	False	1.1761702	52	52, 53, 178	0	504
+877	Канал дек ушнен керташ ыш лий	He lives in Yoshkar-Ola.	Cannot join channel	False	False	1.2211546	52	52, 53, 715	0	692
+878	Сервер шотлем	Merge Groups	Server Statistics	False	False	1.2241125	494	494, 790, 53	0	118
+879	Каласымашым колтымо годым йоҥылыш лийын	He lives in Yoshkar-Ola.	Message Send Error	False	False	1.1998467	52	52, 53, 598	0	145
+880	5.1-канал	5.1-channel	5.1-channel	True	True	1.1918074	485	485, 415, 214	1.0	485
+881	Нерен колтен %dм	Send emoticons	Idle %dm	False	False	1.3301531	949	949, 124, 996	0	278
+882	шке папкыдам почса	In Yoshkar-Ola there are five theaters.	Open your personal folder	False	False	1.3001493	3	3, 694, 53	0	815
+883	Кодировко-влак	Lastlog	Encodings	False	False	1.103936	600	600, 603, 292	0	857
+884	Шке шотан возышым пеҥгыдемдаш	He lives in Yoshkar-Ola.	Confirm Account	False	False	1.23724	52	52, 53, 178	0	775
+885	Налаш	Mouse	Buy	False	False	1.1739419	452	452, 846, 771	0	911
+886	Итальян	Slovenian	Italian	False	True	1.2284439	588	588, 800, 214	0.5	800
+887	Коля	Mouse	Mouse	True	True	1.172276	452	452, 846, 276	1.0	452
+888	Тыгай лӱм дене папке уло	He lives in Yoshkar-Ola.	A folder with that name already exists	False	False	1.2808262	52	52, 810, 244	0	344
+889	Канышыште	Hebrew	On Vacation	False	False	1.2187779	214	214, 53, 452	0	487
+890	%s верысе лӱмерыште, но не лӱмерыште на сервере. тиде мутланышым ешарынет?	Can't guess meta-packag	%s is on the local list but not on the server list. Do you want this buddy to be added?	False	False	1.160044	406	406, 768, 570	0	396
+891	Паспорт шотыш налме возышым эше тергыме огыл	He lives in Yoshkar-Ola.	Passport account not yet verified	False	False	1.2301953	52	52, 973, 223	0	325
+892	Тӱшкам да тудын йыжъеҥ-влакым тыйын мутланыше лӱмер ешарашлан адрес кнага тӱшка палемдымаш лӱмым аланыште ӱлнӧ пурто.	Removing this contact will also remove all the buddies in the contact	Enter the name of a Notes Address Book group in the field below to add the group and its members to your buddy list.	False	False	1.1838624	202	202, 251, 919	0	641
+893	Шолыплӱмым вашталтен кертме огыл	He lives in Yoshkar-Ola.	Failed to change nickname	False	False	1.2215521	52	52, 53, 3	0	844
+894	Тыйын чумыр пого вожысе сертификатлан уке, садлан тиде сертификатым тичмашы тергаш огеш лий.	Can't guess meta-packag	You have no database of root certificates, so this certificate cannot be validated.	False	False	1.1640649	406	406, 603, 251	0	168
+895	Кӱшнӧ	Pictures	Top	False	False	1.1635611	625	625, 722, 575	0	318
+896	Пайдаланыше лӱмым, кудым лиймеямдылан тергаш, пурто.	Removing this contact will also remove all the buddies in the contact	Please enter a username to check its availability:	False	False	1.152259	202	202, 251, 999	0	317
+897	Шуко икганаште пурымашлан кӧнаш	Drinking	Allow multiple simultaneous logins	False	False	1.1901598	837	837, 877, 52	0	240
+898	Шотыш налме возышетым кызыт кылмыктыме	He lives in Yoshkar-Ola.	Your account is currently suspended	False	False	1.153416	52	52, 53, 406	0	951
+899	Шолуп_мут:	Codec:	Pa_ssword:	False	False	1.14651	109	109, 558, 124	0	362
+900	Ушымашым кӱрлын кертме огыл	He lives in Yoshkar-Ola.	Cannot detach	False	False	1.164808	52	52, 53, 28	0	512
+901	Чӱктыш-йӧртыш	Friends	Switcher	False	False	1.2386768	418	418, 696, 53	0	556
+902	Пайдаланыше нерген увераҥарым налмаш...	He lives in Yoshkar-Ola.	Retrieving User Information...	False	False	1.2711946	52	52, 53, 311	0	183
+903	Сеҥалтдыме	Pictures	Invincible	False	False	1.1635611	625	625, 722, 575	0	237
+904	Шаҥгак тушто	Normal	Already there	False	False	1.2253062	623	623, 458, 276	0	514
+905	Папкым ойыраш...	Malay	Select Folder...	False	False	1.3018029	575	575, 808, 3	0	411
+906	Лӱм:	Malay	Title:	False	False	1.1224043	575	575, 214, 771	0	302
+907	Мутланымашым петыраш	He lives in Yoshkar-Ola.	Close conversation	False	False	1.2121152	52	52, 53, 199	0	568
+908	Ешартыш вераҥдалтмаш	He lives in Yoshkar-Ola.	ExtPlacement	False	False	1.1592846	52	52, 53, 214	0	954
+909	Теме	Stop	Topic	False	False	1.2440774	458	458, 290, 415	0	742
+910	Кораҥдаш	Pictures	Delete	False	False	1.1635611	625	625, 722, 575	0	479
+911	Шотыш налме возышым возыктымаш эсен кораҥдалтын	He lives in Yoshkar-Ola.	Account successfully unregistered	False	False	1.2249367	52	52, 53, 862	0	75
+912	Том монден теҥгече кастене пийым пукшаш.	Invincible	Tom forgot to feed his dog last night.	False	False	1.2595065	237	237, 276, 628	0	48
+913	Мутланыше лӱмерым файлыш аныклаш...	Buddy logs in	Save buddylist to file...	False	False	1.2427081	603	603, 52, 53	0	404
+914	Anki	Anki	Anki	True	True	1.1344385	980	980, 694, 575	1.0	980
+915	Ты жаплан тиде компьютерыште муро уке.	Penguin Mastermind	There is no music currently available on this computer.	False	False	1.2062287	178	178, 52, 53	0	913
+916	Gadu-Gadu ойвозыш плагин	Gadu-Gadu Protocol Plug-in	Gadu-Gadu Protocol Plug-in	True	True	1.2362291	102	102, 666, 324	1.0	102
+917	Вераҥдымаш файл ({}) але лӱм	Layout file ({}) or name	Layout file ({}) or name	True	True	1.2385161	876	876, 552, 867	1.0	876
+918	Лӱм эвристикым кучылташ	He lives in Yoshkar-Ola.	Use name heuristics	False	False	1.1399031	52	52, 53, 214	0	908
+919	Вашкыл увераҥар	Alias	Contact Info	False	False	1.1475554	694	694, 124, 276	0	155
+920	Сравоч парня пале оза:%s	Obsolete SNAC	Founder Key Fingerprint:%s	False	False	1.2272696	436	436, 340, 487	0	506
+921	Тӱшка лӱм: %s SHA1 парня пале: %s	Error reading %s: %s.	Common name: %s SHA1 fingerprint: %s	False	True	1.2306212	716	716, 542, 268	0.5	542
+922	AOL-ышто огыл	Angband (GTK)	Not while on AOL	False	False	1.2598456	308	308, 770, 768	0	293
+923	/Мутланымаш/_Журналым ончен лекташ	He lives in Yoshkar-Ola.	/Conversation/View _Log	False	False	1.179637	52	52, 53, 3	0	990
+924	/Полыш/_Программе нерген	/Tools/Privacy	/Help/_About	False	False	1.1565472	900	900, 524, 356	0	736
+925	Писе каласымаш алмаш	He lives in Yoshkar-Ola.	Instant Messaging	False	False	1.172795	52	52, 53, 487	0	864
+926	Журналым наҥгайым чарыме. Тиде мутланымаште вес каласымаш-влак аныклыме огыт лий.	He lives in Yoshkar-Ola.	Logging stopped. Future messages in this conversation will not be logged.	False	False	1.0958858	52	52, 53, 390	0	707
+927	MXit WAP сайт дене кыл йоҥылыш. Варарак ыштен ончо.	MXit ID	Error contacting the MXit WAP site. Please try again later.	False	False	1.174079	928	928, 478, 718	0	803
+928	Pidgin-ын шырий-влак	Group Items	Pidgin smileys	False	True	1.2389497	146	146, 666, 628	0.3333333333333333	628
+929	Систем журнал	Presence	System Log	False	False	1.1939884	862	862, 53, 565	0	176
+930	эҥертыш	Pictures	support	False	False	1.1635611	625	625, 722, 575	0	546
+931	XMPP шолыпмутым вашталташ	XMPP Console	Change XMPP Password	False	False	1.191814	809	809, 52, 53	0	143
+932	Конференцийыш тӱшкам ӱжаш...	Invite Group to Conference...	Invite Group to Conference...	True	True	1.3424535	200	200, 414, 103	1.0	200
+933	Мом тый эрла ыштет?	He lives in Yoshkar-Ola.	What do you want to do tomorrow?	False	False	1.2235672	52	52, 4, 3	0	19
+934	Китай куштылемдыме	Possible Matches	Simplified Chinese	False	False	1.1832356	898	898, 554, 214	0	858
+935	%s чылы режимым кораҥден %s	channel modes for %s: %s	%s removed all %s's modes	False	False	1.2434562	582	582, 112, 236	0	502
+936	Шочмо кечет дене!	He lives in Yoshkar-Ola.	Happy birthday to you!	False	False	1.1642861	52	52, 53, 34	0	67
+937	Весым ончыкто	Adun	Partner	False	False	1.1538305	715	715, 827, 52	0	829
+938	TinyURL кӱшнылан: %s	GG server	TinyURL for above: %s	False	True	1.2559242	324	324, 788, 884	0.3333333333333333	884
+939	Медиа ыш лий	Manage Music	Media Initiation Failed	False	False	1.2270046	275	275, 571, 973	0	795
+940	Шолыплӱмым шындаш...	Retrieving...	Set Nickname...	False	False	1.2784908	311	311, 52, 975	0	414
+941	Лӱм	Pictures	Name	False	False	1.1635611	625	625, 722, 575	0	461
+942	Шке дневникым кучызан	Drinking	Keep a personal diary	False	False	1.2390509	837	837, 52, 434	0	661
+943	йыҥгыр: Йӱк дене йыҥгырым ыште.	Buxon	call: Make an audio call.	False	False	1.3266108	276	276, 336, 216	0	710
+944	Пышташ-влак	She lives in Yoshkar-Ola.	Downloads	False	False	1.0802331	53	53, 52, 694	0	322
+945	(%s) приватлык лӱмерыш пайдаланышым ешараш ыш лий.	Failed to store image: %s	Unable to add user to privacy list (%s).	False	False	1.2591761	610	610, 53, 52	0	583
+946	%s каласымашым савыктымым чарнен	Presence	%s has stopped typing	False	False	1.2264771	862	862, 103, 180	0	449
+947	Desktop	Mouse	CommandDesktop	False	False	1.1849697	452	452, 846, 625	0	368
+948	Каласымашым колтен кертме огыл, мутланымашым тӱҥалме огыл.	He lives in Yoshkar-Ola.	Unable to send the message, the conversation couldn't be started.	False	False	1.153517	52	52, 409, 53	0	818
+949	_Луддымо каласымаш-влак	He lives in Yoshkar-Ola.	_Unread Messages	False	False	1.1323433	52	52, 53, 276	0	578
+950	Валенсий-каталан	Valencian-Catalan	Valencian-Catalan	True	True	1.329813	472	472, 514, 403	1.0	472
+951	CTCP PING вашмут	View MOTD	CTCP PING reply	False	False	1.1752002	454	454, 973, 53	0	80
+952	Тыйын кучылтмо клиент версий пеш тошто. %s марте уэмде	Buddy logs in	The client version you are using is too old. Please upgrade at %s	False	False	1.2061225	603	603, 830, 308	0	501
+953	%s (%s) -ште мутланыше лӱмер синхронизацией дене йӧсылык	Unknown error (%d)	Buddy list synchronization issue in %s (%s)	False	True	1.147055	219	219, 429, 236	0.5	429
+954	Чарыме	Hebrew	Cancelled	False	False	1.1478717	214	214, 846, 452	0	860
+955	Файлын веркоклаже	Log format	The location of the file.	False	False	1.1275136	735	735, 505, 198	0	466
+956	Даний	Hebrew	Danish	False	False	1.1685991	214	214, 623, 285	0	591
+957	(0:59, 33%)	(Tap)	%s (%s)	False	False	1.2341332	235	235, 771, 52	0	236
+958	Правам пуаш	Certificate Import	Authorise	False	False	1.2218678	223	223, 52, 53	0	430
+959	%s дене ушен кертме огыл: %s	Conversations with %s	Unable to establish a connection with %s: %s	False	False	1.2011538	180	180, 103, 52	0	523
+960	MySpace.com гыч йолташ-влакым ешараш	She lives in Yoshkar-Ola.	Add friends from MySpace.com	False	False	1.0922341	53	53, 52, 666	0	744
+961	Системын уэмдымашым пытараш, системым угыч колто.	He lives in Yoshkar-Ola.	To finish updating your system, please restart it. Click on the notification icon for details.	False	False	1.141041	52	52, 53, 764	0	947
+962	Ласкалык	Drag	Calm	False	False	1.2942611	957	957, 452, 846	0	312
+963	Тыгай канал уке	No such channel	No such channel	True	True	1.2514852	228	228, 499, 3	1.0	228
+964	_Налше:	Method:	_Recipient:	False	False	1.1694112	788	788, 124, 600	0	320
+965	/Мутланымаш/_Эрыкташ	He lives in Yoshkar-Ola.	/Conversation/Clea_r Scrollback	False	False	1.1746564	52	52, 53, 3	0	816
+966	Кӱкшык контраст	High Contrast	High Contrast	True	True	1.2171533	363	363, 862, 598	1.0	363
+967	ончыктымаш	She lives in Yoshkar-Ola.	Screen Display	False	False	1.1982188	53	53, 52, 898	0	895
+968	У мутланымаш тӧрзам _туртыкташ	She lives in Yoshkar-Ola.	Minimi_ze new conversation windows	False	False	1.1720228	53	53, 52, 454	0	211
+969	Пайдаланышым ойыро	He lives in Yoshkar-Ola.	Select User	False	False	1.3124039	52	52, 178, 376	0	878
+970	шупшаш	Pictures	Drag	False	False	1.1519173	625	625, 446, 290	0	957
+971	П/Л йоҥылыш	Lonely	I/O error	False	False	1.2832408	771	771, 53, 257	0	234
+972	Мутланыше нерген увераҥар	She lives in Yoshkar-Ola.	Buddy Information	False	False	1.2336696	53	53, 52, 3	0	352
+973	Мобил номер	OCaml	Mobile Number	False	False	1.2223773	973	973, 580, 698	0	269
+974	Файллӱм	Pictures	Filename	False	False	1.1635611	625	625, 722, 575	0	401
+975	Ойырымо файл келшен лийше плагин огыл.	XMPP Console	The selected file is not a valid plugin.	False	False	1.1403227	809	809, 205, 368	0	287
+976	%s-лан чарымаш	She lives in Yoshkar-Ola.	Ban on %s	False	False	1.1983979	53	53, 52, 235	0	364
+977	%s нерымым чарнен (%s)	Unknown error (%d)	%s has returned from being idle (%s)	False	False	1.2723696	219	219, 235, 340	0	725
+978	%s тыйын мутланыше лӱмерыш ешарен кертме огыл. Сервер могырышто (%s) лӱмерыште папкым ыштыме годым йоҥылыш лийын.	Pager port	Unable to add %s to your buddy list. Error creating folder in server side list (%s).	False	False	1.207369	718	718, 529, 130	0	477
+979	Лӱдыктышыдымӧ файл колтымаш	He lives in Yoshkar-Ola.	Secure File Transfer	False	False	1.197079	52	52, 768, 889	0	346
+980	Кычалаш	Mouse	Search in	False	False	1.1620351	452	452, 846, 625	0	119
+981	Каласымашым колтен кертме огыл, мутланымашым тӱҥалме огыл.	He lives in Yoshkar-Ola.	Unable to send the message, the conversation couldn't be started.	False	False	1.153517	52	52, 409, 53	0	245
+982	Тый тиде тототлымвер гыч каенат.	Okay, wait outside.	You have left this chat.	False	False	1.3637685	2	2, 403, 603	0	376
+983	Вожылшан	Mouse	Shy	False	False	1.2335057	846	846, 452, 53	0	711
+984	Те кызыт йӧстык нерген увертарынеда мо?	How many theaters are there in Yoshkar-Ola?	Do you want to report the problem now?	False	True	1.1227993	4	4, 52, 877	0.3333333333333333	877
+985	3D-шахмат-влак	3D Chess	3D Chess	True	True	1.2339154	150	150, 53, 957	1.0	150
+986	Вашкыллан изисӱрет/ Палыдыме еҥлан изисӱрет	Penguin Mastermind	Icon for Contact/ Icon for Unknown person	False	False	1.2275809	178	178, 276, 52	0	697
+987	Кид кучымашым пеҥгыдемдаш вучаш	He lives in Yoshkar-Ola.	Waiting for Handshake Acknowledgement	False	False	1.2304873	52	52, 53, 276	0	824
+988	/Мутланыше-влак/Приватлык	Lastlog	/Tools/Privacy	False	False	1.193614	600	600, 53, 52	0	900
+989	Тудо мыняр ияш?	How many theaters are there in Yoshkar-Ola?	How old is he?	False	False	1.2676146	4	4, 3, 15	0	56
+990	Молан тый уло пагыт шыпак шинчышыч?	Did you live here?	Why were you silent all the time?	False	False	1.2083336	61	61, 4, 5	0	17
+991	Мутланышым кораҥден кертме огыл	He lives in Yoshkar-Ola.	Failed to remove buddy	False	False	1.1916245	52	52, 53, 3	0	244
+992	.zephyr.subs гыч пурташ	Import from .zephyr.subs	Import from .zephyr.subs	True	True	1.2701313	934	934, 324, 109	1.0	934
+993	Йӱкым _колташ	She lives in Yoshkar-Ola.	P_lay a sound	False	False	1.1603357	53	53, 52, 452	0	161
+994	Поянлык ӱмырым ок шуйо.	He lives in Yoshkar-Ola.	The wealth doesn't prolong life.	False	False	1.2112693	52	52, 276, 53	0	37
+995	Вашкыл увераҥар	Alias	Contact Info	False	False	1.1475554	694	694, 124, 276	0	753
+996	Модмолаштыкым аралаш	In Yoshkar-Ola there are five theaters.	Save Playlist...	False	False	1.1289017	3	3, 52, 53	0	533
+997	Марсыштат пырыс уло.	He lives in Yoshkar-Ola.	There are cats on Mars, too.	False	False	1.2485465	52	52, 3, 53	0	11
+998	Шке шотан возышым ойыро.	He lives in Yoshkar-Ola.	You must select an account.	False	False	1.2087666	52	52, 53, 178	0	213
+999	Кончалтше	She lives in Yoshkar-Ola.	Impressed	False	False	1.1373761	53	53, 52, 124	0	988

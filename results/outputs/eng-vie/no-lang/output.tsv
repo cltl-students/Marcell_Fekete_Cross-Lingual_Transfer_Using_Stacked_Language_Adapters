@@ -1,0 +1,1001 @@
+	Sentence	Predicted	Gold	K_1_correct	K_3_correct	K_1_scores	K_1_predicted_indices	K_3_predicted_indices	Reciprocal_ranks	True_indices
+0	Họ có nghiêm túc không?	Are they serious?	Are they serious?	True	True	0.898005	178	178, 282, 446	1.0	178
+1	Xin lỗi, cho phép tôi chỉ ra ba lỗi trong bài viết trên.	Excuse me, let me point out three mistakes in the above article.	Excuse me, let me point out three mistakes in the above article.	True	True	0.89651227	516	516, 586, 878	1.0	516
+2	Chúng tôi sống ở nông thôn trong suốt mùa hè.	We live in the country during the summer.	We live in the country during the summer.	True	True	0.60702693	900	900, 945, 477	1.0	900
+3	Tom là nhân viên tốt nhất mà chúng ta chưa từng có.	Tom is the one who was here last week.	Tom is the best employee we've ever had.	False	True	0.70807695	916	916, 919, 563	0.3333333333333333	563
+4	Đây là một bông hoa đẹp.	This is a beautiful flower.	This is a beautiful flower.	True	True	0.85043	524	524, 46, 996	1.0	524
+5	Tom là một người lính dũng cảm.	Tom was a brave soldier.	Tom was a brave soldier.	True	True	0.6506953	410	410, 416, 55	1.0	410
+6	Tom cực kỳ bối rối.	Outsiders make Tom nervous.	Tom is very disturbed.	False	True	0.76171327	89	89, 707, 145	0.5	707
+7	Bọn tớ vẫn đang cố	Can you sing us a song?	We're still pushing ahead.	False	False	1.0758489	366	366, 639, 413	0	68
+8	Bạn muốn dùng sữa hay đường?	Who wants to play volleyball?	Do you want sugar or milk?	False	True	0.8004601	197	197, 351, 481	0.3333333333333333	481
+9	Hắn phạm tôi ăn cắp.	I want a knife with which to cut the rope.	He is guilty of stealing.	False	False	0.9411361	200	200, 785, 455	0	848
+10	Tôi có ba em trai.	I have three younger brothers.	I have three younger brothers.	True	True	0.77670074	470	470, 958, 910	1.0	470
+11	Cô ấy nói chậm lại vì học sinh không nghe kịp.	She brags about how well she can cook.	She spoke slowly in case the students should miss her words.	False	True	0.9701767	56	56, 658, 311	0.5	658
+12	Anh ta đi ra ngoài bất chấp cơn mưa.	Turn the light off. I can't fall asleep.	He went out in spite of the rain.	False	True	0.83218193	490	490, 649, 949	0.3333333333333333	949
+13	Họ tố cáo anh ấy có mặt trong lớp để gấy náo động.	They accused him of being in the classroom in order to cause trouble.	They accused him of being in the classroom in order to cause trouble.	True	True	0.76203966	931	931, 482, 89	1.0	931
+14	Hôm qua tôi đã đọc sách.	I lived for years and years.	Yesterday, I read a book.	False	True	0.83892655	945	945, 689, 845	0.5	689
+15	Chúng tôi thấy ngồi nhà rung lắc.	We felt the house shake.	We felt the house shake.	True	True	0.8531325	711	711, 945, 278	1.0	711
+16	Làm sao để tìm thức ăn ngoài vũ trụ?	How do you find food in outer space?	How do you find food in outer space?	True	True	0.6202332	196	196, 282, 582	1.0	196
+17	Chúng tôi bơi trong hồ.	We live in the country during the summer.	We swam in the lake.	False	False	0.8752599	900	900, 920, 557	0	441
+18	Tôi phải làm việc vào tuần này.	I have to work this weekend.	I have to work this weekend.	True	True	0.54968834	463	463, 729, 653	1.0	463
+19	London nằm trong số những thành phố lớn nhất thế giới.	London is among the largest cities in the world.	London is among the largest cities in the world.	True	True	0.31611562	168	168, 428, 169	1.0	168
+20	Tôi xin hứa tôi sẽ không làm vậy nữa.	I promise I won't do that again.	I promise I won't do that again.	True	True	0.68654	811	811, 995, 921	1.0	811
+21	Tôi cảm thấy dễ chịu hơn nhiều.	I'm feeling much better.	I'm feeling much better.	True	True	0.7800802	547	547, 254, 237	1.0	547
+22	Tôi rất mơ ước được nhìn thấy Paris.	I would like to go to Austria in order to study music.	I'm dying to see Paris.	False	True	0.87207484	868	868, 352, 557	0.5	352
+23	Không có gì cứng bằng kim cương.	Wine is not harmful in itself.	Nothing is as hard as a diamond.	False	False	0.969035	161	161, 120, 192	0	259
+24	Rượu bản thân nó không có hại.	Wine is not harmful in itself.	Wine is not harmful in itself.	True	True	0.8155991	161	161, 950, 966	1.0	161
+25	Muối là nguyên liệu nhất thiết phải có để nấu nướng.	Salt is an indispensable ingredient for cooking.	Salt is an indispensable ingredient for cooking.	True	True	0.8254938	754	754, 63, 502	1.0	754
+26	Tôi định sẽ nói với anh sự thật	It’s my pleasure to come to VNU.	I'll tell you the truth.	False	False	0.8924252	789	789, 354, 329	0	62
+27	Số tiền này ít hơn số bọn mình muốn.	This is much less money than we expected.	This is much less money than we expected.	True	True	0.6717684	124	124, 642, 679	1.0	124
+28	Tôi ở Osaka	I stay in Osaka.	I stay in Osaka.	True	True	0.7544836	249	249, 716, 213	1.0	249
+29	Trường của chúng tôi ở trong làng này.	We live in the country during the summer.	Our school is in this village.	False	False	0.85739326	900	900, 716, 945	0	856
+30	Nước Bra-xin có rất nhiều thành phố lớn.	There are a lot of big cities in Brazil.	There are a lot of big cities in Brazil.	True	True	0.6984694	453	453, 272, 168	1.0	453
+31	Tôi hoàn toàn không hiểu bạn.	No one believed me at first.	I don't quite follow you.	False	False	0.6307547	136	136, 381, 995	0	904
+32	Tôi không sao nhớ nổi Timothy trông như thế nào, nhưng tôi tin chắc là tôi sẽ nhận ra anh ấy ngay.	I can't remember what Timothy looks like, but I'm sure I'll know him by sight.	I can't remember what Timothy looks like, but I'm sure I'll know him by sight.	True	True	0.7502773	734	734, 878, 785	1.0	734
+33	Giữ được bình tĩnh khi có chuyện khẩn cấp là rất quan trọng.	Health is essential to happiness.	It's very important to keep your head if there's an emergency.	False	False	0.963626	805	805, 208, 640	0	730
+34	Hãy chắc là bạn tới đón tôi lúc năm giờ nha!	It’s my pleasure to come to VNU.	Make sure that you pick me up at five, please.	False	False	0.9069843	789	789, 932, 762	0	633
+35	Nó khá nóng đấy.	This is difficult.	It's kind of hot.	False	False	0.88960314	404	404, 126, 400	0	189
+36	Tia tử ngoại và tia hồng ngoại là loại ánh sáng mắt người không nhìn thấy được.	Infrared and ultra-violet rays are types of light invisible to the human eye.	Infrared and ultra-violet rays are types of light invisible to the human eye.	True	True	0.66442835	558	558, 469, 301	1.0	558
+37	Tớ biết con người cô ấy thế nào.	You must not invade the privacy of others.	I know her personally.	False	False	0.8595333	446	446, 863, 679	0	132
+38	Trước tiên, tôi muốn bạn đi với tôi đến chỗ đang bán hàng giảm giá ở trung tâm mua sắm.	Tom wanted me to tell you to buy a couple of loaves of bread on your way home.	First off, I'd like you to come with me to a department store sale.	False	False	0.8769251	268	268, 923, 767	0	346
+39	"Tôi hỏi ""tên mày là gì?""."	"""What's your name?"" I asked."	"""What's your name?"" I asked."	True	True	0.9554037	310	310, 844, 564	1.0	310
+40	Tom hiếm khi phàn nàn về bất cứ thứ gì.	Tom wants to swim.	Tom hardly ever complains about anything.	False	True	0.81464136	145	145, 113, 66	0.5	113
+41	Tôi đang viết một cuốn sách.	I'm writing a book.	I'm writing a book.	True	True	0.800761	584	584, 689, 918	1.0	584
+42	Thật là một buổi chiều thú vị.	It was a very pleasant afternoon.	It was a very pleasant afternoon.	True	True	0.93248415	212	212, 789, 951	1.0	212
+43	Đất nước của chúng tôi đang trong thời kỳ khủng hoảng.	Our country is in a crisis.	Our country is in a crisis.	True	True	0.59613466	152	152, 778, 519	1.0	152
+44	Nơi nào đẹp nhất thế giới?	What is the most beautiful place in the world?	What is the most beautiful place in the world?	True	True	0.65363884	505	505, 535, 282	1.0	505
+45	Tôi mừng khi thấy gần đây sếp rất khỏe mạnh.	It’s my pleasure to come to VNU.	I'm glad to say that the boss has been very well lately.	False	False	0.86570644	789	789, 970, 238	0	334
+46	Mọi người ngắm sao khi trời tối hơn nữa.	When it is darkest, men see the stars.	When it is darkest, men see the stars.	True	True	0.8060672	649	649, 679, 819	1.0	649
+47	Tại lễ hội, mọi người đều ăn mặc đẹp.	At the party, everybody was well-dressed.	At the party, everybody was well-dressed.	True	True	0.8478254	17	17, 176, 471	1.0	17
+48	Tôi từng tận mắt thấy nó.	No one believed me at first.	I've seen it myself.	False	False	0.82680094	136	136, 301, 995	0	130
+49	Rốt cuộc cậu là ai vậy?	Who are you, anyway?	Who are you, anyway?	True	True	0.7877495	606	606, 535, 282	1.0	606
+50	Cái bàn này nặng quá.	This table is heavy.	This table is heavy.	True	True	0.9145348	610	610, 143, 404	1.0	610
+51	Khi mẹ nó đi vắng, nó trông chừng em.	Culture is like jam: the less one has, the more one spreads it.	In the absence of her mother, she looks after her sister.	False	False	0.87877536	679	679, 56, 649	0	333
+52	Anh sẽ không bị muộn, có phải không?	Can you sing us a song?	You won't be late, will you?	False	False	0.98809206	366	366, 642, 917	0	7
+53	Hãy tìm một bàn ở gần cuối.	Let's pick flowers from the garden.	Let's sit at one of the tables near the back.	False	True	0.94089544	873	873, 200, 368	0.3333333333333333	368
+54	Anh ấy sẽ là một người chồng tốt.	He will be a good husband.	He will be a good husband.	True	True	0.7130134	570	570, 798, 354	1.0	570
+55	Vâng, anh ta có thể chạy 100 mét trong vòng 12 giây.	Yes. He can run 100 meters within twelve seconds.	Yes. He can run 100 meters within twelve seconds.	True	True	0.6489788	119	119, 878, 321	1.0	119
+56	Ấy có dùng hãng American Express không?	Do you take American Express?	Do you take American Express?	True	True	0.93151855	832	832, 564, 156	1.0	832
+57	Ông Long và ông Smith đã nói chuyện với nhau.	Mr Long and Mr Smith spoke to each other.	Mr Long and Mr Smith spoke to each other.	True	True	0.7417917	175	175, 441, 753	1.0	175
+58	Theo ý tôi, đá banh là môn thể thao tuyệt vời.	In my opinion, soccer is a great sport.	In my opinion, soccer is a great sport.	True	True	0.7858577	492	492, 679, 878	1.0	492
+59	Đúng là bà ấy đã qua đời.	On his return he found her daughter asleep.	It's true that she's dead.	False	False	0.9434484	299	299, 639, 789	0	209
+60	Bill luôn luôn lương thiện.	Bill is honest all the time.	Bill is honest all the time.	True	True	0.6793339	534	534, 55, 764	1.0	534
+61	Chỉ có sự thật là tốt đẹp.	Nothing is beautiful but the truth.	Nothing is beautiful but the truth.	True	True	0.70596886	837	837, 574, 859	1.0	837
+62	Sự tài trợ của bà ấy là cần thiết cho dự án của chúng ta.	Your assistance is indispensable for us.	Her financial support is indispensable to this project of ours.	False	True	0.69063306	809	809, 591, 640	0.5	591
+63	Tom cần tìm kiếm sự giúp đỡ.	Tom needs to seek help.	Tom needs to seek help.	True	True	0.54005265	270	270, 145, 698	1.0	270
+64	Japan không to bằng Canada.	Japan is not as big as Canada.	Japan is not as large as Canada.	False	True	0.68677163	717	717, 718, 487	0.5	718
+65	Tôi bị dính vào cuộc tranh cãi của người khác.	No one believed me at first.	I got involved in other people's quarrel.	False	False	0.8390199	136	136, 501, 446	0	687
+66	Cô ấy không thể nhịn được cười.	He can't sing well.	She couldn't hold back her laughter.	False	True	0.9150374	697	697, 733, 420	0.3333333333333333	420
+67	Mẹ hy vọng rằng phòng học của con có điều hòa không khí.	He worked hard in order that his family might live in comfort.	I hope that your classroom had air conditioning.	False	True	0.98112774	144	144, 833, 988	0.3333333333333333	988
+68	Nhờ vào máy bay mà con người có thể di chuyển giữa các nơi xa xôi.	Airplanes enable people to travel great distances rapidly.	Airplanes enable people to travel great distances rapidly.	True	True	0.8834537	669	669, 301, 179	1.0	669
+69	Bạn ước điều gì vậy?	How much money is left?	What do you wish for?	False	False	0.7853732	282	282, 31, 197	0	962
+70	Bạn trông tái nhợt.	It’s my pleasure to come to VNU.	You look pale.	False	False	0.94334745	789	789, 639, 679	0	126
+71	Tôi đã ở Boston trước khi tôi trở lại Nhật Bản.	I had stayed in Boston before I returned to Japan.	I had stayed in Boston before I returned to Japan.	True	True	0.6568687	45	45, 900, 945	1.0	45
+72	Tôi thực sự phải đi.	I want to go home.	I really have to go.	False	False	0.6274229	920	920, 601, 292	0	542
+73	Tom rất đẹp trai.	Tom is very handsome.	Tom is very handsome.	True	True	0.5898566	416	416, 707, 145	1.0	416
+74	Do mưa to, chúng tôi đến trường quá muộn.	I lived for years and years.	We were late for school because it rained heavily.	False	False	0.845083	945	945, 711, 900	0	802
+75	Tôi thích đi du lịch.	I like to travel.	I like to travel.	True	True	0.6441617	557	557, 885, 900	1.0	557
+76	Tớ không muốn xử lý việc đó bây giờ.	You must not invade the privacy of others.	I don't want to have to deal with it right now.	False	False	0.8067508	446	446, 621, 501	0	81
+77	Khi đèn tín hiểu chuyển sang màu vàng, chúng ta dừng lại.	Culture is like jam: the less one has, the more one spreads it.	When the traffic light is yellow, we stop.	False	False	0.8734884	679	679, 794, 574	0	622
+78	Đi theo người đó.	Culture is like jam: the less one has, the more one spreads it.	Follow that person.	False	True	0.91891813	679	679, 51, 452	0.5	51
+79	Hai vị thủ tướng không có điểm chung nào cả.	The two premiers had nothing in common.	The two premiers had nothing in common.	True	True	0.91709065	279	279, 304, 779	1.0	279
+80	Tôi lúc nào cũng ăn ngoài hàng, nhưng tôi thích đồ ăn nhà làm hơn.	I'm always eating in restaurants, but I prefer homemade foods.	I'm always eating in restaurants, but I prefer homemade foods.	True	True	0.73592937	141	141, 885, 406	1.0	141
+81	Cả hai đều rất dễ thương.	Both of them are very cute.	Both of them are very cute.	True	True	0.84590757	625	625, 135, 751	1.0	625
+82	Chúng tôi không phải là những người duy nhất tin rằng cậu ta không có tội.	We are not the only ones to believe that he is not guilty.	We are not the only ones to believe that he is not guilty.	True	True	0.76880157	382	382, 305, 878	1.0	382
+83	Tôi thích bận rộn.	You may eat anything so long as you don't eat too much.	I like being busy.	False	False	0.8831861	642	642, 254, 174	0	418
+84	Cô Roland, cô nghĩ gì về vấn đề này?	Ms. Roland, what do you think about this problem?	Ms. Roland, what do you think about this problem?	True	True	0.6269233	202	202, 197, 24	1.0	202
+85	Robot có thể hoạt động trong điều kiện nguy hiểm.	Robots can withstand dangerous conditions.	Robots can withstand dangerous conditions.	True	True	0.59483886	179	179, 669, 271	1.0	179
+86	Họ không thích tôi.	They don't like me.	They don't like me.	True	True	0.6504513	407	407, 288, 566	1.0	407
+87	Bạn thật tốt khi giúp tôi làm bài tập về nhà.	It is very nice of you to help me with my homework.	It is very nice of you to help me with my homework.	True	True	0.76227176	970	970, 900, 845	1.0	970
+88	Loài người chỉ sống trong hòa bình tổng cộng 268 năm trong 3,400 nghìn năm trở lại đây thôi, tức là khoảng 8%.	Of the past 3,400 years, humans have been entirely at peace for 268 of them, or just 8 percent of recorded history.	Of the past 3,400 years, humans have been entirely at peace for 268 of them, or just 8 percent of recorded history.	True	True	0.69413996	485	485, 953, 975	1.0	485
+89	Bạn đã sẵn sàng bắt đầu chưa?	What's preventing this from happening?	Are you ready to start?	False	False	0.9678812	353	353, 282, 246	0	865
+90	Chúng ta hãy tiếp tục dịch sang tiếng Đức nào.	I will try to translate more sentences into German.	I will try to translate more sentences into German.	True	True	0.6622397	586	586, 30, 910	1.0	586
+91	Cậu mang theo nhiều tiền chứ?	How much money is left?	Do you have a lot of money with you?	False	False	0.82519746	282	282, 97, 917	0	37
+92	Bill làm công việc bán xe.	Bill's work is selling cars.	Bill's work is selling cars.	True	True	0.5450022	528	528, 55, 228	1.0	528
+93	Tom đã không mời tôi.	Tom didn't invite me.	Tom didn't invite me.	True	True	0.6841588	248	248, 93, 383	1.0	248
+94	Các sinh viên đã đứng chờ xe buýt.	Some students were sitting on the bench and having lunch.	The students stood waiting for a bus.	False	True	0.7639853	471	471, 628, 777	0.5	628
+95	Đừng quên hỏi thăm vợ của ông Long khi mày gặp ổng.	It’s my pleasure to come to VNU.	Don't forget to ask after Mr Long's wife when you see him.	False	True	1.0073597	789	789, 183, 403	0.5	183
+96	London chẳng còn là thành phố sương mù nữa.	London is no longer a city of fog.	London is no longer a city of fog.	True	True	0.7471144	170	170, 831, 199	1.0	170
+97	Lâu rồi Tom không gặp lại Mary.	Tom just wants to be with Mary.	Tom hasn't seen Mary in a while.	False	True	0.77596545	224	224, 908, 153	0.3333333333333333	153
+98	Tối nay bạn muốn làm gì?	What should I do in the meantime?	What do you want to do tonight?	False	False	0.72040296	540	540, 282, 366	0	576
+99	Có rất nhiều lý do để giải thích vì sao một căn nhà bị bỏ trống.	There are various reasons why a house may be left vacant.	There are various reasons why a house may be left vacant.	True	True	0.80012083	935	935, 315, 390	1.0	935
+100	Tất cả những điều anh nói đều đúng.	All that you say is perfectly correct.	All that you say is perfectly correct.	True	True	0.74194574	574	574, 95, 875	1.0	574
+101	Cô ta luôn đứng về bên yếu.	He feels powerless about his own life.	She always sides with the weak.	False	False	0.8444176	733	733, 61, 348	0	972
+102	Mười người bị nhét vào một căn phòng nhỏ.	Ten people were packed into the small room.	Ten people were packed into the small room.	True	True	0.9826863	448	448, 931, 471	1.0	448
+103	Thái độ thách đố của anh ta khiến thủ trưởng tức giận.	It is his defiant attitude that made the chief angry.	It is his defiant attitude that made the chief angry.	True	True	1.0266675	552	552, 789, 79	1.0	552
+104	Anh ta ngồi lên giường.	He was sitting on the floor.	He was sitting on the floor.	True	True	0.84534574	676	676, 652, 6	1.0	676
+105	Trời mưa rất nhiều trong tháng này.	It's raining heavily.	We've had a lot of rain this month.	False	False	0.7245064	40	40, 32, 957	0	362
+106	Tom chỉ muốn sống cùng với Mary	Tom wants to swim.	Tom just wants to be with Mary.	False	True	0.8806777	145	145, 224, 270	0.5	224
+107	Tom không có ô tô. Anh ta sử dụng xe của Mary.	Tom doesn't have a car. He just uses Mary's.	Tom doesn't have a car. He just uses Mary's.	True	True	0.7072456	395	395, 145, 153	1.0	395
+108	Bạn nên đi kiểm tra mắt đi.	The light is too dim for me to read easily.	You should get your eyes checked.	False	False	0.95151484	301	301, 19, 200	0	643
+109	Bà ấy gửi tới tòa soạn một rao vặt tìm một người giúp việc nhà.	The girl who works at the bakery is cute.	She put an advertisement for a domestic help in the paper.	False	False	0.92985284	482	482, 879, 66	0	444
+110	Anh ta nghỉ học lúc học năm nhất đại học.	Some students were sitting on the bench and having lunch.	He dropped out of college in the first year.	False	False	0.83546567	471	471, 770, 554	0	121
+111	Cậu có nghĩ Tom thực sự thích việc đó không?	Do you think Tom really enjoys doing that?	Do you think Tom really enjoys doing that?	True	True	0.6280544	365	365, 142, 191	1.0	365
+112	Không có lời giải thích nào cho việc xảy đến với Tom.	There's no explanation for what happened to Tom.	There's no explanation for what happened to Tom.	True	True	0.6738925	475	475, 712, 721	1.0	475
+113	Tôm bị đau.	He worked hard for fear that he should fail.	Tom was in pain.	False	False	1.0374556	895	895, 483, 135	0	243
+114	Tác giả đó là người Nga.	This writer is Russian.	This writer is Russian.	True	True	0.7937696	274	274, 348, 492	1.0	274
+115	Thành phố Rome đáng để viếng thăm.	You should visit Kyoto, which is famous for its old temples and shrines.	Rome is worthy of a visit.	False	True	0.94732237	272	272, 199, 459	0.5	199
+116	Tôi bị bụi vào mắt.	My toes are freezing.	Dust got into one of my eyes.	False	False	1.0044818	355	355, 513, 639	0	979
+117	Bạn thích loại rượu vang rẻ tiền nào?	Where do you buy clothes?	What's your favorite cheap wine?	False	False	0.80203164	97	97, 351, 156	0	59
+118	Tôi tưởng cậu ở phố Park cơ.	Tom wants to eat here tonight.	I thought you lived on Park Street.	False	True	0.9679252	66	66, 701, 52	0.3333333333333333	52
+119	Bạn có thể giúp tôi rửa bát đĩa?	Can you help me with the washing up?	Can you help me with the washing up?	True	True	0.7897749	24	24, 626, 137	1.0	24
+120	Toudaiji lớn nhất trong hai ngồi đền.	Toudaiji is the bigger of the two temples.	Toudaiji is the bigger of the two temples.	True	True	0.64617515	614	614, 272, 328	1.0	614
+121	Nỗi lo lắng của ông ấy như thế nên ông ấy hầu như không thể nào ngủ được.	His anxiety was such that he could hardly sleep.	His anxiety was such that he could hardly sleep.	True	True	0.7816365	630	630, 945, 490	1.0	630
+122	Đâu là bức vẽ ưng ý nhất của ấy?	Which of these do you consider your best painting?	Which of these do you consider your best painting?	True	True	0.81083035	350	350, 205, 788	1.0	350
+123	Tôi có thể giết cậu nhưng tôi đã không làm vậy.	I could have killed you, but I didn't.	I could have killed you, but I didn't.	True	True	0.7574303	257	257, 86, 878	1.0	257
+124	Chiếc xe lửa này luôn luôn đúng giờ.	The train is always on time.	The train is always on time.	True	True	0.79155564	493	493, 716, 789	1.0	493
+125	Nhà ở Nhật nhỏ.	Japanese houses are small.	Japanese houses are small.	True	True	0.9525566	589	589, 945, 401	1.0	589
+126	"""Tại sao?"". Cô con gái hỏi với một chút bực dọc."	"""Why?"" asked the daughter, a trifle irritated."	"""Why?"" asked the daughter, a trifle irritated."	True	True	0.8199022	952	952, 310, 878	1.0	952
+127	Bạn ấy đã giúp tôi làm bài tập về nhà.	It is very nice of you to help me with my homework.	He helped me do my homework.	False	True	0.8573772	970	970, 845, 900	0.5	845
+128	Mình không muốn đi làm.	I like to travel.	I don't wanna go to work.	False	False	0.8156663	557	557, 920, 288	0	690
+129	Mùa đông nào gia đình tôi cũng đi trượt tuyết.	My family goes skiing every winter.	My family goes skiing every winter.	True	True	0.71984994	477	477, 900, 362	1.0	477
+130	Câu nói đó trong ngôn ngữ của bạn rất dễ để nghe thấy nó tự nhiên, và cũng rất dễ để nó trở nên không tự nhiên đối với ngôn không phải là ngôn ngữ mẹ đẻ của bạn.	It's very easy to sound natural in your own native language, and very easy to sound unnatural in your non-native language.	It's very easy to sound natural in your own native language, and very easy to sound unnatural in your non-native language.	True	True	0.69482994	321	321, 878, 301	1.0	321
+131	Anh ta kiếm được nhiều tiền hơn mức có thể tiêu hết	This is much less money than we expected.	She earns more than she spends.	False	False	0.97612786	124	124, 679, 208	0	67
+132	Giáo viên cho chị ấy nhiều thông tin về trường đại học.	The teacher gave her much information about the university.	The teacher gave her much information about the university.	True	True	0.88405085	512	512, 689, 615	1.0	512
+133	Còn lại bao nhiêu tiền?	How much money is left?	How much money is left?	True	True	0.78950846	282	282, 564, 197	1.0	282
+134	Anh ta gửi tiền ngân hàng hàng tháng.	He puts aside some money every month.	He puts aside some money every month.	True	True	1.067812	678	678, 217, 109	1.0	678
+135	Đọc đối vời tinh thần cũng như thức ăn đối với cơ thể.	Health is essential to happiness.	Reading is to the mind as food is to the body.	False	True	0.91894436	805	805, 640, 26	0.3333333333333333	26
+136	Ông ấy sống trong một ngôi làng nhỏ ở đảo Kyushu.	He lives in a small village in Kyushu.	He lives in a small village in Kyushu.	True	True	0.5247735	21	21, 238, 900	1.0	21
+137	Bạn có muốn chơi với chúng tôi không?	Would you like to play with us?	Would you like to play with us?	True	True	0.74416995	247	247, 197, 366	1.0	247
+138	Cô ấy dành qua nhiều thời gian xem TV.	She's spending too much time watching TV.	She's spending too much time watching TV.	True	True	0.82088554	260	260, 145, 380	1.0	260
+139	Anh ta hết năng lượng rồi.	You may eat anything so long as you don't eat too much.	He has run out of energy.	False	False	0.8215997	642	642, 120, 755	0	965
+140	Súp có mùi tỏi.	The soup tastes of garlic.	The soup tastes of garlic.	True	True	0.7700641	63	63, 950, 583	1.0	63
+141	Hãy hưởng thụ đi.	He is not my father, he is my uncle.	Just enjoy it.	False	False	0.98550427	305	305, 455, 679	0	237
+142	Họ sống trong thị trấn này.	They live in this town.	They live in this town.	True	True	0.5587795	401	401, 589, 900	1.0	401
+143	Anh ta chả là gì cả.	Nobody does it better.	He is nothing.	False	False	0.8968029	36	36, 679, 305	0	147
+144	Con mèo chạy sau con chuột.	When the cat is away, the mice will play.	The cat ran after the rat.	False	False	1.0212654	709	709, 66, 679	0	160
+145	Làm sao bạn luôn đạt điểm tốt như vậy ở trường chứ? Thậm chí tôi chưa bao giờ nhìn thấy bạn mở sách ra đọc.	No matter how much you try to convince people that chocolate is vanilla, it'll still be chocolate, even though you may manage to convince yourself and a few others that it's vanilla.	How do you always get such good marks in school? I never see you even crack a book.	False	True	0.92354274	878	878, 784, 301	0.5	784
+146	Cô ấy rất quý bông hoa đó.	It’s my pleasure to come to VNU.	She has been cherishing that flower.	False	False	1.0125687	789	789, 524, 66	0	668
+147	Dự báo thời tiết đã nói rằng chiều nay trời sẽ mưa, nhưng nó không xảy ra.	The weather forecast said that it would rain this afternoon, but it didn't.	The weather forecast said that it would rain this afternoon, but it didn't.	True	True	0.7417673	419	419, 32, 649	1.0	419
+148	Chúng ta hãy đi ra biển đi. Tôi được nghỉ làm trong 6 ngày tới.	Let's go to the beach. I got time off from work for the next 6 days.	Let's go to the beach. I got time off from work for the next 6 days.	True	True	0.79381526	729	729, 463, 900	1.0	729
+149	Tôi biết viết các chương trình Visual Basic.	I can write programs in Visual Basic.	I can write programs in Visual Basic.	True	True	0.62704897	991	991, 918, 586	1.0	991
+150	Nhân vật phản diện mà bạn ưa thích trong điện ảnh là ai?	Who's your favorite movie villain?	Who's your favorite movie villain?	True	True	0.7199625	844	844, 197, 205	1.0	844
+151	Anh ấy có hai con chó.	Tom wants to eat here tonight.	He has two dogs.	False	False	0.83535624	66	66, 145, 238	0	290
+152	Tom còn chưa đáp ứng với thực tế.	Tom needs to seek help.	Tom hasn't got used to the reality yet.	False	True	0.8984988	270	270, 712, 145	0.5	712
+153	Tôi đã gặp Tom ở trên đường.	I met Tom on the way.	I met Tom on the way.	True	True	0.6884415	722	722, 923, 916	1.0	722
+154	Một trận động đất lớn đã xảy ra khi tôi mới chỉ mười tuổi.	When the big earthquake happened, I was only ten.	When the big earthquake happened, I was only ten.	True	True	0.6664293	226	226, 918, 743	1.0	226
+155	Một người bạn đã kể cho tôi nghe câu chuyện đó.	A friend told me that story.	A friend told me that story.	True	True	0.8113637	451	451, 689, 268	1.0	451
+156	Tôi không thể chịu đựng tiếng ồn này thêm nữa	You may eat anything so long as you don't eat too much.	I cannot put up with this noise.	False	True	0.87359667	642	642, 755, 65	0.3333333333333333	65
+157	Đợi tao với!	Come and see!	Wait for me!	False	False	0.74998343	182	182, 976, 424	0	967
+158	Đây không phải cốc trà của tôi.	No one believed me at first.	This is not my cup of tea.	False	False	0.808566	136	136, 969, 288	0	662
+159	Thằng nhóc thực sự là một đứa trẻ thông minh.	John is good at maths.	He is a very smart boy.	False	False	0.92547464	545	545, 789, 270	0	701
+160	Tôi không nghĩ là sẽ có mưa, nhưng cứ cầm theo ô cho chắc.	I don't think it'll rain, but I'll take an umbrella with me, just in case.	I don't think it'll rain, but I'll take an umbrella with me, just in case.	True	True	0.7782488	513	513, 646, 693	1.0	513
+161	Tình yêu phải có cánh để bay khỏi tình yêu, và lại bay trở lại.	Love must have wings to fly away from love, and to fly back again.	Love must have wings to fly away from love, and to fly back again.	True	True	0.59339833	704	704, 750, 490	1.0	704
+162	Anh ấy tới chưa?	Has he arrived?	Has he arrived?	True	True	0.9154768	706	706, 564, 205	1.0	706
+163	Cuộc tranh luận sẽ diễn ra tối nay.	The debate will happen tonight.	The debate will happen tonight.	True	True	0.55255854	598	598, 994, 175	1.0	598
+164	Loại con trai gì thế không biết !	What a kind boy he is!	What a kind boy he is!	True	True	0.86092794	932	932, 624, 282	1.0	932
+165	Bà ấy mua sách trong cứa hàng.	She bought a book at the shop.	She bought a book at the shop.	True	True	0.969594	879	879, 66, 482	1.0	879
+166	Con chó của cậu đâu rồi?	Why do rabbits have long ears?	Where's your dog?	False	False	0.8968617	489	489, 58, 197	0	252
+167	Trọng âm của từ ở âm tiết thứ hai.	The accent of the word is on the second syllable.	The accent of the word is on the second syllable.	True	True	0.74261296	99	99, 789, 551	1.0	99
+168	Cậu bỏ lỡ nó phải không?	Why did Bill tear the letter into pieces?	You miss it, don't you?	False	False	0.8671602	626	626, 282, 156	0	371
+169	Mắt tôi đẫm nước.	You're the last hope for humanity.	My eyes are watery.	False	False	0.87499654	519	519, 789, 18	0	529
+170	Bạn có thể ăn gì cũng được, miễn là đừng ăn quá nhiều.	You may eat anything so long as you don't eat too much.	You may eat anything so long as you don't eat too much.	True	True	0.7074261	642	642, 120, 406	1.0	642
+171	Chris, bạn bị ướt hết rồi kìa!	Chris, you're completely wet!	Chris, you're completely wet!	True	True	0.7559035	744	744, 424, 624	1.0	744
+172	Hàng năm có một số lượng lớn thanh niên nhập học đại học trên khắp nước Mỹ.	Throughout the United State large numbers of young people enter college every year.	Throughout the United State large numbers of young people enter college every year.	True	True	0.58289075	313	313, 459, 428	1.0	313
+173	Chúng ta đều đã thay đổi.	We all have changed.	We all have changed.	True	True	0.6245165	359	359, 354, 271	1.0	359
+174	Anh ấy hỏi tôi nên đi đâu.	He asked me where to go.	He asked me where to go.	True	True	0.80994225	526	526, 103, 463	1.0	526
+175	Kiểm tra áp suất của bánh xe.	Check the pressure of the tires.	Check the pressure of the tires.	True	True	0.66089606	702	702, 977, 845	1.0	702
+176	Để mình nói thứ mình muốn nhân dịp sinh nhật cho cậu nhớ.	He helped me do my homework.	Let me tell you what I want for my birthday.	False	False	0.99388015	845	845, 941, 372	0	83
+177	Thật may vì cậu ở nhà.	He can't sing well.	Luckily, you were at home.	False	False	0.9621732	697	697, 482, 486	0	73
+178	Tôn giáo là thuốc phiện của nhân dân.	Religion is the opium of the people.	Religion is the opium of the people.	True	True	0.747149	820	820, 805, 803	1.0	820
+179	Mình mong cậu có một đêm ngủ ngon.	My aunt sent me a birthday present.	I want you to get a good night's rest.	False	False	0.96642995	660	660, 855, 408	0	841
+180	Lẽ ra tớ không nên để cậu trở về nhà một mình, đêm qua.	Turn the light off. I can't fall asleep.	I never should've let you go home alone last night.	False	False	0.8782034	490	490, 172, 920	0	242
+181	Chuông báo cháy đã vang lên.	The fire alarm sounded.	The fire alarm sounded.	True	True	0.9200015	800	800, 882, 378	1.0	800
+182	Nếu chúng tôi đặt hàng với số lượng lớn hơn 20, bạn sẽ giảm giá chứ?	If we place an order for more than 20 units, would you reduce the price?	If we place an order for more than 20 units, would you reduce the price?	True	True	0.7277944	691	691, 775, 727	1.0	691
+183	Kết quả không như tôi chờ đợi.	The results fell short of my expectations.	The results fell short of my expectations.	True	True	0.74552107	8	8, 363, 986	1.0	8
+184	Chúng tôi từng cãi nhau.	Tom and I have a lot more in common than I thought.	We used to fight.	False	False	0.8433509	210	210, 798, 753	0	11
+185	Chị ấy mua thịt gà.	Culture is like jam: the less one has, the more one spreads it.	She bought chicken.	False	False	0.90831447	679	679, 66, 406	0	569
+186	Chúng ta sẽ chờ ở ngoài.	We should help each other.	We'll wait outside.	False	False	0.8136709	354	354, 446, 271	0	78
+187	Anh ấy im lặng trong bữa ăn.	I have to work this weekend.	He kept silent during the meal.	False	False	0.80229723	463	463, 699, 635	0	982
+188	Mình không hề biết là cậu cũng biết.	You may eat anything so long as you don't eat too much.	I didn't even know you knew.	False	False	0.8775245	642	642, 878, 995	0	207
+189	Cho tôi xin thêm một ít cà phê được không?	Could I have one more coffee, please?	Could I have one more coffee, please?	True	True	0.84001577	710	710, 4, 351	1.0	710
+190	Toàn thể dân tộc vui mừng khi nghe tin ấy.	You're the last hope for humanity.	The entire nation was glad at the news.	False	False	0.8369024	519	519, 789, 354	0	605
+191	Tôi có một vấn đề nhỏ.	You have a good sense of humor.	I've got a little problem.	False	False	0.69681406	254	254, 969, 557	0	227
+192	"""Bố vợ anh sống ở đâu vậy?"" ""Kế bên nhà anh vợ tôi"""	"""Where does your father in law live?"" ""In the house which stands beside my brother in law's house."""	"""Where does your father in law live?"" ""In the house which stands beside my brother in law's house."""	True	True	0.7390382	403	403, 489, 366	1.0	403
+193	Chúng tôi đi máy bay từ Tokyo đến Sapporo.	We took a plane from Tokyo to Sapporo.	We took a plane from Tokyo to Sapporo.	True	True	0.57265985	816	816, 185, 477	1.0	816
+194	Anh nhanh tay lên được không?	Can't you move faster?	Can't you move faster?	True	True	0.94326043	341	341, 3, 14	1.0	341
+195	Anh ta đã không đếm bữa tiệc cuối.	Do not count your chickens before they are hatched.	He didn't come to the last meeting.	False	True	0.8679173	79	79, 793, 982	0.5	793
+196	Tôi nhận được cái đó từ Tom	It's my pleasure to come to your university.	I got that from Tom.	False	False	0.93415594	790	790, 789, 693	0	499
+197	Nếu một nhà triết học trả lời, tôi không còn hiểu câu hỏi của tôi nữa.	When a philosopher answers me, I no longer understand my question.	When a philosopher answers me, I no longer understand my question.	True	True	0.85295725	863	863, 586, 136	1.0	863
+198	Bạn có chắc là bạn không thể làm thêm bất kỳ điều gì?	Why did Bill tear the letter into pieces?	Are you sure there's nothing more you can do?	False	False	0.8107343	626	626, 353, 540	0	250
+199	Tom có thể rời đi vào ngày mai.	Tom wants to swim.	Tom might leave tomorrow.	False	True	0.83368504	145	145, 239, 923	0.5	239
+200	Nhiệt là một hình thức năng lượng.	Heat is a form of energy.	Heat is a form of energy.	True	True	0.496289	983	983, 803, 726	1.0	983
+201	Thắng bé tháo cái đài ra từng phần.	Do not count your chickens before they are hatched.	The boy took the radio apart.	False	False	1.0164307	79	79, 892, 483	0	2
+202	Văn hóa ăn uống khác nhau ở mỗi nước.	Food is still scarce in the region.	Eating habits differ from country to country.	False	True	0.94678664	264	264, 110, 502	0.5	110
+203	Tôi kể cho họ cái mà tôi đã nhìn thấy.	I told them what I saw.	I told them what I saw.	True	True	0.812232	386	386, 301, 853	1.0	386
+204	Cô ta nhất định phải làm theo ý mình.	He feels powerless about his own life.	She will have her own way.	False	False	0.7956588	733	733, 621, 845	0	232
+205	Quyển sách này rất nặng.	This book is very heavy.	This book is very heavy.	True	True	0.85551834	34	34, 610, 215	1.0	34
+206	Tom có thể nói tiếng anh như người bản ngữ.	Tom can speak English like a native.	Tom can speak English like a native.	True	True	0.658252	49	49, 296, 30	1.0	49
+207	Tom lái xe không tốt.	Tom wants to swim.	Tom isn't good at driving.	False	False	0.656798	145	145, 545, 66	0	55
+208	Đừng quên dập lửa.	Don't look at me, don't stare at me, demon, don't stare, I can't bear it!	Don't forget to put out the fire.	False	True	0.88710487	639	639, 789, 646	0.3333333333333333	646
+209	Ken sơn xe đạp của cậu ấy màu trắng.	Ken painted his bicycle white.	Ken painted his bicycle white.	True	True	0.7118883	562	562, 916, 145	1.0	562
+210	Tom nói chuyện với cha bằng tiếng Pháp và nói với mẹ bằng tiếng Anh.	Tom speaks to his father in French and his mother in English.	Tom speaks to his father in French and his mother in English.	True	True	0.56200624	296	296, 49, 228	1.0	296
+211	Chúng ta hãy giúp họ giải quyết vấn đề.	Let's help them solve their problems.	Let's help them solve their problems.	True	True	0.56865716	329	329, 354, 640	1.0	329
+212	Britney Spears đang ở đâu?	Where is Britney Spears?	Where is Britney Spears?	True	True	0.60759354	508	508, 844, 197	1.0	508
+213	Em vẫn muốn ở bên anh.	You must stand up for what you believe in or no one will respect you.	I still want to be with you.	False	False	0.8718606	750	750, 671, 733	0	1
+214	Tôi đã quyết định sa thải Tom.	I've decided to fire Tom.	I've decided to fire Tom.	True	True	0.831687	337	337, 455, 188	1.0	337
+215	Cô ấy bị cáo buộc giết anh ta.	She allegedly murdered him.	She allegedly murdered him.	True	True	0.80756307	627	627, 652, 482	1.0	627
+216	Không, xin bấm số chín trước.	Do not count your chickens before they are hatched.	No, please dial nine first.	False	True	1.0310616	79	79, 892, 691	0.5	892
+217	Tôi khoog thể hiểu được tình cảm của anh ta.	He loves you very much.	I can't make her out.	False	False	0.8435483	671	671, 733, 254	0	20
+218	Tom không ăn mừng gì cả.	Tom wants to eat here tonight.	Tom wasn't celebrating.	False	False	0.64166605	66	66, 145, 498	0	634
+219	Tôi không giống bạn!	I'm not like you!	I'm not like you!	True	True	0.62767947	287	287, 305, 329	1.0	287
+220	Ngành khoa học máy tính đã tạo được sự tiến bô nhanh chóng ở đất nước chúng tôi.	Computer science has made rapid progress in our country.	Computer science has made rapid progress in our country.	True	True	0.82552004	157	157, 492, 321	1.0	157
+221	Cô ấy xấu hổ vì sự sơ xuất của mình.	She's spending too much time watching TV.	She was ashamed of herself for her carelessness.	False	False	0.9520581	260	260, 630, 56	0	657
+222	Nó đi bằng xe dạp đến trường học.	He goes to school by bicycle.	He goes to school by bicycle.	True	True	0.77612543	319	319, 816, 401	1.0	319
+223	Cái này dễ.	This is difficult.	This is easy.	False	False	0.9271134	404	404, 483, 950	0	400
+224	Tôi cần gọi bố mẹ để báo họ biết tôi sẽ về ăn tối muộn.	I need to call my parents and tell them I'll be late for dinner.	I need to call my parents and tell them I'll be late for dinner.	True	True	0.8081802	612	612, 923, 741	1.0	612
+225	Bạn đã nói với tôi à?	Pardon me, do you speak English?	Were you talking to me?	False	False	0.8064389	990	990, 133, 366	0	214
+226	Xin đừng tiết lộ với Elizabeth là tôi đã mua cho cô ấy sợi dây chuyền vàng tặng sinh nhật của cô ấy nhé.	It’s my pleasure to come to VNU.	Please don't spill the beans to Elizabeth that I bought her a gold necklace for her birthday.	False	True	0.8393004	789	789, 749, 878	0.5	749
+227	Bác sĩ bảo tôi nằm xuống.	Be careful or he'll stab you in the back.	The doctor had me lying in bed.	False	False	1.0002831	579	579, 200, 355	0	705
+228	Tom là người thông minh nhất trong lớp của chúng tôi.	Tom is the smartest one in our class.	Tom is the smartest one in our class.	True	True	0.5284605	919	919, 563, 916	1.0	919
+229	Tôi không biết vì sao tôi lại nói dối với họ.	I think I did the right thing.	I don't know why I lied to her.	False	False	0.8093407	86	86, 501, 136	0	53
+230	Không phải tất cả họ đều hạnh phúc.	But the universe is infinite.	Not all of them are happy.	False	False	0.8395057	726	726, 80, 642	0	875
+231	Ông ấy có không dưới 12 đứa con.	He has no less than twelve children.	He has no less than twelve children.	True	True	0.7908652	28	28, 5, 833	1.0	28
+232	Lần này anh ta đã thành công.	This is easy.	This time he has succeeded.	False	False	0.9686713	400	400, 480, 8	0	692
+233	Anh có đồng ý với đề án đó không ?	Can you recommend a place to stay in London?	Are you for or against the bill?	False	False	0.9260119	187	187, 540, 366	0	654
+234	Tom bảo tớ bình tĩnh.	Tom wants to eat here tonight.	Tom told me to calm down.	False	False	0.97383666	66	66, 175, 789	0	39
+235	Tôi chưa bao giờ phải lo lắng về anh ta.	He feels powerless about his own life.	I never worried about him.	False	False	0.83294153	733	733, 671, 426	0	377
+236	Tom muốn tôi dặn bạn mua một vài ổ bánh mì trên đường về nhà.	Tom wanted me to tell you to buy a couple of loaves of bread on your way home.	Tom wanted me to tell you to buy a couple of loaves of bread on your way home.	True	True	0.6832143	268	268, 66, 93	1.0	268
+237	Thôi đừng quanh co nữa, hãy nói thẳng cho tôi biết tại sao anh tức giận như vậy.	No matter how much you try to convince people that chocolate is vanilla, it'll still be chocolate, even though you may manage to convince yourself and a few others that it's vanilla.	Stop beating around the bush and tell me directly why you're so angry.	False	False	0.8906748	878	878, 743, 995	0	756
+238	Mẹ tôi được ba tôi yêu.	My mother is loved by my father.	My mother is loved by my father.	True	True	0.7433412	941	941, 354, 945	1.0	941
+239	Nhà hàng hết chỗ rồi.	Tom wants to eat here tonight.	The restaurant is full.	False	False	1.045796	66	66, 711, 2	0	608
+240	Bạn có thể vui lòng mở cửa sổ không?	Why did Bill tear the letter into pieces?	Open the window, will you?	False	False	0.9076203	626	626, 489, 156	0	151
+241	Ông tôi thức dậy sớm.	He helped me do my homework.	My grandfather gets up early.	False	True	0.89370275	845	845, 958, 681	0.3333333333333333	681
+242	Đã có lúc tôi muốn trở thành nhà vật lý vũ trụ.	I once wanted to be an astrophysicist.	I once wanted to be an astrophysicist.	True	True	0.76516294	363	363, 789, 868	1.0	363
+243	Bạn không được xâm phạm sự riêng tư của người khác.	You must not invade the privacy of others.	You must not invade the privacy of others.	True	True	0.6330348	446	446, 831, 621	1.0	446
+244	Tôi không hiểu tiếng Đức.	I don't understand German.	I don't understand German.	True	True	0.64587903	815	815, 885, 586	1.0	815
+245	Anh ta vượt qua Thái Bình Dương bằng một con thuyền buồm.	He crossed the Pacific Ocean in a sailboat.	He crossed the Pacific Ocean in a sailboat.	True	True	0.8839252	532	532, 725, 787	1.0	532
+246	Bạn muốn biết để làm gì?	How much money is left?	Why do you need to know?	False	False	0.81453323	282	282, 353, 540	0	140
+247	Theo dự báo thời tiết, mai sẽ có tuyết.	According to the weather forecast, it'll snow tomorrow.	According to the weather forecast, it'll snow tomorrow.	True	True	0.8558562	32	32, 419, 649	1.0	32
+248	Muốn tôi làm gì thì anh cứ nói, tôi sẽ làm cho.	Roger, what you say makes sense and I agree with you.	Just tell me what you want me to do and I'll do it.	False	False	0.8402766	780	780, 878, 651	0	405
+249	Đất nước chúng tôi sẽ tốt đẹp hơn nếu chúng tôi có một thủ tướng mới.	Our country would be better off if we had a new prime minister.	Our country would be better off if we had a new prime minister.	True	True	0.59435606	778	778, 519, 354	1.0	778
+250	Tôi cần một ít thời gian cân nhắc trước khi tôi quyết định.	I'd like some time to consider before I make a decision.	I'd like some time to consider before I make a decision.	True	True	0.76561356	245	245, 463, 986	1.0	245
+251	Tôi đủ rồi, cảm ơn.	Give me some water, please.	I've had enough, thank you.	False	False	0.71777415	255	255, 83, 372	0	114
+252	Tom đã không hề muốn sống ở Boston.	Tom never wanted to live in Boston.	Tom never wanted to live in Boston.	True	True	0.5752294	335	335, 270, 637	1.0	335
+253	Sau mọi nỗi vất vả của anh ta, lần này anh vẫn thất bại.	After all his efforts, he also failed this time.	After all his efforts, he also failed this time.	True	True	0.9408097	480	480, 782, 128	1.0	480
+254	Yuri gần đây hay tới London.	Yuri often went to London in those days.	Yuri often went to London in those days.	True	True	0.8313159	685	685, 145, 270	1.0	685
+255	Bạn đã đọc xong cuốn tiểu thuyết chưa?	Have you finished reading the novel?	Have you finished reading the novel?	True	True	0.85589814	25	25, 683, 205	1.0	25
+256	Tôi đã mua chiếc mũ này 2000 yên.	I bought this hat for 2000 yen.	I bought this hat for 2000 yen.	True	True	0.9737128	549	549, 789, 43	1.0	549
+257	Chúng tôi đã ăn cơm rang và uống chút bia.	You shouldn't eat this meat. It smells bad.	I ate fried rice and drank some beer.	False	True	0.7593198	406	406, 553, 978	0.5	553
+258	Cậu viết bằng bút bi được không?	Won't you please write with a ballpoint pen?	Won't you please write with a ballpoint pen?	True	True	0.8955426	137	137, 481, 3	1.0	137
+259	Đừng phí thời gian nói chuyện với Fred. Anh ta sẽ không bao giờ đổi ý đâu.	I'll visit Mr. Brown tomorrow.	Don't waste your breath with Fred. He'll never change his mind.	False	True	0.8347676	923	923, 755, 878	0.5	755
+260	Có ai phát âm được từ này không ?	Is there anyone who can pronounce this word?	Is there anyone who can pronounce this word?	True	True	0.7980437	273	273, 366, 282	1.0	273
+261	Tại sao mọi người lại nói dối?	Can you sing us a song?	Why do people tell lies?	False	False	0.8188584	366	366, 606, 990	0	771
+262	Sao mấy cô gái này xấu tính vậy?	Why are these girls so cruel?	Why are these girls so mean?	False	True	0.90683925	216	216, 535, 595	0.3333333333333333	595
+263	Nếu người La Mã phải học tiếng La-tinh trước rồi mới đi chinh phục thế giới thì sẽ không còn kịp nữa.	The Romans would never have had enough time for conquering the world if they had first been required to study Latin.	The Romans would never have had enough time for conquering the world if they had first been required to study Latin.	True	True	0.86880314	373	373, 704, 878	1.0	373
+264	Tớ ăn tối sớm hơn ấy.	You may eat anything so long as you don't eat too much.	I had dinner earlier than you.	False	False	0.93237996	642	642, 406, 679	0	98
+265	Tôi thích cốc trà của tôi.	You shouldn't eat this meat. It smells bad.	I liked my cup of tea.	False	True	0.88825047	406	406, 84, 238	0.5	84
+266	Anh ấy đã tập trung vào việc học các giới từ.	She's spending too much time watching TV.	He concentrated on his study of prepositions.	False	False	0.9557793	260	260, 408, 238	0	597
+267	Cậu ta rất nghèo lúc còn trẻ.	My brother is very good at playing the guitar.	He was terribly poor when he was young.	False	False	0.86639047	238	238, 918, 701	0	468
+268	Anh ta hoàn toàn không ngạc nhiên về khà năng của cô ta.	Everyone is more or less interested in art.	He was not at all surprised at her ability.	False	False	0.81352293	348	348, 733, 995	0	954
+269	Đèn tối quá, tôi không thể đọc sách.	Yesterday, I read a book.	The light is too dim for me to read easily.	False	False	0.8885517	689	689, 642, 885	0	301
+270	Cô giáo của chúng là một người đẹp nhưng lại không phải là típ người mặc đẹp.	Our teacher was a beautiful lady, but was not the type of person who dressed up.	Our teacher was a beautiful lady, but was not the type of person who dressed up.	True	True	0.9327843	269	269, 482, 751	1.0	269
+271	Thật khó phân biệt được hai chị em song sinh đó vì họ trông rất giống nhau.	It's difficult to tell those two twins apart because they look so much alike.	It's difficult to tell those two twins apart because they look so much alike.	True	True	0.9185319	751	751, 230, 753	1.0	751
+272	Ngày Quốc tế lao động cũng là ngày lễ dành cho người lao động trên toàn thế giới.	May Day is also a festival day for the workers in the world.	May Day is also a festival day for the workers in the world.	True	True	0.74299073	851	851, 805, 679	1.0	851
+273	Sự ngon miệng đến trong khi ăn.	Appetite comes with eating.	Appetite comes with eating.	True	True	0.88710415	502	502, 803, 754	1.0	502
+274	Đó là lý do vì sao Yoshio bị cảm.	That is why Yoshio has caught a cold.	That is why Yoshio has caught a cold.	True	True	0.6460526	867	867, 495, 283	1.0	867
+275	Cô ấy đang trong kỳ nghỉ.	She is now on vacation.	She is now on vacation.	True	True	0.78389	116	116, 260, 66	1.0	116
+276	Làm ơn sửa lại những lỗi sai.	Do good to those who hate you.	Please correct the errors.	False	False	0.834057	452	452, 750, 519	0	862
+277	Đừng nhìn tao, đừng nhìn chòng chọc vào tao, đồ quỷ sứ, đừng có nhìn, tao không thể chịu được!	Don't look at me, don't stare at me, demon, don't stare, I can't bear it!	Don't look at me, don't stare at me, demon, don't stare, I can't bear it!	True	True	0.7662902	639	639, 79, 704	1.0	639
+278	Cậu ấy là người cao nhất lớp.	He and I are classmates.	He is the tallest in his class.	False	False	0.65005577	708	708, 701, 916	0	328
+279	Một cung thủ giết chết con hươu.	The archer killed the deer.	The archer killed the deer.	True	True	0.90530276	906	906, 160, 709	1.0	906
+280	Mỗi ngày tôi dậy lúc 6 giờ.	I lived for years and years.	I get up at six every morning.	False	False	0.95208836	945	945, 911, 5	0	122
+281	Mình đang cố gúp Tom.	Tom wants to eat here tonight.	I'm just trying to help Tom out.	False	False	0.9566884	66	66, 145, 338	0	600
+282	Tai nạn xảy ra ở cửa của đường hầm.	The accident occurred at the mouth of the tunnel.	The accident occurred at the mouth of the tunnel.	True	True	0.913038	219	219, 493, 628	1.0	219
+283	Anh ta gấp rút đến phi trường.	When it was time to vote, he abstained.	He went to the airport in a hurry.	False	True	0.98219573	384	384, 789, 117	0.3333333333333333	117
+284	Nhiều người đã nghỉ hưu chuyển đến vùng Sunbelt để có thể thưởng thức các môn thể thao như gôn hay quần vợt ở vùng khí hậu ôn hòa hơn.	Many retired people move to the Sunbelt to enjoy sports such as golf or tennis in a milder climate.	Many retired people move to the Sunbelt to enjoy sports such as golf or tennis in a milder climate.	True	True	0.617702	522	522, 144, 898	1.0	522
+285	Đừng cười nó vì đã phạm sai lầm.	Don't ask what they think. Ask what they do.	Don't laugh at him for making a mistake.	False	False	0.9093025	440	440, 446, 863	0	572
+286	Tôi thích toán.	I like to travel.	I like math.	False	True	0.7710031	557	557, 814, 697	0.5	814
+287	Cá không thể sống mà không có nước.	Fish cannot live out of water.	Fish cannot live out of water.	True	True	0.66799724	218	218, 803, 810	1.0	218
+288	Tại cuộc hội thảo, họ đã tụ họp chúng tôi thành các nhóm và bắt chúng tôi nói chuyện với nhau.	At the seminar, they threw us all together into groups and made us talk together.	At the seminar, they threw us all together into groups and made us talk together.	True	True	0.70027447	753	753, 986, 900	1.0	753
+289	Bạn có đến hay không đối với tôi không quan trọng.	No one believed me at first.	It doesn't matter to me whether you come or not.	False	False	0.85624063	136	136, 501, 254	0	581
+290	Và như vậy mọi công dân đều có vai trò không thể thiếu được.	And so each citizen plays an indispensable role.	And so each citizen plays an indispensable role.	True	True	0.82674754	757	757, 329, 901	1.0	757
+291	Tôi nghĩ tin đồn đó là thật.	I think the rumor is true.	I think the rumor is true.	True	True	0.68972373	281	281, 86, 136	1.0	281
+292	Anh ấy đã ra khỏi nhà lúc 8 giờ.	Last night he went to sleep at 11 o' clock.	He left the house at eight o'clock.	False	True	0.8146999	5	5, 592, 303	0.5	592
+293	Bây giờ đã hơn chín giờ rồi.	Next time I'll come earlier.	It's already past nine o'clock.	False	False	0.86484814	275	275, 473, 490	0	303
+294	Phương pháp luận được dùng trong cuộc nghiên cứu của anh ta cũng hữu ích trong việc quản lý cuộc nghiên cứu của chúng tôi.	The methodology used in his study is also helpful to us in conducting our research.	The methodology used in his study is also helpful to us in conducting our research.	True	True	0.681492	928	928, 859, 301	1.0	928
+295	Tất cả chiếc chuông nhà thờ đồng loạt bắt đầu vang lên.	All the church bells started ringing together.	All the church bells started ringing together.	True	True	0.7363758	604	604, 882, 195	1.0	604
+296	Bạn nên đến Tokyo, nơi nổi tiếng với những địa danh như ngôi chùa cổ, đền Shinto...	You should visit Kyoto, which is famous for its old temples and shrines.	You should visit Kyoto, which is famous for its old temples and shrines.	True	True	0.6721349	272	272, 185, 902	1.0	272
+297	Tôi phải làm gì với bức thư của anh ấy?	What should I do in the meantime?	What shall I do with her letter?	False	False	0.79253316	540	540, 834, 626	0	541
+298	Đậu xe ở đâu vậy?	Where did the horse go?	Where can I park?	False	False	0.93520546	58	58, 282, 366	0	618
+299	Chúng tôi thực hiện kế hoạch đó.	We carried out that plan.	We carried out that plan.	True	True	0.6533003	263	263, 986, 354	1.0	263
+300	Thế giới không quay quanh mày.	The world does not revolve around you.	The world does not revolve around you.	True	True	0.8725773	831	831, 726, 679	1.0	831
+301	Bạn nói gì đấy?	What's preventing this from happening?	What are you saying?	False	False	0.78907514	353	353, 282, 540	0	724
+302	Betty, đây có phải là con trai chị không?	Is this your son, Betty?	Is this your son, Betty?	True	True	0.8427434	556	556, 626, 282	1.0	556
+303	Tiếng Anh không đơn giản nhưng rất thú vị.	English is not easy, but it is interesting.	English is not easy, but it is interesting.	True	True	0.72769964	396	396, 30, 348	1.0	396
+304	Chúng tôi đã hoàn thành công việc đúng lúc.	He helped me do my homework.	We got the job done on time.	False	False	0.7548624	845	845, 986, 969	0	234
+305	Chúng tôi sẽ đưa bạn về nhà.	We need to take you home.	We need to take you home.	True	True	0.64203596	292	292, 329, 354	1.0	292
+306	Tớ sẽ chỉ hẹn hò với người dễ thương thôi.	He will be a good husband.	I will not date anyone who is not cute.	False	False	0.9088105	570	570, 305, 679	0	139
+307	Vé khứ hồi phải không? Một chiều thôi.	It’s my pleasure to come to VNU.	Round trip? Only one-way.	False	False	0.9298495	789	789, 679, 716	0	947
+308	Hai đội đối đầu nhau quyết liệt.	The two teams fought very hard.	The two teams fought very hard.	True	True	0.6262381	304	304, 279, 493	1.0	304
+309	Không, anh phải mua vé ở quầy bán.	He puts aside some money every month.	No. You have to buy it at the ticket office.	False	False	1.018648	678	678, 602, 777	0	108
+310	Đó là cảm giác tuyệt vời nhất.	The light is too dim for me to read easily.	It's the best feeling.	False	True	0.9119036	301	301, 65, 193	0.3333333333333333	193
+311	Anh ta không cố tình làm điều đó.	One can't learn to do anything without making mistakes.	He didn't do it on purpose.	False	False	0.7289251	621	621, 136, 969	0	520
+312	Ông có bị dị ứng nào không?	May I ask a few questions?	Do you have any allergies?	False	False	1.0388598	4	4, 917, 706	0	736
+313	Văn hóa vũng như mứt quả: ta càng có ít, ta càng phết nhiều.	Culture is like jam: the less one has, the more one spreads it.	Culture is like jam: the less one has, the more one spreads it.	True	True	0.90160036	679	679, 26, 120	1.0	679
+314	Lúc đó, tôi không nghĩ đến vấn đề này.	No one believed me at first.	During that time I didn't expect to have a problem.	False	True	0.68548775	136	136, 81, 104	0.3333333333333333	104
+315	Bạn nghĩ điều đó thế nào?	What's preventing this from happening?	What do you think about it?	False	False	0.7459271	353	353, 31, 282	0	149
+316	Chúng ta chẳng thể nào đấu lại Châu Á đâu.	We should help each other.	We can't compete with Asia.	False	False	0.8109596	354	354, 779, 152	0	943
+317	Kế hoạch của tôi là học ở Úc	My plan is to study in Australia.	My plan is to study in Australia.	True	True	0.85359335	474	474, 790, 770	1.0	474
+318	Đây chính là cách mà vụ tai nạn đã xãy ra.	This is how the accident happened.	This is how the accident happened.	True	True	0.81802297	930	930, 859, 679	1.0	930
+319	Chúng tôi biết anh ấy.	He loves you very much.	We know him.	False	False	0.71732426	671	671, 531, 354	0	461
+320	Sức khỏe tối cần thiết cho hạnh phúc.	Health is essential to happiness.	Health is essential to happiness.	True	True	0.87592006	805	805, 208, 26	1.0	805
+321	Tôi từng làm việc cho họ.	He helped me do my homework.	It worked for them.	False	False	0.7975993	845	845, 247, 249	0	88
+322	Tiểu thuyết này gồm ba phần.	This novel consists of three parts.	This novel consists of three parts.	True	True	0.5367776	431	431, 215, 796	1.0	431
+323	Số người tham quan thành phố này tăng từng năm.	Visitors to that town increase in number year by year.	Visitors to that town increase in number year by year.	True	True	0.7155361	459	459, 168, 851	1.0	459
+324	Tôi xin lỗi vì đã gây ra nhiều rắc rối cho bạn.	You have a good sense of humor.	I'm sorry to have caused you so much trouble.	False	False	0.8702036	254	254, 501, 969	0	746
+325	Tôi rất cao.	I am very tall.	I am very tall.	True	True	0.8006393	603	603, 992, 703	1.0	603
+326	Chó sủa thì không cắn.	If you eat too much, you will get fat.	Dogs that bark don't bite.	False	False	0.863106	120	120, 79, 642	0	138
+327	Bụng tôi bị đầy hơi.	Love is blind.	I have abdominal gas.	False	False	1.0080681	90	90, 651, 193	0	981
+328	Anh có trông thấy bọn họ không?	Who discovered radium?	Can you see them?	False	True	0.8809781	582	582, 585, 353	0.5	585
+329	Bức họa này bao nhiêu năm rồi?	Who's your favorite poet?	How old is that painting?	False	False	0.9479331	205	205, 197, 844	0	788
+330	Cho tôi vào.	You know this.	Let me back in.	False	False	0.831913	96	96, 716, 920	0	650
+331	Tên lửa êm ái bay lên.	It’s my pleasure to come to VNU.	The rocket went up smoothly.	False	False	0.9861407	789	789, 154, 305	0	195
+332	Tom nghi ngờ liệu Mary sẽ giữ lời hứa.	Tom doubts if Mary will keep her promise.	Tom doubts if Mary will keep her promise.	True	True	0.6677182	358	358, 224, 94	1.0	358
+333	Chúng tôi đã chẳng thể nhìn được gì vì tuyết rơi	Can you sing us a song?	Because of the snow, I couldn't see anything.	False	False	0.977381	366	366, 819, 242	0	402
+334	Những người công nhân đã ngừng xây dựng tòa nhà đó vì họ không có đủ tiền để hoàn thành nó.	The workers stopped short of constructing that building because they didn't have enough money to finish it.	The workers stopped short of constructing that building because they didn't have enough money to finish it.	True	True	0.691488	769	769, 645, 79	1.0	769
+335	Một người với mắt kém không thể nhìn được xa.	A person with weak eyes can't see far.	A person with weak eyes can't see far.	True	True	0.78381085	469	469, 301, 621	1.0	469
+336	Tom được một con điểm tốt.	Tom has a good point.	Tom has a good point.	True	True	0.6021178	915	915, 145, 698	1.0	915
+337	Ai muốn chơi bóng chuyền nào?	Who wants to play volleyball?	Who wants to play volleyball?	True	True	0.6649481	197	197, 390, 282	1.0	197
+338	Gần đây thật khó theo kịp thời trang ăn mặc của thanh thiếu niên bởi vì chúng thay đổi quá thường xuyên.	It's so hard to keep up with teenage clothing fashions these days because they change so often.	It's so hard to keep up with teenage clothing fashions these days because they change so often.	True	True	0.9096961	731	731, 898, 522	1.0	731
+339	Tôi nghĩ là tôi vẫn còn thời gian cho một ly cà phê nữa.	I think I still have time for another cup of coffee.	I think I still have time for another cup of coffee.	True	True	0.75023806	978	978, 463, 584	1.0	978
+340	Marie sẽ giúp chúng ta ngày mai.	We should help each other.	Mary is going to help us tomorrow.	False	False	0.8885174	354	354, 519, 518	0	999
+341	Đừng có tin bất kỳ ai ở đây hết.	No one can do anything.	Don't trust anyone here.	False	False	0.9106854	192	192, 486, 923	0	927
+342	Tom tới từ Úc.	Tom is from Australia.	Tom is from Australia.	True	True	0.5361717	102	102, 145, 270	1.0	102
+343	Hai người có ngưng ngay tiếng ồn ầm ĩ đó không? Tôi đang cố ngủ.	Don't look at me, don't stare at me, demon, don't stare, I can't bear it!	Would you two knock it off with the loud noise? I'm trying to sleep.	False	False	0.9815469	639	639, 366, 952	0	732
+344	Chị tôi chưa làm xong bài tập của bả nữa.	Culture is like jam: the less one has, the more one spreads it.	My sister hasn't done homework for herself.	False	False	1.0171943	679	679, 586, 785	0	939
+345	Có một vài vấn đề.	There are a few problems.	There are a few problems.	True	True	0.42006445	315	315, 935, 404	1.0	315
+346	Mọi thứ tôi kể với bạn có thể không chính xác.	The light is too dim for me to read easily.	Everything I've told you may not be accurate.	False	False	0.8472166	301	301, 254, 348	0	636
+347	Sao bạn không tới thăm tụi tôi?	Can you sing us a song?	Why don't you come visit us?	False	True	0.85397387	366	366, 491, 568	0.5	491
+348	Tom không nổi tiếng.	Tom was not famous.	Tom was not famous.	True	True	0.65063095	357	357, 416, 707	1.0	357
+349	Tôi phải rời khỏi đây.	I want to go home.	I must leave here.	False	False	0.62476754	920	920, 292, 359	0	342
+350	Ông ấy không phải ba tôi, ông ta là chú của tôi.	He is not my father, he is my uncle.	He is not my father, he is my uncle.	True	True	0.7245114	305	305, 785, 230	1.0	305
+351	Tạm biệt. Mai gặp lại.	Yesterday I met Marie.	Goodbye. See you tomorrow.	False	False	0.9947635	314	314, 488, 429	0	886
+352	Các ngón chân tớ lạnh cóng.	My toes are freezing.	My toes are freezing.	True	True	1.0499964	355	355, 489, 938	1.0	355
+353	Cô ấy tự hào là đầu bếp giỏi.	My brother is very good at playing the guitar.	She brags about how well she can cook.	False	False	1.0337272	238	238, 482, 789	0	56
+354	Giá tốt đấy.	That's a good price.	That's a good price.	True	True	0.86293566	326	326, 124, 456	1.0	326
+355	Bạn cho mình mượn cuốn từ điển được không ?	May I use your dictionary?	May I use your dictionary?	True	True	0.93100953	683	683, 137, 156	1.0	683
+356	Anh hãy giữ lại tiền lẻ.	You shouldn't do his work.	Keep the change!	False	False	0.9512056	174	174, 678, 697	0	976
+357	Tôi rất tiếc, hôm nay tôi không thể tham gia với bạn. Trước buổi tối nay tôi phải chạy rất nhiều việc vặt.	I have to work this weekend.	I'm sorry I can't join you today. I have to run a lot of errands before this evening.	False	False	0.8358388	463	463, 970, 767	0	745
+358	Lẽ ra anh ấy có thể làm điều đó.	It's easier to make plans than to carry them out.	He could do it.	False	False	0.7976937	986	986, 193, 86	0	510
+359	Sự giúp đỡ của bạn rất cần thiết đối với chúng tôi.	We should help each other.	Your assistance is indispensable for us.	False	False	0.5875324	354	354, 329, 640	0	809
+360	Tôi sẽ không bao giờ quên rằng tôi đã qua một lúc dễ chịu với anh.	I'll never forget having a good time with you all.	I'll never forget having a good time with you all.	True	True	0.82670164	426	426, 363, 547	1.0	426
+361	Jane thông minh như những đứa bé gái khác trong lớp của nó.	Jane is as clever as any girl in her class.	Jane is as clever as any girl in her class.	True	True	0.6584132	821	821, 708, 891	1.0	821
+362	Tôi nên làm gì trong lúc ấy?	What should I do in the meantime?	What should I do in the meantime?	True	True	0.621408	540	540, 353, 576	1.0	540
+363	Không rẻ 1 tí nào, đắt khủng khiếp.	It’s my pleasure to come to VNU.	It's not even a little bit cheap, it's extremely expensive!	False	False	0.9910871	789	789, 642, 120	0	399
+364	Chúng ta đã thua 3 trận cho đến thời điểm hiện tại.	So far, we've lost three games.	So far, we've lost three games.	True	True	0.891397	616	616, 304, 779	1.0	616
+365	Đoàn tầu gồm 15 toa tầu.	Mr Long and Mr Smith spoke to each other.	The train is made up of fifteen cars.	False	False	1.0936494	175	175, 909, 648	0	593
+366	Gặp anh là rất tốt.	He is a very smart boy.	It's great to meet you.	False	False	0.91805875	701	701, 798, 210	0	959
+367	Tôi có thể yêu.	I can love.	I can love.	True	True	0.54328644	18	18, 128, 288	1.0	18
+368	Tôi đã từng học ở Anh trong 6 tháng khi tôi còn là học sinh.	I studied in England for six months when I was a student.	I studied in England for six months when I was a student.	True	True	0.6494242	408	408, 868, 885	1.0	408
+369	Ông ấy đã may cho tôi một bộ quần áo.	Yesterday, I read a book.	He made me a suit.	False	False	0.8742794	689	689, 660, 268	0	159
+370	Anh văn là tiết thứ 3.	English is third period.	English is third period.	True	True	0.9723569	551	551, 789, 99	1.0	551
+371	Có phải anh đã để cậu ta lái xe?	Who wants to play volleyball?	Did you let him drive your car?	False	True	0.85825956	197	197, 447, 24	0.5	447
+372	Tom nhảy ra khỏi ghế.	Tom jumped out of his seat.	Tom jumped out of his seat.	True	True	0.74389315	801	801, 415, 877	1.0	801
+373	Tớ mệt muốn chết đi được, chả nghĩ được gì nữa.	Love must have wings to fly away from love, and to fly back again.	I'm so doggone exhausted, I can't even think straight.	False	False	0.8880973	704	704, 679, 639	0	655
+374	Mỗi đứa trẻ có một cách suy nghĩ khác nhau.	Each child has an individual way of thinking.	Each child has an individual way of thinking.	True	True	0.7139566	854	854, 348, 354	1.0	854
+375	Tất cả những quả táo rơi bị lợn ăn hết.	All of the apples that fall are eaten by the pigs.	All of the apples that fall are eaten by the pigs.	True	True	0.7040771	996	996, 79, 950	1.0	996
+376	Cha tôi sẽ trở lại vào đâu tháng tới.	My father will be back at the beginning of next month.	My father will be back at the beginning of next month.	True	True	0.6800697	484	484, 694, 900	1.0	484
+377	Tôi đã bảo giàu có hay không không quan trọng rồi !	What a kind boy he is!	I don't care whether he is rich or not!	False	True	0.9773935	932	932, 917, 599	0.3333333333333333	599
+378	Ông ấy đóng một vai trò quan trọng trong doanh nghiệp.	He played an important part in the enterprise.	He played an important part in the enterprise.	True	True	0.81831634	567	567, 238, 845	1.0	567
+379	Máy vi tính không sống lâu hơn đồng hồ.	The light is too dim for me to read easily.	A computer is no more alive than a clock is.	False	False	1.0211538	301	301, 218, 630	0	472
+380	Bạn có nghe tôi được tất cả không?	Did you listen at all to what I said?	Did you listen at all to what I said?	True	True	0.7557881	517	517, 366, 540	1.0	517
+381	Chị ấy là ai?	Who is she?	Who is she?	True	True	0.76340806	535	535, 282, 606	1.0	535
+382	Anh ấy sang Nhật hai năm trước.	He came to Japan two years ago.	He came to Japan two years ago.	True	True	0.7390883	297	297, 45, 910	1.0	297
+383	Chẳng nói được ngành khoa học sẽ phát triển đến mức nào khi hết thế kỉ 20 nữa.	There is no telling how far science may have progressed by the end of the twentieth century.	There is no telling how far science may have progressed by the end of the twentieth century.	True	True	0.73608804	940	940, 679, 340	1.0	940
+384	Chị tôi không phải là người nấu ăn giỏi, tôi cũng vậy.	My brother is very good at playing the guitar.	My sister is not a good cook, and neither am I.	False	False	0.80712795	238	238, 918, 679	0	155
+385	Việc anh ấy thi đậu bằng lái xe làm mọi người rất ngạc nhiên	Culture is like jam: the less one has, the more one spreads it.	He amazed everyone by passing his driving test.	False	False	0.97749877	679	679, 775, 878	0	64
+386	Mình thích cái này.	I appreciate this.	I like this.	False	True	0.75975037	995	995, 703, 254	0.5	703
+387	Tôi thực sự cảm thấy thượng hại ông lão đó, ông ấy sống một mình và không có gia đình.	He is not my father, he is my uncle.	I really feel sorry for that old man who lives alone and has no family.	False	True	0.9188775	305	305, 774, 878	0.5	774
+388	Váy dài là hợp thời trang.	It’s my pleasure to come to VNU.	Long skirts are in fashion.	False	False	0.9691297	789	789, 176, 704	0	515
+389	Anh ta kiếm được gấp đôi lương của tôi	You're a worthy opponent.	He earns double my salary.	False	False	0.9143616	43	43, 519, 798	0	956
+390	Jerry là một người rất chân thật. Bạn có thể luôn tin lời của ông ta.	Jerry is a very honest man. You can always take him at his word.	Jerry is a very honest man. You can always take him at his word.	True	True	0.6275008	785	785, 238, 764	1.0	785
+391	Tôi sẽ trở lại sớm	I love coming back here.	I will be back soon.	False	True	0.87253356	213	213, 694, 519	0.5	694
+392	Tôi biết Tom sống ở đâu.	I'll visit Mr. Brown tomorrow.	I found out where Tom lives.	False	False	0.8180802	923	923, 145, 66	0	667
+393	Bạn nên chú ý đến sức khỏe của bản thân.	You should be careful about your health.	You should be careful about your health.	True	True	0.7478211	640	640, 805, 970	1.0	640
+394	Java với Javascript khác nhau như Ấn Độ khác với Indonesia vậy.	Java and Javascript are like India and Indonesia, they aren't the same thing.	Java and Javascript are like India and Indonesia, they aren't the same thing.	True	True	0.61195874	123	123, 679, 878	1.0	123
+395	Anh ấy không chấp nhận đề nghị của tôi.	He didn't agree to my proposal.	He didn't agree to my proposal.	True	True	0.7317078	813	813, 921, 995	1.0	813
+396	Sự sụt giảm 3/4 doanh thu đã được dữ báo trước.	A loss in third-quarter revenues was predicted.	A loss in third-quarter revenues was predicted.	True	True	0.87444484	460	460, 953, 32	1.0	460
+397	Anh ta bị thương trong khi làm việc	Flexible work hours make employees more productive.	He got hurt in the accident at work.	False	False	1.0252832	208	208, 845, 653	0	69
+398	Tôi sắp thông báo cho anh những thông tin mới nhất từ làng.	I'll bring you up to date with the latest news from the village.	I'll bring you up to date with the latest news from the village.	True	True	0.86306703	829	829, 686, 789	1.0	829
+399	Tôi thấy rất thư giãn.	You have a good sense of humor.	I feel very relaxed.	False	False	0.78671634	254	254, 547, 557	0	323
+400	Thú riêng của tôi là sưu tầm tem.	Everyone is more or less interested in art.	My hobby is collecting stamps.	False	False	0.8423158	348	348, 254, 301	0	933
+401	Tôi không ngu ngốc vì em nữa đâu.	You may eat anything so long as you don't eat too much.	I am not any more foolish than you are.	False	False	0.85573614	642	642, 440, 305	0	791
+402	Tôi không thích đèn to để bàn giấy.	You may eat anything so long as you don't eat too much.	I don't like big desk lamps.	False	False	0.84786963	642	642, 174, 497	0	826
+403	Chỗ của tôi ở đây.	My place is here.	My place is here.	True	True	0.7579397	716	716, 920, 845	1.0	716
+404	Cô ta mới chỉ ăn Sushi và uống bia thôi.	Tom wants to eat here tonight.	She just ate sushi and drank beer.	False	True	0.8448696	66	66, 406, 934	0.3333333333333333	934
+405	Ăn nhiều quá mập đấy.	If you eat too much, you will get fat.	If you eat too much, you will get fat.	True	True	0.9315988	120	120, 642, 679	1.0	120
+406	Họ sẽ giúp bọn mình	We should help each other.	They'll help us.	False	False	0.65451956	354	354, 519, 329	0	531
+407	Tớ chán cuộc sống đơn điệu rồi.	It’s my pleasure to come to VNU.	I am tired of my monotonous life.	False	False	0.9880253	789	789, 561, 704	0	111
+408	Hôm nay cậu không phải đến trường.	My brother is very good at playing the guitar.	You don't have to go to school today.	False	True	0.81251144	238	238, 920, 462	0.3333333333333333	462
+409	Con mèo đang nằm phơi mình trong nắng.	On his return he found her daughter asleep.	The cat was basking in the sun.	False	True	0.9992242	299	299, 709, 33	0.3333333333333333	33
+410	Tôi muốn về nhà.	I want to go home.	I want to go home.	True	True	0.6195977	920	920, 292, 103	1.0	920
+411	Anh ta mệt mỏi vì làm việc quá sức.	She brags about how well she can cook.	He is tired from overwork.	False	True	0.80379605	56	56, 635, 590	0.3333333333333333	590
+412	Hôm nay là ngày đầu tiên của phần còn lại của đời bạn.	Today is the first day of the rest of your life.	Today is the first day of the rest of your life.	True	True	0.67234755	372	372, 519, 941	1.0	372
+413	Tất cả chúng ta đều cố gắng để chiến thắng.	We should help each other.	We're all trying to win.	False	False	0.60006785	354	354, 519, 779	0	186
+414	Tôi nghĩ Tom đang giấu cái gì đó.	I think Tom is hiding something.	I think Tom is hiding something.	True	True	0.7656915	300	300, 142, 365	1.0	300
+415	Thụy Sĩ cần những quả táo ngon hơn.	Switzerland needs better apples.	Switzerland needs better apples.	True	True	0.95884657	849	849, 79, 66	1.0	849
+416	Anh ta quá nhút nhát để tỏ tình với cô ấy.	He feels powerless about his own life.	He is too shy to bare his heart to her.	False	False	0.8554535	733	733, 348, 751	0	430
+417	Con mèo có hai cái tai.	A cat has two ears.	A cat has two ears.	True	True	1.011575	92	92, 625, 489	1.0	92
+418	Tớ không nhớ nổi hôm qua tớ phải ăn những gì	Don't waste your breath with Fred. He'll never change his mind.	I can't remember what I had to eat yesterday.	False	False	0.9973991	755	755, 639, 366	0	223
+419	Người đầu tiên mà tôi gặp ở Boston là Tom.	The first person I met in Boston was Tom.	The first person I met in Boston was Tom.	True	True	0.4597013	637	637, 722, 916	1.0	637
+420	Một người không thể học làm bất kỳ thứ gì mà không gây ra lỗi lầm cả.	One can't learn to do anything without making mistakes.	One can't learn to do anything without making mistakes.	True	True	0.68744004	621	621, 446, 192	1.0	621
+421	Maria đã nói rằng cô sẽ khiêu vũ suốt đêm.	Mary said she was going to dance all night.	Mary said she was going to dance all night.	True	True	0.7261729	311	311, 753, 773	1.0	311
+422	Tom tập trung vào công việc.	Tom concentrated on his work.	Tom concentrated on his work.	True	True	0.6646359	380	380, 145, 55	1.0	380
+423	Con ngựa đã đi đâu?	Where did the horse go?	Where did the horse go?	True	True	0.85684216	58	58, 282, 197	1.0	58
+424	Chúng tôi đang bàn bạc việc nâng cao hình ảnh của công ty.	It's easier to make plans than to carry them out.	The company is trying to improve its image.	False	False	0.9492023	986	986, 329, 354	0	663
+425	Tôi sẽ ở lại khách sạn này trong một tháng kể từ ngày thứ hai tới.	I will have been staying in this hotel for one month next Sunday.	I will have been staying in this hotel for one month next Sunday.	True	True	0.68192554	902	902, 484, 85	1.0	902
+426	Thật khó mà thoát khỏi số phận.	There is no escape from fate.	There is no escape from fate.	True	True	0.86679554	80	80, 621, 446	1.0	80
+427	Hằng ngày sau khi tan học, cô ấy chơi quần vợt.	She plays tennis after school every day.	She plays tennis after school every day.	True	True	0.7422472	344	344, 238, 260	1.0	344
+428	Tom giups Mary làm bếp.	Tom wants to eat here tonight.	Tom helped Mary in the kitchen.	False	True	0.7279779	66	66, 224, 891	0.3333333333333333	891
+429	Lần tới tôi sẽ đến sớm hơn.	I want to go home.	Next time I'll come earlier.	False	True	0.7586701	920	920, 275, 103	0.5	275
+430	Mr Wilder đã đưa cho tôi địa chỉ e-mail của bạn.	Mr Wilder gave me your e-mail address.	Mr Wilder gave me your e-mail address.	True	True	0.62479424	164	164, 165, 923	1.0	164
+431	Tufts là trường đại học nguy hiểm nhất thế giới.	Tufts is the most dangerous university in the world.	Tufts is the most dangerous university in the world.	True	True	0.4823532	428	428, 168, 545	1.0	428
+432	Chẳng có ai làm việc này tốt hơn.	This is easy.	Nobody does it better.	False	False	0.8085928	400	400, 329, 986	0	36
+433	Rốt cuộc tớ đi bộ từ trạm Shinjuku tới Jumbocho ngày hôm qua!	I actually ended up walking all the way from Shinjuku Station to Jimbocho yesterday!	I actually ended up walking all the way from Shinjuku Station to Jimbocho yesterday!	True	True	0.8062866	185	185, 107, 789	1.0	185
+434	Tôi sống từ năm này qua năm khác.	I lived for years and years.	I lived for years and years.	True	True	0.8051436	945	945, 900, 484	1.0	945
+435	Đây là bạn của bọn tớ, Tom	This is our friend Tom.	This is our friend Tom.	True	True	0.91633654	752	752, 639, 388	1.0	752
+436	Tôi không thể cho bạn mượn cuốn sách này.	I will try to translate more sentences into German.	I cannot lend this book to you.	False	True	0.8641875	586	586, 543, 439	0.5	543
+437	Trái đất giống như một quả banh với một cái nam châm to ở giữa.	The earth is like a ball with a big magnet in it.	The earth is like a ball with a big magnet in it.	True	True	0.7749723	874	874, 789, 278	1.0	874
+438	Tập đoàn này nổi tiếng vì trang thiết bị thông tin của nó.	This corporation is well known for its communication equipment.	This corporation is well known for its communication equipment.	True	True	0.62118256	742	742, 663, 401	1.0	742
+439	Bạn có chắc chắn rằng điều đó cần thiết không?	What's preventing this from happening?	Are you guys sure that's necessary?	False	True	0.8197818	353	353, 538, 540	0.5	538
+440	Ông Potter giữ cơ thể mình trong tình trạng khỏe mạnh bằng cách chạy bộ mỗi ngày.	Mr Potter keeps himself in good condition by going jogging every day.	Mr Potter keeps himself in good condition by going jogging every day.	True	True	0.9314263	631	631, 630, 119	1.0	631
+441	Cứ ngồi nhé.	It’s my pleasure to come to VNU.	Please take a seat.	False	False	1.0193264	789	789, 639, 624	0	127
+442	Cô ấy đóng cửa và đi lên tầng 2.	The girl who works at the bakery is cute.	She shut the door and went upstairs.	False	False	0.9985539	482	482, 260, 66	0	417
+443	Tôi bắt tay Jane.	I've decided to fire Tom.	I shook hands with Jane.	False	False	0.727723	337	337, 999, 233	0	926
+444	Cậu sai từ đầu rồi.	This is easy.	You were wrong after all.	False	False	0.8568835	400	400, 651, 689	0	95
+445	Tôi sẽ mở cửa.	We need to take you home.	I will open the door.	False	False	0.8384167	292	292, 78, 920	0	57
+446	Anh ta làm việc cực khổ để gia đình của anh ta có thể sống thoải mái.	He worked hard in order that his family might live in comfort.	He worked hard in order that his family might live in comfort.	True	True	0.855631	144	144, 845, 970	1.0	144
+447	Có lẽ tôi sẽ gọi cho cậu lúc nào đó.	I'll visit Mr. Brown tomorrow.	Maybe I'll call you sometime.	False	True	0.7444873	923	923, 999, 486	0.3333333333333333	486
+448	Tôi đã làm cho bố anh hứa là sẽ không bao giờ nhắc đến Tom nữa.	Jerry is a very honest man. You can always take him at his word.	I made your father promise never to speak of Tom.	False	False	0.8796276	785	785, 743, 878	0	412
+449	Ngày mai tôi sẽ đến thăm ông Brown.	I'll visit Mr. Brown tomorrow.	I'll visit Mr. Brown tomorrow.	True	True	0.84637535	923	923, 484, 910	1.0	923
+450	Em ăn sáng chưa?	Omit needless words!	Have you had breakfast?	False	False	1.172101	624	624, 582, 618	0	324
+451	Cậu sở hữu nó được bao lâu rồi?	How long have you owned it?	How long have you owned it?	True	True	0.7962471	246	246, 282, 917	1.0	246
+452	Học chăm chỉ thì bạn mới có thể vượt qua kỳ thi.	Culture is like jam: the less one has, the more one spreads it.	Study hard so that you can pass the exam.	False	True	0.85986257	679	679, 554, 329	0.5	554
+453	Hai đứa trẻ đang ngồi ở trên hàng rào.	Two children are sitting on the fence.	Two children are sitting on the fence.	True	True	0.8141737	389	389, 6, 628	1.0	389
+454	Anh trông thấy người đàn bà đó ở đâu?	Where did you see this woman?	Where did you see this woman?	True	True	0.8899635	936	936, 489, 197	1.0	936
+455	Cha đi đến Detroit để làm việc hằng năm.	Father went to Detroit to work every year.	Father went to Detroit to work every year.	True	True	0.6060958	833	833, 144, 335	1.0	833
+456	Tớ giới thiệu bạn tớ với ấy nhé?	Can you sing us a song?	May I introduce my friend to you?	False	False	0.94367194	366	366, 205, 844	0	133
+457	Chúng ta hãy tập hợp ở đây 1 tuần 1 lần.	We live in the country during the summer.	Let's get together here once a week.	False	False	0.95726097	900	900, 753, 271	0	267
+458	Nó ra biển bơi.	He went to sea to swim.	He went to sea to swim.	True	True	0.9884547	725	725, 532, 483	1.0	725
+459	Tay tôi bẩn. Tôi vừa chữa xe đạp của tôi.	My toes are freezing.	My hands are dirty. I have been repairing my bicycle.	False	True	0.98860025	355	355, 938, 496	0.3333333333333333	496
+460	Tôi muốn nói đôi lời để xin lỗi.	I want to say one thing.	I'd like to say a few words by way of apology.	False	False	0.89416945	651	651, 86, 921	0	434
+461	Tớ nghĩ cậu nên về nhà ngay.	I want to go home.	I think you need to go home now.	False	True	0.7951126	920	920, 103, 66	0.5	103
+462	Anh ở lại Canada bao nhiêu lâu?	How long did you stay in Canada?	How long did you stay in Canada?	True	True	0.8125472	568	568, 205, 855	1.0	568
+463	Billy, hãy cút đi! Tôi không muốn nhìn thấy anh ở đây nữa.	Billy, get lost! I don't want to see you here again.	Billy, get lost! I don't want to see you here again.	True	True	0.75213027	758	758, 383, 843	1.0	758
+464	Tôi ghé qua hiệu sách và mua một cuốn sách thú vị.	I dropped by the bookstore and bought an interesting book.	I dropped by the bookstore and bought an interesting book.	True	True	0.89730537	619	619, 689, 918	1.0	619
+465	Cô ấy hình như bị đau đầu.	I saw the figure of a man.	She appears to have a headache.	False	False	0.99459755	278	278, 367, 490	0	866
+466	Em yêu, chúng ta cần đi đến siêu thị. Chúng ta hết sữa rồi.	It's getting dark. You'd better go home.	Sweetheart, we need to go to the supermarket. We ran out of milk.	False	False	0.6817434	473	473, 920, 103	0	747
+467	Tom đã trộm nhiều ngôi nhà khác trong khu phố.	Tom robbed many other houses in the neighborhood.	Tom robbed many other houses in the neighborhood.	True	True	0.6332898	641	641, 66, 270	1.0	641
+468	Nhưng vũ trụ là vô hạn.	But the universe is infinite.	But the universe is infinite.	True	True	0.4783274	726	726, 831, 446	1.0	726
+469	Những sách này không dành cho trẻ em.	These books aren't for children.	These books aren't for children.	True	True	0.7341999	215	215, 714, 895	1.0	215
+470	Bây giờ, tôi đang bận.	I think I understand.	I'm occupied at the moment.	False	False	0.79505646	381	381, 547, 136	0	699
+471	Trước khi sang Nhật, tôi chưa bao giờ ăn xasimi.	As a matter of fact, I haven't eaten anything since this morning.	It was not until I came to Japan that I ate sashimi.	False	True	0.7158847	872	872, 495, 885	0.5	495
+472	Mất bao nhiêu lâu để tới ga?	How long does it take to get to the train station?	How long does it take to get to the train station?	True	True	0.8394028	107	107, 282, 156	1.0	107
+473	Một số bạn tôi nói tiếng Anh thông thạo.	Some of my friends can speak English well.	Some of my friends can speak English well.	True	True	0.6913992	30	30, 885, 900	1.0	30
+474	Anh ta có thể bị nhìn thấy khi ra khỏi nhà.	He was seen to come out of the house.	He was seen to come out of the house.	True	True	0.98961127	652	652, 539, 630	1.0	652
+475	Đừng tủi thân. Chúng ta cùng chung cảnh ngộ mà.	We should help each other.	Don't feel sorry for yourself. We're all in the same boat.	False	False	0.8378284	354	354, 329, 452	0	765
+476	Người dân của chúng tôi đang khát khao sự độc lập.	Our people thirst for independence.	Our people thirst for independence.	True	True	0.7813426	154	154, 519, 354	1.0	154
+477	Tôi đã làm xong bài tập về nhà.	Yesterday, I read a book.	I have finished my homework.	False	False	0.84136283	689	689, 845, 918	0	925
+478	Cho tôi chút nước đi.	If you eat too much, you will get fat.	Give me some water, please.	False	False	0.87980485	120	120, 920, 985	0	255
+479	Jim trượt chân trên con đường đóng băng và đã bị đau.	Jim slipped on the icy road and got hurt.	Jim slipped on the icy road and got hurt.	True	True	0.76782095	578	578, 696, 387	1.0	578
+480	Bạn là đối thủ xứng tầm.	It goes without saying that honesty is the key to success.	You're a worthy opponent.	False	True	0.86039746	859	859, 43, 809	0.5	43
+481	Vạch ra kế hoạch dễ hơn hơn thực hiện.	It's easier to make plans than to carry them out.	It's easier to make plans than to carry them out.	True	True	0.7798693	986	986, 208, 928	1.0	986
+482	Chị ấy đeo kính râm.	The boy took the radio apart.	She's wearing sunglasses.	False	False	0.83961487	2	2, 6, 952	0	680
+483	Tôi đang làm việc.	I am working.	I am working.	True	True	0.60515225	653	653, 463, 845	1.0	653
+484	Tôi không hề biết là anh sẽ đến.	My father will be back at the beginning of next month.	I had no notion that you were coming.	False	False	0.80654645	484	484, 910, 23	0	893
+485	Chắc chắn anh ấy sẽ không đến.	I cannot accept the fact that he is dead.	He's definitely not coming.	False	False	0.92334056	361	361, 789, 486	0	364
+486	Anh phải bảo vệ những gì anh tin tưởng nếu không sẽ không có ai tôn trọng anh.	You must stand up for what you believe in or no one will respect you.	You must stand up for what you believe in or no one will respect you.	True	True	0.7457651	750	750, 671, 733	1.0	750
+487	Có một ít nước trong giếng.	Salt is an indispensable ingredient for cooking.	There was little water in the well.	False	False	0.86867213	754	754, 483, 63	0	905
+488	Bạn có lái xe được không?	Who wants to play volleyball?	Can you drive?	False	True	0.85678387	197	197, 14, 564	0.5	14
+489	Các phiên dịch viên có dùng Tatoeba không?	Do translators use Tatoeba?	Do translators use Tatoeba?	True	True	0.77358365	236	236, 683, 832	1.0	236
+490	Ai phát hiện ra nguyên tố Radium vậy ?	Who discovered radium?	Who discovered radium?	True	True	0.61539745	582	582, 196, 535	1.0	582
+491	Tom ngồi xuống và chờ đợi.	Tom jumped out of his seat.	Tom sat down and waited.	False	False	0.7956798	801	801, 882, 415	0	397
+492	Chị ấy không gạp khó khăn gì để học thuộc lòng bài thơ.	She had no difficulty in learning the poem by heart.	She had no difficulty in learning the poem by heart.	True	True	0.98015106	42	42, 679, 789	1.0	42
+493	Tôi định tham dự buổi họp mặt ấy.	I will present myself at the meeting.	I will present myself at the meeting.	True	True	0.8884162	613	613, 902, 484	1.0	613
+494	Hãy làm việc một cách thoải mái.	I have to work this weekend.	Please do the work at your own convenience.	False	False	0.7372285	463	463, 986, 653	0	955
+495	Vé vào cửa bao gồm cả nước giải khát.	The entrée includes a beverage.	The entrée includes a beverage.	True	True	0.9171972	880	880, 66, 483	1.0	880
+496	Cô ta cũng trẻ như tôi vậy.	I'm American, but I can speak Japanese a little.	She is as young as I am.	False	False	0.8441143	885	885, 918, 603	0	899
+497	Hãy cẩn thận khi bạn mua sắm, bởi vì một số người bán hàng sẽ cố lợi dụng bạn và đưa ra giá đắt.	Be careful when you shop, because some sales people will try to take advantage of you and offer you an expensive price.	Be careful when you shop, because some sales people will try to take advantage of you and offer you an expensive price.	True	True	0.6386808	775	775, 878, 918	1.0	775
+498	Roger, những gì bạn nói đều có lý và tôi đồng ý với bạn.	Roger, what you say makes sense and I agree with you.	Roger, what you say makes sense and I agree with you.	True	True	0.6274518	780	780, 86, 381	1.0	780
+499	Tôi muốn nghe toàn bộ câu chuyện.	I want to hear the rest of the story.	I want to hear the rest of the story.	True	True	0.76613	376	376, 254, 853	1.0	376
+500	Axit tác động lên các vật thể có chứa kim loại.	Water is indispensable to plants.	Acid acts on things which contain metal.	False	True	0.8802979	810	810, 803, 682	0.3333333333333333	682
+501	Bông hoa chết vì thiếu nước.	Fish cannot live out of water.	The flower died for lack of water.	False	True	0.8733134	218	218, 803, 438	0.3333333333333333	438
+502	Anh ta cảm thấy bất lực về cuộc sống của chính mình.	He feels powerless about his own life.	He feels powerless about his own life.	True	True	0.5948174	733	733, 348, 845	1.0	733
+503	Tom suýt (mém) bị đuối nước.	Rub the stain with vinegar.	Tom almost drowned.	False	False	0.97261286	483	483, 120, 799	0	387
+504	Tom mua một tấm vé tới Boston.	Tom bought a ticket to Boston.	Tom bought a ticket to Boston.	True	True	0.57410383	217	217, 66, 946	1.0	217
+505	Vâng, tôi có thể hát thuộc lòng bài này.	It’s my pleasure to come to VNU.	Yes. This one I can sing from memory.	False	True	0.9282818	789	789, 659, 321	0.5	659
+506	Cô gái làm việc ở lò nướng bánh có duyên.	Tom wants to eat here tonight.	The girl who works at the bakery is cute.	False	False	0.9825171	66	66, 477, 845	0	482
+507	Cô ấy là mẫu người của tôi.	She's my type.	She's my type.	True	True	0.7888844	992	992, 703, 254	1.0	992
+508	Mình sẽ quay lại trong vòng 2 tiếng.	The debate will happen tonight.	I'll be back within two hours.	False	True	0.92461	598	598, 85, 994	0.5	85
+509	Hàng chục ngàn con voi bị giết mỗi năm để lấy ngà.	Tens of thousands of elephants are killed every year for their ivory tusks.	Tens of thousands of elephants are killed every year for their ivory tusks.	True	True	0.7625458	375	375, 79, 485	1.0	375
+510	Hôm nay chẳng có gió.	There's no wind today.	There is no wind today.	False	False	0.77687335	819	819, 649, 693	0	818
+511	Thuế cao được áp cho mặt hàng rượu.	Heavy taxes are laid on wine.	Heavy taxes are laid on wine.	True	True	1.0010259	163	163, 483, 500	1.0	163
+512	Một vài quả táo torng đống này bị hư.	Do not count your chickens before they are hatched.	Some of these apples are bad.	False	False	0.9991237	79	79, 996, 483	0	950
+513	Tôi viết cho bạn một bức thư dài vì tôi không có thời gian để viết thư ngắn.	I write you a long letter because I don't have time to write you a short one.	I write you a long letter because I don't have time to write you a short one.	True	True	0.70776343	497	497, 689, 301	1.0	497
+514	Tôi không hài lòng với bộ áo khoác này.	I don't like this jacket.	I don't like this jacket.	True	True	0.8798437	607	607, 174, 789	1.0	607
+515	Lúc còn trẻ thì bạn nên đọc nhiều sách vào.	You should read a lot of books while you're young.	You should read a lot of books while you're young.	True	True	0.95432353	918	918, 679, 301	1.0	918
+516	Thậm chí anh ta còn có nhiều táo hơn.	Culture is like jam: the less one has, the more one spreads it.	He has even more apples.	False	False	0.9409989	679	679, 539, 948	0	971
+517	Cô ấy bảo đã nghe nói về vụ tai nạn.	She said she had heard of the accident.	She said she had heard of the accident.	True	True	0.9296744	131	131, 686, 789	1.0	131
+518	Bộ phim được dựng dựa trên một cuốn tiểu thuyết.	This film is based on a novel.	This film is based on a novel.	True	True	0.56823134	796	796, 431, 398	1.0	796
+519	Bạn có thể mở cửa sổ được không?	Why does a football field have four corners?	Can you open the window?	False	False	0.8972416	390	390, 156, 626	0	150
+520	Tôi nhìn thấy con chó nhà hàng xóm chạy trong sân của mình.	I saw my neighbor's dog running in my yard.	I saw my neighbor's dog running in my yard.	True	True	0.9029751	847	847, 278, 711	1.0	847
+521	Khi đến giờ bỏ phiếu, anh ta đã bỏ phiếu trắng.	When it was time to vote, he abstained.	When it was time to vote, he abstained.	True	True	0.9713465	384	384, 119, 598	1.0	384
+522	Anh ta rất yêu bạn.	He loves you very much.	He loves you very much.	True	True	0.6915065	671	671, 238, 701	1.0	671
+523	Cô ta làm ở xí nghiệp này đúng không?	So he works at this factory, does he?	So he works at this factory, does he?	True	True	0.9033884	917	917, 197, 282	1.0	917
+524	Thí dụ, nếu một giáo viên bản thân vốn là người nghiên thuốc lá nặng cảnh báo một học sinh về mối nguy hiểm của thuốc lá thì ông ta mâu thuẫn với chính mình.	For example, if a chain-smoking teacher cautions a pupil for smoking, that warning is self-contradictory.	For example, if a chain-smoking teacher cautions a pupil for smoking, that warning is self-contradictory.	True	True	0.8342235	436	436, 878, 855	1.0	436
+525	Xin làm ơn chú ý.	We should help each other.	May I direct your attention to this?	False	False	0.72531414	354	354, 452, 519	0	896
+526	Họ quá mệt mỏi vì họ đã làm việc suốt 2 ngày đêm.	He worked hard in order that his family might live in comfort.	They're so tired because they've been working around the clock for 2 days.	False	False	0.8841965	144	144, 208, 894	0	772
+527	Bạn hãy phủ chút đất lên những hạt giống.	Do not count your chickens before they are hatched.	Cover the seeds with a little earth.	False	True	0.83724165	79	79, 878, 583	0.3333333333333333	583
+528	Cô ấy phải ngưng hút thôi.	My toes are freezing.	She has to stop smoking.	False	False	0.9527483	355	355, 490, 789	0	993
+529	Rõ ràng là Tom đang yêu Kathy.	It goes without saying that Tom is in love with Kathy.	It goes without saying that Tom is in love with Kathy.	True	True	0.75036347	721	721, 224, 206	1.0	721
+530	Tại sao sân bóng bầu dục lại có bốn góc?	Why does a football field have four corners?	Why does a football field have four corners?	True	True	0.67487764	390	390, 197, 626	1.0	390
+531	Tom là người đã ở đây tuần trước.	Tom is the one who was here last week.	Tom is the one who was here last week.	True	True	0.7238096	916	916, 66, 145	1.0	916
+532	Em trai tôi chơi ghi-ta rất giỏi.	My brother is very good at playing the guitar.	My brother is very good at playing the guitar.	True	True	0.8585124	238	238, 679, 958	1.0	238
+533	Lúc đó tôi đang xem ti vi.	I saw John at the library.	I was watching TV then.	False	False	0.81862915	620	620, 923, 278	0	555
+534	Cô ấy là bác sĩ.	She is a doctor.	She is a doctor.	True	True	0.8132615	559	559, 260, 12	1.0	559
+535	Tôi nên làm việc này từ vài tuần trước.	I have to work this weekend.	I should have done this weeks ago.	False	False	0.6632798	463	463, 653, 85	0	286
+536	Khi nào mưa vậy ?	When did it begin to rain?	When did it begin to rain?	True	True	0.83410096	638	638, 282, 4	1.0	638
+537	Cái dĩa bị cong rồi.	Do not count your chickens before they are hatched.	The fork is bent.	False	False	1.0652742	79	79, 789, 143	0	87
+538	Nói cho Tom biết bạn có ý gì.	I think Tom is hiding something.	Tell Tom what you mean.	False	False	0.743184	300	300, 210, 923	0	233
+539	Anh ta đổi chiếc xe cũ của mình với một chiếc mới.	He exchanged his old car for a new one.	He exchanged his old car for a new one.	True	True	0.6827464	761	761, 946, 696	1.0	761
+540	Ông già sống một mình.	The old man lives alone.	The old man lives alone.	True	True	0.78145003	594	594, 5, 335	1.0	594
+541	Anh ta báo cho tôi về sự chiến thắng của đội chúng tôi.	We should help each other.	He brought me the news that our team had won.	False	False	0.84949136	354	354, 779, 900	0	686
+542	Hãy im đi và lắng nghe!	Shut up and listen!	Shut up and listen!	True	True	0.7437844	424	424, 182, 624	1.0	424
+543	Điều đó xảy ra ở Rome.	It happened in Rome.	It happened in Rome.	True	True	0.80568063	265	265, 812, 217	1.0	265
+544	Mẹ đang bận nấu bữa ăn tối.	Mother is busy preparing dinner.	Mother is busy preparing dinner.	True	True	0.74599254	293	293, 5, 66	1.0	293
+545	Phúc bất trùng lai.	It’s my pleasure to come to VNU.	Misfortunes rarely come singly.	False	False	1.1522281	789	789, 154, 683	0	714
+546	Không vứt rác ở đây.	It’s my pleasure to come to VNU.	No dumping rubbish here!	False	False	1.018101	789	789, 818, 679	0	961
+547	Bọn mình cần thợ điện để làm việc này.	He helped me do my homework.	We need an electrical engineer for this job.	False	True	0.85181713	845	845, 356, 970	0.5	356
+548	Sẽ không có gì khác biệt lớn nếu bạn tới đó hôm nay hay ngày mai.	It will not make much difference whether you go today or tomorrow.	It will not make much difference whether you go today or tomorrow.	True	True	0.81218576	466	466, 878, 679	1.0	466
+549	Tôi cần một địa chỉ chính xác để có thể tới đó.	My place is here.	I need the exact address so that I may go there.	False	True	0.92530346	716	716, 204, 439	0.5	204
+550	Nó chính là con gấu đói mà dân làng sợ hãi.	It was the hungry bears that the villagers were afraid of.	It was the hungry bears that the villagers were afraid of.	True	True	0.91191125	974	974, 679, 494	1.0	974
+551	Trên thực tế tôi không ăn gì từ sáng nay.	As a matter of fact, I haven't eaten anything since this morning.	As a matter of fact, I haven't eaten anything since this morning.	True	True	0.7263894	872	872, 463, 223	1.0	872
+552	Tom đang cân nhắn một cách nghiêm túc.	Outsiders make Tom nervous.	Tom is seriously considering that.	False	False	0.8396127	89	89, 707, 855	0	206
+553	Sao mấy cô gái đó tàn nhẫn vậy?	Why are these girls so cruel?	Why are these girls so cruel?	True	True	0.8584118	216	216, 205, 282	1.0	216
+554	Tom thiếu tài năng để trở thành một diễn viên.	Tom lacks the talent to be an actor.	Tom lacks the talent to be an actor.	True	True	0.59241116	398	398, 145, 380	1.0	398
+555	Tôi đã trở thành giám đốc.	He helped me do my homework.	I became a director.	False	False	0.868332	845	845, 653, 986	0	812
+556	Anh là Tôm à?	Who is she?	Aren't you Tom?	False	False	0.94355226	535	535, 282, 917	0	587
+557	Tom đã yêu cầu tôi đón Mary ở sân bay.	Tom asked me to pick Mary up at the airport.	Tom asked me to pick Mary up at the airport.	True	True	0.7069577	93	93, 923, 268	1.0	93
+558	Tôi thấy John ở thư viện.	I saw John at the library.	I saw John at the library.	True	True	0.74828887	620	620, 923, 722	1.0	620
+559	Hôm qua anh ấy đi ngủ hồi 11 giờ.	Last night he went to sleep at 11 o' clock.	Last night he went to sleep at 11 o' clock.	True	True	0.8854047	5	5, 902, 945	1.0	5
+560	Cảnh sát thổi còi.	When the cat is away, the mice will play.	The police officer blew his whistle.	False	False	1.0448719	709	709, 79, 786	0	871
+561	Vào thế kỷ thứ mười chín nhiều người châu Phi bị bán làm nô lệ sang Hoa Kỳ.	In the nineteenth century, many Africans were sold as slaves in the United States.	In the nineteenth century, many Africans were sold as slaves in the United States.	True	True	0.68443704	565	565, 878, 953	1.0	565
+562	Mình nghĩ cậu thích cô ấy.	I think you like her.	I think you like her.	True	True	0.7978705	393	393, 486, 238	1.0	393
+563	Đó không còn là vấn đề của bạn nữa.	It goes without saying that honesty is the key to success.	That's not your problem anymore.	False	False	0.8707055	859	859, 969, 348	0	221
+564	Nếu bạn muốn có được thị thực đi Mỹ, trước hết bạn phải làm đúng nhiều thủ tục.	Culture is like jam: the less one has, the more one spreads it.	If you want to get a visa to go to America, you have to go through a lot of channels first.	False	False	0.8552097	679	679, 878, 775	0	783
+565	Giờ học bắt đầu lúc 8 giờ.	School begins at eight-thirty.	School begins at eight-thirty.	True	True	0.7220583	664	664, 391, 471	1.0	664
+566	Điều gì đã xảy ra? Có nước khắp căn hộ.	What happened? There's water all over the apartment.	What happened? There's water all over the apartment.	True	True	0.78561115	560	560, 353, 577	1.0	560
+567	Đừng hỏi họ nghĩ gì. hãy hỏi họ làm gì.	Don't ask what they think. Ask what they do.	Don't ask what they think. Ask what they do.	True	True	0.69163084	440	440, 679, 878	1.0	440
+568	Tôi chẳng biết phải làm sao, đành phải theo cô ấy.	They don't like me.	I couldn't help but follow her.	False	False	0.82276535	407	407, 288, 501	0	309
+569	Ngôi nhà này có vị trí thích hợp, nhưng vấn đề là nó quá nhỏ đối với gia đình đông đúc của tôi.	This house is conveniently situated but the trouble is that it is too small for my large family.	This house is conveniently situated but the trouble is that it is too small for my large family.	True	True	0.8279638	548	548, 900, 970	1.0	548
+570	Tôi đồng ý mua nó với giá 300 đôla.	I agreed to buy it for three hundred dollars.	I agreed to buy it for three hundred dollars.	True	True	0.736676	109	109, 549, 200	1.0	109
+571	Tôi ân hận đã đến đó.	I appreciate this.	I regret going there.	False	False	0.80014706	995	995, 639, 111	0	23
+572	London khác với Tokyo về mặt khí hậu.	London is different from Tokyo climatically.	London is different from Tokyo climatically.	True	True	0.5752919	169	169, 168, 272	1.0	169
+573	Bạn có muốn ngồi phía trước không?	Do you want to sit in the front?	Do you want to sit in the front?	True	True	0.85963535	231	231, 4, 187	1.0	231
+574	Tôi chưa từng đọc cuốn tiểu thuyết nào đáng sợ như vậy.	I have never read such a scary novel.	I have never read such a scary novel.	True	True	0.8495538	41	41, 584, 689	1.0	41
+575	Tớ không thể tin là anh ấy mất rồi.	Don't waste your breath with Fred. He'll never change his mind.	I cannot accept the fact that he is dead.	False	True	0.94867027	755	755, 305, 361	0.3333333333333333	361
+576	Hôm nay là một ngày trọng đại	It’s my pleasure to come to VNU.	What's the big occasion today?	False	False	0.96301365	789	789, 305, 519	0	392
+577	Cám ơn bạn đã mời tôi.	Thank you for inviting me.	Thank you for inviting me.	True	True	0.76673317	298	298, 83, 842	1.0	298
+578	Tại sao bạn vẫn ở đây?	Can you sing us a song?	Why are you still here?	False	True	0.74529517	366	366, 413, 246	0.5	413
+579	Họ không thể quyết định được sẽ đi lên núi hay xuống biển.	They couldn't decide whether to go to the mountains or the sea.	They couldn't decide whether to go to the mountains or the sea.	True	True	0.65979815	894	894, 725, 895	1.0	894
+580	Tôi muốn một ngày nào đó ra nước ngoài.	I want to go abroad one day.	I want to go abroad one day.	True	True	0.66546273	75	75, 868, 920	1.0	75
+581	Trời nóng quá nên tôi đã bỏ áo khoác ra.	Turn the light off. I can't fall asleep.	It was so hot I took my coat off.	False	False	0.88544345	490	490, 513, 945	0	989
+582	Tôi đang chơi guitar.	I am playing the guitar now.	I am playing the guitar now.	True	True	0.64871836	647	647, 238, 697	1.0	647
+583	Ông ta là một thành viên không thể thiếu của nhân viên.	He is an indispensable member for the staff.	He is an indispensable member for the staff.	True	True	0.77087784	808	808, 845, 567	1.0	808
+584	Tất cả các tên được xếp danh sách theo thứ tự a b c.	All the names are listed in alphabetical order.	All the names are listed in alphabetical order.	True	True	0.9146861	458	458, 389, 79	1.0	458
+585	Anh ấy không nói gì về giờ giấc.	Everyone is more or less interested in art.	He said nothing as to the time.	False	False	0.9329655	348	348, 881, 679	0	22
+586	Tom đã quyết định ra về sớm hơn.	Tom decided to leave work early.	Tom decided to leave work early.	True	True	0.8463435	172	172, 145, 66	1.0	172
+587	Anh ta quá mệt đến nỗi không đi xa hôn được nữa.	I want to go abroad one day.	He is too tired to go any farther.	False	False	0.9946182	75	75, 921, 242	0	948
+588	Bạn bắt đầu chuyện đó, phải không?	What's preventing this from happening?	You started that, didn't you?	False	False	0.70770025	353	353, 626, 606	0	525
+589	Sharon phát hiện ra rằng cô ấy sắp có con.	Sharon found out that she was going to have a baby.	Sharon found out that she was going to have a baby.	True	True	0.57215476	773	773, 766, 260	1.0	773
+590	Mấy thứ đó của Tom.	Tom wants to eat here tonight.	Those are Tom's.	False	False	0.91167617	66	66, 388, 145	0	349
+591	Tom mở cửa phòng họp.	Tom opened the conference room door.	Tom opened the conference room door.	True	True	0.7357929	343	343, 66, 877	1.0	343
+592	Tom không đội mũ	Aren't you Tom?	Tom had no hat on.	False	False	1.1698383	587	587, 49, 145	0	464
+593	Liệu Tom có nhận công việc ở Boston không vẫn còn là điều khó đoán.	Whether or not Tom gets the job in Boston is still very much up in the air.	Whether or not Tom gets the job in Boston is still very much up in the air.	True	True	0.9613879	855	855, 335, 908	1.0	855
+594	Cần bao nhiêu lít để đổ đầy bồn tắm nóng?	How many liters does it take to fill a hot tub?	How many liters does it take to fill a hot tub?	True	True	0.7883307	156	156, 79, 137	1.0	156
+595	Lúc đó tôi đang chờ xe buýt.	Yesterday, I read a book.	I was waiting for the bus at that time.	False	False	0.85051346	689	689, 923, 660	0	244
+596	Tên của cậu ta là gì vậy nhỉ?	How much are these shoes?	What's his first name?	False	False	0.86914754	171	171, 411, 564	0	134
+597	Hãy trở lại Boston thăm bọn tôi khi nào có dịp nhé.	Please come back to Boston and visit us whenever you have a chance.	Please come back to Boston and visit us whenever you have a chance.	True	True	0.7185912	842	842, 923, 900	1.0	842
+598	Hôm nọ bạn nói điều đó, có phải không?	Can you sing us a song?	You said so the other day, didn't you?	False	False	0.7892791	366	366, 606, 489	0	27
+599	Bạn có biết buộc dây giày không?	Why did Bill tear the letter into pieces?	Do you know how to tie your shoes?	False	True	0.8540187	626	626, 3, 870	0.5	3
+600	Hôm nay ban có rãnh không?	How much money is left?	Are you busy today?	False	False	0.90477586	282	282, 58, 390	0	929
+601	Để cô ấy yên hoặc mày sẽ phải hối hận.	If you eat too much, you will get fat.	Leave her alone or you'll regret it.	False	False	0.8822036	120	120, 642, 446	0	561
+602	Không có gió hôm nay.	There's no wind today.	There's no wind today.	True	True	0.77883375	819	819, 649, 818	1.0	819
+603	Bạn thi rớt là đáng đời. Bạn đã không học thi gì cả.	You may eat anything so long as you don't eat too much.	It serves you right that you failed your exam. You didn't study for it at all.	False	False	0.9895799	642	642, 26, 305	0	748
+604	Tôi đã nhìn thấy ánh sáng từ xa.	The light is too dim for me to read easily.	I saw a light far away.	False	True	0.73961234	301	301, 278, 35	0.3333333333333333	35
+605	Tôi có 1,000 cổ phần của NTT.	I own 1,000 shares of NTT stock.	I own 1,000 shares of NTT stock.	True	True	0.7854043	839	839, 789, 845	1.0	839
+606	Cô ấy nặng hơn 80 kg.	She weighs more than 80 kg.	She weighs more than 80 kg.	True	True	0.7026801	409	409, 312, 680	1.0	409
+607	Úc to hơn Nhật Bản khoảng gấp hai mươi lần.	Australia is about twenty times as large as Japan.	Australia is about twenty times as large as Japan.	True	True	0.8533629	523	523, 717, 718	1.0	523
+608	Chúng ta nghỉ ngơi một chút nhé?	May I ask a few questions?	Shall we take a short rest?	False	True	0.86254144	4	4, 860, 366	0.5	860
+609	Có 20 thí sinh trong cuộc cạnh tranh.	There were fifty entries for the race.	There were fifty entries for the race.	True	True	0.78729105	942	942, 458, 964	1.0	942
+610	Tôi chắc chắn anh ta sẽ làm bài kiểm tra.	My father will be back at the beginning of next month.	It is certain that he will pass the examination.	False	False	0.89876795	484	484, 640, 923	0	665
+611	Thuốc này không bảo vệ chống bệnh cúm.	This medicine is no protection against influenza.	This medicine is no protection against influenza.	True	True	0.7484293	966	966, 29, 427	1.0	966
+612	Cậu hát cho bọn tớ nghe một bài được không?	Can you sing us a song?	Can you sing us a song?	True	True	0.94785714	366	366, 932, 870	1.0	366
+613	Ông hãy kéo ghế của ông lại gần lửa.	He went out in spite of the rain.	Draw your chair closer to the fire.	False	False	0.91321087	949	949, 504, 578	0	977
+614	Chúng ta hãy gọi điện thoại.	They say we're going to get heavy rain.	Let's make a phone call.	False	True	0.83926225	370	370, 596, 305	0.5	596
+615	Tôi đến để xin lỗi.	I want to marry her.	I came to say I'm sorry.	False	False	0.8274083	921	921, 305, 486	0	115
+616	Anh ấy sắp đi Luân Đôn.	I'll visit Mr. Brown tomorrow.	He is about to leave for London.	False	False	0.7384728	923	923, 303, 45	0	984
+617	Váy dài đang là mốt.	It’s my pleasure to come to VNU.	Long dresses stayed in fashion.	False	False	1.0355495	789	789, 639, 355	0	176
+618	Ông ta thành công nhờ sự khéo tay và cả tính cần cù.	Yes. He can run 100 meters within twelve seconds.	He owed his success to both ability and industry.	False	False	0.99649775	119	119, 948, 539	0	823
+619	Tôi thích xem phim Hollywood.	I love Hollywood movies.	I love Hollywood movies.	True	True	0.7316121	316	316, 868, 463	1.0	316
+620	Ai là nhà thơ mà bạn yêu thích?	Who's your favorite poet?	Who's your favorite poet?	True	True	0.8373126	205	205, 366, 197	1.0	205
+621	Đừng bao giờ nói người khác béo.	You may eat anything so long as you don't eat too much.	Never call anyone fat.	False	False	0.8395413	642	642, 336, 120	0	91
+622	Giờ làm việc cơ động giúp nhân viên năng suất hơn.	Flexible work hours make employees more productive.	Flexible work hours make employees more productive.	True	True	0.64493835	208	208, 329, 805	1.0	208
+623	Jim mở cửa.	Jim opens the door.	Jim opens the door.	True	True	0.79154134	877	877, 343, 145	1.0	877
+624	Ông ta không thích hợp là bác sĩ.	He is no good as a doctor.	He is no good as a doctor.	True	True	0.82119	827	827, 363, 305	1.0	827
+625	Hãy cẩn thận nếu không anh ta sẽ đâm sau lưng cậu.	Be careful or he'll stab you in the back.	Be careful or he'll stab you in the back.	True	True	0.86202896	579	579, 878, 79	1.0	579
+626	Tom có vẻ bối rối.	Tom is very handsome.	Tom appeared confused.	False	False	0.7636025	416	416, 915, 145	0	320
+627	Dùng chuyện gì xảy ra, chúng ta vẫn sẽ là bạn.	Whatever happens, we'll always be friends.	Whatever happens, we'll always be friends.	True	True	0.63094926	798	798, 354, 329	1.0	798
+628	So với chiếc xe của anh, xe tôi nhỏ hơn.	Compared with yours, my car is small.	Compared with yours, my car is small.	True	True	0.8746661	632	632, 743, 210	1.0	632
+629	Cuộc họp sẽ giải tán trong khi bạn tới đó.	The meeting will have broken up by the time you arrive there.	The meeting will have broken up by the time you arrive there.	True	True	0.71597123	994	994, 598, 902	1.0	994
+630	Tôi không có gì tốt hơn để làm hết.	It's the best feeling.	I have nothing better to do.	False	True	0.6451336	193	193, 81, 795	0.3333333333333333	795
+631	Em sẽ không bao giờ quên anh.	You must stand up for what you believe in or no one will respect you.	I'll never ever forget you.	False	False	0.6892295	750	750, 354, 519	0	128
+632	Tóc của bạn màu gì?	What color is your hair?	What color is your hair?	True	True	0.756825	411	411, 564, 505	1.0	411
+633	Bạn có nghe nó không Mike?	Can you sing us a song?	Did you hear that, Mike?	False	True	0.7279222	366	366, 884, 252	0.5	884
+634	Người phụ nữ khóc khi nghe thấy tin xấu.	When it is darkest, men see the stars.	The woman cried when she heard the bad news.	False	False	0.88412833	649	649, 79, 974	0	544
+635	Tom có giải pháp cho mọi thứ.	Tom has a solution for everything.	Tom has a solution for everything.	True	True	0.6090205	698	698, 66, 145	1.0	698
+636	Anh ta không giao du với hầu hết mọi người.	You must not invade the privacy of others.	He had little social life.	False	False	0.77627635	446	446, 501, 621	0	672
+637	Anh ta nhìn cũng giống như một người giàu.	Everyone is more or less interested in art.	It seems that he is rich.	False	False	0.90884507	348	348, 254, 679	0	609
+638	Chào George! Dạo này cậu thế nào?	Hi, George! How's it going?	Hi, George! How's it going?	True	True	0.75500965	914	914, 606, 932	1.0	914
+639	Bác sĩ nói rằng bà ngoại vẫn còn bệnh nặng, nhưng bà đã thoát cơn nguy kịch rồi.	The doctor said that grandmother is still very sick, but she's out of the woods.	The doctor said that grandmother is still very sick, but she's out of the woods.	True	True	0.9428258	766	766, 299, 980	1.0	766
+640	Tom đã nhìn thấy máu trên lầu	Tom saw blood on the floor.	Tom saw blood on the floor.	True	True	0.88397217	720	720, 145, 66	1.0	720
+641	Sung sướng thay người nào tìm được người vợ tốt.	He will be a good husband.	Happy is a man who marries a good wife.	False	False	0.98249984	570	570, 679, 789	0	425
+642	Đoàn tầu này đi từ New York tới Boston.	This train runs between New York and Boston.	This train runs between New York and Boston.	True	True	0.88685656	822	822, 401, 648	1.0	822
+643	Từ khi Janet chết, chồng của cô ấy thực sự trở nên chán nản.	Since Janet died, her husband has really gone off the deep end.	Since Janet died, her husband has really gone off the deep end.	True	True	0.78335726	782	782, 743, 394	1.0	782
+644	Nếu bạn lái xe vào ban đêm, bạn nên đề phòng những tài xế say rượu.	If you drive at night, you should watch out for drunk drivers.	If you drive at night, you should watch out for drunk drivers.	True	True	0.86802256	777	777, 66, 679	1.0	777
+645	Tôm sẽ không bao giờ biết.	We should help each other.	Tom will never know.	False	False	0.8422601	354	354, 305, 446	0	177
+646	Mọi người sinh ra tự do và bình đẳng về nhân phẩm và quyền lợi. Họ có lý trí và lương tâm, và phải cư xử với nhau trên tinh thần anh em.	All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.	All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.	True	True	0.69082665	518	518, 354, 750	1.0	518
+647	Anh ấy quen lao động.	Culture is like jam: the less one has, the more one spreads it.	He is used to the work.	False	False	0.89349556	679	679, 845, 570	0	889
+648	William rất ngăn nắp. Anh ấy luôn quán xuyến mọi việc.	Whether or not Tom gets the job in Boston is still very much up in the air.	William is so organized. He's always on top of things.	False	True	0.87129545	855	855, 534, 764	0.3333333333333333	764
+649	Xin đừng quên.	You're the last hope for humanity.	Please do not forget.	False	False	0.76860857	519	519, 452, 789	0	997
+650	Chị ấy bị bắt chờ hơn một tiếng đồng hồ.	On his return he found her daughter asleep.	She was made to wait for over an hour.	False	False	1.0557833	299	299, 384, 652	0	284
+651	Chúng ta sẽ phải để dành chỗ cho mẹ bạn khi bà ấy dọn vào ở nhà chúng ta.	We'll have to make room for your mother when she moves into our house with us.	We'll have to make room for your mother when she moves into our house with us.	True	True	0.8292793	741	741, 941, 900	1.0	741
+652	Tôi là người Mỹ, nhưng tôi có thể nói được một ít tiếng Nhật.	I'm American, but I can speak Japanese a little.	I'm American, but I can speak Japanese a little.	True	True	0.5610193	885	885, 815, 30	1.0	885
+653	Tôi chưa từng gặp một cô bé nào xinh đẹp như vậy cả.	I had never seen such a beautiful girl before.	I had never seen such a beautiful girl before.	True	True	0.77570105	675	675, 751, 139	1.0	675
+654	Công việc rất khó cho chúng tôi.	It is a very difficult job for us.	It is a very difficult job for us.	True	True	0.7257745	969	969, 354, 329	1.0	969
+655	Những điều anh nói không quan trọng. Tôi sẽ vẫn mua chiếc xe hơi đắt tiền đó.	It makes no difference what you say. I'm still going to buy that expensive car.	It makes no difference what you say. I'm still going to buy that expensive car.	True	True	0.8517871	740	740, 811, 878	1.0	740
+656	Tụi nó đã làm tình tối qua.	When it is darkest, men see the stars.	They made love last night.	False	False	0.9604516	649	649, 789, 639	0	443
+657	Ti vi không lên hình.	Check the pressure of the tires.	The television doesn't work.	False	False	1.0654758	702	702, 79, 977	0	347
+658	Không có gì khẩn cấp cả.	There's no hurry.	There's no hurry.	True	True	0.910555	835	835, 192, 642	1.0	835
+659	Vắng chủ nhà gà vọc niêu tôm.	It’s my pleasure to come to VNU.	When the cat is away, the mice will play.	False	False	1.0631758	789	789, 46, 974	0	709
+660	Chin mươi chủa què chớ khoe mình tốt.	It’s my pleasure to come to VNU.	Do not count your chickens before they are hatched.	False	False	0.9910221	789	789, 305, 679	0	79
+661	Tôi không có ngốc như bạn tưởng đâu.	The light is too dim for me to read easily.	I'm not as stupid as you think I am.	False	False	0.82846105	301	301, 136, 642	0	861
+662	Điều gì khiến việc đó không xảy ra?	What's preventing this from happening?	What's preventing this from happening?	True	True	0.55203485	353	353, 282, 540	1.0	353
+663	Tôi gặp rắc rối trong việc uống thuốc bột.	As a matter of fact, I haven't eaten anything since this morning.	I have trouble taking powdered medicine.	False	True	0.8425286	872	872, 642, 937	0.3333333333333333	937
+664	Cảnh sát đang đuổi theo người đàn ông.	The police are after the man.	The police are after the man.	True	True	0.96928334	786	786, 160, 652	1.0	786
+665	Các bạn hãy khẩn trương để khỏi lỡ chuyến xe buýt.	If you drive at night, you should watch out for drunk drivers.	Hurry up, or you'll miss the bus.	False	False	0.90415657	777	777, 902, 732	0	843
+666	Trễ giờ hẹn rồi.	It’s my pleasure to come to VNU.	I was late for the appointment.	False	False	0.9535384	789	789, 920, 352	0	112
+667	Các luật sư hối thúc những ông ba bà mẹ thực hiện mạnh mẽ hơn những hành động hợp pháp.	No matter how much you try to convince people that chocolate is vanilla, it'll still be chocolate, even though you may manage to convince yourself and a few others that it's vanilla.	Lawyers will urge the parents to take further legal action.	False	False	0.99739075	878	878, 898, 79	0	235
+668	Tôi cảm thấy rằng bạn đang muốn nói gì đó với tôi.	I get the feeling you're trying to tell me something.	I get the feeling you're trying to tell me something.	True	True	0.7496729	881	881, 254, 547	1.0	881
+669	Ông ta đề xuất ý kiến cải cách phương pháp nghiên cứu.	He's proposing a suggestion for altering the research method.	He's proposing a suggestion for altering the research method.	True	True	0.9505763	327	327, 928, 157	1.0	327
+670	Sẽ không phải là quá đáng khi nói rằng tư tưởng của Augustine ảnh hưởng không chỉ riêng Thiên Chúa giáo mà còn tới tư tương của toàn bộ phương Tây.	It would not be an exaggeration to say that Augustine's thought had an influence not only on Christianity but on the whole of Western thought.	It would not be an exaggeration to say that Augustine's thought had an influence not only on Christianity but on the whole of Western thought.	True	True	0.55884194	340	340, 940, 348	1.0	340
+671	Anh ta hát không hay.	He can't sing well.	He can't sing well.	True	True	0.8837017	697	697, 679, 192	1.0	697
+672	Hãy tìm các chuyến xe lửa đến London trong bảng lịch trình.	We took a plane from Tokyo to Sapporo.	Look up the trains to London in the timetable.	False	True	0.8899083	816	816, 167, 777	0.5	167
+673	Khu vực lân cận có gì hay không?	Where can I park?	What's good in the neighborhood?	False	False	0.7835375	618	618, 535, 178	0	907
+674	Báo này miễn phí.	This newspaper is free.	This newspaper is free.	True	True	0.7923901	478	478, 401, 598	1.0	478
+675	Xin chú ý rằng chúng tôi đã đưa ra mức giá thấp nhất rồi.	I want a knife with which to cut the rope.	Please note that we have quoted the lowest possible price.	False	False	1.0015184	200	200, 370, 329	0	890
+676	Anh ấy sang Anh Quốc để tìm hiểu kỹ về văn hóa nước đó.	He went to Britain to deepen his knowledge of the culture.	He went to Britain to deepen his knowledge of the culture.	True	True	0.6792269	345	345, 408, 348	1.0	345
+677	Tôi yêu anh ấy. Tôi đánh giá cao anh ấy.	We should help each other.	I appreciate this.	False	False	0.70594215	354	354, 750, 452	0	995
+678	Đôi giày này bao nhiêu tiền vậy?	How much money is left?	How much are these shoes?	False	False	0.80963063	282	282, 564, 844	0	171
+679	Tôi là trợ lý của bạn.	He helped me do my homework.	I'm your assistant.	False	False	0.7048085	845	845, 970, 354	0	146
+680	Con chó chăn cừu lùa đàn cừu vào bãi chăn thả.	Do not count your chickens before they are hatched.	A sheep dog drives the flock to the pasture.	False	False	1.0286196	79	79, 709, 66	0	506
+681	Ta nên giúp đỡ nhau.	We should help each other.	We should help each other.	True	True	0.47277617	354	354, 329, 798	1.0	354
+682	Lúc đó chúng tôi đang rất vội.	My toes are freezing.	We were in a hurry then.	False	False	0.8063729	355	355, 254, 999	0	573
+683	Chúng tôi truyền đạt ý tưởng cho nhau bằng cử chỉ.	Culture is like jam: the less one has, the more one spreads it.	We communicated with each other by gesture.	False	False	0.90363073	679	679, 845, 329	0	661
+684	Thế giới không quay quanh bạn.	The world does not revolve around you.	The world doesn't revolve around you.	False	True	0.69141626	831	831, 830, 348	0.5	830
+685	Bạn có tính hài hước tốt.	You have a good sense of humor.	You have a good sense of humor.	True	True	0.8134278	254	254, 329, 570	1.0	254
+686	Chúng ta thực sự chậm trễ so với kế hoạch rồi. Chúng ta cần phải khẩn trương lên.	It's easier to make plans than to carry them out.	We're really behind schedule. We need to get on the ball.	False	False	0.7685466	986	986, 271, 68	0	763
+687	Cậu còn điều gì muốn nói nữa không?	What should I do in the meantime?	Do you have anything else to say to me?	False	False	0.9025254	540	540, 149, 191	0	74
+688	Anh ấy đã trói kẻ cắp.	He is not my father, he is my uncle.	He trussed up the thief.	False	False	1.0062995	305	305, 932, 400	0	504
+689	Cha tôi sẽ đi du lịch nước ngoài vào năm sau.	My father will travel abroad next year.	My father will travel abroad next year.	True	True	0.70959306	910	910, 484, 900	1.0	910
+690	Theo mình nhớ thì nhà của Tom hơi xa đường cái.	As I recall, Tom's house is a little farther in from the main road.	As I recall, Tom's house is a little farther in from the main road.	True	True	1.0270247	60	60, 833, 335	1.0	60
+691	Tôi đi qua đó một mình.	I want to go home.	I'm going by myself.	False	False	0.748515	920	920, 557, 716	0	601
+692	Tôi hoàn toàn không mệt.	I appreciate this.	I'm not at all tired.	False	False	0.76072216	995	995, 287, 288	0	922
+693	Nước không thể thiếu đối với cây cỏ.	Water is indispensable to plants.	Water is indispensable to plants.	True	True	0.8087398	810	810, 803, 218	1.0	810
+694	KHông gì có thể tả xiết sức hấp dẫn của cô ấy	It’s my pleasure to come to VNU.	Her charm is beyond description.	False	False	0.8955822	789	789, 896, 301	0	61
+695	Tôi từ Canada tới.	My place is here.	I'm from Canada.	False	False	0.88219357	716	716, 557, 910	0	514
+696	Tôi cho rằng tôi hiểu.	I think I understand.	I think I understand.	True	True	0.6411642	381	381, 136, 86	1.0	381
+697	Đưa nó cho tôi.	Give that to me.	Give that to me.	True	True	0.7239833	240	240, 561, 292	1.0	240
+698	Cựu bộ trưởng bộ năng lượng được bầu làm tổng thống hôm chủ nhật.	The former minister of energy was elected president on Sunday.	The former minister of energy was elected president on Sunday.	True	True	0.61531997	262	262, 32, 220	1.0	262
+699	Đương nhiên chìa khóa của thành công là tính lương thiện.	It goes without saying that honesty is the key to success.	It goes without saying that honesty is the key to success.	True	True	0.85093963	859	859, 679, 621	1.0	859
+700	Họ chẳng chú ý nhiều đến ý kiến của tôi.	You have a good sense of humor.	They didn't take much account of my opinion.	False	False	0.7901454	254	254, 136, 348	0	306
+701	Tom cố thuyết phục Mary nhuộm tóc đỏ.	Tom tried to convince Mary to dye her hair red.	Tom tried to convince Mary to dye her hair red.	True	True	0.7765428	394	394, 145, 224	1.0	394
+702	Tôi đã mơ về anh ấy !	I'm not like you!	I had a dream about him.	False	False	0.7618947	287	287, 932, 624	0	71
+703	Tôi biết rất nhiều về thuyền.	I know a lot about ships.	I know a lot about ships.	True	True	0.8905294	511	511, 557, 238	1.0	511
+704	Tom bảo Mary nên từ bỏ các chứng cứ đi.	Tom doubts if Mary will keep her promise.	Tom told Mary that she should get rid of the evidence.	False	True	0.8530048	358	358, 94, 224	0.5	94
+705	Tao không giống mày!	What a kind boy he is!	I'm not like you.	False	False	0.88779867	932	932, 624, 599	0	288
+706	Tôi quen với thời tiết lạnh.	I hate this weather.	I am accustomed to cold weather.	False	False	0.7996402	693	693, 900, 40	0	467
+707	Chúng tôi nhìn thấy một cây phong lan tuyệt đẹp với những chiếc lá rụng hàng năm.	We saw a beautiful orchid with deciduous leaves.	We saw a beautiful orchid with deciduous leaves.	True	True	0.9238224	46	46, 873, 524	1.0	46
+708	Người lạ khiến Tom bối rối	Outsiders make Tom nervous.	Outsiders make Tom nervous.	True	True	1.007386	89	89, 855, 191	1.0	89
+709	Tôi muốn mua cuốn từ điển này.	I want to buy this dictionary.	I want to buy this dictionary.	True	True	0.93909216	439	439, 492, 301	1.0	439
+710	Vậy là tôi có thêm năm phút nữa để ngủ.	Let's go to the beach. I got time off from work for the next 6 days.	Then I can still have five more minutes of sleep.	False	True	0.7784698	729	729, 911, 463	0.5	911
+711	Nhật Bản phụ thuộc vào ngoại thường.	Japan depends on foreign trade.	Japan depends on foreign trade.	True	True	0.83608973	487	487, 849, 717	1.0	487
+712	Xin vui lòng giải thích tại sao bạn không thể đến.	It’s my pleasure to come to VNU.	Please explain why you can't come.	False	False	0.8604641	789	789, 452, 354	0	48
+713	Cô ấy rất khoẻ mạnh.	He is a very smart boy.	She is very healthy.	False	True	0.6911247	701	701, 135, 992	0.5	135
+714	Dick dự tính tự đi một mình.	Dick plans to go by himself.	Dick plans to go by himself.	True	True	0.6522752	291	291, 145, 946	1.0	291
+715	Họ uy hiếp và sỉ nhục lẫn nhau.	They threatened and denounced each other.	They threatened and denounced each other.	True	True	0.88445985	521	521, 753, 253	1.0	521
+716	Anh ta và tôi là bạn cùng lớp.	We live in the country during the summer.	He and I are classmates.	False	False	0.76619506	900	900, 238, 210	0	708
+717	Tớ nói với cậu đây là một việc nguy hiểm.	You have a good sense of humor.	I told you this was going to be dangerous.	False	False	0.83880496	254	254, 969, 501	0	369
+718	Rock là loại nhạc của giới trẻ.	Rock is the music of the young.	Rock is the music of the young.	True	True	0.6685574	190	190, 348, 679	1.0	190
+719	Tôi chưa từng nghĩ theo cách đó.	No one believed me at first.	I never thought of it that way.	False	True	0.66673064	136	136, 184, 81	0.5	184
+720	Tớ nghe hết những điều cậu nói.	I heard everything you said.	I heard everything you said.	True	True	0.80613923	853	853, 486, 574	1.0	853
+721	Tom không tin bất cứ điều gì Mary nói.	Tom doesn't trust a thing Mary says.	Tom doesn't trust a thing Mary says.	True	True	0.55264854	617	617, 908, 358	1.0	617
+722	Kinh nghiệm này có giá trị nhiều cho cuộc đời anh ấy.	This experience counts for much in his life.	This experience counts for much in his life.	True	True	0.9059936	289	289, 859, 679	1.0	289
+723	Tốt nhất là anh đừng tới đó.	It’s my pleasure to come to VNU.	You'd better not go there.	False	False	0.8198745	789	789, 486, 275	0	476
+724	cái này hai pound.	That's a good price.	It's two pounds.	False	False	1.0197576	326	326, 890, 259	0	828
+725	Mọi người đều hài lòng về quyết định này, nên xin đừng làm gì xáo trộn tình hình.	Let's help them solve their problems.	Everyone is happy with the decision, so please don't rock the boat.	False	True	0.85076046	329	329, 762, 354	0.5	762
+726	Lôi muốn lấy cô ấy.	I want to marry her.	I want to marry her.	True	True	0.75892425	921	921, 393, 288	1.0	921
+727	Tuyết đã biến mất trong khoảnh khắc.	The snow has disappeared in less than no time.	The snow has disappeared in less than no time.	True	True	0.86904955	331	331, 507, 818	1.0	331
+728	Tôi có một điều muốn nói.	I want to say one thing.	I want to say one thing.	True	True	0.6870432	651	651, 254, 381	1.0	651
+729	Buổi thuyết giảng của anh ta có rất đông khán giả.	His lecture had a large audience.	His lecture had a large audience.	True	True	0.85439146	944	944, 679, 789	1.0	944
+730	Loại thuốc mới phô bày hiệu ứng tức thời.	The new medicine demonstrated an immediate effect.	The new medicine demonstrated an immediate effect.	True	True	1.024796	817	817, 702, 29	1.0	817
+731	Mọi người đây phát điên vì bóng đá.	The people here are crazy for football.	The people here are crazy for football.	True	True	0.904469	615	615, 401, 522	1.0	615
+732	Tôi xin lỗi nếu làm bạn cảm thấy không được hoan nghênh.	You may eat anything so long as you don't eat too much.	I'm sorry if I made you feel unwelcome.	False	False	0.8677585	642	642, 995, 750	0	44
+733	Mình tin vào khả năng của cậu	Everyone is more or less interested in art.	I suppose that depends on how good you are. I'm counting on you!	False	False	0.8742608	348	348, 254, 557	0	54
+734	Chúng ta nếm thử miếng bánh này xem.	Culture is like jam: the less one has, the more one spreads it.	Let's try this cake.	False	False	0.9803935	679	679, 79, 878	0	674
+735	Chỉ kéo dài 15 phút, có phải không?	It just lasts for 15 minutes, doesn't it?	It just lasts for 15 minutes, doesn't it?	True	True	0.77329063	870	870, 4, 540	1.0	870
+736	Tôi đã thay đổi địa chỉ của tôi vào tháng trước.	My father will be back at the beginning of next month.	I changed my address last month.	False	True	0.83369493	484	484, 77, 900	0.5	77
+737	Tôi rất vui khi đến thăm quý tr­ường.	It is very nice of you to help me with my homework.	It's my pleasure to come to your university.	False	False	0.8997475	970	970, 900, 923	0	790
+738	Tôi sẽ gây ấn tượng với Tom bằng cách nào đây?	How am I going to impress Tom?	How am I going to impress Tom?	True	True	0.8111919	225	225, 142, 365	1.0	225
+739	Khi quay trở lại anh ta thấy con gái cô ấy đang ngủ.	On his return he found her daughter asleep.	On his return he found her daughter asleep.	True	True	0.9454417	299	299, 260, 283	1.0	299
+740	Chúng ta/Chúng tôi có cá trong món chính.	Culture is like jam: the less one has, the more one spreads it.	We are having fish for our main course.	False	False	0.88278735	679	679, 716, 305	0	852
+741	Sao Bill xé lá thư ra từng mảnh vậy?	Why did Bill tear the letter into pieces?	Why did Bill tear the letter into pieces?	True	True	0.86091113	626	626, 760, 156	1.0	626
+742	Cho dù bạn có thuyết phục mọi người rằng sô-cô-la là va-ni thì nó vẫn là sô-cô-la, dù bạn có thể tự thuyết phục được mình và một vài người khác rằng nó là va-ni.	No matter how much you try to convince people that chocolate is vanilla, it'll still be chocolate, even though you may manage to convince yourself and a few others that it's vanilla.	No matter how much you try to convince people that chocolate is vanilla, it'll still be chocolate, even though you may manage to convince yourself and a few others that it's vanilla.	True	True	0.7281463	878	878, 321, 789	1.0	878
+743	Anh ta chỉ có thể phê bình những người khác đằng sau lưng.	He can only criticize people behind their backs.	He can only criticize people behind their backs.	True	True	0.79206336	539	539, 679, 446	1.0	539
+744	Bạn hãy cọ vết bẩn bằng giấm.	It’s my pleasure to come to VNU.	Rub the stain with vinegar.	False	False	0.94396806	789	789, 79, 120	0	483
+745	Tôi muốn khẳng định giờ khởi hành.	It’s my pleasure to come to VNU.	I'd like to confirm the hour of departure.	False	True	0.85253286	789	789, 423, 363	0.5	423
+746	Ví dụ như, càng ngày có càng nhiều người lựa chọn chung sống và sinh con mà không kết hôn.	For example, more people are choosing to live together and have children without getting married.	For example, more people are choosing to live together and have children without getting married.	True	True	0.584532	898	898, 953, 878	1.0	898
+747	Nếu anh nghĩ rằng đội của anh có thể thắng đội của chúng tôi thì anh nên nghĩ lại!	If you think your team can win against our team, you've got another thing coming!	If you think your team can win against our team, you've got another thing coming!	True	True	0.6656132	727	727, 779, 878	1.0	727
+748	Bạn đã đọc hết chưa?	May I use your dictionary?	Did you read it entirely?	False	False	0.85207784	683	683, 366, 236	0	251
+749	Tom thích nó lắm.	Tom loves it.	Tom loves it.	True	True	0.5221522	498	498, 66, 145	1.0	498
+750	Bạn không có lý do chính đáng để nghĩ như vậy.	You have no good reason for thinking as you do.	You have no good reason for thinking as you do.	True	True	0.7166966	501	501, 859, 986	1.0	501
+751	Có rất nhiều nhà cao tầng ở New York.	There are a lot of tall buildings in New York.	There are a lot of tall buildings in New York.	True	True	0.5464169	869	869, 453, 876	1.0	869
+752	Hãy cẩn thận! Chiếc xe đó suýt nữa đụng anh rồi.	Don't look at me, don't stare at me, demon, don't stare, I can't bear it!	Watch out! That car almost hit you.	False	False	0.90603423	639	639, 932, 727	0	768
+753	Bức tượng được chạm khắc từ gỗ cây anh đào.	The statue was carved from a block of cherry wood.	The statue was carved from a block of cherry wood.	True	True	0.61561775	864	864, 46, 524	1.0	864
+754	Bạn có thể giới thiệu tôi chỗ ở tại Luân đôn không?	Can you recommend a place to stay in London?	Can you recommend a place to stay in London?	True	True	0.839641	187	187, 133, 618	1.0	187
+755	Trong chuyến đi nghỉ, tôi đọc toàn bộ các tác phẩm của Milton.	In the vacation, I read the entire works of Milton.	In the vacation, I read the entire works of Milton.	True	True	0.5342648	713	713, 586, 689	1.0	713
+756	Fadil cũng chăm sóc bà của anh ấy.	Fadil also took care of his grandmother.	Fadil also took care of his grandmother.	True	True	0.8101665	379	379, 602, 333	1.0	379
+757	Tụi tao biết bài hát này.	My brother named his cat Huazi.	We know this song.	False	False	0.95713246	924	924, 789, 697	0	807
+758	Trước đây tôi đã từng đi lễ nhà thờ ngày Chủ Nhật.	We live in the country during the summer.	I used to go to church on Sundays.	False	True	0.9234495	900	900, 684, 656	0.3333333333333333	656
+759	Lẽ ra anh ấy phải thận trọng hơn.	It's the best feeling.	He should have been more careful.	False	False	0.890103	193	193, 986, 679	0	0
+760	Bạn có thực sự nghĩ là Tom sẽ tin tôi?	Do you really think Tom is going to believe me?	Do you really think Tom is going to believe me?	True	True	0.64659953	142	142, 365, 538	1.0	142
+761	Bạn của chị ấy là một ca sĩ.	My brother is very good at playing the guitar.	Her friend is a singer.	False	False	0.7529545	238	238, 941, 885	0	12
+762	Có lẽ chúng ta sẽ không bao giờ biết tại sao Tom lại tự sát.	We'll probably never know why Tom killed himself.	We'll probably never know why Tom killed himself.	True	True	0.7991991	188	188, 878, 762	1.0	188
+763	Tom không biết bây giờ là mấy giờ.	Tom didn't know what the wood was going to be used for.	Tom doesn't know what time it is.	False	True	0.84882784	322	322, 76, 93	0.5	76
+764	Điều quan trọng là chúng ta phải xử lý tình huống một cách bình tĩnh.	It's easier to make plans than to carry them out.	The situation calls for our cool judgement.	False	False	0.8100059	986	986, 640, 354	0	666
+765	Cô ta luôn phàn nàn về công việc của mình.	It is very nice of you to help me with my homework.	She is always complaining of her job.	False	True	0.89064157	970	970, 845, 635	0.3333333333333333	635
+766	Tui bây có biết nhau không?	Can you sing us a song?	Do you know each other?	False	True	0.87642694	366	366, 759, 246	0.5	759
+767	Tôi đã đi để được tiêm chủng.	He helped me do my homework.	I went to get vaccinated.	False	False	0.91765106	845	845, 716, 329	0	432
+768	Đọc nhiều sách như vậy sẽ có ngày rất hữu ích.	Read such books as will be useful some day.	Read such books as will be useful some day.	True	True	0.93984795	806	806, 679, 156	1.0	806
+769	Tôi cần một con dao để cắt dây thừng.	I want a knife with which to cut the rope.	I want a knife with which to cut the rope.	True	True	0.81976926	200	200, 119, 3	1.0	200
+770	Sự bi quan của anh ta làm suy sút tinh thần những người xung quanh.	He feels powerless about his own life.	His pessimism depressed those around him.	False	False	0.82728565	733	733, 348, 446	0	537
+771	Anh kể tôi nghe chuyện đời của mình	Today is the first day of the rest of your life.	He told me his life's story.	False	False	0.9459083	372	372, 900, 213	0	166
+772	Ok, cho nó thử lần nữa.	Tom wants to eat here tonight.	Ok, let's give it a try.	False	False	1.030399	66	66, 172, 384	0	158
+773	Mọi người đã chế nhạo tôi hôm qua.	He helped me do my homework.	Everyone laughed at me yesterday.	False	False	0.87735903	845	845, 30, 945	0	339
+774	Xin lỗi tôi đến trễ.	I want to say one thing.	I'm sorry I'm late.	False	False	0.9558705	651	651, 452, 921	0	840
+775	Tôi nhớ năm anh ấy bắt đầu có công ăn việc làm.	I remember the year when he began working and earning money.	I remember the year when he began working and earning money.	True	True	0.87972856	465	465, 681, 970	1.0	465
+776	Đối với mọi người, nó đều rất thân thiết.	It's the best feeling.	She was all kindness to everybody.	False	False	0.8215592	193	193, 798, 348	0	360
+777	Tôi đã hy vọng có thể hoàn thành việc này hôm qua.	I had hoped to have finished this yesterday.	I had hoped to have finished this yesterday.	True	True	0.8502041	308	308, 484, 586	1.0	308
+778	Nước tối cần thiết đối với chúng ta.	You're the last hope for humanity.	Water is essential to life.	False	True	0.6817281	519	519, 803, 354	0.5	803
+779	Chào mừng bạn đến với Tatoeba.	It’s my pleasure to come to VNU.	Welcome to Tatoeba!	False	False	0.84961677	789	789, 900, 354	0	963
+780	Tôi không thể tin là bạn đã không bị trừng phạt về việc lẻn ra khỏi nhà tối qua. Cha bạn đã không nghe thấy.	No matter how much you try to convince people that chocolate is vanilla, it'll still be chocolate, even though you may manage to convince yourself and a few others that it's vanilla.	I can't believe you got away with sneaking out of your house last night. Your father didn't hear you.	False	True	0.9689045	878	878, 79, 781	0.3333333333333333	781
+781	Tôi nói tiếng Mari.	It’s my pleasure to come to VNU.	I speak Mari.	False	False	0.9100158	789	789, 298, 128	0	105
+782	Nước sôi ở 100 độ C.	Water boils at 100 degrees Celsius.	Water boils at 100 degrees Celsius.	True	True	0.809124	648	648, 810, 32	1.0	648
+783	Anh ta sơn hàng rào màu xanh lá.	Rub the stain with vinegar.	They painted the fence green.	False	True	1.0644531	483	483, 645, 789	0.5	645
+784	Trời đang mưa to.	When it is darkest, men see the stars.	It's raining heavily.	False	False	0.7639837	649	649, 886, 677	0	40
+785	Câu chuyện buồn của anh ấy khiến tôi mủi lòng.	I had a dream about him.	His sad story touched my heart.	False	True	0.8935909	71	71, 193, 550	0.3333333333333333	550
+786	Gần đây tôi tăng cân rồi.	I am playing the guitar now.	I gained weight recently.	False	False	0.911319	647	647, 911, 103	0	450
+787	Thật không dễ dàng để Tom nói cho Mary những điều cô ấy muốn nghe.	No matter how much you try to convince people that chocolate is vanilla, it'll still be chocolate, even though you may manage to convince yourself and a few others that it's vanilla.	It wasn't easy for Tom to tell Mary what she needed to hear.	False	True	0.83662415	878	878, 422, 394	0.5	422
+788	Tắt đèn đi. Tôi không thể ngủ được.	Turn the light off. I can't fall asleep.	Turn the light off. I can't fall asleep.	True	True	0.77780974	490	490, 920, 755	1.0	490
+789	Mặc dù vậy, tôi không thể tán thành với ý kiến của bạn.	No one believed me at first.	I can't, however, agree with your opinion.	False	False	0.7455982	136	136, 254, 501	0	280
+790	Chúng ta sẽ không bắt đầu cho đến khi Bob tới.	We won't start till Bob comes.	We won't start till Bob comes.	True	True	0.80615926	332	332, 923, 878	1.0	332
+791	Đây là bạn của tôi, Tom.	This is my friend, Tom.	This is my friend, Tom.	True	True	0.5766375	388	388, 752, 845	1.0	388
+792	Thái dương hệ chỉ có 8 hành tinh bây giờ là Pluto, hành tinh thứ 9, đã được công nhận là một hành tinh lùn.	The Solar System has only eight planets now as Pluto, which was the ninth, has been reclassified as a dwarf planet.	The Solar System has only eight planets now as Pluto, which was the ninth, has been reclassified as a dwarf planet.	True	True	0.5939312	787	787, 522, 507	1.0	787
+793	Mỗi tháng một lần.	Once a month.	Once a month.	True	True	0.84381914	488	488, 304, 714	1.0	488
+794	Cô ta sẽ đến New York vào Chủ Nhật tới.	She will leave for New York next Sunday.	She will leave for New York next Sunday.	True	True	0.708168	688	688, 902, 484	1.0	688
+795	Bạn thích ăn gì nào?	Do you want tea or coffee?	What do you like to eat?	False	False	0.7620696	351	351, 197, 4	0	258
+796	Tôi muốn đi Áo để học âm nhạc.	I would like to go to Austria in order to study music.	I would like to go to Austria in order to study music.	True	True	0.5305592	868	868, 647, 238	1.0	868
+797	Cảnh sát sẽ theo dõi người đàn ông đó vì họ nghĩ ông ta là tội phạm.	The police will keep an eye on the man they think is the criminal.	The police will keep an eye on the man they think is the criminal.	True	True	0.7595978	776	776, 786, 382	1.0	776
+798	Họ khước từ lời mời của chúng tôi.	We should help each other.	They declined our invitation.	False	False	0.7880442	354	354, 900, 923	0	804
+799	Inoue không thích máy vi tính.	Inoue doesn't like computers.	Inoue doesn't like computers.	True	True	0.5555811	998	998, 21, 495	1.0	998
+800	Bọn mình không nhận được đồ ăn hay nước uống.	Appetite comes with eating.	We weren't given any food or water.	False	False	0.84338677	502	502, 110, 79	0	846
+801	Không sao, tối nay chúng ta có thể góp trả.	You may eat anything so long as you don't eat too much.	That's OK, we can go Dutch tonight.	False	False	0.8855989	642	642, 440, 726	0	719
+802	Em trai tôi đặt tên cho con mèo của nó là Huazi.	My brother named his cat Huazi.	My brother named his cat Huazi.	True	True	0.7737187	924	924, 495, 679	1.0	924
+803	Catalonia không phải là Tây Ban Nha.	Catalonia is not Spain.	Catalonia is not Spain.	True	True	0.43718827	266	266, 943, 868	1.0	266
+804	Hãy đi hái hoa trong vườn nào.	Let's pick flowers from the garden.	Let's pick flowers from the garden.	True	True	0.79698944	873	873, 79, 513	1.0	873
+805	Anh ta làm việc rất chăm chỉ vì sợ bị thất bại.	He worked hard for fear that he should fail.	He worked hard for fear that he should fail.	True	True	0.82078934	895	895, 539, 679	1.0	895
+806	Thoạt đầu không ai tin tôi.	No one believed me at first.	No one believed me at first.	True	True	0.6901494	136	136, 486, 920	1.0	136
+807	Ông ta cảm thấy phải báo cáo sự việc này.	He felt compelled to report the incident.	He felt compelled to report the incident.	True	True	0.86973715	318	318, 640, 986	1.0	318
+808	Được mà!	Come and see!	You can do it.	False	False	0.7415365	182	182, 424, 976	0	330
+809	Bạn đang thiếu ngủ.	He can't sing well.	You're not sleeping enough.	False	True	0.9480231	697	697, 336, 920	0.5	336
+810	Sao cậu không làm việc?	How much money is left?	Why aren't you working?	False	False	0.795514	282	282, 535, 197	0	611
+811	Tôi rất ghét cái thời tiết này.	I hate this weather.	I hate this weather.	True	True	0.8896191	693	693, 557, 301	1.0	693
+812	Ông Smith sống ở Kyoto ba năm trước đây.	Mr Smith lived in Kyoto three years ago.	Mr Smith lived in Kyoto three years ago.	True	True	0.8074672	588	588, 5, 902	1.0	588
+813	Tom muốn đi bơi.	Tom wants to swim.	Tom wants to swim.	True	True	0.55061436	145	145, 66, 498	1.0	145
+814	Tôi đã cứu được anh.	He helped me do my homework.	I rescued you.	False	False	0.81201124	845	845, 354, 531	0	125
+815	Đây là một cuốn từ điển tốt dành cho học sinh cấp 3.	This is a good dictionary for high school students.	This is a good dictionary for high school students.	True	True	0.767154	670	670, 554, 215	1.0	670
+816	Bạn không nên tin vào một con người như vậy.	You must not invade the privacy of others.	You must not rely upon such a man.	False	False	0.86677253	446	446, 621, 726	0	16
+817	Bạn không nên ăn miếng thịt đó. Mùi ghê lắm.	You shouldn't eat this meat. It smells bad.	You shouldn't eat this meat. It smells bad.	True	True	0.77122676	406	406, 120, 642	1.0	406
+818	Ông tôi rất khỏe mạnh.	It is very nice of you to help me with my homework.	My grandfather is very healthy.	False	False	0.9244673	970	970, 764, 254	0	958
+819	Tôi dùng cái đó.	I think I did the right thing.	I use it.	False	False	0.7470082	86	86, 995, 651	0	437
+820	Cô ấy đã cố tự sát rất nhiều lần.	She tried to kill herself many times.	She tried to kill herself many times.	True	True	0.79164517	203	203, 630, 895	1.0	203
+821	Chúng tôi đã đi lạc trong rừng.	I lived for years and years.	We went astray in the woods.	False	True	0.7950697	945	945, 435, 894	0.5	435
+822	Ông ta bị buộc phải từ chức thủ tướng.	He was forced to resign as prime minister.	He was forced to resign as prime minister.	True	True	0.6075368	220	220, 262, 384	1.0	220
+823	Bạn muốn uống trà hay cà phê?	Do you want tea or coffee?	Do you want tea or coffee?	True	True	0.800107	351	351, 710, 481	1.0	351
+824	Đêm đã xuống. Anh nên trở về nhà	I want to go home.	It's getting dark. You'd better go home.	False	True	1.0040734	920	920, 704, 473	0.3333333333333333	473
+825	Bọn họ nói rằng tụi mình sẽ gặp mưa to.	When it is darkest, men see the stars.	They say we're going to get heavy rain.	False	False	0.9116217	649	649, 175, 709	0	370
+826	Tôi mua một bộ khăn trải bàn.	Yesterday, I read a book.	I bought a set of table linen.	False	False	0.95872664	689	689, 938, 84	0	317
+827	Không một sinh viên nào tới đúng giờ.	None of the students have arrived on time.	None of the students have arrived on time.	True	True	0.82395744	391	391, 192, 819	1.0	391
+828	Bia của ai đây?	How much money is left?	Whose beer is this?	False	False	0.7543057	282	282, 535, 606	0	564
+829	Bạn làm ơn chờ vài phút.	It’s my pleasure to come to VNU.	Would you please wait for a few minutes?	False	False	0.9580188	789	789, 923, 486	0	571
+830	Ngày mai sẽ có tuyết.	According to the weather forecast, it'll snow tomorrow.	It'll snow tomorrow.	False	False	0.9571321	32	32, 649, 419	0	442
+831	Một vài thành phần của nước uống này có hại, đặc biệt nếu bạn có thai.	Some of the ingredients in this beverage are harmful, especially if you are pregnant.	Some of the ingredients in this beverage are harmful, especially if you are pregnant.	True	True	0.60832393	29	29, 427, 120	1.0	29
+832	Trời rất nóng nên chúng ta không thể đi bộ lâu được.	The light is too dim for me to read easily.	It was so hot that we couldn't walk for long.	False	False	0.8333734	301	301, 669, 218	0	222
+833	Hoa làm chị ấy vui.	It’s my pleasure to come to VNU.	Flowers make her happy.	False	False	1.0448653	789	789, 679, 932	0	429
+834	Thắng cuộc chơi mà không cần phải tiếp tục giải mã ô chữ [or nhân vật] bí ẩn.	Beating the game without continuing unlocks the secret character.	Beating the game without continuing unlocks the secret character.	True	True	0.945817	883	883, 789, 855	1.0	883
+835	Tôi không sửa được máy tính.	I can't repair the computer.	I can't repair the computer.	True	True	0.8647839	241	241, 174, 36	1.0	241
+836	Ông này là luật sư Perry Mason.	That man is Perry Mason, the lawyer.	That man is Perry Mason, the lawyer.	True	True	0.9472338	10	10, 165, 217	1.0	10
+837	Bạn biết điều này.	I appreciate this.	You know this.	False	False	0.7417339	995	995, 574, 95	0	96
+838	Tom và tôi có nhiều điểm chung hơn là tôi nghĩ.	Tom and I have a lot more in common than I thought.	Tom and I have a lot more in common than I thought.	True	True	0.67733693	210	210, 763, 764	1.0	210
+839	Lá rụng xuông mặt đất.	Cover the seeds with a little earth.	The leaves fell to the earth.	False	False	1.0707693	583	583, 46, 126	0	433
+840	Xin lỗi, ông có nói tiếng Anh không?	Pardon me, do you speak English?	Pardon me, do you speak English?	True	True	0.8703227	990	990, 273, 351	1.0	990
+841	Anh ấy không già như tớ nghĩ.	No one believed me at first.	He isn't any older than I thought.	False	False	0.8414395	136	136, 679, 254	0	700
+842	Điều này rất khó cho Tom.	This is quite difficult for Tom.	This is quite difficult for Tom.	True	True	0.44587743	338	338, 145, 916	1.0	338
+843	Bạn có thể chỉ đường cho tôi đi được không?	Won't you please write with a ballpoint pen?	Would you tell me the way?	False	False	0.8754729	137	137, 366, 454	0	148
+844	Hãy đối tốt với kẻ ghét mình.	You must not invade the privacy of others.	Do good to those who hate you.	False	True	0.84633684	446	446, 750, 452	0.3333333333333333	452
+845	Tổng thống Jefferson không muốn cấm vận thương mại kéo dài.	President Jefferson did not want the trade ban to last long.	President Jefferson did not want the trade ban to last long.	True	True	0.5789926	723	723, 220, 176	1.0	723
+846	Bạn có thể liệt kê danh sách các việc đáng thảo luận không?	Will you make a list of issues to discuss?	Will you make a list of issues to discuss?	True	True	0.8100693	850	850, 31, 538	1.0	850
+847	Bạn có muốn một vài bức hình đó không?	Which of these do you consider your best painting?	Would you like some of those pictures?	False	True	0.89838195	350	350, 797, 4	0.5	797
+848	Anh hãy làm tùy thích.	You have a good sense of humor.	Do as you like.	False	False	0.883574	254	254, 36, 501	0	985
+849	Tôi có một người họ hàng mới: chị tôi mới cưới, vậy từ nay tôi có một anh rể.	I have a new relative: my sister got married, so now I have a brother-in-law.	I have a new relative: my sister got married, so now I have a brother-in-law.	True	True	0.74164534	230	230, 878, 363	1.0	230
+850	Jack không đủ tiền để mua xe một chiếc xe đạp mới.	Jack can't afford to buy a new bicycle.	Jack can't afford to buy a new bicycle.	True	True	0.6569731	946	946, 145, 761	1.0	946
+851	Tom chối là đã gian lận.	Tom wants to eat here tonight.	Tom has denied cheating.	False	False	0.8631525	66	66, 145, 908	0	47
+852	Mấy giờ thì bắt đầu mở tiệc?	What time does the party start?	What time does the party start?	True	True	0.9002875	162	162, 156, 353	1.0	162
+853	Nhà anh ta ở gần đường ngầm.	His house is near the subway.	His house is near the subway.	True	True	1.0003465	903	903, 945, 335	1.0	903
+854	Thông thường khi Tom và Mary ra ngoài ăn tối cùng nhau, họ cùng trả tiền hoá đơn.	Usually when Tom and Mary go out for dinner together, they split the bill.	Usually when Tom and Mary go out for dinner together, they split the bill.	True	True	0.6818247	253	253, 898, 753	1.0	253
+855	Hôm qua tôi gặp Marie.	Yesterday I met Marie.	Yesterday I met Marie.	True	True	0.88887835	314	314, 660, 93	1.0	314
+856	Bill tới trường chậm, như mọi khi.	Whether or not Tom gets the job in Boston is still very much up in the air.	Bill was late for school as usual.	False	False	0.9285693	855	855, 545, 239	0	533
+857	Xoay đèn lại hướng này giùm.	To loosen a screw, turn it to the left.	Turn the light over here, will you?	False	False	0.9122608	143	143, 789, 2	0	677
+858	Thỉnh thoảng để em bé khóc cũng tốt.	It's OK to leave the baby to cry on occasion.	It's OK to leave the baby to cry on occasion.	True	True	0.8807533	19	19, 878, 789	1.0	19
+859	Ông ấy cho chúng tôi không chỉ quần áo, mà còn cả một ít tiền.	He gave us not only clothes but some money.	He gave us not only clothes but some money.	True	True	0.8086245	325	325, 785, 268	1.0	325
+860	Người say xỉn rất thú vị.	Appetite comes with eating.	Drunk people are so entertaining.	False	True	1.0689335	502	502, 951, 110	0.5	951
+861	Có có một ít thời gian.	There are a few problems.	I have some time.	False	False	0.89598334	315	315, 400, 404	0	897
+862	Tôi có thể đến ở với bạn được không? Tôi bị đuổi ra đường vì tôi không trả tiền thuê nhà.	Can I stay with you? I was kicked out of my house because I didn't pay the rent.	Can I stay with you? I was kicked out of my house because I didn't pay the rent.	True	True	0.775141	767	767, 920, 476	1.0	767
+863	Mang thêm hai cái ghế nữa.	He exchanged his old car for a new one.	Bring a couple more chairs.	False	True	1.1559975	761	761, 500, 66	0.5	500
+864	Tên lửa đã đưa vệ tinh viễn thông vào quỹ đạo.	The rocket put a communications satellite into orbit.	The rocket put a communications satellite into orbit.	True	True	0.7158408	194	194, 787, 195	1.0	194
+865	Jennifer rất thất vọng về việc buổi hòa nhạc bị hủy bỏ. Cô ấy rất trông mong buổi biểu diễn đó.	Jennifer is very disappointed about the concert being cancelled. She really had her heart set on going.	Jennifer is very disappointed about the concert being cancelled. She really had her heart set on going.	True	True	0.81781757	728	728, 238, 260	1.0	728
+866	Anh ta cao mét rưỡi.	It’s my pleasure to come to VNU.	He is five feet tall.	False	False	1.0728317	789	789, 450, 99	0	312
+867	Tôi thấy bóng dáng của một người đàn ông.	I saw the figure of a man.	I saw the figure of a man.	True	True	0.79040885	278	278, 301, 352	1.0	278
+868	Thầy giáo/Cô giáo bảo chúng tôi học thuộc lòng bài thơ.	Our teacher had us learn the poem by heart.	Our teacher had us learn the poem by heart.	True	True	0.9440315	794	794, 679, 789	1.0	794
+869	Bạn thấy lời gợi ý của anh ta thế nào?	May I direct your attention to this?	How do you feel about his suggestion?	False	False	0.8437743	896	896, 366, 540	0	834
+870	Tôi không tin ở Thượng đế.	You must not invade the privacy of others.	I don't believe in God.	False	False	0.9288223	446	446, 927, 305	0	479
+871	Bạn có nghĩ là bạn làm việc với chúng tôi được không?	Would you like to play with us?	Do you think you'd like to work for us?	False	False	0.8072808	247	247, 501, 540	0	527
+872	Tôi không thể tiếp tục.	I promise I won't do that again.	I can't go on.	False	False	0.6281822	811	811, 81, 995	0	50
+873	Tôi rất vui khi đến thăm Đại học Quốc Gia Hà Nội.	It is very nice of you to help me with my homework.	It’s my pleasure to come to VNU.	False	False	0.8809315	970	970, 790, 238	0	789
+874	Vừa cười vừa nói chuyện, những đứa trẻ trèo lên đồi.	Laughing and talking, the children climbed the hill.	Laughing and talking, the children climbed the hill.	True	True	0.7600472	882	882, 753, 175	1.0	882
+875	Tin về cái chết của cậu ta đã không được thông báo trong vài tuần.	News of his death wasn't published for several weeks.	News of his death wasn't published for several weeks.	True	True	0.8130114	973	973, 484, 475	1.0	973
+876	Tom đã không biết chỗ gỗ đó dùng để làm gì.	Tom didn't know what the wood was going to be used for.	Tom didn't know what the wood was going to be used for.	True	True	0.62342155	322	322, 908, 66	1.0	322
+877	Hôm qua, học sinh đã học xong Chương 1 nên bây giờ học sẽ tiếp tục học Chương 2.	Yesterday the students finished Chapter 1 so now they'll move on to Chapter 2.	Yesterday the students finished Chapter 1 so now they'll move on to Chapter 2.	True	True	0.6550499	770	770, 554, 789	1.0	770
+878	Khu vực đó vẫn còn đang thiếu lương thực.	Food is still scarce in the region.	Food is still scarce in the region.	True	True	0.89938056	264	264, 818, 196	1.0	264
+879	Trời mưa từ sáng.	When it is darkest, men see the stars.	It's been raining since morning.	False	False	0.76660466	649	649, 704, 524	0	957
+880	Mai gặp lại nhé.	Tom wants to swim.	I'll see you tomorrow.	False	False	1.0920105	145	145, 569, 175	0	385
+881	Cái đèn pin này cần hai cục pin.	This flashlight needs two batteries.	This flashlight needs two batteries.	True	True	1.0678918	198	198, 500, 200	1.0	198
+882	Tom cảm thấy bất lực và sợ hãi.	Tom is very disturbed.	Tom felt helpless and frightened.	False	True	0.61987305	707	707, 201, 89	0.5	201
+883	Bạn mắc có vài lỗi chính tả thôi.	Excuse me, let me point out three mistakes in the above article.	You have made only a few spelling mistakes.	False	False	1.0346615	516	516, 859, 446	0	912
+884	Bill lớn bằng Jack.	Bill is as tall as Jack.	Bill is as tall as Jack.	True	True	0.8065238	530	530, 49, 545	1.0	530
+885	Nếu mà thế giới không như thế này, cái gì tôi cũng tin.	You must not invade the privacy of others.	If the world weren't in the shape it is now, I could trust anyone.	False	False	0.7877172	446	446, 726, 831	0	644
+886	Chúng ta hãy khẩn trương.	We have to move very quickly.	Let's hurry up.	False	False	0.8184142	271	271, 354, 68	0	838
+887	Nhật bản không lớn bằng Gia nã đại.	I speak Mari.	Japan is not as big as Canada.	False	True	0.95527935	105	105, 717, 924	0.5	717
+888	Tình yêu mù quáng.	It’s my pleasure to come to VNU.	Love is blind.	False	False	0.9211819	789	789, 920, 807	0	90
+889	Ông ngồi đọc sách, vợ ông thì đang đan đôi bao tay cạnh bên.	He sat reading, with his wife knitting a pair of gloves beside him.	He sat reading, with his wife knitting a pair of gloves beside him.	True	True	0.89675164	6	6, 389, 403	1.0	6
+890	Bạn vừa nói gì ?	May I ask a few questions?	What were we talking about?	False	False	0.8159883	4	4, 366, 282	0	577
+891	Đội của chúng tôi không có cơ hội thắng đội của họ vì đội của họ giỏi hơn đội của chúng tôi nhiều.	Our team doesn't stand a chance against their team because they are much better than we are.	Our team doesn't stand a chance against their team because they are much better than we are.	True	True	0.6763296	779	779, 679, 878	1.0	779
+892	Cái này khó.	This is easy.	This is difficult.	False	True	0.7455925	400	400, 951, 404	0.3333333333333333	404
+893	Cậu không sợ chết ư?	Do you want tea or coffee?	Aren't you afraid to die?	False	False	0.89371085	351	351, 481, 540	0	457
+894	Không ai biết cô ấy ở đâu.	No one can do anything.	No one knows where she is.	False	True	0.80960655	192	192, 136, 857	0.3333333333333333	857
+895	Chúng tôi phải cởi giầy trước khi vào nhà.	I think you need to go home now.	We should take off our shoes before entering the house.	False	False	0.7901045	103	103, 462, 684	0	960
+896	Đáng gấp ba lần chỗ đó.	Culture is like jam: the less one has, the more one spreads it.	It's worth three times that much.	False	False	0.95155966	679	679, 874, 789	0	456
+897	Chị tôi hay khóc.	Culture is like jam: the less one has, the more one spreads it.	My sister often cries.	False	False	0.8630601	679	679, 920, 292	0	503
+898	Vặn sang trái để xoay cái ốc vít ra.	The soup tastes of garlic.	To loosen a screw, turn it to the left.	False	False	0.8606633	63	63, 483, 583	0	143
+899	Chúng ta phải di chuyển rất nhanh.	We have to move very quickly.	We have to move very quickly.	True	True	0.70417	271	271, 301, 669	1.0	271
+900	Tom đã cầm lấy cái ghế.	Tom jumped out of his seat.	Tom grabbed a chair.	False	False	0.89767957	801	801, 641, 160	0	415
+901	Chúng tôi hết sức xin lỗi về chuyện đã xảy ra.	We are not the only ones to believe that he is not guilty.	We're sorry about it.	False	False	0.8085468	382	382, 354, 466	0	106
+902	Tôi nghĩ tôi đã làm một việc đúng.	I think I did the right thing.	I think I did the right thing.	True	True	0.66061175	86	86, 969, 651	1.0	86
+903	Ấm nước đang sôi.	Some of these apples are bad.	The kettle is boiling.	False	False	1.0471973	950	950, 40, 427	0	799
+904	Anh ta gặp tai nạn trong khi làm việc	I will have been staying in this hotel for one month next Sunday.	She had an accident while working.	False	False	0.9824133	902	902, 208, 403	0	70
+905	Còn ai khác sắp tới không?	What's preventing this from happening?	Will anybody else come?	False	False	0.8566072	353	353, 540, 606	0	72
+906	Bạn có đang để cửa sổ mở không ?	How many liters does it take to fill a hot tub?	Did you leave the window open?	False	False	0.89355576	156	156, 489, 626	0	276
+907	John đặc biệt giỏi toán.	John is good at maths.	John is good at maths.	True	True	0.56682444	545	545, 238, 335	1.0	545
+908	Anh ấy thường để quên ô ở trên tàu.	Tom wants to eat here tonight.	He often leaves his umbrella on a train.	False	True	0.9146861	66	66, 421, 946	0.5	421
+909	Tôi tặng dì quà sinh nhật.	It’s my pleasure to come to VNU.	My aunt sent me a birthday present.	False	True	0.93671703	789	789, 83, 660	0.3333333333333333	660
+910	Bạn đừng quen mang ô.	It’s my pleasure to come to VNU.	Bring an umbrella without forgetting.	False	False	0.8970431	789	789, 486, 287	0	575
+911	Quá tiếc khi bạn không biết nó.	You may eat anything so long as you don't eat too much.	It is a great pity that you don't know it.	False	False	0.8649031	642	642, 301, 679	0	792
+912	46 triệu người Mỹ sống dưới ngưỡng nghèo trong năm 2010.	46 million Americans lived under the poverty line in 2010.	46 million Americans lived under the poverty line in 2010.	True	True	0.5462067	975	975, 953, 5	1.0	975
+913	Anh ta ghi lại mọi chuyện đã xảy ra.	He has set down everything that happened.	He has set down everything that happened.	True	True	0.8760365	673	673, 686, 829	1.0	673
+914	Quý khách vui lòng bỏ vớ vào giỏ.	It’s my pleasure to come to VNU.	Please put socks in the basket.	False	False	1.001312	789	789, 679, 924	0	38
+915	Tom muốn hỏi Mary vài điều.	Tom wanted to ask Mary a question.	Tom wanted to ask Mary a question.	True	True	0.6349224	908	908, 224, 145	1.0	908
+916	Cây Ý Dĩ trị được rất nhiều bệnh.	Job's tears can cure a large number of diseases.	Job's tears can cure a large number of diseases.	True	True	0.83904505	427	427, 161, 966	1.0	427
+917	Trước hết anh hãy chăm sóc chính bản thân mình.	He feels powerless about his own life.	Above all, take care of yourself.	False	False	0.789412	733	733, 539, 621	0	987
+918	Tớ ghét di chuyển.	The train is always on time.	I hate moving.	False	False	0.9836899	493	493, 26, 301	0	367
+919	Tôi không có khả năng mua cái đó.	You may eat anything so long as you don't eat too much.	I can't afford to buy that.	False	False	0.7990153	642	642, 621, 859	0	15
+920	Công việc này bạn đừng làm thì hơn.	Let's help them solve their problems.	You shouldn't do his work.	False	False	0.75443673	329	329, 679, 354	0	174
+921	Tôi cảm thấy cô đơn.	I'm not like you.	I feel lonely.	False	False	0.7365912	288	288, 703, 547	0	629
+922	Ấy có sợ chó không?	Why do rabbits have long ears?	Are you afraid of dogs?	False	False	0.9196367	489	489, 564, 282	0	100
+923	Tôm hùm thuộc lớp động vật biển.	Lobsters belong to a class of marine animals.	Lobsters belong to a class of marine animals.	True	True	0.9010737	180	180, 218, 789	1.0	180
+924	Tôi đi lễ nhà thờ vào ngày Chủ Nhật.	I go to church on Sunday.	I go to church on Sunday.	True	True	0.8457446	684	684, 656, 900	1.0	684
+925	Tom lướt thấy trường tàu khi xe lửa băng qua.	Tom caught a glimpse of the driver as the train raced past.	Tom caught a glimpse of the driver as the train raced past.	True	True	0.913764	696	696, 720, 145	1.0	696
+926	Rõ ràng là điều đó không đúng.	Apparently, that's not correct.	Apparently, that's not correct.	True	True	0.7355734	414	414, 739, 574	1.0	414
+927	Tất cả các vận động viên đều nỗ lực tuyệt vời trong kỳ Thế vận hội.	All participants made that great effort in the Olympics.	All participants made that great effort in the Olympics.	True	True	0.7994163	964	964, 789, 119	1.0	964
+928	Lại đây xem này!	Shut up and listen!	Come and see!	False	False	1.0406219	424	424, 400, 404	0	182
+929	Chúng tôi đi dạo một vòng quanh thành phố bằng xe hơi.	We took a plane from Tokyo to Sapporo.	We took a turn around the city in our car.	False	True	0.82784224	816	816, 256, 477	0.5	256
+930	Có vẻ như cô ấy đã khởi hành đi tới Tokyo hôm qua.	She seems to have left for Tokyo yesterday.	She seems to have left for Tokyo yesterday.	True	True	0.7591386	283	283, 185, 816	1.0	283
+931	Mr Wilder đã đưa cho tao địa chỉ e-mail của mày.	Mr Wilder gave me your e-mail address.	Mr. Wilder gave me your email address.	False	True	0.95643044	164	164, 696, 165	0.3333333333333333	165
+932	Chúng tôi không phải là người lạ.	The world does not revolve around you.	We're not strangers.	False	False	0.6936532	831	831, 830, 446	0	229
+933	Đó là một con búp bê.	There is an old story about a Persian cat.	That's a doll.	False	False	1.0186236	494	494, 709, 482	0	824
+934	Tôi thích quay trở lại đây.	I want to go home.	I love coming back here.	False	False	0.7020724	920	920, 103, 694	0	213
+935	Họ nên biết nó chứ.	They should know it.	They should know it.	True	True	0.7565303	623	623, 446, 382	1.0	623
+936	Tớ từng bị bắt cóc.	I was kidnapped.	I was kidnapped.	True	True	1.0742964	118	118, 789, 494	1.0	118
+937	Đừng nói cái không cần thiết phải nói.	Don't ask what they think. Ask what they do.	Omit needless words!	False	False	0.78729177	440	440, 642, 26	0	624
+938	Một nghiên cứu chỉ ra rằng hầu hết 10% đàn ông sẽ bị béo phì vào năm 2008. Tỉ lệ này đã tăng từ khoảng 5% vào năm 1980.	A study found that almost 10% of men were obese in 2008. That was up from about 5% in 1980.	A study found that almost 10% of men were obese in 2008. That was up from about 5% in 1980.	True	True	0.53216517	953	953, 975, 485	1.0	953
+939	Có một chuyện cổ tích về con mèo Ba Tư.	There is an old story about a Persian cat.	There is an old story about a Persian cat.	True	True	0.74964	494	494, 506, 609	1.0	494
+940	Tôi sẽ không để cậu tự mình đến đó đâu.	You have no good reason for thinking as you do.	Tom won't let you go there by yourself.	False	False	0.81864953	501	501, 878, 642	0	383
+941	Bạn có trồng bí ngô không?	Why do rabbits have long ears?	Do you plant pumpkins?	False	True	0.9532442	489	489, 197, 9	0.3333333333333333	9
+942	Bạn muốn Tom làm gì?	Do you really think Tom is going to believe me?	What do you want Tom to do?	False	True	0.59853375	142	142, 365, 191	0.3333333333333333	191
+943	Tôi tự hỏi anh ta có ý gì qua điều đó.	You have no good reason for thinking as you do.	I wonder what he meant by that.	False	False	0.80290866	501	501, 254, 651	0	509
+944	Tom dạy lịch sử ở trường trung học phía bên kia đường.	Tom teaches history at the high school across the street.	Tom teaches history at the high school across the street.	True	True	0.54686904	228	228, 145, 891	1.0	228
+945	Cái này chắc chắn sẽ làm cho bạn thèm ăn.	No matter how much you try to convince people that chocolate is vanilla, it'll still be chocolate, even though you may manage to convince yourself and a few others that it's vanilla.	This will surely add to you appetite.	False	True	0.8586688	878	878, 546, 19	0.5	546
+946	Có một đám đông trên đường	It’s my pleasure to come to VNU.	There is a crowd of people on the street.	False	False	1.061243	789	789, 679, 819	0	876
+947	Bạn muốn tôi đi, phải không?	You want me to go, don't you?	You want me to go, don't you?	True	True	0.8090346	454	454, 366, 540	1.0	454
+948	Họ đã định cư ở Canada.	They settled in Canada.	They settled in Canada.	True	True	0.65931344	536	536, 401, 933	1.0	536
+949	Cô ta bán hoa.	Culture is like jam: the less one has, the more one spreads it.	She sells flowers.	False	False	1.030568	679	679, 789, 924	0	909
+950	Không ai có thể làm bất cứ điều gì.	No one can do anything.	No one can do anything.	True	True	0.62856483	192	192, 621, 446	1.0	192
+951	Tom muốn ăn tối ở đây hôm nay.	Tom wants to eat here tonight.	Tom wants to eat here tonight.	True	True	0.6109489	66	66, 145, 916	1.0	66
+952	Bạn có nghe nói vị trí trưởng phòng còn trống không?	Did you hear that the position for manager is up for grabs?	Did you hear that the position for manager is up for grabs?	True	True	0.8569176	760	760, 489, 137	1.0	760
+953	Tom chạy sang giúp Mary.	Tom ran over to help Mary.	Tom ran over to help Mary.	True	True	0.66227317	181	181, 270, 145	1.0	181
+954	Tôi có được phép nêu câu hỏi không?	Can't you move faster?	May I ask a few questions?	False	False	0.8834884	341	341, 626, 683	0	4
+955	Không có công việc, tôi không thể đẻ giành tiền.	With no work, I can't save any money.	With no work, I can't save any money.	True	True	0.81840277	901	901, 174, 642	1.0	901
+956	Melissa hoàn toàn mất bình tĩnh khi ngôi nhà phát hỏa. Cô ấy không biết nên làm gì.	Melissa completely lost her head when the house caught on fire. She didn't know what to do.	Melissa completely lost her head when the house caught on fire. She didn't know what to do.	True	True	0.7762352	738	738, 260, 855	1.0	738
+957	Ông Tanaka là một trong những người bạn của chúng tôi.	Mr Tanaka is a friend of ours.	Mr Tanaka is a friend of ours.	True	True	0.663584	825	825, 998, 900	1.0	825
+958	Ai cũng ít nhiều có chút quan tâm đến nghệ thuật.	Everyone is more or less interested in art.	Everyone is more or less interested in art.	True	True	0.8228853	348	348, 238, 970	1.0	348
+959	Tôi bỏ qua quảng cáo trên video bất cứ khi nào có thể.	It will not make much difference whether you go today or tomorrow.	I skip ads on videos whenever I can.	False	False	0.8551862	466	466, 446, 65	0	82
+960	Chúng tôi đã ngồi đây gần một tiếng rồi.	I think you need to go home now.	We've been sitting here for almost an hour.	False	True	0.9065571	103	103, 295, 647	0.5	295
+961	Vui lòng gọi sở cứu hỏa.	Do good to those who hate you.	Please call the fire department.	False	False	0.9978299	452	452, 519, 789	0	445
+962	Cô ấy nhìn quanh khắp phòng.	She looked around the room.	She looked around the room.	True	True	0.9355259	294	294, 720, 333	1.0	294
+963	Tôi không thích anh đâu.	Don't waste your breath with Fred. He'll never change his mind.	I don't like you.	False	False	0.87976956	755	755, 789, 446	0	566
+964	Mary còn chưa thích ứng được với hoàn cảnh mới.	Mary hasn't adapted yet to the new reality.	Mary hasn't adapted yet to the new reality.	True	True	0.75349414	695	695, 831, 782	1.0	695
+965	Cô ấy nhận ra điều cần thiết là tập cho bọn trẻ của cô ấy thức dậy sớm.	She found it necessary to accustom her child to getting up early.	She found it necessary to accustom her child to getting up early.	True	True	0.9378246	836	836, 845, 260	1.0	836
+966	Tối nay anh về nhà chứ?	Can you sing us a song?	Will you be home this evening?	False	True	0.88862836	366	366, 580, 568	0.5	580
+967	Hôm nay không có mây.	He is not my father, he is my uncle.	There were no clouds today.	False	False	0.88161993	305	305, 819, 642	0	507
+968	Bạn nên hỏi Tom.	You should ask Tom.	You should ask Tom.	True	True	0.7237549	173	173, 66, 923	1.0	173
+969	Cậu là hi vọng cuối cùng của nhân loại.	It goes without saying that honesty is the key to success.	You're the last hope for humanity.	False	False	0.93528795	859	859, 671, 733	0	519
+970	Nhà chúng ta/chúng tôi sát vách nhà anh ta.	Love must have wings to fly away from love, and to fly back again.	Our house adjoins his.	False	False	0.8932905	704	704, 679, 305	0	858
+971	Nhưng ở đây, không dễ dàng như vậy đâu.	This is easy.	Except that here, it's not so simple.	False	True	0.85239244	400	400, 679, 739	0.3333333333333333	739
+972	Đây có phải vấn đề không?	Is this a problem?	Is this a problem?	True	True	0.7085439	31	31, 282, 197	1.0	31
+973	Mary bước ra khỏi nhà tắm chỉ với khăn tắm trên người.	Mary came out of the bathroom with only a towel on.	Mary came out of the bathroom with only a towel on.	True	True	0.7900417	285	285, 311, 307	1.0	285
+974	Một vài sinh viên ngồi trên ghế băng ăn trưa.	Some students were sitting on the bench and having lunch.	Some students were sitting on the bench and having lunch.	True	True	0.780359	471	471, 522, 5	1.0	471
+975	Anh ta mang vụ án giết người ra ánh sáng.	Culture is like jam: the less one has, the more one spreads it.	He brought out the truth of the murder case.	False	False	0.9703529	679	679, 305, 539	0	968
+976	Một buổi sáng Chủ Nhật, Josh xâm nhập vào phòng khách nhà người ta và nói những điều ấy.	One Sunday morning George burst into the living room and said the following.	One Sunday morning George burst into the living room and said the following.	True	True	0.9765904	129	129, 855, 145	1.0	129
+977	Bác sĩ bảo rằng anh ấy sẽ khỏe hơn nếu chịu uống thuốc.	The doctor said that he would be well if he took his medicine.	The doctor said that he would be well if he took his medicine.	True	True	0.8249047	980	980, 630, 120	1.0	980
+978	Đừng lông bông nữa mà hãy tìm một công việc đi.	Culture is like jam: the less one has, the more one spreads it.	Stop lazing around and look for a job.	False	True	0.9444176	679	679, 277, 855	0.5	277
+979	Lẽ ra em không nên tiết lộ việc em có mang quá sớm. Anh muốn làm mọi người ngạc nhiên.	Culture is like jam: the less one has, the more one spreads it.	You shouldn't have let the cat out of the bag about being pregnant so soon. I wanted to surprise everyone.	False	False	0.95470846	679	679, 878, 986	0	735
+980	Hãy kiện cậu ta.	They'll help us.	Let's sue him.	False	False	0.8316896	531	531, 570, 305	0	455
+981	Tôi có một cuộc hẹn lúc ba giờ.	I have to work this weekend.	I have an appointment at three.	False	False	0.80231833	463	463, 978, 689	0	449
+982	Chúng tôi đã rất mệt mõi.	I appreciate this.	We were very tired.	False	False	0.94008386	995	995, 547, 254	0	888
+983	Cô ấy sử dụng thời gian rảnh rỗi để câu cá.	She's spending too much time watching TV.	She devoted all her spare time to fishing.	False	False	0.8717419	260	260, 145, 66	0	302
+984	Anh ấy đang khóc.	Turn the light off. I can't fall asleep.	He was crying.	False	False	0.88543034	490	490, 352, 920	0	715
+985	Tôi có một vết thương ở ngón chân út.	I have a pain in my little toe.	I have a pain in my little toe.	True	True	0.8929293	938	938, 355, 579	1.0	938
+986	Maria vừa trở về nhà.	Mary has just come home.	Mary has just come home.	True	True	0.8130276	307	307, 594, 293	1.0	307
+987	Tom không thể kiểm soát được cơn giận của cậu ta.	Tom needs to seek help.	Tom couldn't control his anger.	False	False	0.7789886	270	270, 55, 76	0	374
+988	Tom quá trẻ để du lịch một mình.	Tom wants to swim.	Tom is too young to travel alone.	False	True	0.6053724	145	145, 261, 55	0.5	261
+989	Chúng ta tốt hơn hết là rời khỏi đây.	We should help each other.	We'd better get out of here.	False	False	0.7572228	354	354, 329, 531	0	211
+990	Tại sao thỏ lại có đôi tai dài?	Why do rabbits have long ears?	Why do rabbits have long ears?	True	True	0.73712957	489	489, 58, 390	1.0	489
+991	Tom đá cái cửa đang đóng ở phía sau	"""Where does your father in law live?"" ""In the house which stands beside my brother in law's house."""	Tom kicked the door closed behind him.	False	False	1.1119564	403	403, 855, 639	0	101
+992	Cô anh ấy chăm sóc con chó của anh ấy ban ngày.	His aunt takes care of his dog during the day.	His aunt takes care of his dog during the day.	True	True	0.89637864	602	602, 66, 878	1.0	602
+993	Chúng tôi trèo lên ngọn nói dốc đứng.	My toes are freezing.	We climbed up the steep mountain.	False	False	0.91347814	355	355, 882, 843	0	887
+994	Đám đông tràn qua cửa.	We felt the house shake.	The crowd poured out through the gate.	False	True	1.1167276	711	711, 378, 649	0.5	378
+995	Bạn đã trả tiền quyển sách này à?	How much money is left?	Did you pay for the book?	False	True	0.8849323	282	282, 205, 13	0.3333333333333333	13
+996	Ấy mua bộ đồ này ở đâu thế?	How much money is left?	Where do you buy clothes?	False	False	0.8412039	282	282, 564, 205	0	97
+997	David cho rằng anh ta rất quan trọng. Anh ta đã luôn coi thường những người khác trong văn phòng của anh ta.	David thinks he's so important. He always looks down on the other people in his office.	David thinks he's so important. He always looks down on the other people in his office.	True	True	0.74069	737	737, 238, 764	1.0	737
+998	Tivi có thể làm giảm khả năng sáng tạo của chúng ta.	It goes without saying that honesty is the key to success.	Television can dull our creative power.	False	False	0.93936026	859	859, 329, 986	0	913
+999	Chà, Daniel đã tăng cân rất nhiều kể từ lần sau cùng tôi gặp anh ấy.	Wow, Daniel has put on a lot of weight since the last time I saw him.	Wow, Daniel has put on a lot of weight since the last time I saw him.	True	True	0.72170305	743	743, 223, 238	1.0	743

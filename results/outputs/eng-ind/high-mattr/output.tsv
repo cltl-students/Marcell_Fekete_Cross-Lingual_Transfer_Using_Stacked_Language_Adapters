@@ -1,0 +1,1001 @@
+	Sentence	Predicted	Gold	K_1_correct	K_3_correct	K_1_scores	K_1_predicted_indices	K_3_predicted_indices	Reciprocal_ranks	True_indices
+0	Apakah Tom mengatakan sesuatu kepadamu tentang hal itu?	Who is your father?	Did Tom say anything to you about that?	False	False	1.2726824	603	603, 469, 391	0	277
+1	Tolong jangan coba-coba kabur, sebab mata musuh-musuhmu sedang mengawasi.	You are always to knock before entering my room.	Do not try to run away, please, because the eyes of your enemies are watchful.	False	False	1.3811893	472	472, 569, 239	0	100
+2	Tambahkan sedikit gula.	There is a stone in my shoe.	Put in a little more sugar.	False	False	1.3914425	569	569, 652, 817	0	43
+3	Tanpa mengatakan sepatah kata maupun menangis, ia terdiam dan pergi ke luar.	I am become death, the destroyer of worlds.	He neither spoke nor wept, but went out in silence.	False	False	1.3664807	70	70, 104, 548	0	576
+4	Sikapnya padaku berbeda dari biasanya.	Is he still mad?	Her behaviour toward me was a departure from the norm.	False	False	1.3369558	548	548, 189, 595	0	965
+5	Apakah kamu tinggal di sini?	Who are you?	Do you live here?	False	False	1.3017035	506	506, 603, 866	0	494
+6	Bagaimana kamu bisa terluka?	Have you ever donated blood?	How did you get injured?	False	False	1.3451965	249	249, 506, 676	0	159
+7	Tom tidak seperti dirinya hari ini.	Is he still mad?	Tom isn't quite himself today.	False	False	1.4103556	548	548, 971, 880	0	799
+8	Dia punya kesempatan yang bagus untuk sukses.	Good luck with the new job.	He has a good chance to succeed.	False	True	1.3683497	900	900, 13, 743	0.3333333333333333	743
+9	Baiklah. Berapa banyak?	All right. How many?	All right. How many?	True	True	1.3772758	920	920, 603, 817	1.0	920
+10	Kamu siapa?	Who are you?	Who are you?	True	True	1.2989848	506	506, 644, 603	1.0	506
+11	Aku suka pergi memancing dengan ayahku.	My dad will kill me.	I like to go fishing with my father.	False	False	1.3667256	652	652, 189, 472	0	678
+12	Dia tidak menemukan hal yang mencurigakan.	Is he still mad?	She didn't notice anything suspicious.	False	False	1.3338412	548	548, 28, 94	0	388
+13	Aku mau kopi, roti panggang, dan jeli.	I want coffee, toast, and jelly.	I want coffee, toast, and jelly.	True	True	1.4017287	501	501, 109, 972	1.0	501
+14	Saya sedang sibuk dan tidak bisa pergi.	You are always to knock before entering my room.	I am busy now and can't go out.	False	False	1.3651075	472	472, 94, 506	0	461
+15	Dia mengantarku pulang.	There is a stone in my shoe.	She gave me a ride home.	False	False	1.4865513	569	569, 450, 104	0	505
+16	Ia memperoleh keuntungan yang besar.	Enough is enough!	They gained great wealth.	False	True	1.3080041	817	817, 431, 828	0.5	431
+17	Telepon aku kalau sudah siap.	There is a stone in my shoe.	Call me when you're ready.	False	False	1.3888698	569	569, 603, 646	0	898
+18	Aku memberi Tom perintah langsung, tapi dia tidak mengacuhkannya.	Did you get this from Tom?	I gave Tom a direct order, but he ignored it.	False	False	1.3064847	309	309, 526, 855	0	392
+19	Dia tidak memiliki keturunan untuk menggantikannya.	He has no children to succeed to him.	He has no children to succeed to him.	True	True	1.2863079	46	46, 150, 236	1.0	46
+20	Saya alergi akan serbuk bunga.	You are always to knock before entering my room.	I am allergic to pollen.	False	False	1.452209	472	472, 943, 414	0	259
+21	Itu ada di bawah kursi.	Is he still mad?	It is under the chair.	False	True	1.4464556	548	548, 787, 891	0.3333333333333333	891
+22	Apa pekerjaan Anda?	Who are you?	What is her profession?	False	False	1.283503	506	506, 551, 469	0	926
+23	Nama saya Ichiro Tanaka.	My name is Ichiro Tanaka.	My name is Ichiro Tanaka.	True	True	1.3402342	979	979, 922, 229	1.0	979
+24	Kita wajib melalui pemeriksaan bea dan cukai saat kedatangan.	Good luck with the new job.	It's necessary to go through customs on arriving.	False	False	1.4612482	900	900, 97, 438	0	929
+25	Aula ini dapat menampung 2000 orang.	The zoo is crowded with visitors.	This hall holds two thousand people.	False	True	1.3500646	771	771, 539, 709	0.5	539
+26	Kau salah jika berpikir bahwa dia berbuat salah.	Is he still mad?	You are mistaken if you think he is wrong.	False	False	1.3596078	548	548, 603, 506	0	537
+27	Aku harus menonton sebuah film dokumenter.	I should watch a documentary.	I should watch a documentary.	True	True	1.4569979	755	755, 652, 865	1.0	755
+28	Tom dan Mary berdiri berdekatan satu sama lain.	Tom and Mary were standing close to each other.	Tom and Mary were standing close to each other.	True	True	1.2665138	763	763, 768, 83	1.0	763
+29	Si gadis mendengarkan musik, si pemuda membaca buku.	There is a stone in my shoe.	The girl listened to music, the boy was reading a book.	False	True	1.4321978	569	569, 360, 630	0.3333333333333333	630
+30	Aku akan pergi mandi.	My dad will kill me.	I'm going to have a shower.	False	False	1.4387996	652	652, 557, 105	0	684
+31	Aku tidak sanggup kalau harus berbelanja di toko semahal itu.	There is a stone in my shoe.	I can't afford to shop at such an expensive store.	False	False	1.3782512	569	569, 141, 972	0	402
+32	Dimana kursi saya?	Who are you?	Where is my seat?	False	False	1.398771	506	506, 603, 548	0	239
+33	Sudahlah, Tom, kita tidak punya waktu untuk hal ini.	I hope he can help you.	Look, Tom, we don't have time for this.	False	False	1.3400869	646	646, 652, 603	0	292
+34	Tom lebih pandai bermain catur daripada saya.	I can no more swim than a stone can.	Tom plays chess better than me.	False	True	1.4752078	28	28, 586, 472	0.5	586
+35	Itu pesananku.	Do whatever it takes.	Those are my orders.	False	False	1.4598716	270	270, 96, 189	0	148
+36	Aku tidak percaya padamu.	Do you hate me?	I don't believe you.	False	False	1.2995353	612	612, 189, 414	0	854
+37	Permohonan kenaikan gaji kalian kembali ditolak.	Good luck with the new job.	I'm afraid that your request for a pay raise was turned down again.	False	False	1.4151025	900	900, 189, 723	0	540
+38	Kuharap aku tidak mengganggumu.	Do you hate me?	I hope I haven't interrupted you.	False	False	1.3961465	612	612, 646, 987	0	782
+39	Bahkan Tom sedikit terkejut.	Tom grudgingly did what Mary asked.	Even Tom is a little surprised.	False	False	1.3584874	553	553, 992, 904	0	263
+40	Pria tua itu tertabrak sebuah mobil dan segera dilarikan ke rumah sakit.	The thief ran away when she saw the policeman.	The old man was hit by a car and was immediately taken to the hospital.	False	False	1.4356645	383	383, 569, 315	0	199
+41	Jika pihak yang lain tidak menawarkan informasi pribadi, lebih baik dibiarkan saja.	If the other party does not offer personal information, however, it is better to leave it alone.	If the other party does not offer personal information, however, it is better to leave it alone.	True	True	1.3871652	436	436, 97, 455	1.0	436
+42	Kamu paham kan kenapa kamu sedang dihukum?	Who are you?	You understand why you're being punished, don't you?	False	False	1.4271927	506	506, 548, 603	0	772
+43	Bagaimana pendapatnya terhadap berita ini?	Is my answer correct?	What was her reaction to the news?	False	False	1.2892747	855	855, 603, 469	0	31
+44	Aku kehabisan akal.	I hope he can help you.	I was at my wit's end.	False	False	1.4554641	646	646, 442, 414	0	853
+45	Dia berkata bahwa dia sangat ingin pergi ke sana.	My favorite Pizza is Hawaiian.	She said that she was eager to go there.	False	False	1.3920499	109	109, 152, 153	0	581
+46	Maaf membuatmu menunggu.	Take your hand out of your pocket.	I'm sorry to have kept you waiting.	False	False	1.3819022	841	841, 652, 904	0	177
+47	Aku menangis semalam suntuk.	There is a stone in my shoe.	I cried all night long.	False	False	1.460726	569	569, 189, 70	0	359
+48	Anda ingin segelas kopi lagi?	What colour is orange?	Would you like another cup of coffee?	False	False	1.4477844	133	133, 268, 603	0	118
+49	Kemarin bulan purnama.	I am become death, the destroyer of worlds.	It was a full moon yesterday.	False	False	1.4885926	70	70, 756, 442	0	967
+50	Kamu harus memperhatikan kendaraan ketika akan menyeberang jalan.	Look out for cars when you cross the road.	Look out for cars when you cross the road.	True	True	1.4249532	647	647, 472, 569	1.0	647
+51	Ia pergi berburu rusa.	There is a stone in my shoe.	He went deer hunting.	False	False	1.4013594	569	569, 360, 505	0	480
+52	"Di Belanda, sudah menjadi kebiasaan saat membangun rumah jika sudah mencapai bagian tertinggi dan atap sudah siap dipasang, pemilik rumah menjamu para tukang bangunan dengan istilah ""bir atap"" untuk memberi selamat. Sebuah bendera kemudian dipasang di bubungan. Jika pemilik rumah agak pelit, yang dipasang bukan bendera, tetapi sapu."	That slope is very steep, better go through the left side.	"In the Netherlands, it is the custom that, when during the construction of a house the highest point has been reached and the roof is ready for tiling, the client treats the construction workers to so-called ""tile beer"" to celebrate this. A flag is then placed on the ridge of the house. If the client is too stingy to treat, not a flag, but a broom is placed."	False	True	1.3985226	455	455, 895, 603	0.5	895
+53	Tempelkan sebuah perangko pada amplopnya.	There is a stone in my shoe.	Stick a stamp on the envelope.	False	False	1.4261853	569	569, 307, 603	0	543
+54	Kami telah memutuskan untuk menunda rapat hingga hari Minggu berikutnya.	We've decided to move the meeting to next Sunday.	We've decided to move the meeting to next Sunday.	True	True	1.33907	717	717, 831, 40	1.0	717
+55	Taksi itu menunggu di luar.	There is a stone in my shoe.	The taxi is waiting outside.	False	False	1.3644441	569	569, 472, 239	0	983
+56	Saya akan pergi selama beberapa waktu.	I'll be back in three hours.	I could be away for some time.	False	False	1.3918903	365	365, 239, 557	0	334
+57	Di dalam hidup, kita semua berjuang untuk mencapai kesuksesan, namun sedikit sekali orang yang berhasil.	I am become death, the destroyer of worlds.	We all try hard to make the grade in life, but only a few succeed.	False	True	1.3217399	70	70, 91, 410	0.3333333333333333	410
+58	Bisakah saya membayar dengan menggunakan kartu kredit?	Can I pay by credit card?	Can I pay by credit card?	True	True	1.3164158	676	676, 238, 57	1.0	676
+59	Dia menjalani tes pemeriksaan HIV.	My mother made a complete recovery from neuralgia.	She got tested for HIV.	False	False	1.4616271	438	438, 104, 865	0	102
+60	Mengapa kamu gagal di ujian masuk?	Who is your father?	Why did you fail on the entrance examination?	False	True	1.3607358	603	603, 561, 506	0.5	561
+61	Mungkin lebih baik aku buang saja ini ke tempat sampah.	Are you in a bad mood?	I should probably just toss this in the trash.	False	False	1.4650521	76	76, 455, 570	0	719
+62	Dapatkah saya berbicara denganmu sebentar, Tom?	Who is your father?	Could I speak to you for a moment, Tom?	False	False	1.3024312	603	603, 506, 598	0	316
+63	Tolong pergi ke rumah saudaramu Amnon.	Go, please, to the house of your brother Amnon.	Go, please, to the house of your brother Amnon.	True	True	1.3733397	493	493, 333, 603	1.0	493
+64	Sudah pernah hujan di hutan.	Will it rain this afternoon?	It has been raining in the forest.	False	False	1.4453287	432	432, 90, 523	0	87
+65	Dalam waktu dekat ini kita akan mampu mengobati AIDS	In the near future, we will be able to put an end to AIDS.	In the near future, we will be able to put an end to AIDS.	True	True	1.4156383	424	424, 646, 987	1.0	424
+66	Ini tidak seperti kamu menangis di bioskop.	Are you in a bad mood?	It's not like you to cry at movies.	False	False	1.3438202	76	76, 472, 652	0	959
+67	Kami masih mencari.	Your English is improving.	We're still searching.	False	False	1.4689678	880	880, 943, 360	0	791
+68	Saya membaca buku dari awal sampai akhir.	The first necessary thing in choosing books to read is to select those which really interest you.	I read the book from cover to cover.	False	False	1.4246418	367	367, 109, 239	0	376
+69	Bolehkah saya membuka jendela?	Who is your father?	Can I open the window?	False	False	1.358951	603	603, 506, 725	0	554
+70	Apartemen-apartemen ini didesain khusus untuk keluarga muda.	These apartments are designed specifically for young families.	These apartments are designed specifically for young families.	True	True	1.3024888	822	822, 779, 548	1.0	822
+71	Mematuhi aturan adalah kewajiban kita semua.	It is our duty to obey the law.	It is our duty to obey the law.	True	True	1.2946808	585	585, 70, 27	1.0	585
+72	Mengapa kita tidak naik taksi?	Who is your father?	Why don't we take a taxi?	False	False	1.3738488	603	603, 506, 725	0	377
+73	Apa kau meninggalkan tip?	Who wants hot chocolate?	Did you leave a tip?	False	True	1.3870311	616	616, 744, 469	0.5	744
+74	Aku telah menjadi mati, penghancur dunia.	I am become death, the destroyer of worlds.	I am become death, the destroyer of worlds.	True	True	1.3292134	70	70, 104, 414	1.0	70
+75	Senyum.	We sent for a doctor.	Smile for the camera.	False	False	1.4971623	865	865, 992, 652	0	740
+76	Sulit sekali mencari pekerjaan.	Good luck with the new job.	Finding work is difficult.	False	False	1.4145408	900	900, 360, 175	0	86
+77	Karena kedai minum yang biasa kukunjungi berada di bawah jalur kereta api, aku selalu mendengar suara kereta api lewat ketika sedang minum.	You are always to knock before entering my room.	My favorite bar is located below the railway, so I always hear the clanging noise of the trains passing by when I'm drinking.	False	False	1.3867095	472	472, 983, 141	0	596
+78	Tom mungkin saja sudah pergi.	My dad will kill me.	Tom may have already left.	False	False	1.41619	652	652, 369, 507	0	165
+79	Tom menyadari Mary tidak sedang bercanda.	Tom now knows Mary wasn't kidding.	Tom realized Mary wasn't kidding.	False	True	1.3753917	126	126, 123, 83	0.5	123
+80	Merkurius adalah planet terkecil dalam tata surya kita.	Mercury is the smallest planet in our solar system.	Mercury is the smallest planet in our solar system.	True	True	1.2635498	486	486, 585, 70	1.0	486
+81	Aku suka pakaian-pakaian yang mencolok.	There is a stone in my shoe.	I like showy clothes.	False	False	1.3695159	569	569, 76, 992	0	620
+82	Tom masih tidak mengangkat teleponnya.	Tom is still not answering his phone.	Tom is still not answering his phone.	True	True	1.33947	672	672, 640, 618	1.0	672
+83	Ini tidak dihitung.	This is true!	It just doesn't count.	False	False	1.352213	232	232, 708, 548	0	933
+84	Aku ketinggalan keretaku.	I love lasagna.	I missed my train.	False	False	1.4567367	189	189, 646, 414	0	925
+85	Cepat!	This is true!	Step on it!	False	False	1.3878689	232	232, 474, 953	0	704
+86	Apakah Anda pernah ke Amerika?	Who are you?	Have you ever been to America?	False	False	1.310066	506	506, 603, 40	0	220
+87	Dah!	This is true!	I'll see you later.	False	False	1.3006703	232	232, 817, 474	0	695
+88	Saya sama sekali tidak bisa berbahasa Prancis.	I can no more swim than a stone can.	I can't speak French at all.	False	False	1.3086284	28	28, 987, 347	0	911
+89	Pulanglah ke istrimu, Tom.	Mary, please hug me.	Go home to your wife, Tom.	False	True	1.4094485	96	96, 333, 189	0.5	333
+90	Tunggu sebentar, Tom.	Tom and Mary are here, too.	Hang on just a second, Tom.	False	True	1.5131805	768	768, 333, 324	0.3333333333333333	324
+91	Aku telanjang!	Is he still mad?	I am naked!	False	False	1.3946774	548	548, 232, 414	0	94
+92	Sayang sekali, dia sakit.	Who is your father?	It's too bad she's ill.	False	False	1.4102154	603	603, 548, 652	0	483
+93	Kopi ini tidak cukup panas.	This coffee is not hot enough.	This coffee is not hot enough.	True	True	1.3173475	233	233, 268, 992	1.0	233
+94	Tidak ada yang boleh keluar tanpa permisi.	No one is to leave without permission.	No one is to leave without permission.	True	True	1.3256665	618	618, 28, 548	1.0	618
+95	Aku pikir kita punya beberapa urusan yang belum diselesaikan.	I love lasagna.	I think we have some unfinished business.	False	False	1.3413835	189	189, 756, 414	0	848
+96	Saya harus pergi ke toilet.	You are always to knock before entering my room.	I need to go to the toilet.	False	True	1.2868326	472	472, 574, 569	0.5	574
+97	Apa kau tidak jenuh terus-terusan makan di sini?	Why are people always so cynical?	Aren't you sick of eating here?	False	False	1.4630332	971	971, 548, 506	0	291
+98	Aku pikir aku adalah seorang putri di kehidupanku yang sebelumnya.	I love lasagna.	I think that I was a princess in a past life.	False	True	1.3856362	189	189, 788, 414	0.5	788
+99	Tikus itu diperangkap ke dalam jebakan dengan potongan keju besar.	The ink is still wet.	The mouse was lured into the trap by a big piece of cheese.	False	True	1.4187068	787	787, 980, 886	0.5	980
+100	Jangan manja gitu. Sepatu merah yang kamu mau itu sudah terjual, yang ada cuma yang biru.	There is a stone in my shoe.	Stop being so selfish. The red shoes you wanted are sold out, and only the blue ones are left.	False	False	1.3784404	569	569, 841, 472	0	510
+101	Apakah aku memberitahumu kalau aku memiliki ini?	Who are you?	Did I tell you I had this?	False	False	1.242686	506	506, 644, 603	0	769
+102	Apakah ada pepatah yang mirip dalam bahasa Jepang?	Do you have a similar saying in Japanese?	Do you have a similar saying in Japanese?	True	True	1.3606045	174	174, 76, 506	1.0	174
+103	Anda ingin pergi ke mana?	Who are you?	Where would you like to go?	False	False	1.3368075	506	506, 494, 603	0	869
+104	Mohon pemberitahuan pabean anda.	Mary, please hug me.	Your customs declaration, please.	False	False	1.5335654	96	96, 569, 189	0	940
+105	Klabaster dan Gizmo adalah kucing.	Klabaster and Gizmo are cats.	Klabaster and Gizmo are cats.	True	True	1.2262795	396	396, 616, 971	1.0	396
+106	Pertanyaannya adalah apa yang akan kita lakukan sekarang.	I came near to being drowned.	The question is what do we do now.	False	False	1.4033166	104	104, 189, 603	0	710
+107	Australia lebih kecil daripada Amerika Selatan.	Australia is smaller than South America.	Australia is smaller than South America.	True	True	1.2972025	615	615, 586, 28	1.0	615
+108	Kami sudah muak dengan keluhanmu.	You are deceiving yourself.	We're fed up with your complaining.	False	False	1.3911152	756	756, 189, 70	0	635
+109	Aku dapat surat dari temanku di London.	I got a letter from a friend of mine in London.	I got a letter from a friend of mine in London.	True	True	1.321502	161	161, 908, 76	1.0	161
+110	Kuharap kita akan segera bertemu lagi.	I hope he can help you.	I hope we'll see each other again soon.	False	False	1.46789	646	646, 189, 570	0	305
+111	"""Selamat pagi,"" kata Tom sambil tersenyum."	The old man is angry and bitter.	"""Good morning"", said Tom with a smile."	False	False	1.3841069	723	723, 548, 187	0	178
+112	Makan pagi telah dipesan.	I am eating an apple.	Breakfast is served.	False	False	1.4723269	141	141, 569, 153	0	973
+113	Kemarin, saya pergi ke pasar membeli jeruk peras.	Yesterday, I went to the market to buy some sweet oranges.	Yesterday, I went to the market to buy some sweet oranges.	True	True	1.3449516	447	447, 569, 472	1.0	447
+114	Kami telah melakukan yang terbaik yang kami bisa.	Only those who dare to fail greatly, can ever achieve greatly.	We've done the best we can.	False	False	1.4076403	91	91, 40, 880	0	732
+115	Apakah kamu paham dengan apa yang kamu katakan?	Who are you?	Do you understand what you're saying?	False	False	1.3529687	506	506, 938, 603	0	976
+116	Jeruk peras rasanya tidak terlalu masam.	I love lasagna.	Sweet oranges are not very sour.	False	False	1.375823	189	189, 28, 76	0	448
+117	Hujankah?	What colour is this fish?	Is it raining?	False	False	1.3911651	469	469, 506, 603	0	255
+118	Saya tidak makan daging.	Who wants hot chocolate?	I don't eat meat.	False	True	1.3347428	616	616, 445, 205	0.5	445
+119	Mana yang lebih kamu suka, wine putih atau merah?	Which do you like better, white wine or red wine?	Which do you like better, white wine or red wine?	True	True	1.3679562	253	253, 506, 133	1.0	253
+120	Kenapa kamu tidak membantunya?	Who are you?	Why aren't you helping him?	False	True	1.293301	506	506, 603, 820	0.3333333333333333	820
+121	Siapa mau cokelat panas?	Who wants hot chocolate?	Who wants hot chocolate?	True	True	1.160873	616	616, 603, 133	1.0	616
+122	Apa yang kamu rasakan tentang ini, Tom?	Who is your father?	How do you feel about this, Tom?	False	False	1.2730205	603	603, 506, 317	0	328
+123	Dedaunan pohonnya menjadi merah.	What colour is orange?	The tree leaves turned red.	False	False	1.4395964	133	133, 548, 787	0	818
+124	Anda ingin bertanya sesuatu pada saya?	Why are people always so cynical?	Do you want to ask me some questions?	False	False	1.3848312	971	971, 603, 506	0	490
+125	Kami memilih John untuk menjadi kapten kami.	We chose John to be our captain.	We chose John to be our captain.	True	True	1.3467113	863	863, 84, 652	1.0	863
+126	Apa saya masih mampu melakukannya?	Who is your father?	Will I still be able to do it?	False	False	1.327269	603	603, 506, 469	0	599
+127	Kenapa kamu membutuhkan uang kembalian?	Can I pay by credit card?	Why do you need change?	False	False	1.4208782	676	676, 506, 603	0	919
+128	Selamat pagi, semuanya.	Good morning, everybody.	Good morning, everybody.	True	True	1.3446944	176	176, 953, 880	1.0	176
+129	Apa kau pernah mendonorkan darah?	Who is your father?	Have you ever donated blood?	False	False	1.3440546	603	603, 506, 612	0	249
+130	Kamu mengenal seseorang di sini?	Who are you?	Do you know anyone here?	False	False	1.4517025	506	506, 603, 76	0	492
+131	Daerah itu memiliki sumber daya mineral yang relatif berlimpah.	That area is relatively rich in natural resources.	That area is relatively rich in natural resources.	True	True	1.3513418	849	849, 787, 448	1.0	849
+132	Terima kasih telah membantu Tom.	Thanks for helping Tom.	Thanks for helping Tom.	True	True	1.4642749	666	666, 646, 625	1.0	666
+133	Apakah kamu mendapatkan ini dari Tom?	Who are you?	Did you get this from Tom?	False	False	1.2574785	506	506, 603, 551	0	309
+134	Aku lebih memilih tinggal di rumah.	I would rather stay at home.	I would rather stay at home.	True	True	1.473043	544	544, 76, 472	1.0	544
+135	Tom bilang ia berencana untuk mengunjungi mantan kekasihnya di Boston.	Tom will be driving through Boston on his way to visit Mary.	Tom said he was planning on visiting an old girlfriend in Boston.	False	True	1.3859878	917	917, 197, 935	0.5	197
+136	Apa ini akan memakan waktu beberapa lama?	How long will it take?	Is this going to take a while?	False	False	1.2994348	984	984, 156, 121	0	692
+137	Dia meminta kami untuk mematuhi peraturan.	My dad will kill me.	He urged us to obey the rule.	False	False	1.3641583	652	652, 84, 585	0	59
+138	Bahkan Tom terkejut mendengarkan itu.	Tom grudgingly did what Mary asked.	Even Tom was surprised to hear that.	False	False	1.3720628	553	553, 526, 780	0	282
+139	Kulkas kecilnya kotor.	There is a stone in my shoe.	The little fridge is dirty.	False	False	1.4582151	569	569, 828, 141	0	134
+140	Aku memberitahu istriku untuk cepat bersiap-siap.	My heart aches for the starving children in Africa.	I told my wife to get ready in a hurry.	False	False	1.3750262	13	13, 570, 646	0	151
+141	Saya tidak dapat pergi.	I can no more swim than a stone can.	I can't go.	False	False	1.3673321	28	28, 943, 987	0	770
+142	Tom melakukan apa yang Mary minta dengan berat hati.	Tom has confidence in Mary.	Tom grudgingly did what Mary asked.	False	True	1.342743	690	690, 553, 360	0.5	553
+143	Aku ingin menunjukkan foto Tom ini kepadamu.	Who told you I was sick?	I'd like to show this picture of Tom to you.	False	False	1.4330401	152	152, 644, 189	0	691
+144	Cara yang modern telah memajukan industri.	A friend of mine is studying abroad.	Modern methods have pushed industry forward.	False	True	1.3588613	360	360, 900, 705	0.3333333333333333	705
+145	Bayi itu tertidur.	There is a stone in my shoe.	The baby fell asleep.	False	False	1.4183347	569	569, 70, 141	0	464
+146	Sudah berapa lama Anda tinggal di pulau tersebut?	Who is your father?	How long did you live on the island?	False	False	1.3556685	603	603, 40, 548	0	98
+147	Kami tahu Tom akan melakukan apa saja yang kami perintahkan.	My dad will kill me.	We know Tom will do whatever we tell him to do.	False	False	1.3405027	652	652, 189, 625	0	372
+148	Mereka mengenal kita.	I saw them leave together.	They know us.	False	False	1.3372321	84	84, 756, 557	0	463
+149	Semoga sukses dengan pekerjaan barumu.	Good luck with the new job.	Good luck with the new job.	True	True	1.3391342	900	900, 360, 880	1.0	900
+150	Petugas pemadam kebakaran menerobos masuk ke dalam rumah yang sedang terbakar.	The fireman rushed into the burning house.	The fireman rushed into the burning house.	True	True	1.3430327	71	71, 626, 383	1.0	71
+151	Petugas Bea dan Cukai memeriksa kotak-kotak.	Who wants hot chocolate?	The customs officials examined the boxes.	False	False	1.4017601	616	616, 395, 108	0	807
+152	Aku mau pergi ke tengah kota.	I want to go with you.	I'm going to the center of town.	False	False	1.4214774	498	498, 472, 494	0	825
+153	Aku penasaran apa yang sedang dilakukan Tom sekarang.	Who is your father?	I wonder what Tom is doing now.	False	False	1.3974261	603	603, 40, 506	0	495
+154	Jangan merokok di ruangan ini.	There is a stone in my shoe.	Don't smoke in this room.	False	False	1.3752992	569	569, 603, 76	0	993
+155	Kakakku adalah insinyur.	My name is Hashimoto.	My brother is an engineer.	False	False	1.3847574	922	922, 979, 189	0	487
+156	Tom tidak berkata sepatah kata pun sepanjang sore.	Stop gawking at him.	Tom hasn't said a word all evening.	False	False	1.4248871	780	780, 817, 548	0	146
+157	Aku bertemu dengan Tom Januari ini.	I met Tom this January.	I met Tom this January.	True	True	1.4399142	130	130, 880, 644	1.0	130
+158	Apakah kamu sudah minum obat?	Who wants hot chocolate?	Have you taken your medicine yet?	False	False	1.3089706	616	616, 406, 506	0	210
+159	Dan di sinilah mereka.	And here they are.	And here they are.	True	True	1.4503169	675	675, 603, 148	1.0	675
+160	Anda harus membuka barang bawaan anda untuk pemeriksaan pabean.	Whichever of the routes you choose, allow about two hours.	You have to unpack your luggage for customs inspection.	False	False	1.4774013	97	97, 569, 972	0	874
+161	Mohon maaf, kami kehabisan stok barang tersebut.	There is a stone in my shoe.	I'm afraid we don't have any left.	False	False	1.4713302	569	569, 999, 585	0	713
+162	Tolong panggilkan taksi.	I love lasagna.	Please call a taxi.	False	False	1.557984	189	189, 636, 865	0	182
+163	Kau ingin pergi ke mana?	Do you live here?	Where do you want to go?	False	False	1.305766	494	494, 506, 603	0	868
+164	Payung ini berapa harganya?	Who is your father?	How much does this umbrella cost?	False	False	1.3430752	603	603, 469, 725	0	122
+165	Maling itu kabur saat melihat polisi.	The thief ran away when she saw the policeman.	The thief ran away when she saw the policeman.	True	True	1.3282572	383	383, 696, 0	1.0	383
+166	Permisi, apakah kamu melihat Tom dimana?	Who is your father?	Excuse me, have you seen Tom?	False	False	1.2889775	603	603, 506, 57	0	326
+167	Dia mempunyai watak yang mirip dengan ayahnya.	She is called Mei. She is cooking in the kitchen.	His character resembles his father's.	False	False	1.4264982	579	579, 652, 531	0	754
+168	Dia mengambil pinjaman uang.	A friend of mine is studying abroad.	He ran into debt.	False	False	1.4598172	360	360, 676, 204	0	400
+169	Saya beradu mulut dengan kakak perempuan saya.	There is a stone in my shoe.	I had a quarrel with my sister.	False	False	1.3870468	569	569, 603, 333	0	867
+170	Apakah mencari tumpangan dilarang di Australia?	Is he still mad?	Is hitchhiking prohibited in Australia?	False	False	1.4004602	548	548, 506, 725	0	191
+171	Aku keceplosan mengatakan hal yang seharusnya tidak aku katakan.	Are you in a bad mood?	A foolish impulse made me say what I should have left unsaid.	False	False	1.4310248	76	76, 788, 28	0	519
+172	Kamu perlu melihat gambar besar itu di sini.	I saw them leave together.	You need to look at the big picture here.	False	False	1.4743192	84	84, 472, 569	0	716
+173	Tom dan Mary bermain tenis seharian.	Tom and Mary played tennis all day long.	Tom and Mary played tennis all day long.	True	True	1.3842261	170	170, 58, 768	1.0	170
+174	Aku sadar kalau apa yang telah aku pilih ternyata tidak membuatku tertarik.	I am naked!	I realized that what I had chosen didn't really interest me.	False	False	1.3680193	94	94, 612, 644	0	330
+175	Terima kasih atas koreksinya.	I am become death, the destroyer of worlds.	Thank you for the corrections.	False	False	1.3719743	70	70, 585, 903	0	451
+176	"""Apakah kau melihat ponselku?"" ""Ada di meja."""	Is he still mad?	"""Have you seen my cell phone?"" ""It's on the table."""	False	False	1.3636377	548	548, 469, 506	0	208
+177	Tahun 1990-an dimulai dengan peristiwa Teluk	The 1990s began with the Gulf incident.	The 1990s began with the Gulf incident.	True	True	1.3825889	422	422, 112, 666	1.0	422
+178	Jim suka dengan dokternya.	My dad will kill me.	Jim likes the doctor.	False	False	1.3811629	652	652, 900, 126	0	384
+179	"""Aku ingin buku itu"", katanya pada dirinya sendiri."	"""I want that book"", he said to himself."	"""I want that book"", he said to himself."	True	True	1.3374126	423	423, 548, 109	1.0	423
+180	Kembalikan dompetku.	Welcome to Tatoeba.	Give me back my wallet.	False	False	1.462773	112	112, 569, 70	0	923
+181	Dia mencintai anak-anaknya.	My heart aches for the starving children in Africa.	She loves her children.	False	False	1.367702	13	13, 569, 652	0	236
+182	Mukanya masam saat dia tahu bahwa nilainya turun.	Is he still mad?	He has a disappointed look on his face because he knows that his grade went down.	False	False	1.4197459	548	548, 817, 603	0	454
+183	Tom mulai bernyanyi.	Tom started to sing.	Tom started to sing.	True	True	1.3444152	964	964, 507, 937	1.0	964
+184	Dia menjadi bersemangat setelah melihat pemandangan indah itu.	The thief ran away when she saw the policeman.	He was excited to see the beautiful scenery.	False	False	1.3873243	383	383, 94, 756	0	45
+185	Apakah jawaban saya tepat?	Who is your father?	Is my answer correct?	False	True	1.3671476	603	603, 855, 506	0.5	855
+186	Dapat didistribusikan sesuai dengan GPL.	May be distributed in accordance with the GPL.	May be distributed in accordance with the GPL.	True	True	1.2943866	172	172, 934, 723	1.0	172
+187	Saya melihat mereka berangkat bersama.	And here they are.	I saw them leave together.	False	True	1.3430839	675	675, 614, 84	0.3333333333333333	84
+188	Kamu menuju ke mana?	Who are you?	Where are you headed?	False	False	1.3164418	506	506, 603, 40	0	866
+189	Tom berharap dia memiliki waktu yang lebih panjang.	Tom wished he had more time.	Tom wished he had more time.	True	True	1.3759495	299	299, 570, 902	1.0	299
+190	Perkembangan pesat negara itu berkaitan erat dengan karakter penduduknya.	A friend of mine is studying abroad.	The rapid growth of the country has a lot to do with the characteristics of the people.	False	False	1.4214263	360	360, 229, 40	0	994
+191	Apa ada telepon dari Tom?	Did Tom call?	Did Tom call?	True	True	1.2359638	526	526, 309, 469	1.0	526
+192	Bagaimana kelihatannya?	What colour is this fish?	How does it look?	False	False	1.3760816	469	469, 603, 855	0	654
+193	Kamu membuat kesalahan dengan sengaja, kan?	I love lasagna.	You made the mistake on purpose, didn't you?	False	False	1.3837247	189	189, 603, 585	0	225
+194	Kita semua tahu kalau kau tidak mengonsumsi daging.	Why are people always so cynical?	We all know you don't eat meat.	False	False	1.340801	971	971, 141, 530	0	843
+195	Sulit meninggalkan kebiasaan buruk.	Good luck with the new job.	It's very hard to get rid of bad habits.	False	False	1.3826296	900	900, 27, 91	0	462
+196	Dia lebih baik daripada saya.	My dad will kill me.	He's better than I.	False	False	1.3626195	652	652, 880, 646	0	393
+197	Kami telah melakukan yang kami bisa.	You are deceiving yourself.	We've done what we could.	False	False	1.4072058	756	756, 40, 91	0	735
+198	Pedih rasanya melihat anak-anak yang menderita karena kelaparan di Afrika.	My heart aches for the starving children in Africa.	My heart aches for the starving children in Africa.	True	True	1.4063263	13	13, 94, 383	1.0	13
+199	Apakah kamu sedang mendengarkan bahasa Inggris?	Are you listening to English?	Are you listening to English?	True	True	1.3041908	802	802, 506, 551	1.0	802
+200	Kita tidak dapat lepas dari masa lalu.	You are no longer a mere child.	We can never get rid of the past.	False	False	1.3504472	943	943, 28, 987	0	989
+201	Biarkan saya mengucapkan selamat tinggal kepada Tom.	I hope he can help you.	Let me say goodbye to Tom.	False	False	1.3345324	646	646, 13, 414	0	331
+202	Opera apakah yang sedang dipertunjukkan di Lincoln Center saat ini?	What operas are being performed at the Lincoln Center right now?	What operas are being performed at the Lincoln Center right now?	True	True	1.2699368	115	115, 725, 40	1.0	115
+203	Itulah kenapa aku harus melakukan ini.	Do whatever it takes.	That's why I have to do this.	False	False	1.4022893	270	270, 675, 585	0	158
+204	Aku pikir Tom harus tetap tinggal.	I love lasagna.	I think Tom should stay.	False	True	1.3900211	189	189, 987, 160	0.3333333333333333	160
+205	Aku selalu pergi ke sekolah dengan berjalan kaki.	My favorite Pizza is Hawaiian.	I always walk to school.	False	True	1.4263054	109	109, 790, 455	0.5	790
+206	Semua orang merasa tegang karena ceritanya.	Why are people always so cynical?	Everybody was thrilled by his story.	False	False	1.4052689	971	971, 537, 723	0	970
+207	Minuman anggur terbuat dari anggur.	Flour is made into bread.	Wine is made from grapes.	False	True	1.3101523	781	781, 852, 886	0.5	852
+208	Biar saya coba.	I love lasagna.	Let me have a try at it.	False	False	1.4397299	189	189, 569, 96	0	471
+209	Aku tidak akan pernah melakukannya lagi.	He will never believe me again.	I'll never do this again.	False	True	1.3897009	458	458, 897, 987	0.5	897
+210	Dia gugup sebelum ujian masuk.	We sent for a doctor.	She was nervous before the entrance exam.	False	True	1.4084736	865	865, 560, 323	0.5	560
+211	Seseorang mengetuk pintu.	Stop gawking at him.	Someone is knocking on the door.	False	False	1.4347703	780	780, 83, 141	0	626
+212	Ken dan saudara laki-lakinya hampir serupa.	Ken and his little brother are very alike.	Ken and his brother are very much alike.	False	True	1.3451881	669	669, 623, 548	0.5	623
+213	Aku harap aku bisa berenang.	I hope he can help you.	I wish I could swim.	False	False	1.3907224	646	646, 733, 414	0	572
+214	"Di sebelah kiri atas tertulis ""Dijual""."	"In the upper left corner it says ""For sale""."	"In the upper left corner it says ""For sale""."	True	True	1.3284571	824	824, 456, 543	1.0	824
+215	Dia terkenal di kalangan para siswa.	He's popular with the students.	He's popular with the students.	True	True	1.427483	734	734, 652, 742	1.0	734
+216	Tom memakan semua yang ibunya berikan padanya.	Tom eats everything that his mother gives him.	Tom eats everything that his mother gives him.	True	True	1.3348001	55	55, 218, 189	1.0	55
+217	Software aplikasi apakah yang paling kamu sukai?	Who are you?	What's your favorite free software application?	False	True	1.35339	506	506, 969, 616	0.5	969
+218	Penelitian selanjutnya akan memungkinkan kami untuk memperoleh pengetahuan penting lain terkait dengan samudra.	Further investigation will offer many opportunities to obtain more valuable knowledge of the ocean.	Further investigation will offer many opportunities to obtain more valuable knowledge of the ocean.	True	True	1.3478196	23	23, 28, 40	1.0	23
+219	Bill tidak pernah salah/lupa mengirim hadiah ulang tahun pada ibunya.	I love lasagna.	Bill never fails to send a birthday present to his mother.	False	False	1.4261621	189	189, 13, 447	0	924
+220	Hal pertama yang perlu Anda lakukan ketika memilih sebuah buku yaitu memilih buku yang benar-benar membuat Anda tertarik.	The first necessary thing in choosing books to read is to select those which really interest you.	The first necessary thing in choosing books to read is to select those which really interest you.	True	True	1.341198	367	367, 97, 7	1.0	367
+221	Tom pergi melewati sungai yang dangkal dengan berjalan kaki.	That slope is very steep, better go through the left side.	Tom went splashing through the shallows.	False	True	1.3554132	455	455, 9, 61	0.5	9
+222	Di sana sekarang jam berapa?	Who is your father?	What time is it there now?	False	True	1.4442029	603	603, 817, 12	0.3333333333333333	12
+223	Rute manapun yang Anda pilih memerlukan waktu dua jam.	Whichever of the routes you choose, allow about two hours.	Whichever of the routes you choose, allow about two hours.	True	True	1.3058816	97	97, 618, 569	1.0	97
+224	Waktunya telah tiba kita bisa menjelajah ruang angkasa.	I came near to being drowned.	The time has come when we can travel through space.	False	False	1.4094098	104	104, 472, 646	0	441
+225	Dia menghembuskan nafas terakhirnya.	My dad will kill me.	He breathed his last breath.	False	False	1.3691266	652	652, 853, 104	0	800
+226	Semoga cepat sembuh!	Enough is enough!	Get well soon!	False	False	1.3740642	817	817, 232, 94	0	474
+227	Aku harap aku bisa berbahasa Inggris.	I hope he can help you.	I wish I could speak English.	False	True	1.4068582	646	646, 555, 347	0.5	555
+228	Jika ada orang yang dapat memperbaikinya, orang itu adalah Tom.	There is a stone in my shoe.	If anybody can fix it, it's Tom.	False	False	1.3530282	569	569, 603, 652	0	312
+229	Di mana layanan Bea dan Cukai?	Who wants hot chocolate?	Where is the Customs Service?	False	False	1.3865768	616	616, 506, 469	0	804
+230	Mereka ini adalah anak-anakku.	These are my children.	These are my children.	True	True	1.3484129	73	73, 506, 75	1.0	73
+231	Suhunya minus 6 derajat.	I came near to being drowned.	It's six degrees below zero.	False	False	1.5620478	104	104, 900, 189	0	209
+232	Saya menikmati Parade Easternya.	You are always to knock before entering my room.	I enjoyed watching the Easter Parade.	False	False	1.5460708	472	472, 333, 585	0	577
+233	Tom sekarang menyadari Mary tidak sedang bercanda.	Tom now knows Mary wasn't kidding.	Tom now knows Mary wasn't kidding.	True	True	1.3480804	126	126, 123, 83	1.0	126
+234	Sehat?	This is true!	Is everything OK?	False	False	1.3862928	232	232, 469, 526	0	391
+235	Bagaimana jika Tom tidak kembali?	Did Tom call?	What if Tom doesn't come back?	False	True	1.3280671	526	526, 369, 391	0.5	369
+236	Tom mendorong pintunya dan membukanya sedikit.	Is he still mad?	Tom nudged the door open a crack.	False	False	1.3308864	548	548, 526, 941	0	154
+237	Patuh pada hukum itu diperlukan.	It is our duty to obey the law.	It's necessary to comply with a law.	False	False	1.3606989	585	585, 232, 548	0	619
+238	Tom tidak terluka dalam kecelakaan kereta itu.	Tom got in the car.	Tom wasn't injured in the train wreck.	False	False	1.3704484	914	914, 323, 66	0	62
+239	Nama saya Hashimoto.	My name is Hashimoto.	My name is Hashimoto.	True	True	1.3154272	922	922, 979, 189	1.0	922
+240	Dia si Mei. Dia memasak di dapur.	There is a stone in my shoe.	She is called Mei. She is cooking in the kitchen.	False	False	1.4607267	569	569, 141, 505	0	579
+241	Saya bangun pada pukul lima pagi.	There is a stone in my shoe.	I woke up at five this morning.	False	False	1.3939257	569	569, 472, 239	0	244
+242	Aku tidak dapat melupakanku ketika aku mencobanya.	I hope he can help you.	I couldn't forget you if I tried.	False	False	1.3883765	646	646, 652, 987	0	196
+243	Kamu membuat lelucon yang tidak lucu.	I love lasagna.	You made a joke that wasn't funny.	False	False	1.3901551	189	189, 569, 472	0	227
+244	Dia ingin pergi ke mana?	Do you live here?	Where does he want to go?	False	False	1.3099083	494	494, 616, 603	0	870
+245	Saya membeli jam tangan di toko itu.	There is a stone in my shoe.	I bought a watch in that shop.	False	True	1.3693025	569	569, 841, 648	0.3333333333333333	648
+246	Bagaimana kalau Tom mengetahuinya?	Did Tom call?	What if Tom finds out?	False	False	1.2726059	526	526, 288, 603	0	794
+247	Tom perlu menurunkan berat badan tiga atau empat kilo.	Tom needs to lose three or four kilos.	Tom needs to lose three or four kilos.	True	True	1.3027127	135	135, 198, 942	1.0	135
+248	Maaf, saya melupakannya.	I hope he can help you.	Sorry, I forgot.	False	False	1.3786659	646	646, 652, 569	0	703
+249	Aku mulai muak dan lelah dengan hal ini.	I am eating an apple.	I'm getting sick and tired of this.	False	False	1.3578718	141	141, 94, 189	0	930
+250	Sudah berapa lama Tom di sana?	Is he still mad?	How long was Tom there?	False	True	1.4071441	548	548, 286, 12	0.5	286
+251	Aku tidak setuju dengan dia.	Are you alright?	I don't agree with him.	False	False	1.3406675	78	78, 612, 548	0	745
+252	Bahasa Prancisnya jago ya. Belajar di mana?	Is he still mad?	Your French is really good. Where did you study?	False	False	1.4359083	548	548, 920, 603	0	125
+253	Kami mengecam dia atas perilakunya.	I love lasagna.	We criticized her for her behavior.	False	False	1.464758	189	189, 652, 756	0	34
+254	Apa makanan kesukaanmu?	Who is your father?	What's your favorite food?	False	False	1.3899122	603	603, 506, 469	0	205
+255	Aku ingin pergi bersamamu.	I want to go with you.	I want to go with you.	True	True	1.3683294	498	498, 646, 84	1.0	498
+256	Tasmu terbuka lo.	I am become death, the destroyer of worlds.	Your bag's open.	False	False	1.5209657	70	70, 189, 470	0	186
+257	Kami menonton film bagus kemarin.	I saw them leave together.	We saw a good film yesterday.	False	False	1.4990289	84	84, 83, 104	0	101
+258	Kalau mereka tidak keberatan, mereka dipersilahkan makan sisa makanan di kulkas.	If they don't mind, they are welcome to eat the leftovers in the fridge.	If they don't mind, they are welcome to eat the leftovers in the fridge.	True	True	1.3859329	81	81, 548, 664	1.0	81
+259	Aku tidak tertarik untuk melakukan hal ini lagi.	I love lasagna.	I have no interest in doing this anymore.	False	False	1.3880044	189	189, 76, 756	0	345
+260	Bis itu berhenti dan kami masuk	And here they are.	The bus stopped and we got on.	False	False	1.4380009	675	675, 472, 844	0	417
+261	Mereka akan tetap bahagia, terlepas dari apa yang akan mereka dapatkan kembali.	The men will be happy no matter what they get back.	The men will be happy no matter what they get back.	True	True	1.3538573	570	570, 756, 557	1.0	570
+262	Aku tidak bisa berenang, sama seperti batu.	I can no more swim than a stone can.	I can no more swim than a stone can.	True	True	1.299439	28	28, 987, 646	1.0	28
+263	Angin utara yang dingin membuat dedaunan pohon berubah menjadi kecoklatan.	The cold north wind turned the leaves brown.	The cold north wind turned the leaves brown.	True	True	1.4359432	25	25, 787, 673	1.0	25
+264	Dia memenangkan sebuah mobil.	She won a free car.	She won a free car.	True	True	1.4380338	975	975, 935, 469	1.0	975
+265	Bagaimana jalannya kencanmu dengan Tom?	Who is your father?	How did your date go with Tom?	False	False	1.3493603	603	603, 548, 966	0	322
+266	Saya menemukan seekor kecoa mati di dalam ruang rapat.	I have found a dead cockroach in the meeting room.	I have found a dead cockroach in the meeting room.	True	True	1.3336895	977	977, 569, 239	1.0	977
+267	Aku ingin menyewa sebuah mobil.	Are you in a bad mood?	I'd like to rent a car.	False	False	1.3958969	76	76, 13, 406	0	988
+268	Dia menolak permintaanku dengan mengatakan bahwa dia sibuk.	Is he still mad?	He declined my request, saying that he was busy.	False	False	1.3065615	548	548, 687, 152	0	11
+269	Jangan bangunkan dia.	My dad will kill me.	Don't wake her up.	False	False	1.4500144	652	652, 675, 569	0	912
+270	Belajar bahasa Inggris membutuhkan kerja keras.	Learning English is hard work.	Learning English is hard work.	True	True	1.4037437	545	545, 900, 347	1.0	545
+271	Aku suka dengan sifat optimismu.	I like your optimism.	I like your optimism.	True	True	1.3334355	758	758, 189, 756	1.0	758
+272	Kami terkadang bertemu di toko.	You are always to knock before entering my room.	We meet sometimes at the shop.	False	False	1.4010826	472	472, 999, 112	0	737
+273	Ini kantor saya.	This is my office.	This is my office.	True	True	1.3484917	613	613, 230, 880	1.0	613
+274	Tom saat ini berusia tiga tahun.	Tom is three years old now.	Tom is three years old now.	True	True	1.2957728	198	198, 155, 937	1.0	198
+275	Apel-apel itu besar.	I am eating an apple.	The apples are big.	False	False	1.414895	141	141, 603, 859	0	886
+276	Mereka menyelesaikan proyek itu sesuai dengan jadwal.	I would die before I live on in shame.	They finished the project on schedule.	False	False	1.3963848	27	27, 360, 97	0	559
+277	Saya tidak tahu kapan dia akan muncul.	Who is your father?	I'm not sure as to when he will turn up.	False	False	1.4099674	603	603, 530, 526	0	660
+278	Dia duduk di hadapan piano dan mulai memainkannya.	She took her seat at the piano and began to play.	She took her seat at the piano and began to play.	True	True	1.3703825	354	354, 935, 626	1.0	354
+279	Los Angeles adalah kota terbesar kedua di Amerika Serikat.	Los Angeles is the second largest city in the United States.	Los Angeles is the second largest city in the United States.	True	True	1.186383	776	776, 655, 386	1.0	776
+280	Pada musim gugur, dedaunan berubah warna dan berguguran.	In autumn, leaves change color and fall.	In autumn, leaves change color and fall.	True	True	1.3262143	673	673, 787, 723	1.0	673
+281	Jangan biarkan Tom mendengarkanmu mengatakan itu.	Who told you I was sick?	Don't let Tom hear you say that.	False	False	1.3848526	152	152, 161, 153	0	284
+282	Kau benar-benar putus asa.	I am naked!	You really are desperate.	False	False	1.3622389	94	94, 756, 548	0	793
+283	Aku dibilang bodoh sama Tom.	I came near to being drowned.	Tom called me an idiot.	False	False	1.4888248	104	104, 646, 189	0	181
+284	Inilah cinta sejati.	This is true love.	This is true love.	True	True	1.3194358	371	371, 603, 232	1.0	371
+285	Saya belum pernah melihat Anda seperti itu sebelumnya.	I'd never seen you like that before.	I'd never seen you like that before.	True	True	1.3584995	485	485, 590, 971	1.0	485
+286	Tidak terjadi apa-apa pada saya.	Who is your father?	Nothing happens to me.	False	False	1.3184941	603	603, 974, 239	0	473
+287	Panas dan terang dibutuhkan untuk eksistensi kita.	Heat and light are necessary for our existence.	Heat and light are necessary for our existence.	True	True	1.3529707	565	565, 900, 992	1.0	565
+288	Topi itu terlihat bagus dipakai oleh Tom.	That hat looks really good on Tom.	That hat looks really good on Tom.	True	True	1.3833188	320	320, 507, 808	1.0	320
+289	Lelucon tentang ibu tiri itu lucu karena sesuai dengan kenyataan.	I love lasagna.	Mother-in-law jokes are funny because they're true.	False	False	1.4459631	189	189, 13, 900	0	398
+290	Aku dengar bos Tom menolak memberinya kenaikan gaji.	I love lasagna.	I heard that Tom's boss refused to give him a raise.	False	True	1.4094806	189	189, 324, 385	0.3333333333333333	385
+291	Pernahkah Anda mendengarkan seri kesembilan dari Beethoven?	Who is your father?	"Have you ever listened to Beethoven's ""Ninth""?"	False	True	1.4273872	603	603, 509, 40	0.5	509
+292	Kejadian ini terjadi sebelum aku menerima suratmu.	I returned the knife that I borrowed.	This happened prior to receiving your letter.	False	False	1.3809049	629	629, 40, 646	0	511
+293	Tidak ada barang lain di dalam kamar, kecuali hanya sebuah ranjang yang sudah lapuk.	The ink is still wet.	The room was empty except for a shabby bed.	False	True	1.3479	787	787, 738, 134	0.5	738
+294	Dia menggambar dua buah persegi pada papan tulis.	A friend of mine is studying abroad.	He drew two squares on the blackboard.	False	False	1.4285372	360	360, 569, 456	0	366
+295	Kamu tidak seperti dirimu hari ini.	You are our only hope.	You're not yourself today.	False	False	1.410761	414	414, 756, 646	0	193
+296	Dia mengatakan kalau dia sudah mengembalikan bukunya ke perpustakaan.	Is he still mad?	He claimed that he had returned the book to the library.	False	False	1.3967429	548	548, 787, 383	0	835
+297	Saya tidak setuju.	Are you alright?	That's fine by me.	False	False	1.3789295	78	78, 603, 548	0	928
+298	Tom bukanlah penghianat.	My dad will kill me.	Tom isn't the traitor.	False	False	1.4380854	652	652, 70, 491	0	296
+299	Saya tidak pernah berkata itu.	Do you have a similar saying in Japanese?	I never said that.	False	False	1.3779068	174	174, 47, 603	0	37
+300	Malu banget.	Mary, please hug me.	I am deeply ashamed.	False	False	1.4532583	96	96, 900, 569	0	903
+301	Kau harus tetap terjaga.	You are deceiving yourself.	You must stay awake.	False	False	1.4030948	756	756, 414, 189	0	842
+302	Kapan ulang tahunmu?	Who is your father?	When's your birthday?	False	False	1.3724428	603	603, 239, 506	0	185
+303	Tom mengajak Mary pergi menonton film bersamanya.	Tom asked Mary to go to a movie with him.	Tom asked Mary to go to a movie with him.	True	True	1.3961079	144	144, 917, 83	1.0	144
+304	Dia memanggilku pengecut.	I would die before I live on in shame.	He called me a coward.	False	False	1.4703193	27	27, 189, 652	0	859
+305	Apa yang terjadi?	Who is your father?	What has happened?	False	False	1.2392464	603	603, 469, 725	0	64
+306	Kamu bukan lagi seorang anak kecil.	You are no longer a mere child.	You are no longer a mere child.	True	True	1.4300432	943	943, 859, 971	1.0	943
+307	Tolong jangan menggunakan bahasa Prancis.	I need someone who can speak French.	Please don't use French.	False	True	1.3493983	347	347, 188, 880	0.5	188
+308	Tidak semua hal bisa dijelaskan.	I can no more swim than a stone can.	Not everything can be explained.	False	False	1.3928127	28	28, 91, 900	0	444
+309	Keretanya di sini.	You are our only hope.	The train is here.	False	False	1.5366066	414	414, 569, 603	0	653
+310	Semuanya sama.	Is everything all right?	They're all the same.	False	False	1.3090988	404	404, 232, 817	0	659
+311	Saya sedang memburu seekor rusa jantan.	There is a stone in my shoe.	I'm tracking a buck.	False	False	1.4399703	569	569, 360, 943	0	470
+312	Anda mencari sesuatu?	Who wants hot chocolate?	Are you looking for something?	False	False	1.3906196	616	616, 469, 506	0	2
+313	Sejauh yang saya tahu, Tom tidak pernah mencoba membunuh diri.	Is he still mad?	As far as I know, Tom has never tried to commit suicide.	False	False	1.368185	548	548, 603, 836	0	262
+314	Seorang dokter mendatangi kami.	We sent for a doctor.	We sent for a doctor.	True	True	1.3818271	865	865, 383, 646	1.0	865
+315	Peraturan ini akan diberlakukan tahun depan.	The letter will arrive tomorrow.	This regulation will take effect next year.	False	False	1.3538547	796	796, 831, 424	0	4
+316	India adalah negara terbesar ketiga di Asia.	India is the third largest country in Asia.	India is the third largest country in Asia.	True	True	1.2442839	386	386, 655, 776	1.0	386
+317	Kami bisa berangkat kapanpun juga.	Only those who dare to fail greatly, can ever achieve greatly.	We're ready to leave.	False	False	1.4257486	91	91, 570, 28	0	592
+318	Polisi melihat pelaku kriminal itu melarikan diri.	The thief ran away when she saw the policeman.	The police caught sight of the criminal running away.	False	True	1.3116899	383	383, 696, 0	0.5	696
+319	Apa yang ingin kamu lakukan hari ini?	Who are you?	What are you up to today?	False	False	1.2885778	506	506, 603, 551	0	302
+320	Saya tidak menyangka ia bisa berbuat sekejam itu	I can no more swim than a stone can.	I never thought he was capable of doing something so cruel.	False	False	1.469849	28	28, 76, 936	0	420
+321	Bintang yang tak terkian berkerlapan di langit.	I am become death, the destroyer of worlds.	Countless stars were twinkling in the sky.	False	True	1.4313593	70	70, 231, 569	0.5	231
+322	Ini membingungkan.	My dad will kill me.	This is puzzling.	False	False	1.3607697	652	652, 943, 756	0	830
+323	Mungkin itu tidak berarti apa-apa bagimu, tetapi itu sangat berarti bagiku.	The men will be happy no matter what they get back.	That may mean nothing to you, but it means a lot to me.	False	False	1.3773285	570	570, 506, 612	0	364
+324	Saran darinya sangat bermanfaat.	My grandson is the son of my son.	His advice was very helpful.	False	False	1.4088392	491	491, 13, 652	0	285
+325	Tersenyumlah sekarang, menangislah kemudian!	Smile now, cry later!	Smile now, cry later!	True	True	1.3797529	953	953, 70, 189	1.0	953
+326	Meskipun dia telah tiada, aku tetap mencintainya lebih dari apapun juga.	You are our only hope.	Although she is gone, I still love her more than anything.	False	False	1.3679748	414	414, 458, 782	0	847
+327	Saya mengembalikan pisau yang telah saya pinjam.	There is a stone in my shoe.	I returned the knife that I borrowed.	False	True	1.3860111	569	569, 28, 629	0.3333333333333333	629
+328	Dia sedang mencari kunci mobilnya.	She is looking for her car keys.	She is looking for her car keys.	True	True	1.3985586	935	935, 61, 360	1.0	935
+329	Pungutlah kertas yang ada diatas lantai.	There is a stone in my shoe.	Pick up that paper there on the floor.	False	False	1.3577034	569	569, 141, 189	0	307
+330	Saya malu dengan kejadian kemarin.	I am deeply ashamed.	I am ashamed about what happened yesterday.	False	False	1.4054846	903	903, 569, 70	0	449
+331	Setelah melalui pemeriksaan pabean, saya bebas pergi ke mana pun yang saya inginkan.	Who is your father?	After getting through customs, I was free to go wherever I wanted.	False	False	1.436452	603	603, 438, 360	0	881
+332	Dia tidak akan pernah mempercayaiku lagi.	He will never believe me again.	He will never believe me again.	True	True	1.4209703	458	458, 987, 897	1.0	458
+333	Aku sudah tidak tahan lagi dengan cuaca panas ini.	What has brought you to this city?	I just can't stand this hot weather anymore.	False	False	1.4439566	40	40, 900, 189	0	162
+334	Ada apa?	What colour is this fish?	What's going on?	False	False	1.3034449	469	469, 506, 603	0	380
+335	Dia meninggal dunia kemarin siang.	One of my horses died yesterday.	She died yesterday afternoon.	False	False	1.3632503	828	828, 104, 27	0	180
+336	Tidak ada waktu yang bisa disia-siakan.	How long will it take?	I don't have time to waste.	False	False	1.4002357	984	984, 817, 900	0	962
+337	Aku sedang merokok tadi.	There is a stone in my shoe.	I was smoking.	False	False	1.4155238	569	569, 472, 768	0	217
+338	Jet itu telah mendarat di Tokyo.	I am naked!	The jet landed at Tokyo.	False	False	1.431932	94	94, 104, 360	0	248
+339	Jika ada kamus kanji yang murah di Jepang, aku akan membelinya.	If there's a cheap kanji dictionary in Japan, I will buy it.	If there's a cheap kanji dictionary in Japan, I will buy it.	True	True	1.3520191	580	580, 297, 569	1.0	580
+340	Nama Anda mempengaruhi kepribadian Anda.	It is our duty to obey the law.	Your name affects your personality.	False	False	1.3901892	585	585, 992, 13	0	106
+341	Apa yang makan Kan?	Who are you?	What is Ken eating?	False	True	1.2919048	506	506, 616, 966	0.3333333333333333	966
+342	Dia langsung tidur sesampainya di rumah.	Is he still mad?	He went to bed the moment he arrived home.	False	False	1.3670076	548	548, 999, 603	0	727
+343	Kau punya banyak waktu.	You are our only hope.	You had plenty of time.	False	False	1.3659699	414	414, 646, 76	0	657
+344	Kita tidak boleh membuang-buang percuma stok energi kita.	There is a stone in my shoe.	We mustn't waste our energy stocks.	False	False	1.4734855	569	569, 28, 472	0	250
+345	Sejak awal sudah saya benci.	I love lasagna.	I initially hated it.	False	False	1.411382	189	189, 646, 756	0	374
+346	Saya akan mendengarkanmu sepenuh hati.	There is a stone in my shoe.	I am all ears.	False	False	1.3900032	569	569, 189, 76	0	442
+347	Saya tercekat sehingga tidak bisa berkata-kata.	You are no longer a mere child.	I've got a frog in my throat.	False	False	1.3946469	943	943, 28, 94	0	711
+348	Banyak buku telah dipublikasikan, namun hanya sedikit diantara mereka yang menarik untuk dibaca.	Many a book is published, but of them only a very few are worth reading.	Many a book is published, but of them only a very few are worth reading.	True	True	1.3513284	731	731, 367, 787	1.0	731
+349	Jane terlihat bahagia.	Jane looks happy.	Jane looks happy.	True	True	1.4246266	22	22, 507, 690	1.0	22
+350	Baru dibuang.	You are no longer a mere child.	I just threw it away.	False	False	1.4814534	943	943, 675, 733	0	460
+351	ini istriku.	This is my wife.	This is my wife.	True	True	1.4020206	230	230, 603, 229	1.0	230
+352	Kenapa aku perlu melakukan ini?	Who are you?	Why do I need to do this?	False	False	1.3488734	506	506, 469, 603	0	224
+353	Cukup cukup!	Cut it out!	Enough is enough!	False	False	1.4361608	844	844, 187, 232	0	817
+354	Tom menyalahgunakan kepercayaan yang aku berikan.	I hope he can help you.	Tom abused my trust.	False	False	1.3632169	646	646, 70, 784	0	625
+355	Setelah makan malam tidak boleh pergi keluar.	You are always to knock before entering my room.	You must not go out after dinner.	False	True	1.4603595	472	472, 618, 907	0.3333333333333333	907
+356	Pengetahuan itu bukan apa-apa, tetapi imaginasi adalah segalanya.	Knowing is nothing, imagination is everything.	Knowing is nothing, imagination is everything.	True	True	1.3166176	221	221, 965, 570	1.0	221
+357	Perdagangan manusia adalah tindak pidana.	I came near to being drowned.	Human trafficking is a crime.	False	False	1.5396125	104	104, 756, 28	0	409
+358	Aku masih belum menikah saat pertama kali kita bertemu.	I wasn't married when we first met.	I wasn't married when we first met.	True	True	1.3541274	337	337, 472, 84	1.0	337
+359	Tom mengira Mary terlihat sangat senang.	Tom thought Mary seemed really happy.	Tom thought Mary seemed really happy.	True	True	1.3515558	507	507, 690, 123	1.0	507
+360	Saya meminjam uang.	There is a stone in my shoe.	I borrow money.	False	False	1.4153049	569	569, 652, 28	0	733
+361	Ken dan adik laki-lakinya sangat mirip.	Ken and his little brother are very alike.	Ken and his little brother are very alike.	True	True	1.3059964	669	669, 623, 548	1.0	669
+362	Pada ketinggian itu cuaca dapat berubah secara cepat tanpa peringatan.	No one is to leave without permission.	At that altitude the weather can change rapidly without warning.	False	True	1.4277039	618	618, 295, 70	0.5	295
+363	Dia memberikannya sesuatu yang dingin untuk diminum.	He turned over a new leaf in life.	She gave him something cold to drink.	False	False	1.3934369	861	861, 189, 787	0	991
+364	Tom tidak punya mobil.	Cup ramen are bad for your health.	Tom doesn't have a car.	False	False	1.3788246	992	992, 652, 900	0	642
+365	Hanya mereka yang berani segagal-gagalnya dapat meraih setinggi-tingginya.	Only those who dare to fail greatly, can ever achieve greatly.	Only those who dare to fail greatly, can ever achieve greatly.	True	True	1.398364	91	91, 410, 548	1.0	91
+366	Tom masuk ke mobil.	Tom got in the car.	Tom got in the car.	True	True	1.3746369	914	914, 435, 865	1.0	914
+367	Tolong diam sebentar.	One of my horses died yesterday.	Be quiet for a moment.	False	False	1.4945362	828	828, 104, 569	0	184
+368	Sebuah kehormatan bisa bertemu Anda.	I hope he can help you.	It's a privilege to meet you.	False	False	1.4036665	646	646, 414, 675	0	602
+369	Saya akui bahwa saya mengkhawatirkanmu.	My dad will kill me.	I have to admit I was worried about it.	False	False	1.4019084	652	652, 612, 646	0	520
+370	Kamu tidak harus datang besok.	You are always to knock before entering my room.	You don't have to come tomorrow.	False	False	1.4173244	472	472, 189, 414	0	167
+371	Siapa yang memberitahumu kalau aku sakit?	Who is your father?	Who told you that I was sick?	False	False	1.2675745	603	603, 506, 644	0	153
+372	Berbicara tentang wisata, apa kau pernah pergi ke Kobe?	Speaking about trips, have you ever been to Kobe?	Speaking about trips, have you ever been to Kobe?	True	True	1.3435746	47	47, 133, 616	1.0	47
+373	Saya membacakan surat untuknya.	Who is your father?	I read the letter to him.	False	True	1.3486085	603	603, 161, 466	0.3333333333333333	466
+374	Kemarin cuacanya berawan.	Who is your father?	It was cloudy yesterday.	False	False	1.4324691	603	603, 548, 133	0	437
+375	Aku membawakanmu sesuatu.	I hope he can help you.	I brought you a little something.	False	False	1.3982431	646	646, 189, 152	0	749
+376	Aku ketakutan.	I hope he can help you.	I was frightened.	False	False	1.44924	646	646, 414, 189	0	605
+377	Kamu tidak memilikiku.	Do you hate me?	You don't own me.	False	False	1.3037384	612	612, 506, 414	0	694
+378	Ini adalah danau terindah yang pernah aku lihat.	I love lasagna.	This is the most beautiful lake that I have ever seen.	False	False	1.3668654	189	189, 70, 569	0	714
+379	Saya cuma melihat-lihat.	Mary, please hug me.	I'm simply looking.	False	False	1.5348549	96	96, 845, 938	0	909
+380	Buang semua sampahmu dari kamar ini.	There is a stone in my shoe.	Please get all of your junk out of this room.	False	False	1.394647	569	569, 603, 96	0	547
+381	Sesuatu telah berubah.	What has brought you to this city?	Things have changed.	False	False	1.4273413	40	40, 70, 104	0	795
+382	Dia memulai kembali hidupnya dari awal.	Finally, she chose another kitten.	He turned over a new leaf in life.	False	False	1.4134516	61	61, 251, 175	0	861
+383	Selalu terjadi sesuatu di sini.	Who is your father?	There is always something happening here.	False	False	1.4314661	603	603, 469, 133	0	257
+384	Kami dapat mempercayai Tom.	I hope he can help you.	We can count on Tom.	False	False	1.43031	646	646, 943, 84	0	319
+385	Surat itu akan tiba besok.	And here they are.	The letter will arrive tomorrow.	False	False	1.439682	675	675, 569, 557	0	796
+386	Saya mengetuk pintu, tapi tidak ada orang yang menjawab.	Who is your father?	I knocked on the door, but nobody answered.	False	False	1.3031993	603	603, 855, 239	0	476
+387	Kamu juga tidak buruk.	I love lasagna.	Yours is not bad, either.	False	False	1.3506029	189	189, 992, 652	0	595
+388	Tom menembakkan senapannya.	My dad will kill me.	Tom fired his rifle.	False	True	1.434951	652	652, 860, 603	0.5	860
+389	Rumahnya berlantai tiga.	Who is your father?	The house has three stories.	False	False	1.4059057	603	603, 239, 742	0	582
+390	Kepalaku masih terasa pusing.	I love lasagna.	My head still felt giddy.	False	False	1.3771412	189	189, 756, 661	0	656
+391	Orang Mesir biasanya makan apa?	Who wants hot chocolate?	What do they live on in Egypt?	False	False	1.3950541	616	616, 971, 966	0	614
+392	Apa yang sedang kamu baca?	Who are you?	What are you reading?	False	True	1.3023498	506	506, 551, 603	0.5	551
+393	Pekerjaannya terlihat kurang baik.	Good luck with the new job.	His work showed want of care.	False	False	1.3998953	900	900, 699, 86	0	508
+394	Tom terhuyung-huyung keluar.	There is a stone in my shoe.	Tom staggered out.	False	False	1.4806125	569	569, 70, 675	0	323
+395	Bea dan Cukai akan meminta bukti pembayaran.	My favorite pizza is pepperoni pizza.	Customs will ask for a receipt.	False	False	1.497067	108	108, 616, 676	0	913
+396	Cuacanya makin buruk aja ya sepertinya.	Who is your father?	Looks like the weather's gotten worse, eh?	False	False	1.4824153	603	603, 133, 548	0	884
+397	Bisakah kau berkendara lebih cepat? Kita sedang terburu-buru!	Is he still mad?	Can you drive a little faster? We are in a hurry.	False	False	1.4551286	548	548, 40, 506	0	258
+398	Kamu tahu siapa yang melukis gambar ini?	Who is your father?	Do you know who painted this picture?	False	False	1.3016198	603	603, 506, 644	0	246
+399	Tuliskan nama dan alamat anda pada amplop ini.	Are you in a bad mood?	Write your name and address on this envelope.	False	True	1.3600026	76	76, 379, 569	0.5	379
+400	Mengapa kamu tidak memperoleh pekerjaan?	Who is your father?	Why don't you get a job?	False	False	1.3008323	603	603, 506, 494	0	114
+401	Aku tak dapat hidup tanpamu.	I can't live without you.	I can't live without you.	True	True	1.3743496	987	987, 646, 70	1.0	987
+402	Kau benar-benar tidak punya harapan.	You are deceiving yourself.	You really have no hope.	False	False	1.3193095	756	756, 76, 612	0	792
+403	Awalnya aku mengira ia adalah seorang guru, tapi ternyata bukan.	Is my answer correct?	At first, I thought he was a teacher, but he wasn't.	False	False	1.3519751	855	855, 603, 506	0	382
+404	Apa yang sedang kamu khawatirkan?	Who are you?	What are you worried about?	False	False	1.3503214	506	506, 603, 40	0	567
+405	Barang-barang ini mendapat pembebasan bea masuk.	No one is to leave without permission.	"These articles are exempt from ""Droits de douane""."	False	False	1.4993917	618	618, 569, 880	0	918
+406	Kami sudah kehilangan tiga hari.	I'll be back in three hours.	We've already lost three days.	False	False	1.4028461	365	365, 84, 756	0	513
+407	Berapa banyak waktu yang kau butuhkan?	Who is your father?	How much time will you need?	False	False	1.3484309	603	603, 76, 817	0	156
+408	Bagaimana kalau kamu membantunya?	Who is your father?	Why don't you help him?	False	False	1.2872298	603	603, 506, 866	0	819
+409	Kemarin hujan.	Will it rain this afternoon?	It rained yesterday.	False	False	1.5120286	432	432, 70, 442	0	523
+410	Saya tidak pernah mengatakan itu.	Do you have a similar saying in Japanese?	I have never said that.	False	False	1.3450608	174	174, 47, 37	0	33
+411	Aku kena flu berat.	Mary, please hug me.	I had a bad cold.	False	False	1.5235518	96	96, 268, 414	0	48
+412	Dia adalah seorang DJ.	She is called Mei. She is cooking in the kitchen.	He's a DJ.	False	False	1.3750105	579	579, 236, 58	0	584
+413	Ini alami.	This is true!	This is natural.	False	False	1.4675119	232	232, 880, 230	0	722
+414	Sapporo merupakan kota terbesar kelima di Jepang.	Sapporo is the fifth largest city in Japan.	Sapporo is the fifth largest city in Japan.	True	True	1.231877	655	655, 776, 386	1.0	655
+415	Seekor kucing muncul dari kolong meja.	A cat appeared from under the desk.	A cat appeared from under the desk.	True	True	1.4135253	0	0, 569, 668	1.0	0
+416	Aku mengenal dia.	I love lasagna.	I have an acquaintance with her.	False	False	1.4147506	189	189, 646, 13	0	415
+417	Mary, tolong peluk aku.	Mary, please hug me.	Mary, please hug me.	True	True	1.3903544	96	96, 569, 189	1.0	96
+418	Kamu tahu situs web Wikipedia?	Who wants hot chocolate?	Do you know the Wikipedia website?	False	False	1.420737	616	616, 133, 526	0	479
+419	Kami menyebut lembaran-lembaran dari lapisan batu yang keras ini 'pelat'.	My grandson is the son of my son.	We call these slabs of the solid-rock layer 'plates'.	False	True	1.361225	491	491, 569, 222	0.3333333333333333	222
+420	Kami ingin memiliki rumah kami masing-masing.	I thought Tom and Mary were happy.	We want a house of our own.	False	False	1.4215952	218	218, 84, 83	0	995
+421	Aku tidak tahu siapa yang menggambar gambar ini.	Who is your father?	I don't know who painted this picture.	False	False	1.2927907	603	603, 506, 644	0	609
+422	Kamu bisa berbahasa Inggris tidak?	Can I pay by credit card?	Can you speak English at all?	False	False	1.3898854	676	676, 506, 494	0	542
+423	Sepertinya kereta tidak akan datang tepat waktu.	How much time will you need?	It seems unlikely that the train will arrive on time.	False	False	1.4228048	156	156, 40, 472	0	389
+424	Kantor Bea dan Cukai ada di perbatasan.	The customs office is at the border.	The customs office is at the border.	True	True	1.4898931	821	821, 109, 268	1.0	821
+425	Terjemahkan kalimat ini.	Can it be phrased in another way?	Translate this sentence.	False	True	1.4479265	786	786, 452, 629	0.5	452
+426	Berarti apakah ini untukmu?	Who is your father?	What does this mean for you?	False	False	1.2949511	603	603, 506, 725	0	274
+427	Kalau para tamu tidak keberatan, mereka dipersilahkan tidur di lantai dasar.	If they don't mind, they are welcome to eat the leftovers in the fridge.	If the guests don't mind, they are welcome to sleep in the basement.	False	True	1.3618491	81	81, 79, 455	0.5	79
+428	Ini bisa digunakan sebagai pisau.	This is puzzling.	It can be used as a knife.	False	False	1.4965154	830	830, 886, 141	0	608
+429	Sekolah kami ada di seberang sungai.	Our school is across the river.	Our school is across the river.	True	True	1.3871908	816	816, 999, 569	1.0	816
+430	Rencana itu tidak sesuai dengan apa yang ia pikirkan.	I love lasagna.	That plan didn't agree with his way of thinking.	False	False	1.3677108	189	189, 438, 360	0	882
+431	Yang memecahkan kaca kemarin adalah Tom.	There is a stone in my shoe.	It was Tom that broke the window yesterday.	False	False	1.3977803	569	569, 70, 853	0	643
+432	Pada akhirnya, dia memilih anak kucing yang satunya.	Finally, she chose another kitten.	Finally, she chose another kitten.	True	True	1.3412311	61	61, 548, 616	1.0	61
+433	Kalimat ini membosankan.	I am become death, the destroyer of worlds.	This sentence is boring.	False	False	1.3721614	70	70, 853, 652	0	558
+434	Aku bengal ketika bom itu meledak di hadapanku.	There is a stone in my shoe.	I was stunned when the bomb blew in front of me.	False	True	1.3647707	569	569, 66, 626	0.5	66
+435	Hari ini adalah sebuah hari yang indah di Boston.	It's a beautiful day here in Boston.	It's a beautiful day here in Boston.	True	True	1.3747995	405	405, 76, 232	1.0	405
+436	Ke mana perginya?	Who is your father?	Where did it go?	False	False	1.3271923	603	603, 506, 239	0	883
+437	Kalau kamu lelah, lebih baik kamu istirahat sekarang.	I am become death, the destroyer of worlds.	If you're tired, you should go to bed.	False	False	1.3952489	70	70, 414, 646	0	721
+438	Aku akan menemanimu.	I love lasagna.	I'll accompany you.	False	False	1.4062303	189	189, 646, 652	0	729
+439	Tom tidak suka disentuh.	I love lasagna.	Tom doesn't like to be touched.	False	False	1.4236215	189	189, 126, 900	0	192
+440	Apakah Anda memiliki uang tunai senilai lebih dari sepuluh ribu Euro?	Do you have cash worth more than ten thousand euros?	Do you have cash worth more than ten thousand euros?	True	True	1.2431881	238	238, 506, 671	1.0	238
+441	Aku tidak tahan dengan cuaca panas ini.	Who is your father?	I can't put up with this hot weather.	False	False	1.4117116	603	603, 76, 189	0	163
+442	Saya pikir akan sibuk sekali, namun setelah ujian baru ada waktu lagi.	I love lasagna.	I think I'll be very busy, but after the test I will have more time.	False	False	1.3937807	189	189, 900, 472	0	649
+443	Tom selalu ceria kapanpun itu.	I love lasagna.	Tom is always cheerful.	False	False	1.4322383	189	189, 322, 324	0	902
+444	Kita banyak membuang waktu.	My dad will kill me.	We waste a lot of time.	False	False	1.3977623	652	652, 569, 76	0	127
+445	Saya berandai-andai apakah Tom masih mengingat bagaimana cara untuk melakukannya.	Is he still mad?	I wonder if Tom still remembers how to do that.	False	False	1.3200984	548	548, 603, 76	0	280
+446	Pernahkah kamu memikirkan tentang Tom?	Who are you?	Do you ever think about Tom?	False	False	1.3252351	506	506, 603, 676	0	306
+447	Tom butuh taksi.	I am become death, the destroyer of worlds.	Tom needs a cab.	False	False	1.4866614	70	70, 569, 442	0	435
+448	Saya membeli ini.	Who is your father?	I bought it.	False	False	1.4004014	603	603, 569, 469	0	428
+449	Apakah Tom suka berenang?	Who are you?	Does Tom like to swim?	False	False	1.4283955	506	506, 548, 603	0	269
+450	Bahasa belanda itu tidak sulit dipelajari.	I can no more swim than a stone can.	It's not difficult to learn Dutch.	False	False	1.325235	28	28, 723, 618	0	256
+451	Adikku berenang dengan baik.	My brother swims well.	My brother swims well.	True	True	1.3556485	742	742, 666, 880	1.0	742
+452	Yang Tom inginkan adalah kedamaian dan ketenangan.	Heat and light are necessary for our existence.	All Tom wanted was some peace and quiet.	False	False	1.3555613	565	565, 70, 646	0	552
+453	Anda akan menuju ke mana?	What has brought you to this city?	Where are you heading?	False	False	1.3837749	40	40, 603, 506	0	594
+454	Dia mustahil untuk dikalahkan.	Is he still mad?	He is impossible to beat.	False	False	1.3650532	548	548, 104, 723	0	942
+455	Itulah yang dibicarakan oleh Tom.	Who is it?	That's all Tom talks about.	False	False	1.4263151	725	725, 270, 569	0	21
+456	Saya orang Jepang, tetapi tidak tinggal di Jepang.	Are you a Japanese student?	I'm Japanese, but I don't live in Japan.	False	True	1.3592808	203	203, 465, 603	0.5	465
+457	Jangan menjelek-jelekkan namaku di depan umum.	You are always to knock before entering my room.	Don't insult me in company.	False	False	1.4419223	472	472, 569, 626	0	936
+458	Tom telah melakukan sedikitnya tiga kali usaha untuk melarikan diri.	Tom has attempted to escape at least three times.	Tom has attempted to escape at least three times.	True	True	1.3366994	213	213, 548, 652	1.0	213
+459	Apa kau tidak bisa berbahasa Inggris?	Do you live here?	Are you not able to speak English?	False	False	1.3870192	494	494, 506, 551	0	14
+460	Bagaimana Tom mengetahui hal itu?	Did Tom call?	How does Tom know about that?	False	False	1.2932713	526	526, 288, 469	0	275
+461	Apakah kamu memahami maksudku, Tom?	Who are you?	Do you understand me, Tom?	False	False	1.3017113	506	506, 612, 603	0	313
+462	Aku harus minum obat.	I want this garbage out of here.	I have to take medicine.	False	False	1.4209046	972	972, 569, 189	0	750
+463	Kita harus melakukannya dengan benar.	You are deceiving yourself.	We have to do this the right way.	False	False	1.3782717	756	756, 880, 652	0	129
+464	Dia memperkirakan bahwa adat kebiasaan itu telah dimulai sejak jaman kolonial.	He urged us to obey the rule.	He dates the custom from the colonial days.	False	True	1.3376764	59	59, 206, 787	0.5	206
+465	Tom melakukannya.	My dad will kill me.	Tom did it.	False	True	1.4117922	652	652, 651, 276	0.5	651
+466	Pakai jubahmu dengan benar.	This is true!	Pull your robe together.	False	False	1.4723368	232	232, 442, 96	0	536
+467	Siapa karakter favoritmu di Glee?	Who's your favorite character on Glee?	Who's your favorite character on Glee?	True	True	1.3423097	814	814, 603, 926	1.0	814
+468	Kapan terakhir kali kamu memberi makan sapi-sapi itu?	Who wants hot chocolate?	When was the last time you fed the cows?	False	True	1.4276509	616	616, 469, 411	0.3333333333333333	411
+469	Tom hampir tidak mempercayainya.	My dad will kill me.	Tom could scarcely believe it.	False	False	1.3907452	652	652, 189, 987	0	157
+470	Apakah ini adalah sebuah deklarasi perang?	Is this a declaration of war?	Is this a declaration of war?	True	True	1.2464542	190	190, 469, 274	1.0	190
+471	Kamu membuatku bosan!	I love lasagna.	You're boring me!	False	False	1.4509114	189	189, 844, 472	0	240
+472	Aku tidak berpikir kalau Tom akan ada di sekolah besok.	Are you in a bad mood?	I don't think Tom will be at school tomorrow.	False	False	1.369401	76	76, 603, 160	0	52
+473	Hei, kamu! Sedang apa?	Hey, you! What are you doing?	Hey, you! What are you doing?	True	True	1.327883	351	351, 506, 603	1.0	351
+474	Dia dikenal sebagai seorang penyanyi rok.	He is known as a rock singer.	He is known as a rock singer.	True	True	1.3733135	136	136, 236, 579	1.0	136
+475	Tom bisa menggantikan Mary.	Tom could replace Mary.	Tom could replace Mary.	True	True	1.29021	150	150, 56, 83	1.0	150
+476	Saya punya dua ekor kucing.	There is a stone in my shoe.	I have two cats.	False	False	1.4250424	569	569, 414, 28	0	357
+477	Ikan ini warnanya apa?	What colour is this fish?	What colour is this fish?	True	True	1.2722236	469	469, 133, 603	1.0	469
+478	Apa yang Tom rasakan tentang hal itu?	Who is your father?	How does Tom feel about that?	False	False	1.313651	603	603, 966, 469	0	276
+479	Apakah itu permata yang kita cari selama ini?	Who are you?	Is that the jewel we've been looking for all this time?	False	False	1.3465579	506	506, 603, 551	0	457
+480	Baik Tom dan Mary keduanya berasal dari Boston.	Both Tom and Mary are from Boston.	Both Tom and Mary are from Boston.	True	True	1.2143676	58	58, 768, 218	1.0	58
+481	Bisakah Anda mengulanginya sekali lagi?	What has brought you to this city?	Could you please repeat it once again?	False	False	1.4676265	40	40, 76, 191	0	677
+482	Ada gula, ada semut.	There is a stone in my shoe.	Sugar draws ants.	False	False	1.3893389	569	569, 134, 141	0	879
+483	Aku tidak menyangka Tom hadir dalam rapat.	Are you in a bad mood?	I didn't expect Tom to be at the meeting.	False	False	1.4070758	76	76, 28, 646	0	724
+484	Tom perlu mengubah gaya hidupnya.	Tom needs to change his lifestyle.	Tom needs to change his lifestyle.	True	True	1.3938106	166	166, 548, 652	1.0	166
+485	Aku tahu seberapa berartinya dirimu bagi Tom.	I hope he can help you.	I know how much you meant to Tom.	False	False	1.4163127	646	646, 189, 414	0	200
+486	Ini betul!	This is true!	This is true!	True	True	1.3631356	232	232, 817, 474	1.0	232
+487	Ibu saya mengalami kesembuhan sepenuhnya dari neuralgia.	My mother made a complete recovery from neuralgia.	My mother made a complete recovery from neuralgia.	True	True	1.3286659	438	438, 189, 756	1.0	438
+488	Saya lebih suka pergi keluar daripada diam di rumah.	You are always to knock before entering my room.	I would prefer to go out than stay in.	False	False	1.4250276	472	472, 28, 569	0	412
+489	Saya sepenuhnya setuju.	I hope he can help you.	I agree totally.	False	False	1.4181571	646	646, 414, 96	0	5
+490	Rumah itu milikku.	Who is your father?	That house belongs to me.	False	True	1.3565943	603	603, 77, 230	0.5	77
+491	Pemilihan waktu itu sangat penting.	Who is your father?	Timing is very important.	False	False	1.4407661	603	603, 652, 491	0	350
+492	Bisakah kau membantuku? Aku tidak tahu bagaimana cara mengoperasikan mesin ini.	Who are you?	Can you help me? I can't make out how to start this machine.	False	True	1.3254185	506	506, 644, 836	0.3333333333333333	836
+493	Dia punya seekor anjing dan enam ekor kucing.	The hunter shot a bear.	She has a dog and six cats.	False	True	1.4469286	668	668, 61, 467	0.3333333333333333	467
+494	Kamu harus selalu ketuk pintu sebelum masuk ke kamar saya.	You are always to knock before entering my room.	You are always to knock before entering my room.	True	True	1.2706684	472	472, 189, 972	1.0	472
+495	Maaf, jam berapa sekarang?	Where is my seat?	Excuse me, what is the concept of time?	False	False	1.3553843	239	239, 603, 252	0	990
+496	Mobilnya biru.	Who is your father?	The car is blue.	False	False	1.3961029	603	603, 569, 865	0	378
+497	Saya harap kamu tidak akan merokok terlalu banyak.	You are always to knock before entering my room.	I wish you wouldn't smoke so much.	False	False	1.3970587	472	472, 652, 28	0	638
+498	ini istri saya Edita.	This is my wife Edita.	This is my wife Edita.	True	True	1.3504751	229	229, 230, 189	1.0	229
+499	Tolong jangan biarkan hal ini terulang kembali.	And here they are.	Please don't let this happen again.	False	False	1.4387482	675	675, 570, 943	0	764
+500	Komentar-komentar lebih lanjut sudah tidak diperlukan.	The old man is angry and bitter.	Any further comment is redundant.	False	False	1.4588709	723	723, 81, 570	0	934
+501	Ken terpikirkan sebuah ide yang bagus.	My heart aches for the starving children in Africa.	Ken hit on a good idea.	False	False	1.4673176	13	13, 70, 900	0	808
+502	Tepungnya dibuat menjadi roti.	Wine is made from grapes.	Flour is made into bread.	False	True	1.2732084	852	852, 781, 448	0.5	781
+503	Aku tidak tahan dengan iklim panas ini.	Are you in a bad mood?	I can't stand this hot weather.	False	True	1.3753625	76	76, 164, 603	0.5	164
+504	Apakah kamu siswa dari Jepang?	Who are you?	Are you a Japanese student?	False	True	1.2283994	506	506, 203, 603	0.5	203
+505	Tom, kamu pembohong.	Tom and Mary are here, too.	Tom, you're a liar.	False	False	1.4573075	768	768, 112, 333	0	885
+506	Aku tidak tahu apa yang salah dengan itu.	Who am I talking with?	I don't see what's wrong with that.	False	False	1.3700521	644	644, 506, 152	0	985
+507	Kamu sedang menipu dirimu sendiri.	You are deceiving yourself.	You are deceiving yourself.	True	True	1.4431572	756	756, 569, 189	1.0	756
+508	Manusia tidak bisa hidup di Mars.	Humans can't live on Mars.	Humans can't live on Mars.	True	True	1.3273813	634	634, 28, 614	1.0	634
+509	Jangan buat aku tertawa!	You are always to knock before entering my room.	Don't make me laugh!	False	False	1.4452238	472	472, 506, 569	0	497
+510	Hari Valentine dirayakan pada bulan Februari.	Valentine's Day is celebrated in February.	Valentine's Day is celebrated in February.	True	True	1.3054085	797	797, 787, 781	1.0	797
+511	Kau harus membayar harganya	There is a stone in my shoe.	You have to pay the price.	False	False	1.4411664	569	569, 414, 676	0	421
+512	Aku minta maaf untuk apa yang terjadi sebelumnya.	There is a stone in my shoe.	I'm sorry about the other day.	False	False	1.4107127	569	569, 189, 999	0	245
+513	Tom matanya biru.	There is a stone in my shoe.	Tom's eyes are green.	False	False	1.3522725	569	569, 189, 217	0	10
+514	Kau harus menjaga mulutmu agar tetap diam.	I hope he can help you.	You should keep your mouth shut.	False	False	1.3434882	646	646, 70, 414	0	525
+515	Hal itu di luar kemampuan saya.	There is a stone in my shoe.	Such things are beyond my powers.	False	True	1.3654784	569	569, 880, 739	0.3333333333333333	739
+516	Bukankah kamu dan Tom pernah melakukan hal itu?	What are they saying?	Didn't you and Tom ever do that?	False	False	1.2864602	938	938, 603, 506	0	290
+517	Tom ngomongnya cepat yah.	I came near to being drowned.	Tom speaks very fast.	False	False	1.4715707	104	104, 768, 900	0	8
+518	Aku pikir aku sudah ingat bagaimana cara melakukannya.	Who am I talking with?	I think I remember how to do that.	False	False	1.3371139	644	644, 152, 506	0	139
+519	Gerbang Bradenburg adalah salah satu tengaran yang paling terkenal di Jerman.	The Brandenburg Gate is one of the most famous landmarks in Germany.	The Brandenburg Gate is one of the most famous landmarks in Germany.	True	True	1.3857596	500	500, 780, 830	1.0	500
+520	Tom memberitahu Mary bahwa dia tidak ingin melakukan apapun.	Tom grudgingly did what Mary asked.	Tom told Mary that he didn't have to do anything.	False	False	1.3457947	553	553, 126, 507	0	321
+521	Mereka pulang kembali ke Jepang.	He comes back from Singapore next January.	He went back to Japan.	False	True	1.4027679	251	251, 573, 333	0.5	573
+522	Bawang dan bawang putih adalah obat yang mujarab untuk mengobati flu biasa.	Garlic and onion are good remedies against the common cold.	Garlic and onion are good remedies against the common cold.	True	True	1.2587492	117	117, 448, 398	1.0	117
+523	Selamat datang di Tatoeba.	Welcome to Tatoeba.	Welcome to Tatoeba.	True	True	1.3649126	112	112, 493, 96	1.0	112
+524	Tom menyetrika bajunya.	Good luck with the new job.	Tom ironed his shirt.	False	False	1.4768958	900	900, 865, 666	0	132
+525	Tidak, jangan katakan apa-apa! Aku tidak ingin Tom mengetahuinya.	Hey, you! What are you doing?	No, don't say anything! I don't want Tom to know.	False	False	1.348027	351	351, 526, 686	0	954
+526	Ada masalah?	What colour is this fish?	Where is the problem?	False	False	1.3243756	469	469, 920, 406	0	397
+527	Dia menutup pintu.	My head hurts.	He closed the door.	False	False	1.466883	904	904, 569, 841	0	468
+528	Aku tertular pilekmu.	I love lasagna.	You've given me your cold.	False	False	1.4119828	189	189, 414, 612	0	748
+529	Tom akan melewati Boston dalam perjalanan mengunjungi Mary.	Tom will be driving through Boston on his way to visit Mary.	Tom will be driving through Boston on his way to visit Mary.	True	True	1.285974	917	917, 83, 204	1.0	917
+530	Kami bertemu di depan pintu rumahku.	We met at the door of my house.	We met at the door of my house.	True	True	1.3991067	999	999, 472, 84	1.0	999
+531	Dunia tidak berputar mengelilingimu.	You are always to knock before entering my room.	The world doesn't revolve around you.	False	False	1.4255072	472	472, 816, 94	0	662
+532	Terlepas dari berapa jumlah uangnya, Brian ingin kita mengembalikan seluruhnya sebelum minggu depan.	Regardless of the amount, Brian wants the correct, entire amount by next week.	Regardless of the amount, Brian wants the correct, entire amount by next week.	True	True	1.3226583	857	857, 238, 510	1.0	857
+533	Jika seseorang tidak berkesempatan untuk menguasai bahasa yang diinginkannya ketika menginjak dewasa, maka kecil kemungkinan ia akan bisa mencapai tingkatan penutur asli dalam bahasa tersebut.	I can no more swim than a stone can.	If a person has not had a chance to acquire his target language by the time he's an adult, he's unlikely to be able to reach native speaker level in that language.	False	False	1.4514167	28	28, 104, 360	0	546
+534	Jumlah penduduk Amerika yang berusia lebih dari 65 tahun adalah 12.5% dari total populasi.	Americans who are over sixty-five make up 12.5% of the total population.	Americans who are over sixty-five make up 12.5% of the total population.	True	True	1.2881234	856	856, 814, 403	1.0	856
+535	Tom mencari tempat makan dengan harga yang terjangkau.	Good luck with the new job.	Tom was looking for place to eat that had reasonable prices.	False	False	1.4355749	900	900, 360, 109	0	624
+536	Tolong duduk sebentar.	Hang on just a second, Tom.	Please remain seated for a few minutes.	False	False	1.4955382	324	324, 828, 626	0	906
+537	Tom sedang makan siang.	Who wants hot chocolate?	Tom is having lunch.	False	False	1.3639481	616	616, 768, 548	0	759
+538	Saya sudah mempelajari agama Anda, tapi saya tidak menyukainya.	Who is your father?	I studied your religion, but I didn't like it.	False	False	1.3396661	603	603, 506, 76	0	92
+539	Saya tidak pernah mendengarnya berbahasa Inggeris.	I have never heard him speak English.	I have never heard him speak English.	True	True	1.3468897	426	426, 28, 802	1.0	426
+540	Tidak dapat dipungkiri keberaniannya patut dikagumi.	I came near to being drowned.	We could not but admire his courage.	False	False	1.4206606	104	104, 723, 91	0	111
+541	Dia telah menulis sebuah surat.	I got a letter from a friend of mine in London.	He wrote one letter.	False	False	1.3940804	161	161, 652, 466	0	606
+542	Mengapa kamu tidak mau katakan kebenaran pada kami?	Who are you?	Why don't you want to tell us the truth?	False	False	1.408652	506	506, 612, 78	0	931
+543	Ada batu di dalam sepatu saya.	There is a stone in my shoe.	There is a stone in my shoe.	True	True	1.2573493	569	569, 472, 841	1.0	569
+544	Itu hanya mimpi buruk.	I love lasagna.	It was only a nightmare.	False	False	1.467095	189	189, 472, 405	0	765
+545	Kemarin, dia tidak melakukan apa-apa.	Is he still mad?	She had nothing to do yesterday.	False	False	1.3206964	548	548, 595, 78	0	658
+546	Ibunya mengkhawatirkan anaknya.	My dad will kill me.	His mother is worried about him.	False	False	1.3598611	652	652, 661, 260	0	955
+547	Sekarang, mereka belum sampai.	They will follow you.	So far, they haven't arrived.	False	False	1.4099665	557	557, 570, 675	0	702
+548	Menurutmu apa arti ini?	What colour is this fish?	What do you think this means?	False	False	1.2726998	469	469, 506, 855	0	266
+549	Dia bukan seorang pembohong.	He called me a coward.	She's not a liar.	False	False	1.4527386	859	859, 865, 70	0	753
+550	Kepalaku sakit.	I love lasagna.	My head hurts.	False	False	1.4143622	189	189, 982, 652	0	904
+551	Bolehkah saya berbicara denganmu?	Who are you?	May I talk to you?	False	False	1.3550012	506	506, 603, 644	0	591
+552	Ini adalah angka keberuntunganku.	Enough is enough!	It's my lucky number.	False	False	1.3513699	817	817, 371, 232	0	944
+553	Kebun binatang itu penuh sesak dengan para wisatawan.	The zoo is crowded with visitors.	The zoo is crowded with visitors.	True	True	1.456605	771	771, 723, 70	1.0	771
+554	Tom menghadapi hari yang sangat buruk.	Good luck with the new job.	Tom had a very bad day.	False	True	1.3861612	900	900, 355, 360	0.5	355
+555	Turun hujan di hutan.	It was raining in the forest.	It rained in the forest.	False	True	1.4712902	88	88, 90, 432	0.5	90
+556	Permisi, sekarang jam berapa?	Who is your father?	Excuse me, do you know what time it is?	False	False	1.3762603	603	603, 302, 506	0	488
+557	Masih belum ada kabar darinya.	There is a stone in my shoe.	I still haven't heard from him.	False	False	1.3978145	569	569, 28, 442	0	892
+558	Apakah Tom tahu berapa banyak yang kamu keluarkan untuk itu?	Who are you?	Does Tom know how much you paid for that?	False	False	1.3222277	506	506, 603, 551	0	281
+559	Bisakah kau mencetaknya untukku?	Who is your father?	Can you print that out for me?	False	False	1.4025915	603	603, 612, 506	0	332
+560	Banyak hal yang didengar oleh Pizzaro tentang imperium Inca itu benar adanya.	Many of the things Pizzaro had heard about the Inca treasure were true.	Many of the things Pizzaro had heard about the Inca treasure were true.	True	True	1.3644555	63	63, 855, 603	1.0	63
+561	Tadi kau mau pergi ke mana?	Do you live here?	Where were you going?	False	False	1.3966659	494	494, 506, 612	0	878
+562	Ke mana mereka pergi?	Why do they come here?	Where did they go?	False	False	1.3435044	343	343, 614, 603	0	889
+563	Apakah kamu baik-baik saja, Tom?	Who are you?	Are you feeling all right now, Tom?	False	False	1.210896	506	506, 603, 919	0	318
+564	Tom tidak dapat melakukan apapun untuk menolong Mary.	Tom could do nothing to help Mary.	Tom could do nothing to help Mary.	True	True	1.3560772	18	18, 150, 56	1.0	18
+565	Kurasa sudah waktunya bagiku menyisihkan sedikit waktu untuk bersama dengan anak-anakku.	My heart aches for the starving children in Africa.	I think it's time for me to spend a little time with my children.	False	False	1.3936416	13	13, 652, 76	0	951
+566	Aku kira Tom dan Mary bahagia.	I saw Tom and Mary leave together.	I thought Tom and Mary were happy.	False	True	1.4159691	83	83, 218, 189	0.5	218
+567	Dia orang pertama yang tiba.	I am all ears.	He was the first person to arrive.	False	False	1.4313803	442	442, 603, 239	0	336
+568	Ke mana saja kamu dari tadi?	Who are you?	Where have you been?	False	False	1.3577487	506	506, 603, 239	0	873
+569	Tom dan Mary juga ada di sini.	Tom and Mary are here, too.	Tom and Mary are here, too.	True	True	1.3357308	768	768, 58, 83	1.0	768
+570	Pelayanan surat di negara itu tidak cepat.	Mail service in that country is not quick.	Mail service in that country is not quick.	True	True	1.3589627	640	640, 972, 618	1.0	640
+571	Apa suasana hatimu sedang buruk?	Are you in a bad mood?	Are you in a bad mood?	True	True	1.3546147	76	76, 548, 926	1.0	76
+572	Biarkan mereka mengurus diri sendiri.	You are deceiving yourself.	Let them take care of themselves.	False	False	1.3639195	756	756, 603, 652	0	439
+573	Ayo pergi dan lihat.	Get a move on.	Let's go and take a look.	False	False	1.4462726	706	706, 845, 622	0	171
+574	Apakah ada sesuatu hal yang ingin kau ketahui?	Who are you?	Is there something in particular that you want to hear?	False	False	1.3485715	506	506, 603, 725	0	67
+575	Mobil itu menabrak dinding.	There is a stone in my shoe.	The car crashed into the wall.	False	False	1.362	569	569, 999, 977	0	637
+576	Tom tidak terlihat memiliki masalah.	Tom has confidence in Mary.	Tom doesn't seem to be having any problems.	False	False	1.4377391	690	690, 937, 996	0	143
+577	Tom hidup hingga usia 97 tahun.	Tom lived to be 97 years old.	Tom lived to be 97 years old.	True	True	1.2568533	183	183, 742, 198	1.0	183
+578	Jangan takut.	Knock it off.	Don't be afraid.	False	False	1.4314406	845	845, 652, 569	0	527
+579	Semua mobil yang ada di tempat parkir berwarna putih, kecuali tiga mobil.	All but three of the cars in the parking lot were white.	All but three of the cars in the parking lot were white.	True	True	1.328412	621	621, 983, 548	1.0	621
+580	Rumah ini penuh dengan sarang laba-laba.	Who is your father?	This house is full of spider webs.	False	False	1.4461548	603	603, 186, 548	0	6
+581	Hari ini hari Selasa.	It was a full moon yesterday.	Today is Tuesday.	False	False	1.4504368	967	967, 828, 432	0	390
+582	Para ahli telah lama menangani permasalahan itu.	I am become death, the destroyer of worlds.	The experts have long been handling the problem.	False	False	1.3627746	70	70, 831, 853	0	813
+583	Selamat datang di situs Proyek Tatoeba.	Welcome to Tatoeba.	Welcome to the Tatoeba Project website.	False	True	1.3330897	112	112, 120, 13	0.5	120
+584	Berat badan Marie bertambah.	My head hurts.	Marie gained weight.	False	False	1.4120145	904	904, 189, 448	0	948
+585	Memerlukan pemberitahuan pabean.	I came near to being drowned.	A customs declaration is required.	False	False	1.5039905	104	104, 70, 189	0	801
+586	Kedua politikus itu bertatap muka untuk pertama kalinya.	The two politicians met face to face for the first time.	The two politicians met face to face for the first time.	True	True	1.2487736	53	53, 91, 570	1.0	53
+587	Apakah kamu memiliki perasaan terhadap Tom?	Who are you?	Do you have feelings for Tom?	False	False	1.2868209	506	506, 603, 725	0	308
+588	Kau pernah ke London?	Do you live here?	Have you been to London?	False	False	1.3189917	494	494, 469, 614	0	872
+589	Tadi kamu di mana?	Who are you?	Where were you?	False	False	1.3794436	506	506, 603, 548	0	211
+590	Meskipun kau adalah pacarku, bukan berarti aku harus setuju denganmu.	Do you hate me?	Just because you're my girlfriend doesn't mean I have to agree with you.	False	False	1.3428451	612	612, 506, 414	0	503
+591	Aku tidak bisa pergi sebelum dia datang.	I can't go until he comes.	I can't go until he comes.	True	True	1.3740209	736	736, 472, 646	1.0	736
+592	Apa kamu benci aku?	Who are you?	Do you hate me?	False	True	1.2928916	506	506, 612, 211	0.5	612
+593	Aku lebih baik mati ketimbang hidup dengan menanggung malu.	I am become death, the destroyer of worlds.	I would die before I live on in shame.	False	False	1.3944457	70	70, 104, 365	0	27
+594	Kami melakukan yang terbaik.	Your English is improving.	We did our best.	False	False	1.3613855	880	880, 603, 91	0	726
+595	Antara Ken dan Tom, siapa yang berlari dengan cepat?	Who is your father?	Who runs faster, Ken or Tony?	False	True	1.2770782	603	603, 506, 169	0.3333333333333333	169
+596	"Dia pernah berkata, ""Aku ingin menjadi seorang ilmuwan""."	"He said, ""I want to be a scientist."""	"He said, ""I want to be a scientist."""	True	True	1.3392595	242	242, 152, 194	1.0	242
+597	Keluargaku adalah keluarga besar.	Who is your father?	My family is a large one.	False	True	1.3071274	603	603, 73, 566	0.3333333333333333	566
+598	Tidak ada satupun dari buku-buku itu yang menarik.	Many a book is published, but of them only a very few are worth reading.	Neither of those books is interesting.	False	False	1.4039054	731	731, 367, 569	0	839
+599	Yesus dilahirkan Maria.	Jesus was born of Mary.	Jesus was born of Mary.	True	True	1.3418397	751	751, 371, 70	1.0	751
+600	Ini adalah sebuah bencana ekologis.	What colour is this fish?	It's an ecological disaster.	False	True	1.3887753	469	469, 340, 133	0.5	340
+601	Hore!	This is true!	We did it!	False	False	1.2798585	232	232, 351, 953	0	700
+602	Saya mau sampah ini dibuang.	There is a stone in my shoe.	I want this garbage out of here.	False	False	1.458995	569	569, 414, 603	0	972
+603	Ada bunga mawar di depan bangunan baja itu.	There is a stone in my shoe.	There are roses in front of the steel building.	False	False	1.3991519	569	569, 891, 0	0	823
+604	Berapa lama waktu yang dibutuhkan?	How much time will you need?	How long will it take?	False	False	1.3063847	156	156, 817, 76	0	984
+605	Aku tidak menyukai kesemuanya.	I love lasagna.	I don't like all of them.	False	False	1.362289	189	189, 612, 756	0	834
+606	Mereka saling jatuh cinta.	I saw them leave together.	They're in love.	False	True	1.3975602	84	84, 575, 189	0.5	575
+607	Apa kamu sadar akan apa yang kamu perbuat?	Who is your father?	Do you realize what you're doing?	False	False	1.2914037	603	603, 506, 530	0	945
+608	Seseorang memberitahuku kalau Tom meninggalkan istrinya.	Who is your father?	Someone told me Tom left his wife.	False	False	1.3390229	603	603, 548, 526	0	533
+609	Dia orangnya pendiam.	My grandson is the son of my son.	He is a quiet man.	False	False	1.3824184	491	491, 70, 603	0	453
+610	Aku ingin kau menyembunyikan hal ini.	There is a stone in my shoe.	I'd like you to keep this a secret.	False	False	1.3894027	569	569, 612, 13	0	219
+611	Kaki Tom terluka.	I love lasagna.	Tom hurt his leg.	False	False	1.5283641	189	189, 845, 666	0	140
+612	Aku tidak berbicara dengan bahasa Inggris.	Are you listening to English?	I wasn't speaking English.	False	False	1.3370616	802	802, 28, 14	0	19
+613	Tak perlu menangis seperti anak kecil.	My dad will kill me.	There's no need to cry like a child.	False	False	1.4346213	652	652, 189, 152	0	963
+614	Di mana bumi dipijak, di situlah langit dijunjung.	There is a stone in my shoe.	When in Rome, do as the Romans do.	False	False	1.4805605	569	569, 442, 189	0	636
+615	Mari kita pecat dia.	I love lasagna.	Let's fire him.	False	False	1.3653375	189	189, 569, 414	0	715
+616	Tom tidak sedang mengantuk.	Tom and Mary are here, too.	Tom wasn't a bit sleepy.	False	False	1.4132298	768	768, 548, 83	0	939
+617	Ibu dan ayah saya tidak di rumah sekarang.	Who is your father?	My mother and father aren't home right now.	False	True	1.3643434	603	603, 264, 333	0.5	264
+618	Ibunya telah memaafkan kesalahannya.	My dad will kill me.	My mother excused his mistake.	False	False	1.3799669	652	652, 491, 440	0	661
+619	Grup itu sedang sangat aktif saat ini.	And here they are.	That group is presently very active.	False	False	1.4517195	675	675, 880, 360	0	15
+620	Kamu pasti lelah setelah perjalanan jauh.	You are always to knock before entering my room.	You must be tired after such a long trip.	False	False	1.3876958	472	472, 831, 189	0	212
+621	Tom menangis.	Your English is improving.	Tom was crying.	False	False	1.4824066	880	880, 742, 982	0	899
+622	Tuliskan itu.	There is a stone in my shoe.	Write that down.	False	False	1.3986268	569	569, 442, 270	0	516
+623	Libur musim dinginnya mulai hari apa?	Who wants hot chocolate?	When does your winter vacation begin?	False	True	1.3583281	616	616, 1, 133	0.5	1
+624	Kotak ini berisi apel.	This box contains apples.	This box contains apples.	True	True	1.3472205	289	289, 367, 469	1.0	289
+625	Aku masih menunggunya sejak hari itu.	I am still waiting for him since that day.	I am still waiting for him since that day.	True	True	1.3992712	831	831, 414, 892	1.0	831
+626	Dapatkah saya mempercayai perkataanmu terhadap itu, Tom?	Who is your father?	Do I have your word on that, Tom?	False	False	1.282692	603	603, 506, 152	0	327
+627	Besok saya akan pergi ke Hokkaido.	Go home to your wife, Tom.	I will go to Hokkaido tomorrow.	False	False	1.4279032	333	333, 639, 472	0	927
+628	Sudah hentikan!	Enough is enough!	Cut it out!	False	False	1.409248	817	817, 474, 232	0	844
+629	Bolehkah saya tahu siapa Anda?	Who is your father?	May I ask who you are?	False	False	1.3619215	603	603, 506, 866	0	530
+630	Kami tidak punya banyak masalah.	Cup ramen are bad for your health.	We don't have a lot of trouble.	False	False	1.3809536	992	992, 618, 971	0	667
+631	Kamu menyakiti dia.	There is a stone in my shoe.	You hurt him.	False	False	1.3944328	569	569, 612, 13	0	450
+632	Kurang lebih seperti itu.	I can no more swim than a stone can.	That's my best guess.	False	False	1.477767	28	28, 880, 953	0	50
+633	Tom tidak memperhatikan Mary.	Tom now knows Mary wasn't kidding.	Tom paid no attention to Mary.	False	False	1.3835828	126	126, 690, 123	0	408
+634	Dia nampaknya akan lulus pada ujian masuk itu.	My dad will kill me.	He's likely to pass the entrance examination.	False	False	1.4002748	652	652, 561, 853	0	562
+635	Dia ekonom yang cerdas.	My heart aches for the starving children in Africa.	He's a brilliant economist.	False	False	1.3957422	13	13, 652, 646	0	775
+636	Tunggu sebentar!	Get well soon!	Wait just a second.	False	False	1.4747474	474	474, 603, 506	0	433
+637	Jumlah penderita AIDS semakin bertambah.	The number of people suffering from AIDS has increased.	The number of people suffering from AIDS has increased.	True	True	1.4024403	403	403, 548, 91	1.0	403
+638	Tom tidak pernah melihat Mary lagi.	Tom never saw Mary again.	Tom never saw Mary again.	True	True	1.3317409	56	56, 83, 189	1.0	56
+639	Biarkan saya yang membayar.	I love lasagna.	Let me pick up the check.	False	False	1.3723675	189	189, 569, 414	0	901
+640	Sebelah kiri ada dua buah toko permata.	On the left there are two diamond stores.	On the left there are two diamond stores.	True	True	1.4563558	456	456, 828, 569	1.0	456
+641	Tom punya dua saudara lelaki yang tinggal di Boston.	Tom has two brothers who live in Boston.	Tom has two brothers who live in Boston.	True	True	1.2916057	434	434, 58, 669	1.0	434
+642	Salah satu kudaku mati kemarin.	There is a stone in my shoe.	One of my horses died yesterday.	False	False	1.480338	569	569, 548, 189	0	828
+643	Tom pindah ke Boston.	Tom is relocating to Boston.	Tom is relocating to Boston.	True	True	1.4200456	202	202, 58, 434	1.0	202
+644	Berikan uangmu.	This is my wife.	Give me your money.	False	False	1.3875355	230	230, 96, 646	0	105
+645	Dengarkanlah orang yang sedang berbicara.	There is a stone in my shoe.	Listen to who's talking.	False	False	1.3868542	569	569, 603, 675	0	344
+646	Dikatakan bahwa bangsa Viking lebih dulu menemukan benua Amerika sebelum Columbus.	It's said that the Vikings discovered America before Columbus did.	It's said that the Vikings discovered America before Columbus did.	True	True	1.197104	529	529, 28, 668	1.0	529
+647	Ini kembalian Anda.	And here they are.	Here is your change.	False	False	1.4286633	675	675, 557, 229	0	952
+648	Saya membutuhkan seseorang yang bisa berbahasa Prancis.	I need someone who can speak French.	I need someone who can speak French.	True	True	1.2865456	347	347, 28, 360	1.0	347
+649	Beritahu Tom aku tidak suka padanya.	I love lasagna.	Tell Tom I don't like him.	False	False	1.3681788	189	189, 612, 317	0	54
+650	Itu sangat menjengkelkan.	Your English is improving.	That's pretty annoying.	False	False	1.4496998	880	880, 903, 603	0	949
+651	Apakah kamu tahu Tom berkerja di sana?	Who are you?	Did you know Tom worked there?	False	False	1.436002	506	506, 492, 603	0	288
+652	Orang tua itu marah dan merasa sakit hati.	There is a stone in my shoe.	The old man is angry and bitter.	False	False	1.4066851	569	569, 603, 76	0	723
+653	Dia datang setelah aku membaca majalah selama beberapa saat.	She called me up very late last night.	I had been reading a magazine for some time when she came.	False	True	1.3821036	894	894, 846, 109	0.5	846
+654	Anda akan pergi ke mana di hari libur?	What has brought you to this city?	Where will you go for the vacation?	False	False	1.3960147	40	40, 603, 494	0	876
+655	Anda datang ke kota ini untuk urusan apa?	What has brought you to this city?	What has brought you to this city?	True	True	1.2916974	40	40, 469, 603	1.0	40
+656	Apa kabar, Mike?	How are you, Mike?	How are you, Mike?	True	True	1.2589176	598	598, 526, 603	1.0	598
+657	Bahasa Inggris Anda meningkatkan.	Your English is improving.	Your English is improving.	True	True	1.3952634	880	880, 802, 125	1.0	880
+658	Tom laki-laki pertama yang membuatku patah hati.	I am naked!	Tom was the first guy who broke my heart.	False	True	1.3776456	94	94, 777, 84	0.5	777
+659	Saya tidak ingin kamu sakit karena saya.	Do you hate me?	I don't want you getting hurt because of me.	False	False	1.372651	612	612, 152, 506	0	459
+660	Ibu dan ayah pulang kembali ke rumah.	Mom and dad came back home.	Mom and dad came back home.	True	True	1.3553648	261	261, 260, 333	1.0	261
+661	Sekarang dia bekerja di Perancis.	He is now working in France.	He is now working in France.	True	True	1.2707849	430	430, 579, 548	1.0	430
+662	Tom tidak tahu perbedaan fabel dan dongeng.	Tom doesn't know the difference between a fable and a fairytale.	Tom doesn't know the difference between a fable and a fairytale.	True	True	1.3791883	131	131, 569, 28	1.0	131
+663	Ia mengizinkannya pergi keluar sendirian.	Is he still mad?	She allowed him to go alone.	False	False	1.3767786	548	548, 652, 661	0	783
+664	Aku ingin berterima kasih kepada Tom atas apa yang ia lakukan.	I love lasagna.	I'd like to thank Tom for all he's done.	False	False	1.3508971	189	189, 270, 570	0	74
+665	Mari saya coba!	I love lasagna.	Let me try.	False	False	1.4119849	189	189, 96, 733	0	896
+666	Aku mempergunakan kesempatan yang baik ini.	My heart aches for the starving children in Africa.	I made use of this good opportunity.	False	False	1.378742	13	13, 831, 646	0	550
+667	Jika dia bertanya, saya akan berikan. Jika tidak, tidak.	Who is your father?	If he asks, I will give it; if not, not.	False	False	1.3376298	603	603, 78, 152	0	427
+668	Aku tidak mau mendengar tentang semua pacar lamamu.	I can't live without you.	I don't want to hear about all your old girlfriends.	False	False	1.38256	987	987, 189, 152	0	502
+669	Apa kamu sudah punya kamus bahasa Inggris-Vietnam?	Have you got an English-Vietnamese dictionary?	Have you got an English-Vietnamese dictionary?	True	True	1.341204	341	341, 506, 802	1.0	341
+670	Aku sudah tidak tahan lagi.	I can't live without you.	I can't take this anymore.	False	False	1.4068942	987	987, 365, 646	0	932
+671	Kereta tersebut terguling.	Your English is improving.	The train was overturned.	False	False	1.5225635	880	880, 787, 141	0	142
+672	Mengerti.	Your English is improving.	I get the point.	False	False	1.4659318	880	880, 141, 652	0	741
+673	Sulit untuk melaksanakan tugas tersebut.	It is our duty to obey the law.	It is difficult to execute the task.	False	False	1.4220997	585	585, 27, 828	0	950
+674	Tom hanya tidak suka padaku.	I love lasagna.	Tom just doesn't like me.	False	False	1.3371439	189	189, 652, 971	0	287
+675	Mungkin itu apa yang Tom akan lakukan, tetapi saya tidak mungkin pernah melakukan hal itu.	Don't you regret getting that tattoo?	Maybe that's what Tom would do, but I wouldn't do that.	False	False	1.3725437	271	271, 897, 814	0	279
+676	Petinju itu bangun pada hitungan kesembilan.	There is a stone in my shoe.	The boxer got up on the count of nine.	False	False	1.4577572	569	569, 626, 464	0	829
+677	Tomlah yang pantas mendapatkan penghargaan.	I hope he can help you.	It's Tom who deserves credit.	False	False	1.4420776	646	646, 569, 70	0	568
+678	Permisi, saya ingin bertemu dengan Tom.	I want to meet with Tom.	Excuse me, I'm here to see Tom.	False	False	1.3885506	589	589, 333, 880	0	325
+679	Apa yang ingin kamu lakukan selanjutnya?	Who are you?	What do you want to do next?	False	False	1.281507	506	506, 603, 530	0	641
+680	Aku akan mengambil mobilku.	My dad will kill me.	I'll take my car.	False	False	1.3939108	652	652, 646, 189	0	682
+681	Mereka ada di kelas Joe tahun lalu.	She called me up very late last night.	They were in Joe's class last year.	False	False	1.4208488	894	894, 768, 880	0	496
+682	Seorang temanku sedang belajar di luar negeri.	A friend of mine is studying abroad.	A friend of mine is studying abroad.	True	True	1.3175769	360	360, 76, 569	1.0	360
+683	Aku lebih suka mebel modern.	The men will be happy no matter what they get back.	I prefer modern furniture.	False	False	1.488894	570	570, 28, 472	0	681
+684	Pesawatnya tiba di New York tepat pada waktunya.	The plane arrived at New York on schedule.	The plane arrived at New York on schedule.	True	True	1.3314428	538	538, 34, 248	1.0	538
+685	Secara umum, seni memerintah adalah mengambil sebagian besar uang dari satu bagian penduduk, kemudian memberikannya kepada bagian yang lain.	Generally speaking, the art of governing consists in taking the most money from one part of the citizens, in order to give it to another part.	Generally speaking, the art of governing consists in taking the most money from one part of the citizens, in order to give it to another part.	True	True	1.3132727	7	7, 548, 238	1.0	7
+686	Aku tahu dia akan setuju.	I hope he can help you.	I knew he would accept.	False	False	1.4157428	646	646, 675, 414	0	687
+687	Dia tidak berkata apapun.	Are you alright?	He didn't say a word.	False	False	1.350709	78	78, 174, 391	0	361
+688	Saya tidak terbiasa dengan perawatan seperti itu.	Are you in a bad mood?	I'm not used to treatment like that.	False	False	1.3372939	76	76, 440, 756	0	698
+689	Nancy tersenyum bahagia.	You are no longer a mere child.	Nancy smiled happily.	False	False	1.4511943	943	943, 189, 70	0	113
+690	Tom pandai berbahasa Perancis.	Your English is improving.	Tom is proficient in French.	False	False	1.4555631	880	880, 141, 189	0	356
+691	Sedang hujan di hutan.	The ink is still wet.	It was raining in the forest.	False	True	1.5043681	787	787, 90, 88	0.3333333333333333	88
+692	Kalau saja kau tidak bertingkah bodoh, kita tidak akan mendapat masalah semacam itu.	The men will be happy no matter what they get back.	If it had not been for your foolishness, we would never have been in that trouble.	False	False	1.370095	570	570, 603, 618	0	549
+693	Kalau dia tidak keberatan, saya bisa menjemput putrinya dari sekolah hari ini.	Who is your father?	If she doesn't mind, I can pick up her daughter from school today.	False	False	1.4587073	603	603, 76, 992	0	80
+694	Aku kira itu benar adanya.	This is true!	I thought it was true.	False	False	1.4634141	232	232, 506, 859	0	689
+695	Benarkah Tom menyangka saya akan mempercayai itu?	Are you in a bad mood?	Does Tom really expect me to believe that?	False	False	1.4527687	76	76, 603, 152	0	278
+696	Aku akan berusaha semaksimal mungkin untuk melakukan pekerjaan itu.	My dad will kill me.	I am going to put my heart into the work.	False	False	1.4230098	652	652, 91, 360	0	851
+697	Kami tidak perlu menghadiri rapat itu.	What do they live on in Egypt?	It is not necessary for us to attend the meeting.	False	False	1.3973122	614	614, 17, 104	0	532
+698	Saya melihat Tom dan Mary berangkat bersama.	I saw Tom and Mary leave together.	I saw Tom and Mary leave together.	True	True	1.275857	83	83, 768, 218	1.0	83
+699	Silakan kamu jalan lurus ke depan, setelah melewati lampu lalu lintas maka akan sampai.	That slope is very steep, better go through the left side.	Go straight down the road, and when you pass the traffic light you're there.	False	False	1.4230644	455	455, 472, 983	0	650
+700	Kalau tidak mau pergi, kamu tak usah pergi	And here they are.	You don't have to go unless you want to.	False	False	1.4571491	675	675, 343, 472	0	712
+701	Kenapa mereka datang kemari?	Why do they come here?	Why do they come here?	True	True	1.3431169	343	343, 614, 938	1.0	343
+702	Untuk A cukup, tetapi tidak demikian untuk B.	A is enough, but B is not enough.	A is enough, but B is not enough.	True	True	1.3095375	534	534, 723, 787	1.0	534
+703	Saya juga suka suara penyanyi ini.	I also like this singer's voice.	I also like this singer's voice.	True	True	1.420329	373	373, 756, 414	1.0	373
+704	Apakah saya menghubungi anda pada saat yang kurang tepat?	Who is your father?	Have I called you at a bad time?	False	False	1.3666728	603	603, 506, 40	0	298
+705	Dia dipercayai tidak bersalah.	You are no longer a mere child.	It is believed that he was innocent.	False	False	1.3547965	943	943, 28, 104	0	978
+706	Kamu dicari pada sambungan telepon. Ini dari Tom.	Did you get this from Tom?	You're wanted on the phone. It's from Tom.	False	True	1.3185855	309	309, 241, 526	0.5	241
+707	Apakah sore ini akan hujan?	Who is your father?	Will it rain this afternoon?	False	False	1.3355967	603	603, 469, 133	0	432
+708	Saya akan pergi sebentar dan mungkin akan kembali akhir bulan depan.	My dad will kill me.	I'll be away for a while and expect to be back towards the end of next month.	False	False	1.4682508	652	652, 570, 646	0	335
+709	Tom itu anggota geng. Kamu harus menjauhinya.	There is a stone in my shoe.	Tom is a gang member. You should stay away from him.	False	False	1.4457263	569	569, 603, 652	0	887
+710	Saya masih pelajar saat itu.	Who is your father?	I was still a student then.	False	True	1.4545012	603	603, 837, 569	0.5	837
+711	"""Seekor kucing?"" tanya pria tua itu."	"""A cat?"" asked the old man."	"""A cat?"" asked the old man."	True	True	1.331414	194	194, 548, 506	1.0	194
+712	Kalian semua mau pergi ke mana?	Do you live here?	Where are you all going?	False	False	1.4271649	494	494, 343, 614	0	864
+713	Peluangnya adalah dua dibanding satu.	A friend of mine is studying abroad.	The odds are two to one.	False	False	1.4757779	360	360, 828, 569	0	223
+714	Mereka ini adalah anak-anak laki-lakiku.	Who are you?	These are my boys.	False	False	1.3739656	506	506, 603, 491	0	75
+715	Berapa besar Anda mematok biaya per jamnya?	Who is your father?	How much do you charge by the hour?	False	True	1.3995283	603	603, 676, 57	0.3333333333333333	57
+716	Kuharap dia akan menungguku.	You hurt him.	I hope he'll wait for me.	False	False	1.4578563	450	450, 646, 536	0	670
+717	Apa yang Tom kenakan di pesta?	Who is your father?	What did Tom wear to the party?	False	False	1.4228123	603	603, 966, 676	0	693
+718	Saya tidak bisa ikut ke restoran bersamamu nanti malam.	You are always to knock before entering my room.	I can't go to the restaurant with you tonight.	False	False	1.408707	472	472, 76, 239	0	515
+719	Hari ini berawan dan kemungkinan hujan, jadi kita lebih baik tidak pergi berselancar.	It's a beautiful day here in Boston.	Since it's cloudy with a chance of rain today, we shouldn't go surfing.	False	False	1.418344	405	405, 953, 900	0	961
+720	Aku akan senang jika aku tidak perlu menghadapi permasalahan ini!	I love lasagna.	It would be wonderful if I didn't have to deal with this issue!	False	False	1.4134536	189	189, 97, 570	0	774
+721	Sebuah angin kencang berhembus kemarin.	A strong wind blew yesterday.	A strong wind blew yesterday.	True	True	1.4975278	571	571, 569, 70	1.0	571
+722	Aku ingin bertemu Tom.	I want to meet with Tom.	I want to meet with Tom.	True	True	1.4133534	589	589, 526, 128	1.0	589
+723	Kerugiannya mencapai satu juta dolar.	The loss amounts to a million dollars.	The loss amounts to a million dollars.	True	True	1.2526249	671	671, 238, 394	1.0	671
+724	Dia menolongku.	I hope he can help you.	He's helping me.	False	False	1.3967723	646	646, 96, 13	0	663
+725	Saya heran kenapa tak seorang pun memberi tahu saya.	Who is your father?	I wonder why nobody told me.	False	False	1.4426615	603	603, 189, 506	0	443
+726	Saya tidak mau lagi.	You are no longer a mere child.	I don't want any more.	False	False	1.4261968	943	943, 458, 987	0	665
+727	Apakah Tom memintamu untuk menulis ini?	Who are you?	Did Tom ask you to write this?	False	False	1.2622548	506	506, 603, 551	0	294
+728	Kamu memiliki pendengaran yang tajam.	I am deeply ashamed.	You have very acute hearing.	False	False	1.3929477	903	903, 70, 189	0	810
+729	Ayah akan membunuhku.	My dad will kill me.	My dad will kill me.	True	True	1.3628147	652	652, 450, 646	1.0	652
+730	Cucu saya itu, anak dari anak saya.	Who is your father?	My grandson is the son of my son.	False	True	1.319411	603	603, 491, 239	0.5	491
+731	Tolonglah aku.	Mary, please hug me.	I need help.	False	False	1.4261782	96	96, 646, 625	0	588
+732	Banyak maskapai penerbangan di bandar udara ini.	There are many airlines in this airport.	There are many airlines in this airport.	True	True	1.4166102	399	399, 538, 640	1.0	399
+733	Sudah hentikan.	One of my horses died yesterday.	Knock it off.	False	False	1.4600923	828	828, 70, 675	0	845
+734	Ini makanan.	This is true!	This is food.	False	False	1.4412696	232	232, 880, 708	0	370
+735	Banyak dari siswa SMA Amerika yang tidak tahu kalau Perang Saudara terjadi antara tahun 1861 dan 1865.	Many American high-school students do not know that the Civil War took place between 1861 and 1865.	Many American high-school students do not know that the Civil War took place between 1861 and 1865.	True	True	1.2847737	587	587, 548, 133	1.0	587
+736	Aku pikir kita harus memberitahu Tom yang sebenarnya.	I love lasagna.	I suppose we should tell Tom the truth.	False	False	1.3411206	189	189, 152, 646	0	778
+737	Saya hanya bergurau.	There is a stone in my shoe.	I am only joking.	False	False	1.4854498	569	569, 943, 414	0	850
+738	Itu bukanlah hal yang mengejutkan.	I can no more swim than a stone can.	That's not surprising.	False	False	1.3957343	28	28, 992, 595	0	348
+739	Oranye itu warna apa?	What colour is orange?	What colour is orange?	True	True	1.36752	133	133, 603, 469	1.0	133
+740	Kamu sedang buru-buru?	Who are you?	Are you in a hurry?	False	False	1.3607149	506	506, 603, 211	0	413
+741	Itu mengagumkan sekali, bukan?	Is he still mad?	That's awesome, right?	False	False	1.3335407	548	548, 725, 76	0	707
+742	Pembumian Mars dan Venus menjadi kenyataan beberapa generasi setelahnya.	Terraforming Mars and Venus became a reality generations later.	Terraforming Mars and Venus became a reality generations later.	True	True	1.2976205	812	812, 486, 634	1.0	812
+743	Terima kasih atas kedatangannya.	I am become death, the destroyer of worlds.	Thanks for dropping by.	False	False	1.3966258	70	70, 493, 96	0	610
+744	Apa semuanya baik-baik saja?	Is everything all right?	Is everything all right?	True	True	1.3136768	404	404, 76, 920	1.0	404
+745	Dia dikendalikan oleh ketakutannya.	I am deeply ashamed.	He was guided by his fears.	False	False	1.3903315	903	903, 104, 646	0	998
+746	Siapa ayahmu?	Who is your father?	Who is your father?	True	True	1.2359917	603	603, 506, 644	1.0	603
+747	Saya putuskan untuk berusaha sedikit lagi.	I can no more swim than a stone can.	I've decided to go a little further.	False	False	1.4681566	28	28, 943, 414	0	85
+748	Pernahkah kau mengunjungi Roma?	Is he still mad?	Have you ever visited Rome?	False	False	1.4145283	548	548, 506, 614	0	957
+749	Jam berapa sekarang?	Who are you?	What's the time?	False	False	1.3448951	506	506, 469, 603	0	38
+750	Kami perlu bicara dengan Anda.	We need to speak with you.	We need to speak with you.	True	True	1.383141	627	627, 880, 756	1.0	627
+751	Saya masuk ke dalam.	You are no longer a mere child.	I went inside.	False	False	1.380338	943	943, 569, 472	0	273
+752	Sepertinya ada lift di sekitar sana.	I am naked!	It looks like there's an elevator over there.	False	False	1.4206104	94	94, 603, 141	0	107
+753	Aku melempar satu.	I love lasagna.	I threw one.	False	False	1.4526199	189	189, 569, 733	0	982
+754	Kamu masih marah?	Is he still mad?	Is he still mad?	True	True	1.3876705	548	548, 94, 612	1.0	548
+755	Bisa tolong Anda tutup pintunya?	Who is your father?	Would you mind shutting the door?	False	False	1.4712234	603	603, 506, 569	0	916
+756	Saya tidak mau pergi ke sekolah.	You are always to knock before entering my room.	I don't want to go to school.	False	False	1.3879733	472	472, 494, 652	0	718
+757	Saya tidak bisa pergi.	I can't live without you.	I couldn't go.	False	False	1.3807931	987	987, 494, 458	0	521
+758	Dia tinggal di dekat kampus.	Is he still mad?	He lives off campus.	False	False	1.3772795	548	548, 360, 94	0	578
+759	Pria tua itu hampir tertabrak sebuah mobil.	There is a stone in my shoe.	The old man was almost hit by a car.	False	False	1.4618527	569	569, 94, 999	0	315
+760	Kamu adalah satunya harapan kita.	You are our only hope.	You are our only hope.	True	True	1.3430643	414	414, 189, 646	1.0	414
+761	Dia pergi memancing sebagai ganti bermain tenis.	A friend of mine is studying abroad.	He went fishing instead of playing tennis.	False	False	1.4584286	360	360, 505, 579	0	35
+762	Kalau saja kau adalah Tom, apa yang kau inginkan?	Who are you?	If you were Tom, what would you want?	False	True	1.3181875	506	506, 603, 686	0.3333333333333333	686
+763	Sepedamu mirip dengan milikku.	Who is your father?	Your bicycle is similar to mine.	False	False	1.4320333	603	603, 652, 189	0	137
+764	Kamu bisa masuk ke perpustakaan dengan bebas.	You can enter the library freely.	You can enter the library freely.	True	True	1.3394048	709	709, 676, 472	1.0	709
+765	Turunan itu sangat curam, lebih baik lewat sebelah kiri.	That slope is very steep, better go through the left side.	That slope is very steep, better go through the left side.	True	True	1.428689	455	455, 880, 828	1.0	455
+766	Aku suka toko ini.	You are always to knock before entering my room.	I like this store.	False	False	1.4993734	472	472, 569, 646	0	958
+767	Apakah kamu tidak tahu kalau tidak sopan untuk menanyakan usia kepada perempuan?	Who are you?	Do you not know that it's impolite to ask a woman how old she is?	False	False	1.369206	506	506, 603, 971	0	41
+768	Tintanya masih basah.	There is a stone in my shoe.	The ink is still wet.	False	True	1.4422302	569	569, 787, 360	0.5	787
+769	Apa yang dia cari?	Who is your father?	What did he look up?	False	False	1.3202138	603	603, 506, 469	0	947
+770	Aku makan apel.	I am eating an apple.	I am eating an apple.	True	True	1.3341594	141	141, 616, 189	1.0	141
+771	Saya ingin menunjukkan Tom apa yang kubawa hari ini.	Who is your father?	I'd like to show Tom what I bought today.	False	False	1.3770392	603	603, 76, 239	0	301
+772	Aku ingin tahu apa aku punya alasan untuk hidup?	Who are you?	I wonder if I have any reason to live.	False	False	1.3167505	506	506, 612, 152	0	785
+773	Satu hal yang aku tahu, aku tidak tahu apa-apa.	Who are you?	The one thing I know is that I know nothing.	False	False	1.3322611	506	506, 612, 644	0	346
+774	Aku berjalan-jalan di taman.	Is he still mad?	I'm taking a walk in a park.	False	False	1.4297603	548	548, 569, 94	0	173
+775	Jika aku bisa terlahir kembali, aku ingin jadi kucing.	If I'm reincarnated, I want to come back as a cat.	If I'm reincarnated, I want to come back as a cat.	True	True	1.4080226	956	956, 646, 629	1.0	956
+776	Silakan mampir ke kantor saya kapanpun juga.	You are always to knock before entering my room.	Drop by my office any time.	False	False	1.5039763	472	472, 189, 569	0	214
+777	Aku pikir kau perlu bertemu dengan Tom.	I love lasagna.	I thought you might want to see Tom.	False	False	1.4749705	189	189, 589, 498	0	128
+778	Aku tidak punya pilihan. Aku harus melakukan ini.	You are deceiving yourself.	I don't have a choice. I have to do this now.	False	False	1.3796597	756	756, 652, 270	0	811
+779	Aku lupa kalau Tom tahu cara memainkan akordion.	I want this garbage out of here.	I forgot Tom knew how to play the accordion.	False	False	1.5020585	972	972, 646, 768	0	82
+780	Aku sudah mencoba semuanya yang ada di toko, tapi tidak ada yang cocok denganku.	Are you in a bad mood?	I must have tried on everything in the shop, but nothing looked right on me.	False	False	1.350007	76	76, 472, 78	0	757
+781	Tom pingsan.	Thanks for helping Tom.	Tom blacked out.	False	False	1.5135858	666	666, 324, 845	0	910
+782	Dia tidak peduli dengan uang.	Are you in a bad mood?	He doesn't care about money.	False	False	1.3627784	76	76, 676, 94	0	968
+783	Kapan kamu mulai?	Who are you?	When did you start?	False	False	1.3465309	506	506, 603, 211	0	628
+784	Bisakah kau mengirimiku sebuah brosur?	Who is it?	Could you send me a brochure?	False	False	1.4885261	725	725, 506, 133	0	908
+785	Apa kamu menyukai kota ini?	Who are you?	How do you like this town?	False	False	1.2599742	506	506, 603, 76	0	597
+786	Tom meminjam sedikit uang dari Mary.	Tom borrowed some money from Mary.	Tom borrowed some money from Mary.	True	True	1.3170476	204	204, 617, 238	1.0	204
+787	Aku hampir saja tenggelam.	I love lasagna.	I came near to being drowned.	False	False	1.4217634	189	189, 249, 646	0	104
+788	Diet dan senam lantai, seperti crunch perut, dapat membantu mengecilkan perut buncit.	Diet and floor exercises, such as abdominal crunches, can help to get rid of a pot belly.	Diet and floor exercises, such as abdominal crunches, can help to get rid of a pot belly.	True	True	1.3632039	803	803, 134, 787	1.0	803
+789	Ombaknya tinggi.	Who is your father?	The waves are high.	False	False	1.3631036	603	603, 548, 569	0	697
+790	Permisi, saya lewat.	I love lasagna.	Excuse me, I'm coming through.	False	False	1.4427347	189	189, 472, 756	0	237
+791	Apa yang sudah kau perbuat pada Tom?	Who is your father?	What have you done to Tom?	False	False	1.3589954	603	603, 725, 506	0	138
+792	Selamat ulang tahun, Muriel!	Happy birthday, Muiriel!	Happy birthday, Muiriel!	True	True	1.2573192	187	187, 230, 333	1.0	187
+793	Apa kamu suka musik?	Who are you?	Do you like music?	False	False	1.3225312	506	506, 603, 406	0	481
+794	Dia sudah menyelesaikan pekerjaannya.	A friend of mine is studying abroad.	He has finished his work.	False	False	1.402178	360	360, 155, 94	0	30
+795	Beruntung kalau kamu bisa bernyanyi.	And here they are.	It's good if you can sing.	False	False	1.3503405	675	675, 211, 506	0	381
+796	Ayahku bersikeras memintaku untuk pergi melihat tempat itu.	Who is your father?	My father insisted I should go to see the place.	False	False	1.3918606	603	603, 40, 548	0	805
+797	Aku tidak mengharapkan apa-apa darimu.	Are you in a bad mood?	I don't expect anything from you.	False	False	1.2946931	76	76, 612, 644	0	683
+798	Dengan siapa saya bicara?	Who is your father?	Who am I talking with?	False	False	1.2891109	603	603, 506, 866	0	644
+799	Keluarkan tanganmu dari sakumu.	There is a stone in my shoe.	Take your hand out of your pocket.	False	True	1.4133952	569	569, 414, 841	0.3333333333333333	841
+800	Bisa tolong bantu saya sebentar?	Who is your father?	I'd like a little help.	False	False	1.5529721	603	603, 616, 569	0	915
+801	Aku sangat sibuk dengan pekerjaan ini akhir-akhir ini.	I'm tied up with this job recently.	I'm tied up with this job recently.	True	True	1.3702794	155	155, 903, 880	1.0	155
+802	Ramen instan tidak baik untuk kesehatanmu.	Cup ramen are bad for your health.	Cup ramen are bad for your health.	True	True	1.408319	992	992, 646, 900	1.0	992
+803	Apa yang membuat pikiranmu berubah?	Who is your father?	What made you change your mind?	False	False	1.3001697	603	603, 506, 152	0	974
+804	Apa yang membuatmu memutuskan untuk datang kemari?	Who is your father?	What made you decide to come here?	False	False	1.3301959	603	603, 616, 343	0	17
+805	Jangan bercanda!	Smile now, cry later!	Don't kid me!	False	False	1.4156914	953	953, 474, 844	0	363
+806	Kamu terlihat bahagia hari ini.	You are our only hope.	You look happy today.	False	True	1.4198816	414	414, 675, 639	0.3333333333333333	639
+807	Kemungkinan dia adalah seorang dokter.	My dad will kill me.	I think he is a doctor.	False	False	1.3763845	652	652, 788, 646	0	890
+808	Tidakkah kamu menyesal membuat tato itu?	What do you think this means?	Don't you regret getting that tattoo?	False	False	1.3083444	266	266, 506, 725	0	271
+809	Apa kau punya kopi?	Who wants hot chocolate?	Do you have any coffee?	False	False	1.4245588	616	616, 506, 469	0	517
+810	Mari kita mulai pestanya.	There is a stone in my shoe.	Let's start the party.	False	False	1.3977486	569	569, 189, 472	0	226
+811	Omongan orang ini adalah yang paling tidak masuk akal yang pernah aku dengar!	Who is your father?	This man's ramblings are the furthest from the truth I've ever heard!	False	False	1.3526127	603	603, 506, 414	0	69
+812	Kereta kita akan berangkat pukul 9. Jangan khawatir. Kita pasti bisa tepat waktu.	My dad will kill me.	"""Our train leaves at 9:00."" ""Don't worry. We'll make it."""	False	False	1.4260821	652	652, 472, 646	0	701
+813	Tom pandai matematika.	My brother swims well.	Tom is good at mathematics.	False	False	1.5205934	742	742, 96, 865	0	407
+814	Kita tidak dapat memahami sains tanpa sebuah hipotesis.	We cannot conceive science without a hypothesis.	We cannot conceive science without a hypothesis.	True	True	1.3460298	349	349, 28, 367	1.0	349
+815	Saya harap dia bisa membantuku.	I hope he can help you.	I hope he can help you.	True	True	1.4057045	646	646, 652, 13	1.0	646
+816	Jika Spenser tidak terus menambah dan menerjemahkan kalimat, para kontributor lain sudah pasti akan melampauinya.	If Spenser doesn't keep adding and translating sentences, the other contributors will surely surpass him.	If Spenser doesn't keep adding and translating sentences, the other contributors will surely surpass him.	True	True	1.3727899	838	838, 580, 28	1.0	838
+817	Aku merasa ingin berteriak dengan keras seakan aku ini gadis kecil.	I am naked!	I feel like crying out loud as if I were a little girl.	False	False	1.4103556	94	94, 189, 152	0	528
+818	Saya pergi ke sekolah pada Pukul delapan.	Who is your father?	I go to school at eight o'clock.	False	False	1.3574667	603	603, 472, 999	0	147
+819	Lakukan apapun yang diperlukan.	Do whatever it takes.	Do whatever it takes.	True	True	1.3955185	270	270, 548, 570	1.0	270
+820	Petunjuk penyusunan dari Ikea tidak selalu sempurna.	Ikea instructions are not always perfect.	Ikea instructions are not always perfect.	True	True	1.3943276	338	338, 618, 900	1.0	338
+821	Anak saya sangat mirip dengan ibunya.	My dad will kill me.	She looks just like her mother.	False	False	1.4128954	652	652, 189, 603	0	531
+822	Ibu dan ayah pulang ke rumah.	Mom and dad came back home.	Mom and dad came home.	False	True	1.3465279	261	261, 260, 333	0.5	260
+823	Apa kamu tahu jam berapa sekarang?	Who are you?	Do you know what time it is?	False	False	1.3006464	506	506, 551, 603	0	981
+824	Dia terlihat muda.	I am naked!	He looks young.	False	True	1.4481676	94	94, 548, 680	0.3333333333333333	680
+825	Mereka membayar bea masuk.	She gave me a ride home.	They paid customs duties.	False	False	1.4308091	505	505, 865, 569	0	798
+826	Pakaian apa yang paling kamu sukai?	Who are you?	What's your favorite item of clothing?	False	False	1.2892916	506	506, 603, 971	0	395
+827	Semalam, ia menelponku larut malam sekali.	There is a stone in my shoe.	She called me up very late last night.	False	False	1.4232328	569	569, 828, 472	0	894
+828	Buruan!	Try and swim!	Get a move on.	False	False	1.4338818	368	368, 232, 817	0	706
+829	Ada banyak sekali hal yang ingin kulakukan.	I can no more swim than a stone can.	There's so much I want to do.	False	False	1.3647287	28	28, 76, 367	0	762
+830	Aku mau pergi ke pusat kota.	What has brought you to this city?	I'm going downtown.	False	False	1.3877703	40	40, 825, 152	0	827
+831	Dia tidak sepenuhnya mempercayaiku.	You are no longer a mere child.	He doesn't altogether trust me.	False	False	1.3526487	943	943, 903, 987	0	611
+832	Tom tidak dapat mengendalikan dirinya ketika Mary mencium John.	Tom could replace Mary.	Tom couldn't control himself when he saw Mary kissing John.	False	True	1.3783598	150	150, 504, 690	0.5	504
+833	Kamp milik musuh telah terkepung sampai pagi tiba.	Until the morning, the camp of the enemy army was surrounded.	Until the morning, the camp of the enemy army was surrounded.	True	True	1.4222732	766	766, 141, 472	1.0	766
+834	Menurutku pistol itu tidak berpeluru, tapi kamu masih harus berhati-hati.	The men will be happy no matter what they get back.	I don't think the gun is loaded, but you should still be very careful.	False	False	1.4016314	570	570, 104, 756	0	16
+835	Saya akan kembali dalam tiga jam.	I'll be back in three hours.	I'll be back in three hours.	True	True	1.356174	365	365, 414, 333	1.0	365
+836	Saya tahu kamu tidak bisa mengerjakannya.	Who are you?	I knew you couldn't do it.	False	False	1.3491162	506	506, 603, 646	0	518
+837	Aku bersyukur kamu dapat melakukannya, Tom.	I hope he can help you.	I'm glad you could make it, Tom.	False	False	1.4121985	646	646, 756, 675	0	311
+838	Air dalam tanki tinggal sedikit, mungkin juga habis	Is he still mad?	There's little water in the tank, if any.	False	False	1.4566221	548	548, 70, 787	0	418
+839	Bolehkah saya meminjam itu?	Who is your father?	Can I borrow those?	False	False	1.3931842	603	603, 469, 506	0	297
+840	Ada masalah apa?	What colour is this fish?	What's the problem?	False	False	1.3121669	469	469, 406, 133	0	387
+841	Bisakah kamu lebih pelan?	What has brought you to this city?	Can you slow down a little?	False	False	1.4483134	40	40, 506, 820	0	119
+842	Pak White pergi ke Kanada.	Mr. White went to Canada.	Mr. White went to Canada.	True	True	1.4396094	168	168, 865, 360	1.0	168
+843	Dia akan menjadi dokter ketika sudah besar.	My dad will kill me.	He will be a doctor when he grows up.	False	False	1.3986948	652	652, 646, 152	0	352
+844	Orang tua saya tidak di rumah sekarang.	Who is your father?	My parents aren't home right now.	False	False	1.3882071	603	603, 264, 333	0	265
+845	Apa kamu butuh bantuan?	Who are you?	Do you need a hand?	False	True	1.3650211	506	506, 603, 406	0.3333333333333333	406
+846	Aku tidak keberatan dengan rencanamu.	I love lasagna.	I don't object to your plan.	False	False	1.3832321	189	189, 76, 612	0	893
+847	Orang Inggris pada umumnya konservatif.	Englishmen are, on the whole, conservative.	Englishmen are, on the whole, conservative.	True	True	1.5105747	858	858, 723, 746	1.0	858
+848	Tom memeluk Marie.	Tom abused my trust.	Tom embraces Marie.	False	False	1.5100678	625	625, 96, 569	0	832
+849	Saya tidak keberatan dengan itu.	You are deceiving yourself.	I don't have any problem with that.	False	False	1.3864853	756	756, 943, 603	0	99
+850	Saya belum yakin.	You are no longer a mere child.	I'm not sure yet.	False	False	1.4014236	943	943, 603, 756	0	478
+851	Tom ingin tahu apakah Mary bisa memahami bahasa Prancis.	Tom wondered if Mary could understand French.	Tom wondered if Mary could understand French.	True	True	1.350677	179	179, 616, 123	1.0	179
+852	"""Seragam apaan tuh?"" ""Oh ini! Aku mau main hoki soalnya."""	This is true!	"""Is that some sort of uniform?"" ""Oh right, it's because I play field hockey."""	False	False	1.4652661	232	232, 548, 351	0	728
+853	Ini tidak mungkin.	This is true!	It is impossible.	False	False	1.3579488	232	232, 817, 920	0	358
+854	Aku suka lasagna.	I love lasagna.	I love lasagna.	True	True	1.3327334	189	189, 666, 646	1.0	189
+855	Kami semua sangat bersemangat.	My heart aches for the starving children in Africa.	We're all very excited.	False	False	1.3662117	13	13, 756, 652	0	514
+856	Kenapa orang selalu terlalu sinis.	Why are people always so cynical?	Why are people always so cynical?	True	True	1.4313686	971	971, 603, 506	1.0	971
+857	Bagaimana perasaanmu sekarang, Tom?	Who is your father?	How are you feeling now, Tom?	False	False	1.3228439	603	603, 506, 302	0	317
+858	Bisakan itu diungkapkan dengan cara lain?	Can it be phrased in another way?	Can it be phrased in another way?	True	True	1.4100984	786	786, 28, 360	1.0	786
+859	Tom mempertegas bahwa dia tidak ingin bertemu dengan Mary.	Tom has confidence in Mary.	Tom made it clear that he didn't want to see Mary.	False	False	1.3607291	690	690, 548, 524	0	607
+860	Dia bisa mengatasi persoalan itu.	I hope he can help you.	He can cope with the problems.	False	False	1.3994362	646	646, 28, 652	0	996
+861	Dia meminjam banyak uang darinya.	My dad will kill me.	She owes him a lot of money.	False	False	1.4570346	652	652, 569, 28	0	617
+862	Tom mulai mengerti.	Your English is improving.	Tom began to understand.	False	False	1.4539828	880	880, 160, 83	0	747
+863	Tom selalu sehat.	I love lasagna.	Tom is always healthy.	False	False	1.4415448	189	189, 232, 586	0	937
+864	Cobalah berenang!	This is true!	Try and swim!	False	False	1.4596324	232	232, 323, 666	0	368
+865	Dia menganggap kalau dirinya berhasil berkat keberuntungannya.	We could not but admire his courage.	He attributes his success to good luck.	False	False	1.3572431	111	111, 817, 91	0	699
+866	Dari mana saja Anda?	Who are you?	Where've you been?	False	False	1.3243115	506	506, 603, 469	0	875
+867	Saya memperhatikan bahwa seekor binatang kecil sedang melihat ke arah kita.	There is a stone in my shoe.	I noticed that a small gray animal was looking toward us.	False	False	1.3613912	569	569, 548, 603	0	986
+868	Kamu tidak boleh datang terlambat ke sekolah.	You are always to knock before entering my room.	You must not be late for school.	False	False	1.4066908	472	472, 28, 40	0	26
+869	Hari ini kami tutup.	You are our only hope.	We're closed today.	False	False	1.4537725	414	414, 569, 472	0	339
+870	Ayo beritahu dia.	Mary, please hug me.	Let's go tell her.	False	False	1.4862924	96	96, 536, 920	0	362
+871	Bukankah dulu kamu adalah seorang guru?	Who is your father?	Didn't you used to be a teacher?	False	False	1.2853943	603	603, 506, 302	0	272
+872	Akhirnya! Mimpi kita menjadi nyata!	This is true!	Our dream has come true, at last!	False	False	1.4086095	232	232, 953, 603	0	342
+873	Saya masih belum menentukannya.	Who is your father?	I'm still undecided.	False	False	1.3746338	603	603, 360, 239	0	601
+874	Aku sudah melakukan pekerjaan itu selama lima tahun.	I've been in that line of work for five years.	I've been in that line of work for five years.	True	True	1.3197725	145	145, 155, 972	1.0	145
+875	Saya tidak takut hantu.	I am naked!	I'm not frightened of ghosts.	False	False	1.3633263	94	94, 569, 506	0	593
+876	Kamu sakit?	Who is your father?	What's the matter?	False	False	1.4163462	603	603, 616, 548	0	68
+877	Dia nampak bingung.	I love lasagna.	She looks confused.	False	False	1.4483526	189	189, 442, 70	0	310
+878	Aku bisa bercerita tentang banyak hal dengan sahabatku.	I can talk about anything with my best friend.	I can talk about anything with my best friend.	True	True	1.3626664	401	401, 297, 646	1.0	401
+879	Saya sangat menyukai kalian.	I love lasagna.	I like you very much.	False	False	1.3994093	189	189, 652, 756	0	24
+880	Aku hanya memberi tahu Tom apa yang Mary beritahu padaku.	I love lasagna.	I only told Tom what Mary told me.	False	False	1.4131508	189	189, 526, 152	0	215
+881	Apakah di sini salju turun dengan deras saat musim dingin?	Who wants hot chocolate?	Does it snow a lot here in the winter?	False	True	1.4167461	616	616, 760, 432	0.5	760
+882	Kalaupun aku seorang homoseksual, apakah itu termasuk perbuatan kriminal?	Who are you?	And if I were gay, would that be a crime?	False	False	1.3496546	506	506, 725, 603	0	833
+883	Dia takut adiknya akan gagal.	My dad will kill me.	He has a fear that his brother will fail.	False	False	1.4016421	652	652, 94, 817	0	524
+884	Sebaiknya kamu mendapat pemeriksaan dokter.	We sent for a doctor.	You had better consult the doctor.	False	False	1.4372468	865	865, 646, 189	0	228
+885	Tom tidak yakin kau akan suka dengan ide itu.	My dad will kill me.	Tom didn't think you would like the idea.	False	False	1.4501776	652	652, 126, 612	0	688
+886	Apa kau pikir seorang pengidap neurosis akan menyebut dirinya begitu?	Who is your father?	Do you think real neurotics really go and call themselves such?	False	False	1.430157	603	603, 152, 506	0	535
+887	Berapa lama kamu dan Tom bersama?	How long were you and Tom together?	How long were you and Tom together?	True	True	1.336335	304	304, 603, 506	1.0	304
+888	Kelinci punya telinga yang panjang.	There is a stone in my shoe.	Rabbits have long ears.	False	False	1.3966622	569	569, 756, 816	0	482
+889	Saya harus menolong Tom.	Go home to your wife, Tom.	I need to help Tom.	False	False	1.4031918	333	333, 646, 652	0	484
+890	Anda tidak boleh kehilangan kesabaran Anda ketika menangani anak-anak.	I hope he can help you.	You should not lose your patience when dealing with kids.	False	True	1.3991003	646	646, 13, 767	0.3333333333333333	767
+891	Saya tidak tertarik kepada agama Anda.	May I ask who you are?	I'm not interested in your religion.	False	False	1.3447021	530	530, 506, 603	0	93
+892	Kita semua harus makan.	My dad will kill me.	We all have to eat.	False	False	1.4074128	652	652, 880, 205	0	243
+893	Walikota menunjukkan kepada para warga bagaimana caranya bertindak.	Who is your father?	The mayor prescribed to the citizens how to act.	False	False	1.3940115	603	603, 91, 491	0	806
+894	Adakah masalah dengan cara mereka membesarkan anak-anaknya?	Who is your father?	What does it matter how they bring up their own children?	False	False	1.3209419	603	603, 506, 971	0	44
+895	Pengelola investasi global kaya raya ini memiliki sebuah rumah di Hampton.	This wealthy hedge fund manager has a home in the Hamptons.	This wealthy hedge fund manager has a home in the Hamptons.	True	True	1.4246202	779	779, 360, 108	1.0	779
+896	Pizza favorit saya adalah pizza pepperoni.	My favorite pizza is pepperoni pizza.	My favorite pizza is pepperoni pizza.	True	True	1.1247184	108	108, 109, 189	1.0	108
+897	Aku hanyalah seorang laki-laki.	You are no longer a mere child.	I'm just a man.	False	False	1.4304626	943	943, 506, 756	0	809
+898	Permisi, apakah Tom di sini hari ini?	Who is your father?	Excuse me, is Tom here today?	False	False	1.368897	603	603, 725, 506	0	300
+899	Berhenti memandangnya dengan tampang bodoh seperti itu.	There is a stone in my shoe.	Stop gawking at him.	False	False	1.3291979	569	569, 94, 76	0	780
+900	Kamu minum berapa banyak semalam?	Where is my seat?	How much did you drink last night?	False	False	1.3906612	239	239, 864, 603	0	149
+901	Ayo masuk kembali ke dalam.	Go home to your wife, Tom.	Let's go back in.	False	False	1.4854102	333	333, 112, 943	0	685
+902	Ada banyak dugaan mengenai asal usul bahasa, tetapi faktanya tidak ada seorangpun yang tahu secara pasti.	Is my answer correct?	There are many guesses about how language began, but the fact is that no one really knows.	False	True	1.3624105	855	855, 39, 443	0.5	39
+903	Hari ini tidak seperti kemarin, sama sekali tidak panas.	Will it rain this afternoon?	It isn't anywhere near as hot today as it was yesterday.	False	True	1.3611562	432	432, 164, 522	0.3333333333333333	522
+904	Sekarang dia tidak ada di sini. Mengapa kamu mencarinya?	Who are you?	He is not here right now. Why are you looking for him?	False	False	1.2680988	506	506, 603, 548	0	583
+905	Katakan padaku kenapa kau tidak melakukan apa yang aku minta.	Do you hate me?	Tell me why you didn't do what I asked.	False	False	1.3883355	612	612, 506, 270	0	826
+906	Aku pergi ke kebun binatang kemarin.	There is a stone in my shoe.	I went to the zoo yesterday.	False	False	1.4667687	569	569, 472, 104	0	645
+907	Aku tidak peduli Tom terlihat seperti apa.	Are you in a bad mood?	I don't care what Tom looks like.	False	False	1.3643715	76	76, 971, 612	0	499
+908	Tom mematikan lampu dan pergi tidur.	Is he still mad?	Tom turned off the light and went to sleep.	False	False	1.3836776	548	548, 83, 901	0	840
+909	Kalimat ini tidak jelas.	This sentence is boring.	This paragraph is vague.	False	False	1.3693938	558	558, 723, 548	0	446
+910	Biarkan saya mencoba!	Cut it out!	Let me try!	False	False	1.3888445	844	844, 506, 603	0	921
+911	Siapa yang memberitahumu aku sakit?	Who is your father?	Who told you I was sick?	False	True	1.2466393	603	603, 152, 506	0.5	152
+912	Kamu pasti salah hitung.	I love lasagna.	You must've measured wrong.	False	False	1.4434779	189	189, 472, 414	0	429
+913	Dia harus membeli sebuah mobil bekas.	She is looking for her car keys.	He should have bought a used car.	False	False	1.41925	935	935, 406, 917	0	631
+914	Aku bersiap untuk kemungkinan terburuk.	My heart aches for the starving children in Africa.	I'm getting ready for the worst.	False	False	1.3866091	13	13, 646, 189	0	679
+915	Apa kamu punya pertanyaan tentang makanannya?	Who is your father?	Do you have any questions about the food?	False	False	1.3804812	603	603, 506, 469	0	234
+916	Kau harus berkonsultasi dengan doktermu.	You should consult your doctor.	You should consult your doctor.	True	True	1.3301528	877	877, 472, 646	1.0	877
+917	Baju itu memikat hatinya untuk masuk ke dalam toko	I want this garbage out of here.	The dress allured her into the store.	False	False	1.4209876	972	972, 76, 569	0	416
+918	Tadinya dia akan makan malam bersama kami, tetapi tiba-tiba dia jatuh sakit.	My dad will kill me.	He was to have dined with us, but he became seriously sick all of a sudden.	False	False	1.4584111	652	652, 548, 472	0	216
+919	Apakah kamu menyukai kejutan?	Who are you?	Do you like surprises?	False	False	1.3327959	506	506, 612, 603	0	267
+920	Dia tidak bermaksud menyakiti perasaanmu.	Do you hate me?	He did not intend to hurt your feelings.	False	False	1.3224177	612	612, 756, 903	0	633
+921	Kamera ini berapa harganya?	How much is this camera?	How much is this camera?	True	True	1.3300022	121	121, 469, 603	1.0	121
+922	Tidak ada orang yang cukup memperhatikan Tom.	The first necessary thing in choosing books to read is to select those which really interest you.	Nobody pays much attention to Tom.	False	False	1.4226108	367	367, 28, 440	0	329
+923	Petugas Bea dan Cukai meminta saya untuk membuka koper saya.	Who wants hot chocolate?	A customs official asked me to open my suitcase.	False	False	1.3361356	616	616, 506, 664	0	871
+924	Aku ingin menguasai bahasa Inggris.	I need someone who can speak French.	I'd like to master English.	False	False	1.3583142	347	347, 880, 28	0	556
+925	Dia tidak mengangkat teleponnya, pasti dia sedang tidur.	Is he still mad?	He must have been sleeping because he didn't answer the telephone.	False	False	1.2420655	548	548, 618, 506	0	29
+926	Bangunan besar itu gemerlap dengan cahaya.	There is a stone in my shoe.	The big building was blazing with lights.	False	False	1.3529384	569	569, 70, 756	0	49
+927	Tom dibingungkan oleh pertanyaan itu.	My mother excused his mistake.	Tom was confused by the question.	False	False	1.4105203	661	661, 723, 569	0	720
+928	Mukamu pucat, kamu gak apa-apa? Ke rumah sakit aja sekarang.	Is he still mad?	Your face looks pale. Are you OK? Maybe it would be better if you went to the hospital, don't you think?	False	False	1.4687703	548	548, 506, 603	0	905
+929	Pemburu tersebut menembak seekor beruang.	A cat appeared from under the desk.	The hunter shot a bear.	False	True	1.5156189	0	0, 668, 980	0.5	668
+930	Mari kita rayakan hari ulang tahun ini dengan meriah!	Happy birthday, Muiriel!	Let's have a good birthday celebration!	False	False	1.4013723	187	187, 414, 230	0	789
+931	Tom masih TK, kan?	Did Tom call?	Tom is still in kindergarten, isn't he?	False	False	1.4106287	526	526, 966, 603	0	60
+932	Mereka akan mengikutimu.	They will follow you.	They will follow you.	True	True	1.3329234	557	557, 652, 880	1.0	557
+933	Apakah Tom mengetahui apa yang harus dilakukan dengan ini?	Who is it?	Does Tom know what to do with this?	False	False	1.2844353	725	725, 506, 603	0	293
+934	Dia kembali dari Singapura bulan Januari depan.	He comes back from Singapore next January.	He comes back from Singapore next January.	True	True	1.296414	251	251, 917, 202	1.0	251
+935	Dapatkah kamu melihatku, Tom?	Who are you?	Could you look at me, Tom?	False	False	1.2402474	506	506, 603, 551	0	314
+936	Mereka menentang teori evolusi Darwin.	They opposed Darwin's theory of evolution.	They opposed Darwin's theory of evolution.	True	True	1.335342	773	773, 349, 28	1.0	773
+937	Saya tidak serajin kakak saya.	Who is your father?	I am not so diligent as my brother.	False	False	1.4003838	603	603, 472, 652	0	440
+938	Itu Tom. Apa yang dia lakukan di luar sana?	What colour is this fish?	It's Tom. What's he doing out here?	False	False	1.3581122	469	469, 725, 603	0	110
+939	Tom tidak sedang berada di kamarnya.	Is he still mad?	Tom is not in his bedroom.	False	True	1.3347481	548	548, 76, 941	0.3333333333333333	941
+940	Kamu sedang melihat apa?	Who are you?	What are you all looking at?	False	False	1.3532118	506	506, 616, 603	0	195
+941	Ini adalah tempat yang sangat bagus.	Cup ramen are bad for your health.	This is a fantastic place.	False	False	1.368073	992	992, 880, 603	0	512
+942	Kita harus menghindari perang nuklir apapun yang terjadi.	Who is your father?	We have to avoid the nuclear war by all means.	False	True	1.3765794	603	603, 541, 506	0.5	541
+943	Dia belajar keras agar dapat lulus di ujian masuk.	He is working hard in order to pass the entrance examination.	He is working hard in order to pass the entrance examination.	True	True	1.4009689	563	563, 410, 562	1.0	563
+944	Saya sudah jelaskan padanya.	Who is your father?	I explained it to him.	False	False	1.3716588	603	603, 40, 174	0	564
+945	Buku ini milikmu?	Who is your father?	Is this book yours?	False	True	1.3013048	603	603, 506, 252	0.3333333333333333	252
+946	Apa yang biasanya kamu lakukan saat libur?	How much do you charge by the hour?	What do you usually do on holidays?	False	False	1.3798862	57	57, 603, 506	0	604
+947	Angkat kepalamu.	I love lasagna.	Turn on your back.	False	False	1.4214133	189	189, 646, 96	0	622
+948	Taman itu dikelola oleh pemerintah.	A friend of mine is studying abroad.	The park is governed by the city.	False	False	1.4279127	360	360, 891, 464	0	124
+949	Wajahnya memerah.	There is a stone in my shoe.	Her face became pink.	False	False	1.389606	569	569, 70, 189	0	997
+950	Ini membahayakan kesehatan Anda.	I hope he can help you.	This is a hazard to your health.	False	False	1.3879702	646	646, 943, 414	0	475
+951	Saya tahu dia tidak dapat bekerja lagi.	I can no more swim than a stone can.	I know that he can no longer work.	False	True	1.3829075	28	28, 175, 646	0.5	175
+952	Semangat!	This is true!	Go for it.	False	False	1.4109347	232	232, 474, 371	0	708
+953	Kami membuat kue dadar untuk makan pagi.	We made pancakes for breakfast.	We made pancakes for breakfast.	True	True	1.3381503	664	664, 141, 108	1.0	664
+954	Tom percaya pada Mary.	I saw Tom and Mary leave together.	Tom has confidence in Mary.	False	False	1.3477323	83	83, 507, 218	0	690
+955	Aku muak.	I love lasagna.	I'm fed up.	False	False	1.4424081	189	189, 141, 982	0	862
+956	Mereka memutuskan untuk bermukim di Virginia tahun itu	They decided to settle down in Virginia that year.	They decided to settle down in Virginia that year.	True	True	1.2886138	419	419, 614, 412	1.0	419
+957	Pernah melihat UFO?	What colour is orange?	Have you ever seen a UFO?	False	False	1.4328315	133	133, 676, 526	0	207
+958	Mata Tom biru.	This is true!	Tom's eyes are blue.	False	False	1.4868186	232	232, 625, 880	0	3
+959	Karena itulah dia tidak pergi belajar ke luar negeri.	Why did you fail on the entrance examination?	That's why he did not go overseas to study.	False	False	1.408402	561	561, 614, 618	0	116
+960	Mungkin Tom akan menyukai itu.	My dad will kill me.	Maybe Tom would like that.	False	False	1.4046212	652	652, 189, 646	0	283
+961	Silakan isi Pemberitahuan Pabean.	I am all ears.	Please fill out the Customs Declaration Form.	False	False	1.6078703	442	442, 70, 675	0	815
+962	Sudah berapa lama kamu dan Tom bersama?	How long were you and Tom together?	How long have you and Tom been together?	False	False	1.2877071	304	304, 603, 506	0	303
+963	Ia tidak punya kemampuan untuk menjadi seorang guru.	He has a good chance to succeed.	He has no capacity to be a teacher.	False	False	1.4039401	743	743, 367, 618	0	489
+964	Aku merasa sangat lelah.	I love lasagna.	I feel really tired.	False	False	1.3494499	189	189, 141, 94	0	752
+965	Harganya terlalu mahal!	Enough is enough!	The price is too high.	False	False	1.433295	817	817, 232, 474	0	394
+966	Apa yang selalu membuatmu khawatir?	Are you in a bad mood?	What's always on your mind?	False	False	1.3054852	76	76, 152, 612	0	72
+967	Aku akan naik ke lantai atas.	You are always to knock before entering my room.	I'll go upstairs.	False	False	1.4219444	472	472, 569, 189	0	201
+968	Ini adalah sushi yang enak.	This is good sushi.	This is good sushi.	True	True	1.250617	268	268, 880, 232	1.0	268
+969	Aku tidak pernah berkata itu.	Do I have your word on that, Tom?	I've never said that.	False	False	1.3816125	327	327, 971, 189	0	36
+970	Apakah Anda memiliki asuransi jiwa?	Who are you?	Do you have life insurance?	False	False	1.3039513	506	506, 391, 274	0	946
+971	Di sekolah ini ada 41 guru dan sekitar 800 siswa.	There are forty-one teachers and about eight hundred students in this school.	There are forty-one teachers and about eight hundred students in this school.	True	True	1.4096242	32	32, 880, 579	1.0	32
+972	Saya suka coklat.	You are always to knock before entering my room.	I like chocolate.	False	False	1.4638522	472	472, 569, 360	0	888
+973	Hari ini saya ada waktu luang.	There is a stone in my shoe.	It's a slow day, huh.	False	False	1.3972594	569	569, 472, 880	0	632
+974	Kami tidur.	Your English is improving.	We are sleepy.	False	False	1.3999083	880	880, 569, 472	0	95
+975	Dia meremas tangannya.	You hurt him.	He squeezed her hand.	False	False	1.4015112	450	450, 536, 569	0	477
+976	Sulit untukku mempercayai berita itu.	There is a stone in my shoe.	I could hardly believe my ears when I heard the news.	False	False	1.4037324	569	569, 414, 943	0	51
+977	Dia telah mengajar musik selama 30 tahun.	She taught music for thirty years.	She taught music for thirty years.	True	True	1.2666688	674	674, 236, 415	1.0	674
+978	Ketika Sir Alex Ferguson melihat pemainnya mulai kelelahan, dia selalu mengganti mereka.	When Sir Alex Ferguson saw that his players were getting tired, he always substituted them.	When Sir Alex Ferguson saw that his players were getting tired, he always substituted them.	True	True	1.2577703	20	20, 548, 383	1.0	20
+979	Pizza favorit saya adalah Hawaiian Pizza.	My favorite Pizza is Hawaiian.	My favorite Pizza is Hawaiian.	True	True	1.2298694	109	109, 108, 992	1.0	109
+980	Kamu tidak tahu siapa aku, kan?	Who are you?	You have no idea who I am, do you?	False	False	1.2601621	506	506, 530, 612	0	65
+981	Aku benar-benar tidak memahamimu.	Do you hate me?	I don't get you at all.	False	False	1.298008	612	612, 76, 506	0	42
+982	Apakah Anda sudah pergi ke tempat pemungutan suara?	Who is your father?	Have you already gone to the polls today?	False	False	1.3033407	603	603, 506, 616	0	235
+983	Kamu tidak apa-apa?	Who are you?	Are you alright?	False	False	1.3041992	506	506, 603, 612	0	78
+984	Aku takut kucing.	There is a stone in my shoe.	I'm afraid of cats.	False	False	1.4469738	569	569, 94, 189	0	960
+985	Apa kamu sudah lihat ini?	Who are you?	Have you seen this?	False	False	1.2423022	506	506, 551, 603	0	590
+986	Serigala biasanya tidak menyerang manusia.	Wolves won't usually attack people.	Wolves won't usually attack people.	True	True	1.3339885	746	746, 482, 668	1.0	746
+987	Tom tidak bohong.	Thanks for helping Tom.	Tom doesn't lie.	False	False	1.4740833	666	666, 189, 708	0	375
+988	Siapa?	What colour is this fish?	Who is it?	False	False	1.2738881	469	469, 966, 616	0	725
+989	Sudah hujan di hutan.	One of my horses died yesterday.	It has rained in the forest.	False	False	1.4536885	828	828, 569, 953	0	89
+990	Mudah didapat, mudah hilang.	I am become death, the destroyer of worlds.	Easy come, easy go.	False	False	1.3978149	70	70, 817, 96	0	247
+991	Gaya rambut itu cocok di kalangan siswa SMA perempuan.	The hairstyle has caught on with the girl students.	The hairstyle has caught on with the girl students.	True	True	1.3502054	730	730, 13, 992	1.0	730
+992	Dia memberikannya sesuatu untuk diminum.	We sent for a doctor.	She gave him something to drink.	False	False	1.4410552	865	865, 652, 661	0	600
+993	Televisi tidak berfungsi.	I can no more swim than a stone can.	The TV doesn't work.	False	False	1.4402516	28	28, 548, 880	0	254
+994	Mereka berkata seperti apa?	What are they saying?	What are they saying?	True	True	1.202046	938	938, 506, 603	1.0	938
+995	Pada pagi saya tiba di sana, saya berjalan-jalan dalam hutan Oak	There is a stone in my shoe.	The morning after I arrived there, I took a walk into the woods of oaks.	False	True	1.4717796	569	569, 472, 425	0.3333333333333333	425
+996	Bisakah kau tidak ikut campur dalam urusan ini?	What has brought you to this city?	Could you stay out of this?	False	False	1.3791499	40	40, 603, 548	0	761
+997	Bagaimana bisa tercapai simpulan seperti ini?	Who is your father?	How did you arrive at this conclusion?	False	False	1.3906405	603	603, 506, 238	0	353
+998	Aku ingin tahu apa hidupku ini berharga?	Who are you?	I wonder if my life is worth living.	False	False	1.3548472	506	506, 603, 76	0	784
+999	Kau - tolong jangan marah - komunis aneh.	Stop gawking at him.	You are - do not be angry, please - a strange communist.	False	False	1.5272299	780	780, 569, 723	0	103

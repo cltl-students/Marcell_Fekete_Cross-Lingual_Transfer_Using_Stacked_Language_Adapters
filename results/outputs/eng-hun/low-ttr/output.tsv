@@ -1,0 +1,1001 @@
+	Sentence	Predicted	Gold	K_1_correct	K_3_correct	K_1_scores	K_1_predicted_indices	K_3_predicted_indices	Reciprocal_ranks	True_indices
+0	Nem szavaztam.	You sent me your photo.	I didn't vote.	False	False	1.3398958	779	779, 738, 364	0	221
+1	- Még valamit? - Nem, ennyi volt az egész.	Did I miss something?	"""Anything else?"" ""No, that's all."""	False	False	1.296299	39	39, 738, 875	0	417
+2	Merry fél a kutyáktól.	I saw somebody steal the merchandise.	Merry is scared of dogs.	False	False	1.4288094	835	835, 375, 864	0	694
+3	Nagy nap ez a mai, fiam!	This is silly!	Today is a big day, son!	False	True	1.3272846	830	830, 758, 344	0.5	758
+4	Linda nagyon szereti a csokoládét.	Linda likes chocolate very much.	Linda likes chocolate very much.	True	True	1.3623804	809	809, 158, 694	1.0	809
+5	Na végre, hogy esik!	Please let go of my arm.	Thank God, it is finally raining.	False	False	1.3819433	381	381, 300, 495	0	605
+6	El fogom olvasni ezt a könyvet.	The 23 fits you better.	I'll read this book.	False	False	1.3851897	375	375, 738, 779	0	565
+7	Végül a busz megállt.	I went down by elevator.	At last, the bus stopped.	False	True	1.231176	483	483, 6, 590	0.3333333333333333	590
+8	Úgy gondolom, még várhatnánk egy fél órát.	The 23 fits you better.	I think we should wait another half an hour.	False	False	1.3229526	375	375, 256, 738	0	78
+9	A hozzászólásaid mindig nagyon hasznosak számomra.	Do you mind their coming too?	Your comments were always very helpful to me.	False	False	1.4291077	91	91, 738, 375	0	938
+10	Mi egy pár vagyunk.	Will you go with Tom?	We're a couple.	False	False	1.3067783	304	304, 388, 875	0	849
+11	Két szép fia van.	He has two beautiful boys.	He has two beautiful boys.	True	True	1.3216364	284	284, 158, 548	1.0	284
+12	A fenébe! Nem találom a pénztárcámat.	You are drunk!	Damn! I can't find my wallet.	False	False	1.3941287	612	612, 364, 875	0	395
+13	Nem tudtam, hová mehetnék.	Leave that there.	I didn't know where to go.	False	False	1.3320063	300	300, 326, 291	0	316
+14	Az élet csodaszép.	Storm in a teacup.	Life is sweet.	False	False	1.4218631	728	728, 375, 628	0	143
+15	Kötelező autót bérelni?	You have foul breath.	Is it obligatory to rent a car?	False	False	1.2935934	738	738, 247, 69	0	568
+16	Nem vagyok az a trendi típus.	Leave that there.	I'm not the trendy type.	False	False	1.3112102	300	300, 591, 411	0	99
+17	Jó nap ez a mai!	This is silly!	Today is a good day!	False	False	1.3669832	830	830, 495, 411	0	753
+18	Önök beszélnek oroszul?	Do you speak Russian?	Do you speak Russian?	True	True	1.3661885	881	881, 948, 359	1.0	881
+19	A zene túl hangos.	You have foul breath.	The music is too loud.	False	False	1.2955953	738	738, 300, 294	0	576
+20	Igaz, hogy művelt, de hiányzik belőle a bölcsesség.	There is nothing to be scared of.	It is true he is a learned man, but he lacks common sense.	False	False	1.2761215	38	38, 554, 184	0	457
+21	Kérem, hogy hétfőn jöjjön.	Give me the knife.	Please come on Monday.	False	False	1.3412006	491	491, 375, 738	0	645
+22	Mindig elsőként nyílik panaszra a szája.	The 23 fits you better.	He's always the first to complain.	False	False	1.2685072	375	375, 91, 835	0	197
+23	Mindenki azt akarja hallani, amit hallani akar.	Everyone wants to hear what everyone wants to hear.	Everyone wants to hear what everyone wants to hear.	True	True	1.2528726	883	883, 388, 864	1.0	883
+24	Tom odaégette a borjút.	The 23 fits you better.	Tom branded the calf.	False	False	1.2556734	375	375, 482, 454	0	125
+25	Ha nincs hír, az jó hír.	Get your arse into gear!	No news is good news.	False	False	1.3127577	734	734, 491, 569	0	967
+26	Nem itta meg a tejet.	You sent me your photo.	She didn't drink the milk.	False	False	1.3458921	779	779, 375, 628	0	531
+27	Két óra van.	You have foul breath.	It's two o'clock.	False	False	1.3223993	738	738, 388, 300	0	754
+28	Ez mind miattad van.	That ship has sailed.	All of this is because of you.	False	False	1.3895044	611	611, 300, 998	0	988
+29	A kommunizmustól való félelem nagyon erős volt abban az időben.	Fear of communism was very strong at that time.	Fear of communism was very strong at that time.	True	True	1.1822636	934	934, 933, 977	1.0	934
+30	Tomi mindig panaszkodik, igaz?	Do you mind their coming too?	Tom always complains, doesn't he?	False	True	1.2930453	91	91, 25, 534	0.3333333333333333	534
+31	Tom sokat beszél.	Leave that there.	Tom talks quite a lot.	False	False	1.3664582	300	300, 364, 150	0	333
+32	Mi történt ott pontosan?	What are they doing there?	What exactly happened there?	False	False	1.3609558	353	353, 400, 943	0	928
+33	Mi az ő foglalkozása?	Who is sick?	What's her occupation?	False	False	1.3557304	400	400, 353, 802	0	586
+34	Gondoltam, hogy talán akarnál enni valamit.	You have foul breath.	I thought you might like something to eat.	False	False	1.3347919	738	738, 375, 628	0	85
+35	Ez hülye!	This is silly!	This is silly!	True	True	1.3289564	830	830, 495, 437	1.0	830
+36	Kell nekem egy bélyeg.	The 23 fits you better.	I need a stamp.	False	False	1.362323	375	375, 738, 779	0	258
+37	Szabad még egyszer hívnom téged?	Do you mind their coming too?	May I call on you again?	False	False	1.4015353	91	91, 220, 344	0	88
+38	Ez a szó nem található a listán.	This word is not found in the list.	This word is not found in the list.	True	True	1.2545351	663	663, 266, 217	1.0	663
+39	Azt gondoltam, helyesen cselekszem.	You have foul breath.	I thought I was doing the right thing.	False	False	1.3162187	738	738, 300, 628	0	51
+40	Nem hiszem el, hogy Tom igent mondott.	Leave that there.	I can't believe Tom said yes.	False	False	1.2322271	300	300, 482, 364	0	490
+41	Te nem törődsz velem.	We'll do fine without you.	You don't care about me.	False	False	1.4250562	455	455, 738, 779	0	323
+42	Hívom az ügyvédemet.	You sent me your photo.	I'm calling my lawyer.	False	False	1.3278931	779	779, 738, 491	0	528
+43	Nem lesz ennek jó vége.	Leave that there.	This isn't going to end well.	False	False	1.3112805	300	300, 875, 817	0	73
+44	A csoki édes.	Leave that there.	Chocolate tastes sweet.	False	False	1.4415016	300	300, 779, 294	0	133
+45	Csakugyan tetszik?	What are they doing there?	Do you really like it?	False	False	1.3957095	353	353, 400, 633	0	587
+46	A megjelenés kötelező.	Someone stole my travelers checks.	Attendance is mandatory.	False	False	1.3166084	396	396, 738, 139	0	239
+47	Sokat jelent nekem.	Leave that there.	It means a lot to me.	False	False	1.3361676	300	300, 779, 375	0	661
+48	Egy ember meghalt.	Leave that there.	One person was killed.	False	False	1.3144655	300	300, 454, 611	0	683
+49	Egyszer majd sajnálni fogod ezt.	The 23 fits you better.	You will be sorry for it some day.	False	False	1.3256449	375	375, 482, 971	0	526
+50	A világegyetem kétségtelenül végtelen.	Our teacher is a gentleman in the true sense of the word.	There's no doubt: the universe is infinite.	False	False	1.3300606	672	672, 762, 835	0	535
+51	Tomi halála után röviddel a felesége újraházasodott.	More and more couples go on honeymoon trips abroad.	Tom's wife remarried shortly after his death.	False	False	1.3244395	183	183, 351, 16	0	35
+52	A fia hét éve eltűnt.	You have foul breath.	His son disappeared seven years ago.	False	False	1.3115468	738	738, 611, 300	0	346
+53	Azon az estén korán feküdtem le.	I will speak to her alone.	I went to bed early that night.	False	False	1.4077495	287	287, 300, 705	0	854
+54	Biztos vagyok benne, hogy tetszik az új munkád.	The 23 fits you better.	I'm sure you like your new job.	False	False	1.2538826	375	375, 300, 455	0	334
+55	George hasba vágta őt.	Storm in a teacup.	George hit him in the stomach.	False	False	1.3554366	728	728, 450, 139	0	954
+56	a szexuális zaklatás komoly probléma lehet a munkahelyen.	The doctor has taken a swab from the mucous membrane.	Sexual harassment can be a serious problem in the workplace.	False	False	1.3248091	886	886, 540, 824	0	974
+57	Nagyon szeretek síelni.	Children love to dig in the sand.	I like skiing very much.	False	False	1.2449117	174	174, 300, 738	0	676
+58	Sírt-rítt.	That ship has sailed.	He cried and cried.	False	False	1.5587767	611	611, 603, 375	0	927
+59	Minden adandó alkalommal írok.	The 23 fits you better.	I write every chance I get.	False	False	1.4015038	375	375, 174, 734	0	905
+60	A vihar még hevesebbé vált.	The 23 fits you better.	The storm became even more violent.	False	False	1.2410619	375	375, 728, 485	0	303
+61	Tom éppen rám néz.	You got shot, Tom.	Tom is looking at me.	False	False	1.2782094	482	482, 375, 25	0	263
+62	Japán tele van meglepetésekkel.	Take it home.	Japan is full of surprises!	False	False	1.2620618	797	797, 738, 396	0	495
+63	Látni akarjuk.	Leave that there.	We want to see it.	False	False	1.3627155	300	300, 454, 971	0	945
+64	Ausztrália fiataljainak nevében beszélünk.	Children love to dig in the sand.	We are speaking on behalf of the young people of Australia.	False	True	1.3149519	174	174, 342, 450	0.5	342
+65	A fotót meghamisították.	I need a stamp.	The photograph was falsified.	False	False	1.2327203	258	258, 139, 916	0	41
+66	Nagyon sürgős ez a dolog.	This is silly!	This matter is very urgent.	False	False	1.2601408	830	830, 455, 605	0	690
+67	Elolvadt a hógolyó a kezemben.	Blue suits you well.	The snowball melted in my hand.	False	False	1.4209802	628	628, 294, 696	0	603
+68	Mióta tanulsz eszperantóul?	Do you speak Chinese well?	For how long have you been studying Esperanto?	False	False	1.3761663	948	948, 881, 341	0	742
+69	Melyik iskolába jársz?	Blue suits you well.	What school do you go to?	False	False	1.4048793	628	628, 220, 943	0	410
+70	Meg kellett volna vitatnod egy ügyvéddel.	I saw somebody steal the merchandise.	You should've consulted your lawyer.	False	False	1.39219	835	835, 738, 941	0	940
+71	Tanulnod kellene.	Leave that there.	You should be studying.	False	False	1.3377438	300	300, 628, 738	0	222
+72	Miért akarnál segíteni Tomon?	How about a smoke?	Why would you want to help Tom?	False	False	1.3344274	802	802, 165, 91	0	376
+73	Házas vagyok.	Leave that there.	I'm already hitched!	False	False	1.2517095	300	300, 454, 304	0	0
+74	Mikor látogatsz meg ismét?	When will you visit me again?	When will you visit me again?	True	True	1.3245754	662	662, 91, 943	1.0	662
+75	Azt akarom, hogy szállj le rólam!	You have foul breath.	I want you to get off my back.	False	False	1.3551506	738	738, 779, 381	0	378
+76	Rá ne lépj!	Do you mind their coming too?	Don't tread on it.	False	False	1.4124571	91	91, 705, 738	0	557
+77	Neki túl sok könyve van.	Leave that there.	He has too many books.	False	False	1.3236928	300	300, 738, 628	0	833
+78	Ez a szokásos eljárás.	What a palaver!	It's standard procedure.	False	False	1.3892558	294	294, 549, 672	0	288
+79	Gyere ki velem.	He bade us welcome.	Come outside with me.	False	False	1.4358466	450	450, 612, 738	0	291
+80	Mire kell neked ez az autó?	Can your brother drive a car?	What are you going to use this car for?	False	False	1.3782907	388	388, 25, 400	0	600
+81	Tom megint becsapott minket.	The 23 fits you better.	Tom tricked us again.	False	False	1.2765034	375	375, 482, 491	0	841
+82	Ne felejtsd el ráírni az irányítószámot!	Get your arse into gear!	Don't forget to write the zip code.	False	False	1.35975	734	734, 166, 375	0	820
+83	A világ egy őrültek háza.	You have foul breath.	This world is just an insane asylum.	False	False	1.2632571	738	738, 300, 696	0	554
+84	Csodálatos dolog Amerikában lenni, ha azért vagy itt, hogy pénzt keressél.	Blue suits you well.	America is a lovely place to be, if you are here to earn money.	False	False	1.2154665	628	628, 375, 462	0	925
+85	Ez egy lesújtó történet.	That's a depressing story.	That's a depressing story.	True	True	1.2930763	729	729, 554, 864	1.0	729
+86	Tudod, hogy a templomban van?	May I sit here?	Do you know she's in the church?	False	False	1.262773	705	705, 738, 91	0	194
+87	Azon dolgozom.	Leave that there.	I'm working on that.	False	False	1.2895131	300	300, 628, 455	0	473
+88	Egész éjszaka sírt.	The 23 fits you better.	She kept crying all night long.	False	False	1.4655252	375	375, 728, 439	0	329
+89	Számos csillag volt látható az égen.	The sun is a medium-sized star.	Numerous stars were visible in the sky.	False	True	1.2646058	654	654, 728, 637	0.3333333333333333	637
+90	Üdvözölt bennünket.	Give me the knife.	He bade us welcome.	False	False	1.395591	491	491, 738, 300	0	450
+91	Megjavította-e az új edző a csapat minőségét?	Has the new coach improved the team's quality?	Has the new coach improved the team's quality?	True	True	1.2039454	96	96, 375, 400	1.0	96
+92	Néhány ember lenéz másokat, csak mert kevesebb pénzük van.	I saw somebody steal the merchandise.	Some people look down on others because they have less money.	False	True	1.2521496	835	835, 665, 450	0.5	665
+93	Belém rúg!	This is silly!	He is kicking me!	False	False	1.4187031	830	830, 612, 294	0	906
+94	Ezen a vidéken nincs elég víz.	Who is sick?	Water is scarce in this area.	False	False	1.2552074	400	400, 738, 212	0	640
+95	A nyelv tudomásunk szerint egy emberi találmány.	Our teacher is a gentleman in the true sense of the word.	Language, as we know it, is a human invention.	False	True	1.4028782	672	672, 530, 671	0.3333333333333333	671
+96	A város szó szerint Mussolininek köszönheti a létét?	May I leave a message?	Does the city literally owe its existence to Mussolini?	False	False	1.322254	875	875, 575, 359	0	647
+97	Ez nem fontos.	Leave that there.	This is irrelevant.	False	False	1.2996196	300	300, 611, 738	0	522
+98	Ha nem megy el az iskolába, nem beszélek vele többé.	Mr. Smith teaches me English.	If he doesn't go to school, I will not talk to him anymore.	False	False	1.2651019	150	150, 835, 948	0	536
+99	A szomszédasszonyom kleptomániás.	My neighbor is a kleptomaniac.	My neighbor is a kleptomaniac.	True	True	1.4613671	885	885, 886, 737	1.0	885
+100	Elvesztettem a jegygyűrűmet.	You sent me your photo.	I lost my wedding ring.	False	False	1.3282061	779	779, 835, 734	0	684
+101	Az állatok nem tudnak különbséget tenni az igaz és hamis dolgok között.	Animals cannot distinguish between truth and falsehood.	Animals cannot distinguish between truth and falsehood.	True	True	1.2463081	730	730, 391, 91	1.0	730
+102	Mire gondolsz, amikor a rádióaktivitás szót meghallod?	Do you mind their coming too?	"What do you think of when you hear the word ""radioactivity""?"	False	False	1.2591221	91	91, 391, 881	0	338
+103	Na mozdulj már!	You are drunk!	Get your arse into gear!	False	False	1.3757187	612	612, 91, 300	0	734
+104	Mennyire fáj?	May I sit here?	How much does it hurt?	False	False	1.452686	705	705, 943, 91	0	852
+105	Tom Jacksoné a ló, amelyik megnyerte a versenyt.	Someone stole my travelers checks.	The horse that won the race is owned by Tom Jackson.	False	False	1.3100381	396	396, 835, 489	0	240
+106	Ne tegyen úgy, mintha nem tudná, miről beszélek!	Leave that there.	Don't act like you don't know what I'm talking about.	False	False	1.2902185	300	300, 875, 287	0	48
+107	Én próbáltam.	May I leave a message?	I tried it.	False	False	1.4034331	875	875, 364, 375	0	955
+108	Itt van egy törülköző, ezt használhatod.	Here's a towel that you can use.	Here's a towel that you can use.	True	True	1.2581905	617	617, 485, 174	1.0	617
+109	Meg akarod ezt ma csinálni?	Can your brother drive a car?	Do you want to do that today?	False	False	1.381769	388	388, 91, 705	0	618
+110	Egyre több pár megy külföldi nászútra.	More and more couples go on honeymoon trips abroad.	More and more couples go on honeymoon trips abroad.	True	True	1.2494414	183	183, 396, 835	1.0	183
+111	A legtöbb ember azt hiszi, hogy őrült vagyok.	Leave that there.	Most people think I'm crazy.	False	False	1.221169	300	300, 400, 738	0	406
+112	Várjunk csak, most mit is akarsz tenni?	Do you mind their coming too?	Wait, what are you trying to do?	False	False	1.3485506	91	91, 300, 705	0	759
+113	Művészetben megegyezik az ízlésünk.	Animals cannot distinguish between truth and falsehood.	Our tastes in art agree.	False	False	1.2828159	730	730, 931, 967	0	692
+114	A gazdaság stabilitása minden kormány célja.	A stable economy is the aim of every government.	A stable economy is the aim of every government.	True	True	1.235546	932	932, 294, 451	1.0	932
+115	Elengedné a karom?	Did I miss something?	Please let go of my arm.	False	False	1.5449865	39	39, 983, 705	0	381
+116	- Nagyon jó lehet magasnak lenni. - Úgy véled? Nem igazán olyan jó. Folyton bevered a fejed a plafonba.	You have foul breath.	"""It must be great to be tall."" ""Do you think so? It's not really that great. You keep bumping your head on the ceiling."""	False	False	1.2644464	738	738, 375, 628	0	516
+117	Házas vagyok és van egy lányom.	Leave that there.	I am married and I have a daughter.	False	False	1.3201517	300	300, 835, 779	0	773
+118	Aláírták a szerződést.	The treaty was signed.	The treaty was signed.	True	True	1.305273	792	792, 126, 129	1.0	792
+119	Ne legyél köcsög.	Please let go of my arm.	Don't be a bitch.	False	False	1.4396664	381	381, 828, 491	0	822
+120	Ha nagy leszek, pilóta leszek. És te mi leszel?	Do you mind their coming too?	When I grow up, I'll be a pilot. And what will you be?	False	False	1.3339353	91	91, 304, 597	0	648
+121	Az orvos megszegte a hippokratészi esküt.	The doctor broke the Hippocratic Oath.	The doctor broke the Hippocratic Oath.	True	True	1.2733176	917	917, 828, 886	1.0	917
+122	A cég tankönyveket ad ki.	The firm publishes educational books.	The firm publishes educational books.	True	True	1.319228	170	170, 864, 797	1.0	170
+123	Folytatta a munkát.	The 23 fits you better.	She proceeded with the work.	False	False	1.2862978	375	375, 455, 364	0	7
+124	Ez nem az én esernyőm, hanem valaki másé.	You sent me your photo.	This isn't my umbrella; it's somebody else's.	False	False	1.3777683	779	779, 738, 554	0	262
+125	Kezdjük veled.	Leave that there.	Let's start with you.	False	False	1.3980356	300	300, 738, 971	0	34
+126	Jordan úr egy kicsit meglepett volt.	Son of a bitch!	Mr Jordan was a little surprised.	False	False	1.2211566	818	818, 639, 821	0	929
+127	Együtt kell odamennünk.	You sent me your photo.	We have to go there together.	False	False	1.3268622	779	779, 69, 364	0	872
+128	Tudom, hogy Tom a barátod.	You lent a book.	I know Tom is your friend.	False	False	1.331763	364	364, 482, 250	0	876
+129	Most menjünk moziba?	Do you mind their coming too?	Shall we watch the movie now?	False	False	1.3658051	91	91, 993, 482	0	725
+130	Itt lesz nemsokára?	Who is sick?	Will he be here soon?	False	True	1.3381162	400	400, 705, 597	0.3333333333333333	597
+131	Kato úrnő volt tavaly a tanárod?	Can your brother drive a car?	Was Ms. Kato your teacher last year?	False	True	1.4348961	388	388, 400, 92	0.3333333333333333	92
+132	György születésétől fogva becsületes.	He is madly jealous of his woman.	George is very honest by nature.	False	False	1.3492689	318	318, 351, 183	0	962
+133	Ki kell találnunk valamit.	Blue suits you well.	We'd better think of something.	False	False	1.3724983	628	628, 738, 91	0	361
+134	Bizonyára esni fog.	Blue suits you well.	It certainly looks like rain.	False	False	1.4531233	628	628, 738, 300	0	560
+135	Tud a fivéred autót vezetni?	Can your brother drive a car?	Can your brother drive a car?	True	True	1.3946221	388	388, 69, 738	1.0	388
+136	Nem értem a kérdés jelentését.	May I leave a message?	I don't understand the meaning of the question.	False	False	1.325631	875	875, 738, 779	0	857
+137	Te mit mondanál a helyemben?	May I sit here?	What would you say if you were in my place?	False	False	1.3697529	705	705, 738, 875	0	30
+138	A mopszok nem valami aranyosak.	The 23 fits you better.	Pugs are not cute.	False	False	1.4067805	375	375, 738, 628	0	877
+139	Itt a tavasz. Napról-napra melegebb van.	The 23 fits you better.	Spring is here. It is getting warmer every day.	False	False	1.3584614	375	375, 611, 344	0	130
+140	Tom nem engedte Marynek, hogy a többi gyerekkel játsszon.	Tom spent the afternoon with Mary.	Tom didn't let Mary play with the other children.	False	True	1.3080493	869	869, 317, 800	0.5	317
+141	Először is mutatnék neked valamit.	You have foul breath.	First, there's something I'd like to show you.	False	False	1.367137	738	738, 344, 375	0	783
+142	Akarsz is valamit mondani?	You have foul breath.	Are you implying something?	False	False	1.3740375	738	738, 91, 628	0	311
+143	Csak a boldogság számít.	What a palaver!	All that matters is to be happy.	False	False	1.335829	294	294, 696, 375	0	986
+144	Muszáj rám bíznod magad.	Your old grandma dances well.	You must trust me.	False	False	1.4229258	344	344, 375, 998	0	668
+145	Tominak nincsenek megtakarításai.	They say love is blind.	Tom has no savings.	False	False	1.2962753	548	548, 359, 391	0	555
+146	Mikor kezdődik?	Do you mind their coming too?	When does it start?	False	False	1.3262951	91	91, 359, 705	0	14
+147	Lázas vagy?	Did you sleep well?	Do you have a fever?	False	False	1.3027929	220	220, 91, 981	0	737
+148	Tom adta kölcsön nekem azt a DVD-t.	You sent me your photo.	Tom loaned me that DVD.	False	False	1.2640154	779	779, 491, 364	0	250
+149	Izgatottan várom a Karácsonyt.	The 23 fits you better.	I am looking forward to Christmas.	False	False	1.3472826	375	375, 344, 738	0	241
+150	Az iskola felé tartott.	Leave that there.	She was on her way to school.	False	False	1.4551957	300	300, 375, 738	0	470
+151	Éppen egy hosszú levelet ír.	You lent a book.	He's writing a long letter.	False	False	1.302877	364	364, 835, 728	0	707
+152	Senki sem hallgat meg téged.	You must stop him.	No one is listening to you.	False	False	1.3222253	569	569, 779, 39	0	689
+153	Mit szólnál egy csésze forró kávéhoz?	Would you fetch me a glass of water?	How about a cup of hot coffee?	False	True	1.3913908	247	247, 12, 391	0.5	12
+154	Mondd meg az igazat!	You are drunk!	Tell the truth.	False	False	1.3798041	612	612, 738, 830	0	416
+155	Oda se neki, miket mond!	Teach judo to me.	You should ignore what he says.	False	False	1.3983415	326	326, 797, 300	0	926
+156	Kölcsönkérhetem ezt a CD-t?	May I borrow this CD?	May I borrow this CD?	True	True	1.3222252	983	983, 693, 591	1.0	983
+157	Szeretném mindenkinek a figyelmét kérni.	May I leave a message?	Could I have everyone's attention, please?	False	False	1.3238413	875	875, 738, 779	0	253
+158	Három üveg bort kellett volna vennünk.	You have foul breath.	We should've bought three bottles of wine.	False	True	1.3061929	738	738, 174, 814	0.3333333333333333	814
+159	Fordítsuk komolyra a szót!	Do you mind their coming too?	Let's get serious.	False	False	1.3164021	91	91, 375, 495	0	629
+160	Most a boltba megyek.	Blue suits you well.	I'm going to the store now.	False	False	1.3728225	628	628, 300, 326	0	273
+161	Sokat olvasok.	Leave that there.	I read a lot.	False	False	1.3860992	300	300, 375, 628	0	578
+162	Tomi két lánnyal randevúzik egyidőben.	Tom and Mary are mad at John.	Tom is dating two girls at the same time.	False	False	1.3039706	58	58, 183, 715	0	254
+163	Tanítson meg dzsúdózni!	You are drunk!	Teach judo to me.	False	False	1.3469126	612	612, 971, 300	0	326
+164	Számítanak az első benyomások.	The 23 fits you better.	First impressions matter.	False	False	1.3176836	375	375, 84, 642	0	853
+165	Kórházban kellene lenned.	You have foul breath.	You should be in a hospital.	False	False	1.308195	738	738, 737, 591	0	990
+166	Senki sem lakik ebben a házban.	Leave that there.	Nobody lives in this house.	False	False	1.2140254	300	300, 174, 359	0	94
+167	Bizonyítékokra van szükségem.	You have foul breath.	I need proofs.	False	False	1.2919761	738	738, 875, 341	0	27
+168	Ő már nincs itt.	Leave that there.	He is no longer here.	False	False	1.2520992	300	300, 569, 612	0	700
+169	Illatos a gyertya.	Storm in a teacup.	The candle smells nice.	False	False	1.3672144	728	728, 294, 738	0	471
+170	Gondoskodni fogok a szüleimről, ha megöregednek.	The 23 fits you better.	I'll take care of my parents when they get old.	False	False	1.2368352	375	375, 485, 738	0	968
+171	Télen nem szívesen eszem fagyit.	You have foul breath.	I don't enjoy eating ice cream during the winter.	False	False	1.3054901	738	738, 728, 628	0	53
+172	Eldöntötte, hogy Amerikába megy.	That ship has sailed.	She made up her mind to go to America.	False	False	1.3932539	611	611, 544, 450	0	498
+173	Akarod, hogy tegyek néhány szál virágot a hajadba?	Blue suits you well.	Do you want me to put some flowers in your hair?	False	False	1.3594565	628	628, 91, 875	0	579
+174	Idő kell.	The 23 fits you better.	We need time.	False	False	1.4055274	375	375, 738, 444	0	594
+175	Közös a hazánk.	Leave that there.	We are compatriots.	False	False	1.3162395	300	300, 738, 437	0	219
+176	Hálásnak kellene lenned.	You have foul breath.	You should be grateful.	False	False	1.3586787	738	738, 300, 591	0	991
+177	Mary olyan kedves lány, hogy mindenki szereti.	Mary is so nice a girl that she is loved by everybody.	Mary is so nice a girl that she is loved by everybody.	True	True	1.2675676	970	970, 835, 300	1.0	970
+178	Tomnak azt kéne tennie, amit Mary mond.	Leave that there.	Tom should do what Mary says.	False	False	1.3313626	300	300, 779, 364	0	153
+179	Az állatok az erdőben élnek.	Animals inhabit the forest.	Animals inhabit the forest.	True	True	1.3000915	774	774, 891, 174	1.0	774
+180	Tanuld meg irányítani, vagy az fog irányítani téged.	The 23 fits you better.	Learn to control it or it will control you.	False	False	1.3831704	375	375, 455, 300	0	489
+181	Majd várok odakint.	Leave that there.	I'll just wait outside.	False	False	1.4268496	300	300, 628, 344	0	401
+182	Nekem is tudsz venni egyet?	Do you mind their coming too?	Can you buy one for me as well?	False	False	1.3520584	91	91, 705, 304	0	496
+183	Németországba repülök majd.	I will fly to Germany.	I will fly to Germany.	True	True	1.4101216	930	930, 364, 779	1.0	930
+184	Hirtelen kialudtak a fények.	You have foul breath.	Suddenly, all the lights went out.	False	False	1.3158278	738	738, 628, 375	0	973
+185	Zenehallgatás a hobbim.	What a palaver!	My hobby is to listen to music.	False	False	1.3949476	294	294, 738, 344	0	716
+186	A nyári szünidő után a gyerekeknek vissza kell menniük az iskolába.	More and more couples go on honeymoon trips abroad.	After the summer holidays, the children have to go back to school.	False	True	1.2864455	183	183, 104, 979	0.5	104
+187	Olyan mérges volt, hogy nem tudott beszélni.	He is the more diligent of the two.	He could not speak, he was so angry.	False	False	1.3354181	641	641, 318, 249	0	367
+188	Edzenem kell.	Gather your toys together.	I have to exercise.	False	False	1.397629	971	971, 482, 738	0	47
+189	A mobilom leesett a földre.	Storm in a teacup.	My cellphone fell on the floor.	False	False	1.3672079	728	728, 605, 738	0	865
+190	A felesége álomszép, a lányát meg már ne is említsem.	Your old grandma dances well.	His wife is as beautiful as a dream, not to mention his daughter.	False	False	1.3238308	344	344, 779, 738	0	431
+191	Nem hoztam magammal meleg ruhát.	The 23 fits you better.	I didn't bring any warm clothes.	False	False	1.3105363	375	375, 738, 455	0	478
+192	Tedd fel a fejhallgatót!	Get your arse into gear!	Put the headphone on.	False	False	1.3854609	734	734, 738, 375	0	680
+193	Szükségünk van a válaszra.	You have foul breath.	We need an answer.	False	False	1.2742858	738	738, 875, 251	0	845
+194	Ez a könyv unalmas.	Someone stole my travelers checks.	This book is boring.	False	False	1.3325503	396	396, 738, 728	0	861
+195	Taro két éve meghalt.	Taro died two years ago.	Taro died two years ago.	True	True	1.2864566	228	228, 738, 371	1.0	228
+196	Nehezére esik apámnak abbahagyni az ivást.	The 23 fits you better.	It's hard for my father to give up drinking.	False	False	1.353679	375	375, 554, 294	0	623
+197	Egy étteremben ebédeltünk.	I saw somebody steal the merchandise.	We had dinner at a restaurant.	False	False	1.2632338	835	835, 728, 515	0	949
+198	Ez azért van, mert nem akarsz egyedül lenni.	You have foul breath.	This is because you do not want to be alone.	False	False	1.2526559	738	738, 300, 364	0	897
+199	A motor megint beindult.	That toy is selling like hot cakes.	The engine started again.	False	False	1.2992393	864	864, 389, 294	0	349
+200	Három kutya követ négy macskát a kerítésig.	Three dogs are following four cats to the gate.	Three dogs are following four cats to the gate.	True	True	1.3139037	84	84, 375, 166	1.0	84
+201	Két fiam van. Az egyik Nara, a másik Tsu.	I have two sons. One is in Nara and the other in Tsu.	I have two sons. One is in Nara and the other in Tsu.	True	True	1.2581241	778	778, 548, 284	1.0	778
+202	Beszélhetnénk erről később?	Could we talk about this later?	Could we talk about this later?	True	True	1.28259	500	500, 948, 220	1.0	500
+203	Szavazással döntünk.	You have foul breath.	We'll decide by voting.	False	False	1.3735185	738	738, 835, 569	0	285
+204	Semmi más nem kell..., csak egy új nadrág.	We'll make a sailor out of you yet.	I don't need anything... just a new pair of pants.	False	False	1.3181953	485	485, 941, 835	0	116
+205	A szemétláda ellopta a hátizsákom, megette a szendvicsem és beleszart a termoszomba.	Blue suits you well.	Son of a bitch stole my backpack, ate my sandwich, and shit in my Thermos!	False	False	1.2980942	628	628, 375, 728	0	828
+206	Tomi aláírta az iratot.	The 23 fits you better.	Tom signed the document.	False	False	1.3051859	375	375, 797, 364	0	129
+207	Nagyon hideg van ebben a szobában, igaz?	Who is sick?	It's very cold in this room, isn't it?	False	False	1.1885765	400	400, 705, 830	0	867
+208	A Sinano hosszabb, mint bármely más Japán folyó.	The Shinano is longer than any other river in Japan.	The Shinano is longer than any other river in Japan.	True	True	1.1492429	807	807, 464, 611	1.0	807
+209	A pénz minden rossz gyökere.	What a palaver!	Money is the root of all evil.	False	False	1.385783	294	294, 864, 818	0	966
+210	Gyuri bácsi nem jött hozzánk soha üres kézzel látogatóba.	Storm in a teacup.	Uncle George never visited us without some present.	False	False	1.315774	728	728, 249, 672	0	942
+211	Már bekövetkezett.	Leave that there.	It's already happened.	False	False	1.3504877	300	300, 611, 797	0	634
+212	Fel fog robbanni.	What a palaver!	It's going to explode.	False	False	1.4043412	294	294, 738, 300	0	389
+213	Az eszperantó egy tervezett, nemzetközi nyelv.	Esperanto is an international planned language.	Esperanto is an international planned language.	True	True	1.2204359	748	748, 108, 747	1.0	748
+214	Atatürk 1881-ben született Szalonikiben.	Atatürk was born in 1881, Thessaloniki	Atatürk was born in 1881, Thessaloniki	True	True	1.1461213	610	610, 450, 391	1.0	610
+215	Nem akart megbántani.	Leave that there.	He didn't mean to hurt you.	False	False	1.2991447	300	300, 705, 616	0	147
+216	Az a gyerek mindig mosolyog.	Children love to dig in the sand.	She is always smiling.	False	False	1.4273584	174	174, 450, 344	0	138
+217	A fiam mindig nagyon független volt.	My son has always been very independent.	My son has always been very independent.	True	True	1.3415493	161	161, 300, 830	1.0	161
+218	Érdekelnek a virágok?	Are they in Paris?	Are you interested in flowers?	False	False	1.3441917	359	359, 353, 875	0	985
+219	Akarod, hogy hívjak egy taxit?	Can your brother drive a car?	Would you like me to call a taxi?	False	False	1.3420594	388	388, 875, 983	0	314
+220	Nagy veszteségnél jobb a kis nyereség.	The 23 fits you better.	Better a small gain than a great loss.	False	False	1.3035395	375	375, 738, 485	0	397
+221	Tomnak nincs láza.	Leave that there.	Tom doesn't have a fever.	False	False	1.2853419	300	300, 569, 454	0	182
+222	Miért kérdezed?	Did I miss something?	Why do you ask?	False	True	1.4634383	39	39, 875, 519	0.3333333333333333	519
+223	Szóról szóra fordította le.	Turn on the radio.	She translated it word for word.	False	True	1.4374394	115	115, 747, 108	0.3333333333333333	108
+224	Tom nem riad vissza semmilyen harctól, teljesen mindegy, kivel áll szemben.	That ship has sailed.	Tom won't back down from any fight, no matter who he's up against.	False	False	1.3397028	611	611, 738, 628	0	49
+225	Nem érdekel, hogy ki korán kel, aranyat lel, én aludni akarok.	You have foul breath.	I don't care if the early bird gets the worm, I want to sleep.	False	False	1.2994059	738	738, 300, 628	0	223
+226	Sem az eszperantó, sem az interlingua nem alkalmaz kettős tagadást.	Neither Esperanto nor Interlingua employ double negative.	Neither Esperanto nor Interlingua employ double negative.	True	True	1.1074413	674	674, 748, 741	1.0	674
+227	A gépi fordítás nem megbízható.	The cat is on the mat.	You can't trust computer translation.	False	False	1.3081647	266	266, 294, 183	0	708
+228	Úgy tűnik, hogy ez a marhaszelet véres. Kíváncsi vagyok, elég sokáig sütötték-e.	Be a little kinder!	This steak seems rare. I wonder if it was cooked long enough.	False	False	1.2074668	433	433, 830, 375	0	745
+229	Tom mindig panaszkodik, hogy nincs elég szabad ideje.	Will he be here soon?	Tom is always complaining that he doesn't have enough free time.	False	False	1.367554	597	597, 318, 64	0	203
+230	Tom a huszadik születésnapját ünnepelte a múlt héten.	Storm in a teacup.	Tom celebrated his twentieth birthday last week.	False	True	1.3511641	728	728, 605, 190	0.3333333333333333	190
+231	Büszkének kellene lenned.	Don't step on the broken glass.	You should be proud.	False	False	1.4334505	591	591, 738, 174	0	992
+232	Nem tudtad, hogy Tom homoszexuális?	You didn't know Tom was gay?	You didn't know Tom was gay?	True	True	1.2882167	740	740, 863, 400	1.0	740
+233	Nem dolgoztatod meg a tested eléggé.	The 23 fits you better.	You don't get enough exercise.	False	False	1.2326832	375	375, 455, 628	0	733
+234	Az érdekeink ütköznek az övékkel.	Leave that there.	Our interests conflict with theirs.	False	False	1.3912228	300	300, 166, 455	0	632
+235	Kaptál tőlük bármit is?	May I sit here?	Did you get anything from them?	False	False	1.3363858	705	705, 91, 304	0	385
+236	Szomorúan mosolyogva beszéli kezdett.	This is silly!	Smiling sadly, she began to talk.	False	False	1.4065412	830	830, 672, 696	0	976
+237	Hol van a szennyes?	Who is sick?	Where is the laundry?	False	False	1.3217793	400	400, 353, 705	0	633
+238	Ma este későn kell vacsoráznunk a találkozó miatt.	Tonight we have to eat dinner late because of the meeting.	Tonight we have to eat dinner late because of the meeting.	True	True	1.3044479	384	384, 141, 485	1.0	384
+239	Tökéletesre fejlesztette a nehéz esetű vevőkkel való bánásmódot.	Storm in a teacup.	She has perfected the art of handling difficult customers.	False	False	1.3273295	728	728, 375, 738	0	767
+240	Isten ments, hogy Tommal történjen valami!	Leave that there.	God forbid that anything should happen to Tom.	False	False	1.3457857	300	300, 830, 738	0	56
+241	Ez nagy hiba volt.	This was a big mistake.	This was a big mistake.	True	True	1.2067258	855	855, 821, 609	1.0	855
+242	Tomi gazdagabb Marinál.	Your old grandma dances well.	Tom is richer than Mary.	False	False	1.4041605	344	344, 375, 628	0	695
+243	A hajó tegnap áthaladt az egyenlítőn.	That ship has sailed.	That ship crossed the equator yesterday.	False	False	1.3495113	611	611, 738, 266	0	544
+244	Japánból jött.	Blue suits you well.	She is from Japan.	False	False	1.4147362	628	628, 375, 797	0	427
+245	Tom most egy könyvet ír.	You lent a book.	Tom is writing a book.	False	False	1.2875346	364	364, 715, 485	0	816
+246	A személyiség és vértípus közti kapcsolat tudományosan nem bizonyított.	A connection between personality and blood type has not been scientifically proven.	A connection between personality and blood type has not been scientifically proven.	True	True	1.2840067	731	731, 730, 391	1.0	731
+247	Szeretnéd tudni, hogy csináltam?	May I leave a message?	Would you like to know how I did that?	False	False	1.347775	875	875, 220, 618	0	474
+248	Pihentünk egy kicsit.	You have foul breath.	We rested for a while.	False	False	1.285105	738	738, 375, 364	0	260
+249	Nem örült neki Tom.	Leave that there.	Tom wasn't pleased.	False	False	1.3659114	300	300, 619, 444	0	918
+250	Ne mondd ki ezt a szót.	You sent me your photo.	Avoid saying this word.	False	False	1.3890399	779	779, 738, 998	0	24
+251	Inkább tartanék macskát, mint kutyát.	The 23 fits you better.	I would rather have a cat than a dog.	False	False	1.1777239	375	375, 628, 174	0	105
+252	Tom megvakartatta Marival a hátának azt a részét, amelyet nem ért el.	Peter is buying a tomcat.	Tom got Mary to scratch the part of his back he couldn't reach.	False	False	1.3385773	715	715, 375, 797	0	106
+253	Tom a délutánt Maryvel töltötte.	You have foul breath.	Tom spent the afternoon with Mary.	False	False	1.3180753	738	738, 375, 300	0	869
+254	Részeg vagy vagy mi?	Do you mind their coming too?	Are you drunk or something?	False	False	1.259088	91	91, 881, 400	0	981
+255	Tom azt mondta, hogy használhatom a számítógépét.	Here's a towel that you can use.	Tom told me that I could use his computer.	False	False	1.2852993	617	617, 835, 820	0	571
+256	A nyelvem hegyén van a szó.	You have foul breath.	The word is on the tip of my tongue.	False	False	1.3971002	738	738, 300, 166	0	461
+257	Az életét bízná rá.	Leave that there.	She trusts him with her life.	False	False	1.3492565	300	300, 495, 728	0	365
+258	Éhesek.	That ship has sailed.	They are hungry.	False	False	1.4802289	611	611, 300, 375	0	891
+259	Tom csak horgászni akar.	You got shot, Tom.	Fishing is the only thing Tom wants to do.	False	False	1.3130819	482	482, 294, 616	0	374
+260	Olyan képet vág, hogy legszívesebben bemosnál neki egyet.	The 23 fits you better.	He's making the kind of face you want to punch.	False	False	1.3086021	375	375, 364, 628	0	755
+261	Ezt hosszú csend követte.	Leave that there.	There followed a long silence.	False	False	1.372681	300	300, 166, 603	0	234
+262	Az emberek saját földet akarnak.	People want to own land.	People want to own land.	True	True	1.3059702	110	110, 548, 174	1.0	110
+263	Néha különös fiúnak látszik.	I saw somebody steal the merchandise.	Sometimes he can be a strange guy.	False	False	1.3070081	835	835, 300, 728	0	898
+264	Sztár vagy.	Leave that there.	You're a star.	False	False	1.460133	300	300, 444, 569	0	135
+265	Tudok gitározni.	Gather your toys together.	I can play the guitar.	False	False	1.3720891	971	971, 482, 998	0	156
+266	Az inge szürke, a nyakkendője sárga volt.	Leave that there.	His shirt was gray and the tie was yellow.	False	False	1.3607146	300	300, 450, 444	0	186
+267	Meg kell nézned ezt a filmet.	You sent me your photo.	You have to see this movie.	False	False	1.378795	779	779, 738, 375	0	625
+268	Ördögien jól táncol az idős nagymamád!	Your old grandma dances well.	Your old grandma dances well.	True	True	1.2885432	344	344, 495, 758	1.0	344
+269	Nem tudom, hogy miért csináltam ezt.	May I leave a message?	I don't know why I did that.	False	False	1.2788583	875	875, 247, 983	0	837
+270	Pont most történt egy baleset.	You got shot, Tom.	An accident just happened.	False	False	1.3329206	482	482, 577, 835	0	369
+271	Tomi nem néz háborús filmeket.	Tom doesn't watch war movies.	Tom doesn't watch war movies.	True	True	1.259265	944	944, 863, 740	1.0	944
+272	A következő kereszteződésnél jobbra!	The 23 fits you better.	Turn right at the next intersection.	False	False	1.2778184	375	375, 734, 998	0	224
+273	Elmész Tomival?	Do you mind their coming too?	Will you go with Tom?	False	False	1.461756	91	91, 802, 400	0	304
+274	Tamás nem ismer téged.	You have foul breath.	Tom doesn't know you.	False	False	1.4390515	738	738, 628, 91	0	50
+275	Egész nap teniszeztem.	Storm in a teacup.	I played tennis all day.	False	False	1.4411662	728	728, 482, 738	0	238
+276	Ha nagy leszek, király akarok lenni.	Do you mind their coming too?	When I grow up, I want to be a king.	False	False	1.2735467	91	91, 300, 971	0	436
+277	Várj egy kicsit!	Get your butt over here!	Wait one second.	False	False	1.3117962	735	735, 818, 364	0	3
+278	Rossz a leheleted.	You have foul breath.	You have foul breath.	True	True	1.3986988	738	738, 300, 375	1.0	738
+279	Mennyit keres havonta?	You have foul breath.	How much money does he make a month?	False	False	1.3196685	738	738, 341, 359	0	751
+280	Ez nagy összeg.	Better a small gain than a great loss.	It's a large amount.	False	False	1.3380443	397	397, 163, 611	0	17
+281	Tomi aláírta a papírokat.	The 23 fits you better.	Tom signed the papers.	False	False	1.2948713	375	375, 294, 971	0	128
+282	Bár a Föld felületének csupán két százalékát borítják őserdők, ott él a világon fellelhető állat-, növény- és rovarfaj fele.	Although rainforests make up only two percent of the earth's surface, over half the world's wild plant, animal and insect species live there.	Although rainforests make up only two percent of the earth's surface, over half the world's wild plant, animal and insect species live there.	True	True	1.1790416	278	278, 774, 835	1.0	278
+283	Szeretem a leveseket sok zöldséggel.	Storm in a teacup.	I like soups with lots of vegetables.	False	False	1.3440892	728	728, 300, 738	0	390
+284	El kellett neki mondania.	You have foul breath.	He must have told her.	False	False	1.3731223	738	738, 300, 779	0	22
+285	Sírsz?	Are you Japanese?	Are you crying?	False	False	1.4452242	341	341, 400, 359	0	301
+286	Menekülnöd kell.	Leave that there.	You must escape.	False	False	1.4555659	300	300, 738, 312	0	432
+287	Engem senki sem szeret.	Leave that there.	Nobody loves me.	False	False	1.3603395	300	300, 450, 326	0	698
+288	Klabaster és Gizmo macskák.	Klabaster and Gizmo are cats.	Klabaster and Gizmo are cats.	True	True	1.1390967	158	158, 608, 971	1.0	158
+289	Abba kell hagyni az időpocsékolást.	Self-pity won't help you.	You need to stop wasting time.	False	False	1.2834482	139	139, 864, 174	0	916
+290	Ne bámulj engem.	Teach judo to me.	Stop staring at me.	False	False	1.3382282	326	326, 381, 300	0	302
+291	Te hiszel a szellemekben?	You have foul breath.	Do you believe in the existence of ghosts?	False	False	1.4268019	738	738, 359, 220	0	270
+292	Úgy gondolom, meg tudom csinálni.	You have foul breath.	I think I can do it.	False	False	1.3328681	738	738, 618, 455	0	743
+293	Ez komoly?	Are you Japanese?	Is it serious?	False	False	1.3454411	341	341, 896, 91	0	682
+294	Ezt a mondatot körülbelül egy órával ezelőtt az utcán hallottam.	I heard this sentence on the street about an hour ago.	I heard this sentence on the street about an hour ago.	True	True	1.3251972	208	208, 738, 184	1.0	208
+295	Mérgesen lépett fel vele szemben.	I was humiliated in public.	She kicked him hard.	False	False	1.3749844	249	249, 150, 126	0	538
+296	Szörnyen fontos.	We'll do fine without you.	It's terribly important.	False	False	1.3960955	455	455, 375, 569	0	290
+297	Bejött Tom.	Leave that there.	Tom walked inside.	False	False	1.4691776	300	300, 611, 450	0	911
+298	Valaki ellopta az utazási csekkjeimet.	Storm in a teacup.	Someone stole my travelers checks.	False	True	1.4737444	728	728, 294, 396	0.3333333333333333	396
+299	A repülőtér egy karnyújtásnyira található.	The airport is close at hand.	The airport is close at hand.	True	True	1.3403114	838	838, 485, 425	1.0	838
+300	Van egy nagy lyuk a zoknidon.	The 23 fits you better.	There is a big hole in your stocking.	False	False	1.3125635	375	375, 998, 300	0	152
+301	Át fog költözni Új-Zélandba.	She will be relocated to New Zealand.	She will be relocated to New Zealand.	True	True	1.2751913	537	537, 498, 930	1.0	537
+302	Nem volt víz a kútban.	You have foul breath.	There was no water in the well.	False	True	1.2338895	738	738, 149, 174	0.5	149
+303	Ez a téma rendkívül ellentmondásos.	And yet, the contrary is always true as well.	This subject is extremely controversial.	False	False	1.2890021	549	549, 690, 522	0	980
+304	Ha mérges vagy, számolj tízig, ha nagyon mérges vagy, százig.	When angry, count ten; when very angry, a hundred.	When angry, count ten; when very angry, a hundred.	True	True	1.3006088	965	965, 364, 804	1.0	965
+305	Azt javasoltam, hogy azonnal kezdjünk hozzá.	You have foul breath.	I suggested that we should start at once.	False	False	1.3182957	738	738, 326, 166	0	100
+306	Nem szidhatlak. Az én hibám volt.	You have foul breath.	I can't blame you. It was my fault.	False	False	1.352945	738	738, 326, 628	0	870
+307	Csendesedett a szél.	Leave that there.	The wind has dropped.	False	False	1.3234216	300	300, 166, 619	0	562
+308	Vissza kell menned.	Leave that there.	You must go back.	False	False	1.3803731	300	300, 628, 779	0	664
+309	Ne gyere későn, oké?	May I sit here?	Don't come late, okay?	False	False	1.3974441	705	705, 450, 738	0	146
+310	Autóval mentek az állomásra.	They went to the station by car.	They went to the station by car.	True	True	1.3240508	169	169, 396, 797	1.0	169
+311	Tom megváltoztatta a véleményét?	Do I detect sarcasm?	Did Tom change his opinion?	False	True	1.252344	391	391, 660, 91	0.5	660
+312	Másik államban él.	He lives in another state.	He lives in another state.	True	True	1.3386208	214	214, 611, 450	1.0	214
+313	Tom azt mondja, soha többé nem megy el.	Leave that there.	Tom says he'll never go again.	False	False	1.2556038	300	300, 611, 705	0	656
+314	Egy spanyol emberrel dolgozom.	Leave that there.	I'm working with a Spaniard.	False	False	1.3093811	300	300, 628, 738	0	719
+315	Clinton akkoriban Arkansas kormányzója volt.	Mr. Clinton was governor of Arkansas at the time.	Mr. Clinton was governor of Arkansas at the time.	True	True	1.2718666	75	75, 77, 175	1.0	75
+316	Az éjszakába nyúlóan vitatkoztunk a dologról.	You have foul breath.	We discussed the matter far into the night.	False	False	1.3465675	738	738, 828, 696	0	282
+317	El tudod hinni, hogy Tom még csak tizenhárom?	Do you mind their coming too?	Can you believe Tom is still only thirteen?	False	True	1.3421086	91	91, 497, 388	0.5	497
+318	Túl sokat iszol.	You have foul breath.	You drink too much.	False	False	1.3188113	738	738, 300, 375	0	704
+319	Tom nem akart válaszolni a kérdésre.	He is madly jealous of his woman.	Tom didn't want to answer the question.	False	False	1.3170261	318	318, 875, 391	0	67
+320	Amikor kinyitotta az ajtót, azonnal érezte, hogy ég valami.	I saw somebody steal the merchandise.	The instant he opened the door, he smelt something burning.	False	False	1.2601378	835	835, 483, 551	0	842
+321	Hamlet talán nem akart megházasodni. Akárhogy is, Hamlet csak egy volt, de sok ember megegyezik ebben vele.	That ship has sailed.	Hamlet probably didn't want to get married. There was only one Hamlet, however there are many people like him.	False	False	1.2713279	611	611, 835, 650	0	727
+322	Elővigyázatosnak kell lenned.	You have foul breath.	You must be cautious.	False	False	1.4077277	738	738, 485, 919	0	583
+323	Ami engem illet, nincs semmi hozzáfűznivalóm.	You have foul breath.	As for me, I have nothing to say.	False	False	1.3761649	738	738, 300, 875	0	513
+324	Gyere már, dolgunk van.	Leave that there.	Come on, we have work to do.	False	False	1.3571043	300	300, 612, 450	0	691
+325	Ideülhetek?	May I sit here?	May I sit here?	True	True	1.3036705	705	705, 359, 875	1.0	705
+326	A rózsák jó illatúak.	The 23 fits you better.	Roses smell sweet.	False	False	1.3785189	375	375, 628, 91	0	123
+327	Sok a könyv.	Leave that there.	There are many books, aren't there?	False	False	1.2987542	300	300, 779, 294	0	477
+328	Legyen szíves, itt írja alá.	Leave that there.	Could you just sign right here, please?	False	False	1.2998387	300	300, 779, 734	0	256
+329	Az emberi agy körülbelül három fontot nyom.	The human brain weighs about three pounds.	The human brain weighs about three pounds.	True	True	1.430234	686	686, 294, 358	1.0	686
+330	Azt hiszem orvoshoz kellene menned.	You have foul breath.	I think you should see a doctor.	False	False	1.3927858	738	738, 450, 364	0	15
+331	Hogy tetszett?	Do you mind their coming too?	How did you like it?	False	False	1.3633024	91	91, 220, 705	0	144
+332	Elszégyellte magát amiatt, amit látott.	Leave that there.	He felt ashamed about what he saw.	False	False	1.2835208	300	300, 375, 628	0	40
+333	Attól tartok, ez az igazság.	Leave that there.	I fear that is the truth.	False	False	1.3045547	300	300, 375, 696	0	895
+334	A doktornő mintát vett a nyálkahártyából.	The doctor has taken a swab from the mucous membrane.	The doctor has taken a swab from the mucous membrane.	True	True	1.2607312	886	886, 917, 400	1.0	886
+335	A 23-as jobban áll rajtad.	The 23 fits you better.	The 23 fits you better.	True	True	1.330657	375	375, 738, 998	1.0	375
+336	Ez van, ezt kell szeretni.	Leave that there.	That's the way the cookie crumbles.	False	False	1.3095487	300	300, 830, 738	0	83
+337	Néhény embert nem kellene a kormányhoz engedni.	He is madly jealous of his woman.	Some people shouldn't be allowed to drive.	False	False	1.3230133	318	318, 451, 450	0	960
+338	Mari leborotválta a lábát.	Blue suits you well.	Mary shaved her legs.	False	False	1.3470734	628	628, 375, 603	0	862
+339	Rémálmom volt.	Leave that there.	I had a nightmare.	False	False	1.4952452	300	300, 830, 351	0	173
+340	Kölcsönadtál egy könyvet.	You lent a book.	You lent a book.	True	True	1.3173904	364	364, 835, 875	1.0	364
+341	Kimehetek játszani?	May I sit here?	May I go out to play?	False	False	1.3880309	705	705, 948, 91	0	113
+342	A macskák nem szeretnek vizesek lenni.	Are they in Paris?	Cats dislike being wet.	False	False	1.2808545	359	359, 178, 174	0	352
+343	Maryt elrabolták a kalózok.	Klabaster and Gizmo are cats.	Mary was kidnapped by pirates.	False	False	1.3340371	158	158, 125, 294	0	157
+344	Őszintén remélem, hogy hamar meggyógyul.	You have foul breath.	I sincerely hope that you will soon recover from your illness.	False	False	1.2597967	738	738, 554, 728	0	310
+345	Mosás közben egy óvszert talált a fia farzsebében.	I heard you were looking for a babysitter.	While doing the wash she found a condom in the back pocket of her son's pants.	False	False	1.2955887	551	551, 835, 728	0	275
+346	Hála istennek, ateista vagyok.	Leave that there.	Thank God I am an atheist.	False	False	1.2127535	300	300, 491, 738	0	601
+347	A parkban tömeg volt.	I saw somebody steal the merchandise.	There were a crowd of people in the park.	False	False	1.2928262	835	835, 831, 483	0	463
+348	Ki beteg?	Who is sick?	Who is sick?	True	True	1.3753619	400	400, 341, 359	1.0	400
+349	Ő egy igazi kurva.	What a palaver!	She's a complete bitch.	False	True	1.2976038	294	294, 824, 823	0.3333333333333333	823
+350	Aki nem ismer idegen nyelveket, semmit sem tud a sajátjáról.	I saw somebody steal the merchandise.	Anyone who doesn't know foreign languages knows nothing of his own.	False	True	1.2887795	835	835, 209, 832	0.3333333333333333	832
+351	A gyerekek imádnak a homokban ásni.	Children love to dig in the sand.	Children love to dig in the sand.	True	True	1.3436403	174	174, 628, 728	1.0	174
+352	Nagy fiú vagy, viselkedj!	Please let go of my arm.	Now you are a big boy, behave yourself.	False	False	1.3114969	381	381, 386, 817	0	706
+353	Jól érzem magam a saját bőrömben.	Don't step on the broken glass.	I feel good in my own skin.	False	False	1.3637476	591	591, 835, 381	0	659
+354	Sok ember van a parkban.	Leave that there.	There are a lot of people in the park.	False	False	1.2208531	300	300, 359, 174	0	185
+355	Lementem a lifttel.	Leave that there.	I went down by elevator.	False	False	1.3759782	300	300, 738, 628	0	483
+356	"Ne tekints rám többé úgy, mint egy ""normális"" személyre!"	This world is just an insane asylum.	Don't treat me as common people.	False	False	1.2748773	554	554, 672, 485	0	527
+357	Útját kell állnod.	You have foul breath.	You must stop him.	False	False	1.3959372	738	738, 91, 971	0	569
+358	Azt mondtam nekik, hogy rendben vagyok.	Leave that there.	I told them I was fine.	False	False	1.2495768	300	300, 875, 738	0	850
+359	Később ma még ő is visszautazik.	Tom says he'll never go again.	He is also returning late today.	False	False	1.3326514	656	656, 577, 597	0	435
+360	Kérlek, ne keress!	Please, give me your address.	Please don't try to find me.	False	False	1.3745234	386	386, 381, 491	0	231
+361	Köszönöm, hogy segítettél.	Give me the knife.	Thanks for helping me.	False	False	1.319185	491	491, 300, 779	0	622
+362	És mégis, az ellenkezője is mindig igaz.	The 23 fits you better.	And yet, the contrary is always true as well.	False	False	1.3554125	375	375, 300, 569	0	549
+363	Mindenki elszótlanodott.	You clean up.	Everyone was speechless.	False	False	1.2883312	454	454, 612, 738	0	271
+364	Az az érzésem, senki sem foglalkozik olyan sokat a hangsúlyozással, mint az oroszok.	Leave that there.	I've got a feeling that nobody cares about their accent as much as the Russians.	False	False	1.2935779	300	300, 738, 835	0	984
+365	Találkoztunk mi már?	May I sit here?	Have we met?	False	False	1.3083692	705	705, 91, 881	0	541
+366	Nem tudtam, honnan jött.	Leave that there.	I didn't know where it came from.	False	False	1.3491105	300	300, 779, 738	0	521
+367	Nem emelte fel a kezét.	You sent me your photo.	He did not put up his hand.	False	False	1.3601917	779	779, 738, 364	0	721
+368	Pihennie kellett.	Leave that there.	He needed to rest.	False	False	1.2916256	300	300, 738, 115	0	788
+369	Megkértem, hogy randizzon velem, de nemet mondott.	You sent me your photo.	I asked him out, but he said no.	False	False	1.2937132	779	779, 300, 326	0	777
+370	Tomnak soha többé nem kell Mary miatt aggódnia.	What a palaver!	Tom doesn't have to worry about Mary anymore.	False	False	1.3063711	294	294, 485, 92	0	180
+371	Nincs rá időm, hogy segítsek neked a munkádban.	The 23 fits you better.	I have no time to help you with the work.	False	False	1.312938	375	375, 738, 875	0	70
+372	Hol tudunk parkolni?	Where can we park?	Where can we park?	True	True	1.349047	943	943, 705, 612	1.0	943
+373	Nem alszom ágyban.	Leave that there.	I don't sleep in a bed.	False	False	1.3770056	300	300, 696, 287	0	87
+374	Már megint itt van a karácsony?	May I sit here?	Is it Christmas again already?	False	False	1.254658	705	705, 633, 353	0	577
+375	Tom egy csónakban lakik.	Peter is buying a tomcat.	Tom lives on a boat.	False	False	1.244201	715	715, 728, 266	0	878
+376	Szándékosan megpróbálsz összezavarni?	Do you speak Russian?	Are you intentionally trying to confuse me?	False	False	1.3660778	881	881, 981, 91	0	566
+377	Vírussal fertőzött a számítógéped.	Your computer is infected with a virus.	Your computer is infected with a virus.	True	True	1.322476	42	42, 835, 205	1.0	42
+378	Olyan türelmetlen vagy velem.	Leave that there.	You're so impatient with me.	False	False	1.3353416	300	300, 738, 830	0	901
+379	Betti szereti a klasszikus zenét.	Betty likes classical music.	Betty likes classical music.	True	True	1.2582507	305	305, 158, 824	1.0	305
+380	A kérésedet elutasították.	The photograph was falsified.	Your request is denied.	False	False	1.3545909	41	41, 45, 294	0	923
+381	Örülök, hogy találkoztunk.	Leave that there.	It's nice to see you.	False	False	1.263494	300	300, 875, 437	0	168
+382	Az autó lerobbant, úgyhogy gyalogolnunk kellett.	He bade us welcome.	The car broke down, so that we had to walk.	False	False	1.3195362	450	450, 174, 998	0	267
+383	Megteszem, ha megfizetik.	The 23 fits you better.	I'll do it if they pay me.	False	False	1.2461699	375	375, 569, 364	0	97
+384	A sikere részben a szerencsének köszönhető.	Someone stole my travelers checks.	His success was due in part to good luck.	False	False	1.3510755	396	396, 835, 728	0	331
+385	Megadom neked a honlaphoz a linket.	You sent me your photo.	I'll give you the link to the website.	False	False	1.4055724	779	779, 364, 998	0	658
+386	Én vagyok a legjobb.	Could you just sign right here, please?	I'm the best.	False	False	1.3633227	256	256, 618, 300	0	366
+387	Ha a világ nem olyan lenne, mint most, akkor mindenkiben bízhatnék.	Leave that there.	If the world weren't in the shape it is now, I could trust anyone.	False	False	1.2208102	300	300, 56, 931	0	903
+388	Tamás valahol errefelé lakik.	Leave that there.	Tom lives around here somewhere.	False	False	1.3818841	300	300, 628, 797	0	430
+389	Hoznál nekem egy pohár vizet?	Would you fetch me a glass of water?	Would you fetch me a glass of water?	True	True	1.4017448	247	247, 875, 462	1.0	247
+390	Ez a kedvenc kifejezésem.	You have foul breath.	That's my favorite expression.	False	False	1.4058566	738	738, 439, 375	0	687
+391	A fiú a barátaival úszik.	Tom wants to see his son.	The boy is swimming with his friends.	False	False	1.3474948	505	505, 715, 728	0	994
+392	Nevettek és sírtak egyszerre.	The 23 fits you better.	They laughed and cried at the same time.	False	False	1.2978661	375	375, 971, 174	0	924
+393	A képen két férfi és egy nő áll egy fa mellett.	There are two men and a woman standing next to a tree in the picture.	There are two men and a woman standing next to a tree in the picture.	True	True	1.2403555	44	44, 266, 835	1.0	44
+394	Mindig mosolyog.	Blue suits you well.	She smiles a lot.	False	False	1.4465982	628	628, 375, 455	0	137
+395	Volt egyszer egy szegény ember és egy gazdag asszony.	Storm in a teacup.	Once upon a time, there lived a poor man and a rich woman.	False	True	1.325964	728	728, 9, 835	0.5	9
+396	Részemről nincs kifogás.	I saw somebody steal the merchandise.	As for me, I have no objection.	False	False	1.3014872	835	835, 391, 400	0	445
+397	Úgy tűnik, mindjárt elered az eső.	The noise gets on my nerves.	It looks as if it is going to rain.	False	False	1.352076	166	166, 375, 364	0	452
+398	Tamás folyton tanul.	Storm in a teacup.	Tom studies all the time.	False	False	1.4195035	728	728, 300, 864	0	434
+399	Te takarítod fel.	The 23 fits you better.	You clean up.	False	False	1.3597534	375	375, 326, 300	0	454
+400	Az üzletünk nincs nyitva.	You are drunk!	Our store isn't open.	False	False	1.3234334	612	612, 738, 294	0	299
+401	Amikor végre úgy döntött Tom, hogy beismeri homoszexualitását, már mindenki tudta.	I saw somebody steal the merchandise.	When Tom finally decided to come out of the closet, everyone already knew he was gay.	False	False	1.2695692	835	835, 902, 740	0	978
+402	Tényleg szakítani akarsz a barátnőddel?	Are you Japanese?	Do you really want to break up with your girlfriend?	False	False	1.3208826	341	341, 304, 220	0	269
+403	Őrülten féltékeny a feleségére.	He is madly jealous of his woman.	He is madly jealous of his woman.	True	True	1.3417017	318	318, 738, 728	1.0	318
+404	- Apa, miért kék az ég? - Hát mert az!	May I leave a message?	"""Daddy, why is the sky blue?"" ""Well, it just is."""	False	False	1.3054786	875	875, 705, 39	0	599
+405	A kapitány megparancsolta az embereinek, hogy tüzeljenek.	Someone stole my travelers checks.	The captain ordered his men to fire.	False	False	1.3734711	396	396, 875, 728	0	643
+406	Mondta Tom, hogy tudni vélte, mi a probléma.	Was that part of your plan?	Tom said he thought he knew what the problem was.	False	False	1.2706975	251	251, 875, 738	0	630
+407	A vállamon aludt el.	Leave that there.	She fell asleep on my shoulder.	False	False	1.371943	300	300, 696, 738	0	638
+408	Ki volt ma itt az első?	Who is sick?	Who was the first one here today?	False	True	1.3149174	400	400, 650, 91	0.5	650
+409	Ez a lárma elviselhetetlen.	Leave that there.	This noise is unbearable.	False	False	1.2961053	300	300, 738, 454	0	20
+410	Gyakran repülsz?	Do you mind their coming too?	Do you fly frequently?	False	False	1.3285141	91	91, 359, 943	0	993
+411	Házas vagyok, és van két gyerekem.	Leave that there.	I am married and have two children.	False	False	1.3418483	300	300, 779, 738	0	1
+412	Ez sokat segítene.	You have foul breath.	That would be helpful.	False	False	1.3855557	738	738, 300, 375	0	415
+413	Nem vagy álmos?	Do you mind their coming too?	Aren't you sleepy?	False	False	1.3524923	91	91, 705, 597	0	142
+414	Noha nem én nyertem, de azért sikerült kapnom egy vigaszdíjat.	You sent me your photo.	I didn't win, but at least I got a consolation prize.	False	False	1.3293574	779	779, 250, 485	0	626
+415	A rendőr a szokásos éjszakai őrjáratán volt.	The policeman was on his usual nightly round.	The policeman was on his usual nightly round.	True	True	1.3690128	320	320, 835, 396	1.0	320
+416	Amikor kicsi voltam, szerettem volna háziállatnak egy barnamedvét, hogy megijessze a szomszédokat.	The 23 fits you better.	When I was little, I wanted to have a pet brown bear to scare my neighbors.	False	False	1.2393724	375	375, 835, 394	0	233
+417	Tomi radikális.	Leave that there.	Tom is radical.	False	False	1.3281623	300	300, 364, 375	0	546
+418	Mit szólna egy csésze teához?	Do you mind their coming too?	Would you like to have a cup of tea?	False	False	1.3984749	91	91, 802, 12	0	10
+419	Gyerekek játszanak a parton.	Children love to dig in the sand.	Several children are playing on the beach.	False	False	1.2879871	174	174, 300, 738	0	245
+420	Jártál valaha külföldön?	May I leave a message?	Have you ever visited a foreign country?	False	False	1.374496	875	875, 705, 359	0	145
+421	A vonatban állnia kellett.	You have foul breath.	She had to stand in the train.	False	False	1.2838404	738	738, 174, 611	0	6
+422	Abba kell hagynod a piálást.	You have your right sock on wrong side out.	You must quit drinking.	False	False	1.3777101	998	998, 779, 738	0	547
+423	A macska a lábtörlőn van	I saw somebody steal the merchandise.	The cat is on the mat.	False	True	1.3739619	835	835, 633, 266	0.3333333333333333	266
+424	Kettejük közül ő a szorgalmasabb.	He is the more diligent of the two.	He is the more diligent of the two.	True	True	1.2990587	641	641, 375, 450	1.0	641
+425	Eljönnél velem a folyóhoz?	You have foul breath.	Won't you go with me to the river?	False	False	1.4137454	738	738, 91, 751	0	763
+426	Róma sem egy nap alatt épült fel.	Rome was not built in a day.	Rome was not built in a day.	True	True	1.2401413	889	889, 728, 359	1.0	889
+427	Akkora vagy!	Will he be here soon?	You're so big.	False	False	1.391444	597	597, 612, 705	0	136
+428	Az infláció csökken.	The price of oil is going up.	Inflation is down.	False	True	1.3041291	163	163, 179, 375	0.5	179
+429	Van egy iskola a házam közelében.	Leave that there.	There is a school near my house.	False	False	1.3354307	300	300, 162, 864	0	274
+430	Érdemes megnézni a várat.	We'll make a sailor out of you yet.	The castle is worth visiting.	False	False	1.2588117	485	485, 830, 738	0	770
+431	Nagyon gyorsan tudok írni.	The 23 fits you better.	I can write very fast.	False	False	1.2976086	375	375, 485, 738	0	806
+432	Ő és én hasonlóan gondolkodunk.	Gather your toys together.	He and I are like-minded.	False	False	1.307472	971	971, 723, 738	0	880
+433	Ágyban kéne maradnia három vagy négy napig.	Children love to dig in the sand.	You should stay in bed for three or four days.	False	True	1.2965262	174	174, 151, 141	0.5	151
+434	Ajándékot keresek az édesanyámnak.	The 23 fits you better.	I am looking for a present for my mother.	False	False	1.3606242	375	375, 450, 779	0	812
+435	Ez az én válaszom!	May I leave a message?	That's MY line!	False	False	1.33353	875	875, 738, 381	0	411
+436	Lenne az ellen kifogásod, ha segítenék?	May I leave a message?	Would you mind if I help?	False	False	1.3052654	875	875, 702, 257	0	636
+437	Te értetted, mit mondott?	You have foul breath.	Did you make out what he said?	False	False	1.3563635	738	738, 705, 91	0	350
+438	Egy férfi nem sír nyilvánosság előtt.	You have foul breath.	Man will not cry in public.	False	False	1.2540814	738	738, 728, 400	0	74
+439	Van söröm.	I will shoot him.	I've got beer.	False	False	1.4370075	444	444, 300, 450	0	874
+440	Nagyon dögös vagy.	Leave that there.	You're so hot.	False	False	1.3551148	300	300, 375, 835	0	140
+441	Tudna nekem egy jobb árat mondani?	Can you give me a better price?	Can you give me a better price?	True	True	1.3406535	69	69, 388, 738	1.0	69
+442	Azért, mert lány vagy.	Leave that there.	That's because you're a girl.	False	False	1.3673025	300	300, 364, 779	0	446
+443	Tomit fel kell tartóztatni.	The 23 fits you better.	Tom needs to be stopped.	False	False	1.313899	375	375, 971, 734	0	893
+444	Kevésbé türelmes, mint a bátyja.	The 23 fits you better.	He is less patient than his brother.	False	False	1.2774606	375	375, 294, 433	0	188
+445	Az épület húszemeletes.	Storm in a teacup.	The building has twenty floors.	False	False	1.2949686	728	728, 738, 294	0	13
+446	Úgy hallottam, hogy bébiszittert keresel.	The 23 fits you better.	I heard you were looking for a babysitter.	False	False	1.269739	375	375, 482, 628	0	551
+447	Csupán tíz százalékát használjuk az agyunknak.	Storm in a teacup.	We only use 10% of our brain.	False	False	1.327791	728	728, 375, 738	0	919
+448	Nekem ez elég.	Leave that there.	That's enough for me.	False	False	1.4315846	300	300, 779, 91	0	325
+449	Elhitette velem azt, hogy nem hallott engem.	You have foul breath.	She pretended that she didn't hear me.	False	False	1.2795136	738	738, 779, 300	0	107
+450	Felkapcsolták a világítást.	What a palaver!	The light is on.	False	False	1.2824643	294	294, 738, 139	0	709
+451	Te hülye!	Do not be so vengeful!	You are stupid.	False	False	1.3626419	437	437, 450, 734	0	829
+452	Külföldi vagyok.	Leave that there.	I am a foreigner.	False	False	1.2581291	300	300, 779, 291	0	887
+453	A tanárunk egy gentlemen, a szó igazi értelmében.	Our teacher is a gentleman in the true sense of the word.	Our teacher is a gentleman in the true sense of the word.	True	True	1.2525458	672	672, 738, 628	1.0	672
+454	Általában sosem vagyok otthon, amikor a füvet nyírják, ezért csak a lenyírt gyepet látom.	I saw somebody steal the merchandise.	I wasn't usually home when the lawn was cut, so all I ever saw were the results.	False	False	1.2685385	835	835, 375, 141	0	298
+455	Csak nem szarkazmust hallok ki a szavaidból?	What a palaver!	Do I detect sarcasm?	False	True	1.3195459	294	294, 391, 738	0.5	391
+456	Két szemem van.	You have foul breath.	I have two eyes.	False	False	1.2842271	738	738, 300, 166	0	972
+457	Iskolánk a város központjában található.	Our school is in the center of the town.	Our school is in the center of the town.	True	True	1.2575321	790	790, 162, 313	1.0	790
+458	Az egy magas épület, ugye?	Who is sick?	That is a high building, is it not?	False	False	1.3808732	400	400, 633, 25	0	95
+459	Kérjük, adja meg a nevét és a címét ezen az űrlapon!	Give me the knife.	Please fill in your name and address on this form.	False	False	1.2648594	491	491, 386, 797	0	217
+460	Láttam, hogy valaki ellopta az árut.	Leave that there.	I saw somebody steal the merchandise.	False	False	1.3269778	300	300, 738, 375	0	835
+461	Tom egész nap dolgozott tegnap.	Your old grandma dances well.	Tom worked all day yesterday.	False	False	1.3975697	344	344, 628, 375	0	713
+462	Arthur kora ötvenes éveiben járt.	Arthur was in his early fifties.	Arthur was in his early fifties.	True	True	1.2947447	236	236, 183, 628	1.0	236
+463	Szednünk kell a lábunkat.	Don't step on the broken glass.	We must hurry.	False	False	1.404716	591	591, 779, 300	0	580
+464	Meg tudsz őrizni egy titkot?	Will you go with Tom?	Can you keep a secret?	False	False	1.2750067	304	304, 388, 943	0	598
+465	Ön nem volt ott? - kérdezte Jordan úr.	Who told him that?	"""Weren't you there?"" asked Mr Jordan."	False	False	1.400502	499	499, 705, 39	0	939
+466	Részletes utasításokat adtam neki.	You lent a book.	I gave him detailed instructions.	False	True	1.2788355	364	364, 779, 55	0.3333333333333333	55
+467	Szeretsz utazni?	Do you speak Russian?	Do you like trips?	False	False	1.4325604	881	881, 628, 482	0	798
+468	A kanapé alatt van a tv-távirányító.	This TV doesn't come with an HDMI cable.	There is a TV remote control under the couch.	False	True	1.2993138	37	37, 183, 848	0.3333333333333333	848
+469	Ezt a tényt nem szabad elfelejteni.	Self-pity won't help you.	This fact must not be forgotten.	False	True	1.2265102	139	139, 377, 552	0.5	377
+470	Szeretném tudni, ki kezdte ezt.	You have foul breath.	I want to know who started this.	False	False	1.3390381	738	738, 300, 482	0	595
+471	Siess!	This is silly!	Hurry it up!	False	False	1.2850367	830	830, 437, 300	0	422
+472	Tom kinyitotta az ajtót, mielőtt még Maria kopogni tudott volna.	I heard you were looking for a babysitter.	Tom opened the door before Mary had a chance to knock.	False	False	1.2994051	551	551, 835, 621	0	103
+473	Téged meglőttek, Tom.	You got shot, Tom.	You got shot, Tom.	True	True	1.2669117	482	482, 300, 326	1.0	482
+474	Kivel mentél szörfözni?	Did you sleep well?	Who did you go surfing with?	False	False	1.3848473	220	220, 948, 881	0	863
+475	Attól tartok, nem jön el.	Leave that there.	I am afraid he won't come.	False	False	1.2813436	300	300, 491, 381	0	655
+476	Azt akarja, hogy barátok legyenek csak.	Leave that there.	She wants him to be just a friend.	False	False	1.2643275	300	300, 91, 364	0	469
+477	Péter egy kandúrt vásárol.	I saw somebody steal the merchandise.	Peter is buying a tomcat.	False	True	1.3794314	835	835, 715, 209	0.5	715
+478	Mari fodrász.	Mr. Smith teaches me English.	Mary is a hairdresser.	False	False	1.5533423	150	150, 841, 375	0	65
+479	Az a hír kapott szárnyra, hogy kirúgták.	What a palaver!	There are rumors in the air that he was fired.	False	False	1.2442242	294	294, 835, 818	0	340
+480	Csak kérdezem magamban, hogy ez mindenki másnak ugyanaz-e.	I saw somebody steal the merchandise.	I can only wonder if this is the same for everyone else.	False	False	1.2696508	835	835, 611, 251	0	899
+481	Ez képen jobban néz ki, mint a valóságban.	That looks better in the picture than in reality.	That looks better in the picture than in reality.	True	True	1.2540284	588	588, 294, 482	1.0	588
+482	Senki nem szerzett elég szavazatot ahhoz, hogy megnyerje a szavazást.	Who told him that?	No man received enough votes to win the nomination.	False	False	1.2177055	499	499, 209, 375	0	265
+483	Jó leszek.	Leave that there.	I'll be good.	False	False	1.3197979	300	300, 444, 628	0	297
+484	Moziba mész?	Do you mind their coming too?	Are you going to a movie?	False	False	1.400206	91	91, 400, 844	0	172
+485	Ő nem beszél sokat.	Leave that there.	He doesn't talk much.	False	False	1.3144449	300	300, 738, 174	0	33
+486	Aláírtam a szerződést.	Teach judo to me.	I signed the contract.	False	False	1.2831655	326	326, 779, 381	0	126
+487	Meddig kell várnom?	May I sit here?	How long do I have to wait?	False	False	1.437532	705	705, 943, 388	0	164
+488	Elmehetünk máshová?	May I sit here?	Could we go somewhere else?	False	False	1.3488379	705	705, 91, 947	0	914
+489	Azért jött, hogy megkérjen minket, hogy segítsünk neki.	You sent me your photo.	He came to ask us to help him.	False	False	1.270591	779	779, 364, 326	0	511
+490	Milyen volt a franciaóra?	Who is sick?	How was the French class?	False	False	1.3108892	400	400, 844, 948	0	8
+491	Nagyon meg kéne javítani a tetőt.	The 23 fits you better.	The roof is really in need of repair.	False	False	1.1948688	375	375, 294, 300	0	235
+492	Tom rákényszerült, hogy eladja a gazdaságát.	Tom squandered his entire inheritance.	Tom was forced to sell his farm.	False	False	1.2627189	796	796, 715, 183	0	382
+493	Menjünk, igyunk meg egy kávét.	You sent me your photo.	Let's go grab a cup of coffee.	False	False	1.3458114	779	779, 738, 364	0	480
+494	A nők általában 10 évvel tovább élnek mint a férfiak.	Women usually live 10 years longer than men do.	Women usually live 10 years longer than men do.	True	True	1.2064958	176	176, 183, 93	1.0	176
+495	Tom elhatározta, hogy megpróbál tabletta nélkül aludni.	Peter is buying a tomcat.	Tom decided to try sleeping without a pillow.	False	False	1.286135	715	715, 835, 294	0	71
+496	Az ember nem olyan mindenható, mint Isten.	Leave that there.	Man is not as almighty as God.	False	False	1.2733312	300	300, 548, 730	0	851
+497	Tomi haja hátra van fésülve.	Your old grandma dances well.	Tom wears his hair slicked back.	False	False	1.3773644	344	344, 375, 633	0	827
+498	Kívülről meg tudod tenni.	You sent me your photo.	You can do it from the outside.	False	False	1.3295937	779	779, 300, 364	0	810
+499	Ez számomra volapük.	You have foul breath.	It's all Greek to me.	False	False	1.435612	738	738, 495, 217	0	68
+500	Körülbelül 133 kilométerre van Londontól.	It's about 133 kilometers from London.	It's about 133 kilometers from London.	True	True	1.2069726	313	313, 838, 139	1.0	313
+501	Ne hajtson annyira a bosszú!	You have foul breath.	Do not be so vengeful!	False	False	1.3723452	738	738, 971, 300	0	437
+502	A nevem Jack.	You have foul breath.	My name is Jack.	False	False	1.4325987	738	738, 830, 628	0	556
+503	Zamenhof, a tervezett eszperantó nyelv kezdeményezője, szemorvos volt.	Zamenhof, creator of the constructed language Esperanto, was an ophthalmologist.	Zamenhof, creator of the constructed language Esperanto, was an ophthalmologist.	True	True	1.3315681	739	739, 750, 747	1.0	739
+504	Vidd haza!	Get your arse into gear!	Take it home.	False	False	1.3763862	734	734, 830, 375	0	797
+505	Gyengéden a vállára tette a kezét.	You have foul breath.	He put his hand gently on her shoulder.	False	False	1.2918789	738	738, 300, 672	0	362
+506	Tomi aláírt egy beleegyezési nyilatkozatot.	Three dogs are following four cats to the gate.	Tom signed a confession.	False	False	1.2363374	84	84, 886, 715	0	127
+507	Minden könyvtári könyvet vissza kell vinni év végéig.	You should return all the library books before the end of the year.	You should return all the library books before the end of the year.	True	True	1.3030212	229	229, 762, 479	1.0	229
+508	A Nap egy közepes csillag.	What a palaver!	The sun is a medium-sized star.	False	False	1.3437576	294	294, 728, 696	0	654
+509	Jól beszélsz kínaiul?	Do you speak Chinese well?	Do you speak Chinese well?	True	True	1.3661592	948	948, 881, 705	1.0	948
+510	Az igazat megvallva, én már láttam ezt a filmet.	You sent me your photo.	To tell the truth, I've already seen that movie.	False	False	1.2860692	779	779, 375, 738	0	532
+511	Tomi felbontott egy sört.	I saw somebody steal the merchandise.	Tom opened a beer.	False	False	1.2432745	835	835, 364, 551	0	607
+512	Senki sem pótolhatatlan.	You have foul breath.	Nobody is indispensable.	False	False	1.3292379	738	738, 300, 591	0	292
+513	Rózsákat ültettem a kertbe.	Blue suits you well.	I planted roses in the garden.	False	False	1.3035163	628	628, 375, 166	0	593
+514	Biztos, hogy ő egy kedves ember, de nem nagyon okos.	She's a cold-hearted bitch.	He is a nice person, to be sure, but not very clever.	False	True	1.3240687	824	824, 563, 738	0.5	563
+515	Kell valami étel.	You have foul breath.	I need food.	False	False	1.3820813	738	738, 375, 628	0	380
+516	Szedd össze a játékaidat!	Get your arse into gear!	Gather your toys together.	False	True	1.3633213	734	734, 830, 971	0.3333333333333333	971
+517	Elpusztította az ellenségeit.	He exterminated his enemies.	He exterminated his enemies.	True	True	1.3160805	43	43, 608, 728	1.0	43
+518	Add oda azt a darab papírt, majd én megvizsgálom.	You sent me your photo.	Give me that piece of paper, and I will inspect it!	False	False	1.3206894	779	779, 375, 364	0	769
+519	Biztos vagyok benne, hogy korán elmegy.	Leave that there.	I'm sure he'll leave early.	False	False	1.2287252	300	300, 455, 628	0	355
+520	A földeken dolgozik.	Leave that there.	He works in the fields.	False	False	1.3285604	300	300, 696, 738	0	218
+521	Amit Tomi mondott, annak semmi értelme.	You have foul breath.	What Tom said doesn't make sense.	False	False	1.2990618	738	738, 482, 39	0	398
+522	Szeret Ön táncolni?	You are drunk!	Do you like to dance?	False	False	1.4417317	612	612, 738, 482	0	724
+523	Értékelem a segítségedet és a barátságodat.	I value your help and friendship.	I value your help and friendship.	True	True	1.3444321	429	429, 69, 485	1.0	429
+524	Én tudom, hogy úgy történt.	You sent me your photo.	I knew it would happen this way.	False	False	1.3118827	779	779, 364, 875	0	289
+525	Ne közelíts a barátnőmhöz!	You sent me your photo.	Stay away from my girlfriend.	False	True	1.3877976	779	779, 91, 619	0.3333333333333333	619
+526	A lámpa szürke.	Leave that there.	The lamp is grey.	False	False	1.286347	300	300, 444, 835	0	252
+527	Helyesled azt, amit csinál?	What are they doing there?	Do you approve of what she is doing?	False	False	1.4206824	353	353, 618, 165	0	23
+528	Mária kellett Tominak.	Storm in a teacup.	Tom needed Mary.	False	False	1.4977969	728	728, 628, 344	0	800
+529	Járnak iskolába a gyerekek?	May I sit here?	Do the children go to school?	False	False	1.3958765	705	705, 91, 971	0	244
+530	Nyelvtan szempontjából rendben van, de egy anyanyelvű nem mondana ilyet.	Our teacher is a gentleman in the true sense of the word.	Grammatically, it's correct, but native speakers wouldn't say something like that.	False	False	1.2995884	672	672, 835, 977	0	246
+531	A matematika óra jó.	You have foul breath.	The mathematics class is good.	False	False	1.4008119	738	738, 375, 300	0	283
+532	Elnökként beiktatták őt.	She allegedly killed him.	He was inaugurated as President.	False	True	1.3339995	16	16, 43, 414	0.3333333333333333	414
+533	Beszéltem Tomival telefonon.	You lent a book.	I spoke to Tom on the phone.	False	False	1.3439158	364	364, 150, 841	0	677
+534	- Nem - ismételte az angol.	Leave that there.	"""No,"" repeated the Englishman."	False	False	1.3608555	300	300, 450, 375	0	413
+535	Jakab nagyon szigorú a gyermekeivel.	He has two beautiful boys.	Jack is very severe with his children.	False	True	1.3317184	284	284, 318, 306	0.3333333333333333	306
+536	Kórházba kellene menned.	Give me the knife.	You should go to the hospital.	False	False	1.3324773	491	491, 591, 738	0	746
+537	Talán segítséget kellene szereznünk.	We'll do fine without you.	Maybe we should get some help.	False	False	1.281071	455	455, 364, 738	0	786
+538	Vettünk egy nagy zongorát, ami a fél nappalit elfoglalta.	You have foul breath.	We bought a grand piano which took up half of our living room.	False	False	1.2946469	738	738, 375, 696	0	996
+539	A macskák látnak a sötétben?	Do cats see in the dark?	Do cats see in the dark?	True	True	1.2770141	178	178, 359, 91	1.0	178
+540	Ha ilyen lehetnék...	The 23 fits you better.	If I could be like that...	False	False	1.3699775	375	375, 300, 628	0	423
+541	Ő a tökéletes pasi.	You lent a book.	He's the perfect guy.	False	False	1.3990574	364	364, 350, 738	0	216
+542	A nővérem minden reggel hajat mos.	The 23 fits you better.	My sister washes her hair every morning.	False	False	1.2939873	375	375, 738, 728	0	276
+543	A véletlen egy síközpontban hozott össze bennünket.	I saw somebody steal the merchandise.	Chance has thrown us together at a skiing resort.	False	False	1.2586472	835	835, 551, 875	0	772
+544	Ez nagyon furcsa.	This is silly!	This is very strange.	False	False	1.3092443	830	830, 495, 375	0	609
+545	"Mivel a kommunizmus összeomlott, mostanában a kapitalizmust vádolják azzal, hogy ""világuralomra tör""."	"As communism has collapsed, capitalism is now accused of trying to ""dominate the world."""	"As communism has collapsed, capitalism is now accused of trying to ""dominate the world."""	True	True	1.2662741	935	935, 554, 139	1.0	935
+546	Néhány hónapon belül feledésbe fog merülni.	It'll be forgotten in a few months' time.	It'll be forgotten in a few months' time.	True	True	1.3406425	322	322, 728, 384	1.0	322
+547	Többé nem tudok belenyugodni a sértéseibe.	You have foul breath.	I can't put up with his insults any longer.	False	False	1.2808822	738	738, 220, 591	0	207
+548	Kiment Tomi.	Storm in a teacup.	Tom went outside.	False	False	1.5340765	728	728, 628, 364	0	909
+549	A szobám ki lett takarítva.	The 23 fits you better.	I had my room cleaned.	False	False	1.3260454	375	375, 738, 728	0	518
+550	Valami miatt mindig panaszkodik.	He is madly jealous of his woman.	He's always complaining about something.	False	False	1.3324926	318	318, 64, 351	0	28
+551	Köszönöm, hogy önként jelentkeztél.	You sent me your photo.	Thanks for volunteering.	False	False	1.3146794	779	779, 491, 300	0	293
+552	Jól aludtál?	You have foul breath.	Did you sleep well?	False	False	1.4440035	738	738, 705, 344	0	220
+553	Nem emlékszem rá, hogy raktam-e már bele sót.	Would you fetch me a glass of water?	I do not remember if I have already added salt.	False	False	1.2619694	247	247, 875, 983	0	789
+554	Tamás eltékozolta az egész örökségét.	Tom squandered his entire inheritance.	Tom squandered his entire inheritance.	True	True	1.3717606	796	796, 455, 779	1.0	796
+555	Holnap Kumamotoba megyek, hogy lássam Aoi urat.	Blue suits you well.	I will go to Kumamoto to see Mr Aoi tomorrow.	False	False	1.303292	628	628, 375, 344	0	167
+556	Nagyon meleg volt.	This is silly!	It was very hot.	False	False	1.2962863	830	830, 962, 738	0	732
+557	Megyek, megetetem a kacsákat.	Blue suits you well.	I'm going to go feed the ducks.	False	False	1.3735471	628	628, 375, 300	0	502
+558	A lányok aludtak.	The 23 fits you better.	The girls were asleep.	False	False	1.3896502	375	375, 300, 696	0	756
+559	Azt mondta nekem, hogy valaha gazdag ember volt.	You have foul breath.	He told me how he had once been a rich man.	False	False	1.3154681	738	738, 375, 300	0	776
+560	Kiadó házat keresek.	The 23 fits you better.	I am looking for a house to rent.	False	False	1.2462797	375	375, 797, 326	0	670
+561	A jobb zoknid kifordítva vetted fel.	You have your right sock on wrong side out.	You have your right sock on wrong side out.	True	True	1.3345758	998	998, 738, 375	1.0	998
+562	Tom elsétált az étteremből.	Peter is buying a tomcat.	Tom walked away from the restaurant.	False	False	1.2590063	715	715, 835, 125	0	372
+563	Nem tudom abbahagyni a nevetést.	Don't step on the broken glass.	I can't stop laughing.	False	False	1.4041259	591	591, 738, 485	0	564
+564	Bolond vagy?	Do you mind their coming too?	Are you mad?	False	False	1.3382498	91	91, 881, 220	0	896
+565	Azt akarom, hogy letartóztassák Tomot.	Blue suits you well.	I want Tom to be arrested.	False	False	1.2919744	628	628, 375, 779	0	989
+566	A fejlett országoknak segíteniük kell a fejlődő országokon.	Children love to dig in the sand.	Advanced countries must give aid to developing countries.	False	False	1.3519626	174	174, 485, 932	0	286
+567	Ez kellett Tominak.	That toy is selling like hot cakes.	Tom needed this.	False	False	1.410924	864	864, 388, 364	0	839
+568	Tegnap elmentem a háza előtt.	You have foul breath.	I passed by her house yesterday.	False	False	1.2965771	738	738, 300, 696	0	268
+569	Most túlságosan elfoglalt vagyok ahhoz, hogy beszéljünk.	Leave that there.	I'm too busy to talk to you now.	False	False	1.2642686	300	300, 256, 971	0	309
+570	Miért akarod elkérni a kocsimat?	Can your brother drive a car?	Why do you want to borrow my car?	False	False	1.3392668	388	388, 165, 998	0	858
+571	- Az a köcsög tökön rúgott.- Megérdemelted.	You have foul breath.	"""That bitch kicked me in the balls."" ""You deserved it."""	False	False	1.341501	738	738, 603, 828	0	825
+572	Kurva anyád!	Japan is full of surprises!	Son of a bitch!	False	False	1.4527981	495	495, 830, 738	0	818
+573	Segített a barátainak.	Mr. Smith teaches me English.	She helped her friends.	False	False	1.3605123	150	150, 364, 619	0	836
+574	Ez az igazgató érzékeny a kritikára.	He is madly jealous of his woman.	This director is not insensitive to criticism.	False	True	1.3141694	318	318, 554, 613	0.3333333333333333	613
+575	Az ebéd délben van.	Blue suits you well.	Lunch is at noon.	False	False	1.3519695	628	628, 375, 696	0	523
+576	Hogyan tudjuk bebizonyítani, hogy ez valóban megtörtént?	Was that part of your plan?	How can we prove it actually happened?	False	False	1.2289003	251	251, 947, 205	0	319
+577	Mindig panaszkodik, hogy milyen kicsi a szobája.	Blue suits you well.	He is always complaining about how small his room is.	False	False	1.2138598	628	628, 400, 462	0	200
+578	Baszd meg anyád, köcsög.	The 23 fits you better.	Fuck your mom, bitch.	False	True	1.3891366	375	375, 491, 817	0.3333333333333333	817
+579	Úgy viselkedett, mint egy gyerek.	Storm in a teacup.	He behaved like a child.	False	False	1.2827904	728	728, 824, 738	0	458
+580	Nem szánalmas, hanem közkedvelt akarok lenni!!	You have foul breath.	I don't want to be lame; I want to be cool!!	False	False	1.265961	738	738, 300, 830	0	921
+581	Néhány szomszéd nagyon hangos.	I saw somebody steal the merchandise.	Some neighbors are very noisy.	False	False	1.2599778	835	835, 612, 472	0	582
+582	Vannak itt emberek, akiknek szükségük van a segítségedre.	There are people here who need your help.	There are people here who need your help.	True	True	1.3114817	646	646, 359, 384	1.0	646
+583	Az eszperantóban a hangsúly mindig az utolsó előtti szótagra esik.	In Esperanto, the main stress always falls on the second-to-last syllable.	In Esperanto, the main stress always falls on the second-to-last syllable.	True	True	1.18891	741	741, 108, 674	1.0	741
+584	Zamenhof, a tervezett eszperantó nyelv megalkotója, szemorvos volt.	Zamenhof, creator of the constructed language Esperanto, was an ophthalmologist.	Zamenhof, the creator of Esperanto, was an ophthalmologist.	False	True	1.2459284	739	739, 750, 747	0.5	750
+585	Ő egy gyenge akaratú ember.	She's a cold-hearted bitch.	He is a man of weak character.	False	False	1.336934	824	824, 294, 738	0	860
+586	Senki nem tudja a választ.	You have foul breath.	No one has the answer.	False	False	1.3418863	738	738, 300, 462	0	393
+587	Valami nyilvánvalóan rossz.	You have foul breath.	Something's obviously wrong.	False	False	1.3389213	738	738, 294, 495	0	335
+588	Nem értem ezt a verset.	You have foul breath.	I don’t understand this poem.	False	False	1.2926683	738	738, 779, 491	0	296
+589	Ha ezt érted, a többi majdnem ugyanaz.	The 23 fits you better.	If you understand this one, then the others are nearly the same.	False	False	1.2616167	375	375, 835, 611	0	201
+590	Én tudom, milyen az, valakit elveszíteni.	You have foul breath.	I know what it's like to lose someone.	False	False	1.3303628	738	738, 779, 875	0	63
+591	Párizsban vannak?	Are they in Paris?	Are they in Paris?	True	True	1.241409	359	359, 400, 353	1.0	359
+592	Háromszor hánytam.	You have foul breath.	I threw up three times.	False	False	1.381923	738	738, 375, 300	0	459
+593	Követtél?	May I sit here?	Have you been following me?	False	False	1.4022851	705	705, 220, 257	0	232
+594	Miért mentél Japánba?	Are you Japanese?	Why'd you go to Japan?	False	False	1.3677158	341	341, 359, 875	0	703
+595	Most, hogy Mary elment, Tom boldogabb.	Leave that there.	Now that Mary has left, Tom is happier.	False	False	1.2805158	300	300, 482, 375	0	347
+596	Nem tartozik rád.	You have foul breath.	This is none of your business.	False	False	1.4462003	738	738, 300, 728	0	339
+597	Aki keres, az talál.	Leave that there.	Who searches, finds.	False	False	1.3693299	300	300, 375, 738	0	261
+598	A halál végleges.	You have foul breath.	Death is permanent.	False	False	1.3934319	738	738, 455, 835	0	308
+599	Épp most láttam őket.	Did you get anything from them?	I've just seen them.	False	False	1.3756182	385	385, 875, 91	0	982
+600	Ez a hajó elment.	Leave that there.	That ship has sailed.	False	True	1.3138769	300	300, 611, 605	0.5	611
+601	Sohasem kedveltem a biológiát.	You have foul breath.	I never liked biology.	False	False	1.3498843	738	738, 728, 628	0	403
+602	Tom hamarosan házasodik.	Tom is getting married.	Tom is getting married.	True	True	1.2955847	843	843, 183, 359	1.0	843
+603	Lehet, hogy holnap esni fog.	Leave that there.	It'll probably rain tomorrow.	False	False	1.2954885	300	300, 611, 738	0	620
+604	Nélküled is boldogulnánk.	Leave that there.	We'll do fine without you.	False	False	1.3732011	300	300, 696, 628	0	455
+605	Épp elkezdtem volna írni egy levelet, mikor hazaért.	You lent a book.	I was just going to write a letter when he came home.	False	False	1.2490091	364	364, 779, 835	0	999
+606	Minden út Helsingörbe vezet.	We'll make a sailor out of you yet.	All roads lead to Elsinore.	False	False	1.3590896	485	485, 375, 738	0	913
+607	Általában ötkor megyek haza.	The 23 fits you better.	I usually go home at five.	False	False	1.3297087	375	375, 300, 628	0	574
+608	Nagyon kedvel téged.	The 23 fits you better.	He likes you very much.	False	False	1.4344592	375	375, 344, 738	0	19
+609	Elmentem megnézni a szüleimet.	Leave that there.	I went to see my parents.	False	False	1.2722675	300	300, 738, 491	0	757
+610	Lent leszek, ha szükséged van rám.	You have foul breath.	I'll be downstairs if you need me.	False	False	1.318732	738	738, 875, 300	0	86
+611	György nem veszi komolyan a tanulást.	They are looking at only the sunny side of the American economy.	George is not serious about his study.	False	False	1.2461549	931	931, 375, 738	0	950
+612	Egyedül fogok beszélni vele.	Give me that piece of paper, and I will inspect it!	I will speak to her alone.	False	False	1.3060557	769	769, 738, 300	0	287
+613	Becsuknád az ajtót?	Can your brother drive a car?	Could you close the door, please?	False	False	1.385138	388	388, 375, 705	0	255
+614	Tomi bútorokat gyárt.	That toy is selling like hot cakes.	Tom makes furniture.	False	False	1.3600993	864	864, 835, 715	0	907
+615	Nem volt elégedett Tom.	Tom seems very sleepy.	Tom wasn't satisfied.	False	False	1.3584882	64	64, 612, 269	0	920
+616	Számítok rátok, hogy csatlakoztok hozzánk.	You sent me your photo.	I am counting on you to join us.	False	False	1.292474	779	779, 326, 217	0	723
+617	Minden reggel találkozom Michaelával a metrón.	Tonight we have to eat dinner late because of the meeting.	I meet Mihaela every morning at the subway.	False	False	1.3582299	384	384, 523, 612	0	162
+618	Segíteni fogok neked a takarításban.	You have foul breath.	I'll help you clean up.	False	False	1.280427	738	738, 375, 300	0	409
+619	Hagyhatnék egy üzenetet?	Did you sleep well?	May I leave a message?	False	False	1.3056614	220	220, 39, 91	0	875
+620	Nem akarom azt, hogy félj tőlem.	Please let go of my arm.	I don't want you to fear me.	False	False	1.3001797	381	381, 738, 569	0	57
+621	Jefferson, amerikai elnök, kereskedelmi tilalmat rendelt el Európával.	President Jefferson ordered a ban on trade with Europe.	President Jefferson ordered a ban on trade with Europe.	True	True	1.2810142	512	512, 127, 439	1.0	512
+622	Sikerük nagyban összefügg a szorgalmukkal.	Self-pity won't help you.	Their success has a lot to do with their diligence.	False	False	1.3277869	139	139, 891, 98	0	801
+623	Miért sietsz ennyire?	You have foul breath.	Why are you in such a hurry?	False	False	1.4304363	738	738, 943, 400	0	701
+624	Inna valamit?	Are they in Paris?	Do you want to drink something?	False	False	1.3877151	359	359, 896, 341	0	462
+625	Nem jött válasz.	May I leave a message?	There was no response.	False	False	1.3396899	875	875, 738, 705	0	604
+626	Igazán nem hittem volna, hogy ez megtörténik.	Did I miss something?	I didn't really think it would happen.	False	False	1.2786496	39	39, 738, 525	0	545
+627	Jó vagyok hozzád ma reggel.	You sent me your photo.	I'm being good to you this morning.	False	False	1.321766	779	779, 91, 69	0	615
+628	A baseball messze a legnépszerűbb sport Japánban.	Baseball is by far the most popular sport in Japan.	Baseball is by far the most popular sport in Japan.	True	True	1.2924819	215	215, 795, 824	1.0	215
+629	Ő engem nem érdekel.	Leave that there.	I don't care about him.	False	False	1.3151802	300	300, 738, 485	0	327
+630	Biztosan ön Tamás édesapja.	Klabaster and Gizmo are cats.	Surely you are Tom's father.	False	False	1.3511997	158	158, 294, 641	0	426
+631	György szegény, mégis mindig boldog.	Leave that there.	George is poor, but he's always happy.	False	False	1.3586868	300	300, 728, 548	0	953
+632	Valami nem volt kóser.	You have foul breath.	Something wasn't kosher.	False	False	1.3105958	738	738, 454, 627	0	295
+633	Ezek történnek.	That ship has sailed.	This kind of thing happens.	False	False	1.3987758	611	611, 359, 300	0	472
+634	Micsoda cirkusz!	Gather your toys together.	What a palaver!	False	False	1.3365921	971	971, 612, 344	0	294
+635	Ő egy kőszívű ribanc.	Klabaster and Gizmo are cats.	She's a cold-hearted bitch.	False	True	1.3631437	158	158, 294, 824	0.3333333333333333	824
+636	Nem volt más választása, mint belenyugodni a sorsába.	What a palaver!	She had no choice but to accept her fate.	False	False	1.2305567	294	294, 391, 705	0	18
+637	Továbbment Tomi.	The 23 fits you better.	Tom walked on.	False	False	1.5095205	375	375, 971, 628	0	912
+638	Az önsajnálat nem segít.	Self-pity won't help you.	Self-pity won't help you.	True	True	1.360372	139	139, 835, 738	1.0	139
+639	Elmennél végre?	You have foul breath.	Would you leave, please?	False	False	1.4554191	738	738, 91, 300	0	257
+640	Mert én értek kínaiul.	You have foul breath.	Because I speak Chinese.	False	False	1.3117846	738	738, 300, 628	0	80
+641	A szó elszáll, az írás megmarad.	That ship has sailed.	Words fly, texts remain.	False	False	1.3239379	611	611, 166, 738	0	90
+642	Valószínűleg ismét neked van igazad.	You have foul breath.	You, probably, once again right.	False	False	1.3270954	738	738, 375, 455	0	529
+643	Találtam lakóhelyet.	The 23 fits you better.	I found a place to live.	False	False	1.2857907	375	375, 300, 291	0	760
+644	Illik hozzád a kék.	The 23 fits you better.	Blue suits you well.	False	False	1.3974892	375	375, 779, 381	0	628
+645	Mondtad, hogy Mary szép, de nem gondoltam, hogy ennyire.	You have foul breath.	You said Mary was beautiful, but I didn't think she would be this beautiful.	False	False	1.2686905	738	738, 875, 300	0	354
+646	Rögtön visszajövök.	We'll do fine without you.	I will be back soon.	False	False	1.4863279	455	455, 728, 409	0	892
+647	Mit szólnál egy csésze kávéhoz?	How about a cup of hot coffee?	How about a cup of coffee?	False	False	1.4156375	12	12, 391, 247	0	11
+648	Feltételezem, hogy ez a dolog másnak tűnik, ha sokáig gondolkodol rajta.	Do I detect sarcasm?	I suppose it's different when you think about it over the long term.	False	False	1.2342539	391	391, 270, 931	0	900
+649	1917-ben Európa háborúban állt.	In 1917, Europe was at war.	In 1917, Europe was at war.	True	True	1.1566436	373	373, 728, 363	1.0	373
+650	Kicsit halkabban, kérem!	Japan is full of surprises!	Less noise, please.	False	False	1.2813805	495	495, 738, 375	0	501
+651	Az utat az azt övező szikláról leeső kövek zárták el.	The snowball melted in my hand.	The road is blocked by stones fallen from a nearby rock.	False	False	1.3269963	603	603, 728, 174	0	46
+652	Ehhez senkinek nincs joga.	Can you give me a better price?	No one has that right.	False	False	1.3225738	69	69, 611, 359	0	392
+653	Édes volt.	Women usually live 10 years longer than men do.	It tasted sweet.	False	False	1.4986804	176	176, 468, 228	0	134
+654	Ön tudni fogja, hogy mit tegyen.	Leave that there.	They'll know what to do.	False	False	1.2675508	300	300, 375, 326	0	379
+655	A jogosítványomat használtam, hogy igazoljam magam.	Gather your toys together.	I used my driver's license to identify myself.	False	False	1.3078704	971	971, 375, 738	0	148
+656	Tom nagyon álmosnak tűnik.	George is very honest by nature.	Tom seems very sleepy.	False	True	1.3337208	962	962, 694, 64	0.3333333333333333	64
+657	Láttam néhány madarat elrepülni.	The 23 fits you better.	I saw some birds flying away.	False	False	1.3021595	375	375, 835, 738	0	425
+658	A szerelem sohasem pazarlás.	You have foul breath.	Love is never wasted.	False	False	1.3127476	738	738, 728, 300	0	558
+659	Meddig maradtál?	Do you mind their coming too?	How long did you stay?	False	False	1.4299923	91	91, 896, 220	0	520
+660	Megkarcoltam a lemezeimet.	You sent me your photo.	I scratched my records.	False	False	1.3991799	779	779, 738, 364	0	45
+661	Gyűjtsd össze a gondolataidat, mielőtt nekiállsz dolgozni.	Gather your toys together.	Collect your thoughts before you begin your work.	False	True	1.2534227	971	971, 375, 467	0.3333333333333333	467
+662	Nekem kellett volna megkapni azt az előléptetést.	Didn't you read the sign?	I should've gotten that promotion.	False	False	1.2881954	693	693, 139, 539	0	59
+663	Meg tudná mondani, hányas méret ez?	May I sit here?	Can you tell me what size this is?	False	True	1.3968079	705	705, 875, 165	0.3333333333333333	165
+664	Tudom, hogy Johann őszinte.	Leave that there.	I know that John is honest.	False	False	1.3293663	300	300, 364, 738	0	82
+665	Rögtön sejtettem, hogy az a férfi pénzt akart tőlem kicsalni.	You have foul breath.	It occurred to me that the man was trying to cheat me out of my money.	False	False	1.2179309	738	738, 166, 825	0	193
+666	Tom és Mary berágtak Johnra.	Tom and Mary are mad at John.	Tom and Mary are mad at John.	True	True	1.2275515	58	58, 800, 621	1.0	58
+667	Anyámra hasonlítok.	The 23 fits you better.	I resemble my mother.	False	False	1.3272983	375	375, 628, 344	0	443
+668	Azt hiszem megtudom csinálni a szabadidőmben.	You have foul breath.	I think I can do it in my spare time.	False	False	1.3426907	738	738, 375, 728	0	321
+669	A tanulást nem kényszeríteni, hanem bátorítani kell.	What a palaver!	Learning should not be forced. Learning should be encouraged.	False	False	1.2919891	294	294, 916, 139	0	894
+670	Sato úr jól beszél angolul.	Mr. Sato speaks English well.	Mr. Sato speaks English well.	True	True	1.4078319	370	370, 80, 174	1.0	370
+671	Jómagam sohasem voltam ott.	You have foul breath.	I have never been there myself.	False	False	1.4590693	738	738, 344, 326	0	119
+672	Felmászott a létrára.	What a palaver!	He climbed up the ladder.	False	False	1.3492554	294	294, 728, 696	0	26
+673	Alkalomadtán bekapcsolom a televíziót.	We watched a new program on television.	I watch TV now and then.	False	False	1.2922199	941	941, 294, 174	0	768
+674	Lehetnél kicsit kedvesebb.	The 23 fits you better.	Be a little kinder!	False	False	1.2879171	375	375, 450, 877	0	433
+675	Egyszer és mindenkorra tisztáztam, hogy nem akarok vele együtt végigcsinálni egy bevásárlást.	The 23 fits you better.	I told her once and for all that I would not go shopping with her.	False	False	1.2143314	375	375, 485, 294	0	465
+676	Koncentrálnunk kell a figyelmünket.	Can you give me a better price?	We must focus.	False	False	1.3387146	69	69, 738, 875	0	453
+677	Úgy gondolom, a levesből hiányzik egy csipet só.	The 23 fits you better.	I think the soup needs a bit of salt.	False	False	1.2953514	375	375, 628, 734	0	840
+678	Meg tudná mutatni ezen a képen, hogy ki volt az a férfi?	Can you identify the man using this picture?	Can you identify the man using this picture?	True	True	1.2888873	205	205, 400, 165	1.0	205
+679	Korábban is történt ilyen.	It's already happened.	It's been done before.	False	True	1.293961	634	634, 830, 624	0.3333333333333333	624
+680	Egy szívességet szeretnék kérni tőled.	You have foul breath.	I would like to ask you a favor.	False	False	1.3382131	738	738, 779, 69	0	211
+681	Hogyan jutok el az állomásra?	Which country are you from?	How can I get to the station?	False	False	1.3373859	890	890, 702, 875	0	79
+682	Nem tudom megtalálni. biztos vagy benne, hogy ő itt van?	Leave that there.	I can't find it. Are you sure it's here?	False	False	1.2575711	300	300, 705, 400	0	726
+683	Miért vagy az asztal alatt?	Are they in Paris?	Why are you under the desk?	False	True	1.2861173	359	359, 400, 702	0.3333333333333333	702
+684	Nem volt alkalmam elmenekülni.	You sent me your photo.	I had no chance to escape.	False	False	1.367443	779	779, 738, 92	0	673
+685	A kormányzó visszaélt a hatalmával.	The governor abused his authority.	The governor abused his authority.	True	True	1.3259567	77	77, 294, 608	1.0	77
+686	Elkezdtem eszperantóul tanulni.	Your old grandma dances well.	I began to learn Esperanto.	False	True	1.4898422	344	344, 747, 150	0.5	747
+687	A zaj az idegeimre megy.	Now all heros lie under the earth.	The noise gets on my nerves.	False	False	1.3996799	696	696, 287, 300	0	166
+688	Fáradtnak érzed magad?	You have foul breath.	Are you feeling tired?	False	False	1.4535644	738	738, 344, 705	0	542
+689	Nem, nem én vagyok, hanem te!	Leave that there.	No I'm not; you are!	False	False	1.3428907	300	300, 503, 381	0	408
+690	Nem sok minden változott azóta.	That ship has sailed.	Not much has changed since then.	False	False	1.3886955	611	611, 433, 300	0	956
+691	Nem akarom többé látni.	Leave that there.	I don't want to see him again.	False	False	1.308329	300	300, 705, 619	0	226
+692	Ezt a játékot úgy veszik, mint a cukrot.	The 23 fits you better.	That toy is selling like hot cakes.	False	False	1.2486265	375	375, 294, 174	0	864
+693	Vihar egy pohár vízben.	Storm in a teacup.	Storm in a teacup.	True	True	1.2661808	728	728, 300, 455	1.0	728
+694	Hol van itt probléma?	May I sit here?	Where is the problem?	False	False	1.3489687	705	705, 400, 738	0	524
+695	Csinálnod kell.	Leave that there.	You must do it.	False	False	1.4715565	300	300, 174, 375	0	539
+696	Amikor ma reggel felkeltem, észrevettem, hogy a hegytetőt beborította a hó.	I have worked for one company where the payroll was snatched on a dark winter's night.	I awoke this morning to find the summit of the mountain covered with snow.	False	True	1.2481381	192	192, 383, 828	0.5	383
+697	Tehetek érted valamit?	May I sit here?	Is there something I can do for you?	False	False	1.369558	705	705, 91, 738	0	811
+698	A gyógyszer és az alkohol gyakran nem fér össze.	Medication and alcohol often don't mix.	Medication and alcohol often don't mix.	True	True	1.2506555	102	102, 183, 975	1.0	102
+699	Fél órán át álltak a dugóban.	You have foul breath.	They were hung up in a traffic jam for half an hour.	False	False	1.2979647	738	738, 728, 891	0	995
+700	Tomi otthon van?	Do you mind their coming too?	Is Tom at home?	False	False	1.3241693	91	91, 400, 705	0	675
+701	Túl messzire mentél.	You have foul breath.	You went too far.	False	False	1.3458235	738	738, 300, 381	0	121
+702	Azonnal cselekednünk kell.	You sent me your photo.	We must act at once.	False	False	1.3998005	779	779, 738, 491	0	667
+703	Semi pénzért sem válnék meg tőle.	You sent me your photo.	I wouldn't sell that at any price.	False	False	1.2980186	779	779, 738, 364	0	525
+704	Ez nem jövendölés.	Self-pity won't help you.	It isn't a prophecy.	False	False	1.3579582	139	139, 472, 835	0	510
+705	Szerintem segíteni fog nekem.	You have foul breath.	I think she'll help me.	False	False	1.3355346	738	738, 300, 495	0	356
+706	A kutyák okosak.	Blue suits you well.	Dogs are smart.	False	False	1.4778252	628	628, 375, 300	0	101
+707	Ne is figyelj Tomira! Valamivel mindig baja van.	Japan is full of surprises!	Just ignore Tom. He always seems to be complaining about something.	False	False	1.3501624	495	495, 738, 734	0	31
+708	Tom jóval éjfél után ért haza.	Now that Mary has left, Tom is happier.	It was well after midnight when Tom got home.	False	False	1.3468268	347	347, 375, 835	0	230
+709	A mókusok tényleg gyorsan futnak.	You have foul breath.	Squirrels can run really quickly.	False	False	1.3687098	738	738, 375, 455	0	195
+710	Tom ezt mindet tudja és még többet is.	The 23 fits you better.	Tom can do all that and more.	False	True	1.2235967	375	375, 785, 174	0.5	785
+711	Add a kést!	You have foul breath.	Give me the knife.	False	False	1.4374282	738	738, 300, 375	0	491
+712	Japán ön?	Are you Japanese?	Are you Japanese?	True	True	1.441619	341	341, 400, 738	1.0	341
+713	Ez nekem nem tetszik. Mutasson nekem mást.	Leave that there.	I don't like this. Show me another.	False	False	1.251252	300	300, 738, 375	0	834
+714	Írjál nekem!	You are drunk!	Write to me.	False	False	1.3956851	612	612, 734, 381	0	572
+715	Ön milyen mértékig felelős az ő cselekedeteiért?	To what extent can you answer for his deed?	To what extent can you answer for his deed?	True	True	1.3298167	804	804, 890, 738	1.0	804
+716	Útban van.	This is silly!	They are in the way.	False	False	1.3398764	830	830, 738, 300	0	642
+717	Kérlek, add meg a címedet.	You sent me your photo.	Please, give me your address.	False	False	1.3022593	779	779, 491, 300	0	386
+718	Ezen a gyarmaton ő élet és halál ura.	In this colony he is lord of life and death.	In this colony he is lord of life and death.	True	True	1.3263777	608	608, 696, 554	1.0	608
+719	Következőben eggyel nagyobbat kellene venned.	The 23 fits you better.	Next time, you should buy a larger size.	False	False	1.3037672	375	375, 450, 455	0	479
+720	Megparancsolta, hogy azonnal hagyjam el a szobát.	Please fill in your name and address on this form.	He ordered me to leave the room at once.	False	False	1.2985699	217	217, 569, 738	0	112
+721	Édesszájú vagyok.	Do you want to do that today?	I like sweets.	False	False	1.3368157	618	618, 69, 300	0	196
+722	Túlságosan fáradt vagyok.	You have foul breath.	I'm too tired.	False	False	1.2888972	738	738, 300, 628	0	744
+723	Nem tudsz vagy nem akarsz?	May I sit here?	You can't or you won't?	False	False	1.2914174	705	705, 91, 948	0	61
+724	Meg kell próbálnunk.	You are drunk!	We must try.	False	False	1.3731887	612	612, 998, 738	0	799
+725	Az összes pénzemet Tamásnak adtam.	You sent me your photo.	I gave Tom all my money.	False	True	1.3234047	779	779, 250, 803	0.3333333333333333	803
+726	Ő nem a fiam, hanem az unokaöcsém.	I would rather have a cat than a dog.	He is not my son, but my nephew.	False	False	1.3632888	105	105, 672, 728	0	714
+727	George egy nagy farmon dolgozik.	George works on a big farm.	George works on a big farm.	True	True	1.2655045	959	959, 715, 243	1.0	959
+728	Senki sem látott semmit.	Did you get anything from them?	Nobody saw anything.	False	False	1.2699256	385	385, 300, 91	0	710
+729	Régi újságpapírok gyűjtésével és eladásával keresik meg a kenyérre valót.	They earn their living by collecting and selling old newspapers.	They earn their living by collecting and selling old newspapers.	True	True	1.2596016	979	979, 183, 835	1.0	979
+730	Én megtartottam a szavamat.	The 23 fits you better.	I kept my word.	False	False	1.2591739	375	375, 344, 738	0	627
+731	Mennyi idejébe tellett megírni ezt a könyvet?	Did I miss something?	How long did it take you to write this book?	False	False	1.2911923	39	39, 69, 388	0	442
+732	Jöjjünk össze újra jövőre.	Give me the knife.	Let's get together again next year.	False	False	1.3237203	491	491, 734, 769	0	808
+733	Amikor én kisgyerek voltam, bárhol tudtam aludni.	When I saw you last time, you were just little girls.	When I was a child, I could sleep anywhere.	False	False	1.3238167	394	394, 779, 835	0	584
+734	A sebe végzetes volt.	The price of oil is going up.	The wound was fatal to him.	False	False	1.4380642	163	163, 349, 358	0	120
+735	Tom megoldotta a rejtvényt.	The 23 fits you better.	Tom solved the puzzle.	False	False	1.2478253	375	375, 125, 715	0	859
+736	A tökéletessége csak egy hibán múlt.	Better a small gain than a great loss.	To be perfect she lacked just one defect.	False	False	1.3195565	397	397, 322, 184	0	540
+737	Az élet az, ami megtörténik veled, miközben más tervekkel foglalkozol.	We'll do fine without you.	Life is what happens to you while you're busy making other plans.	False	False	1.2872589	455	455, 300, 738	0	752
+738	Tom egész nap állást keresett.	What a palaver!	Tom spent all day looking for a job.	False	False	1.3353366	294	294, 728, 634	0	243
+739	Túl erős a fény.	Leave that there.	It's too bright.	False	False	1.3518094	300	300, 444, 830	0	543
+740	Van itt egy probléma...	Then there is a problem...	Then there is a problem...	True	True	1.3332675	419	419, 628, 300	1.0	419
+741	Ezt komolyan gondolja?	Do you mind their coming too?	Are you being serious?	False	False	1.3406073	91	91, 628, 375	0	681
+742	Ne menj át ezen a hídon!	Please let go of my arm.	Don't cross this bridge.	False	False	1.3417007	381	381, 738, 696	0	312
+743	A nagybátyám tíz évig élt Párizsban.	My uncle has lived in Paris for ten years.	My uncle has lived in Paris for ten years.	True	True	1.3072017	117	117, 359, 400	1.0	117
+744	Nos, jössz?	Do you mind their coming too?	Well, are you coming?	False	False	1.4066075	91	91, 705, 300	0	575
+745	Hideg volt.	Leave that there.	It was cold.	False	False	1.4492621	300	300, 444, 364	0	475
+746	Tom jól tud írni.	You lent a book.	Tom can write well.	False	True	1.3056455	364	364, 482, 815	0.3333333333333333	815
+747	Valamiért éjjel élénkebbnek érzem magam.	You have foul breath.	For some reason I feel more alive at night.	False	False	1.3761876	738	738, 495, 344	0	908
+748	Vidéken sok fa nő.	Blue suits you well.	The countryside has many trees.	False	False	1.3215951	628	628, 728, 795	0	494
+749	Mondják, hogy a szerelem vakká tesz.	Leave that there.	They say love is blind.	False	False	1.254484	300	300, 738, 454	0	548
+750	Ez is, mint mondtam, a munkád része.	You have foul breath.	This is also part of your work, as I told you before.	False	False	1.3672642	738	738, 300, 375	0	52
+751	Nem vagyok biztos benne, miért kötelezték bezárni az éttermet.	Blue suits you well.	I'm not sure why they were forced to close the restaurant.	False	False	1.2352861	628	628, 300, 738	0	307
+752	Tom gyorsan beszél.	You have foul breath.	Tom talks fast.	False	False	1.349674	738	738, 364, 150	0	332
+753	Csak a napos oldalát nézik az amerikai gazdaságnak.	They are looking at only the sunny side of the American economy.	They are looking at only the sunny side of the American economy.	True	True	1.2744163	931	931, 864, 294	1.0	931
+754	Ha nem tanulsz, meg fogsz bukni a vizsgán.	Blue suits you well.	If you don't study, you will fail the exam.	False	False	1.2929978	628	628, 300, 375	0	187
+755	Nyugati szél fúj.	The snowball melted in my hand.	The wind is blowing east.	False	False	1.4143938	603	603, 375, 150	0	481
+756	Nehezünkre esett a munkánkkal foglalkozni, mert ő mindig nyafogott.	Children love to dig in the sand.	We had a hard time doing the job because he was always complaining.	False	False	1.3374872	174	174, 738, 482	0	32
+757	Szeretek nevetni.	Leave that there.	I like to laugh.	False	False	1.3896126	300	300, 569, 738	0	418
+758	Több kell nekünk.	You have foul breath.	We need more.	False	False	1.4321522	738	738, 91, 802	0	585
+759	Nem érdekel engem a politika.	Leave that there.	I don't care about politics.	False	False	1.3859806	300	300, 835, 166	0	328
+760	Tomot vadállatok ölték meg.	Klabaster and Gizmo are cats.	Tom was killed by wild animals.	False	False	1.2836331	158	158, 728, 603	0	360
+761	Még mindig alszik mindenki.	Leave that there.	Everyone's still asleep.	False	False	1.3077524	300	300, 375, 455	0	279
+762	Az alma, amit adott neked, milyen színű volt?	Blue suits you well.	What was the color of the apple he gave you?	False	False	1.3544095	628	628, 39, 144	0	76
+763	Néhány gyerek könnyen, a többiek nehezen tanulják a nyelveket.	Some children learn languages easily and others with difficulty.	Some children learn languages easily and others with difficulty.	True	True	1.2062941	93	93, 174, 450	1.0	93
+764	Ez a fiú az ő fivére.	The cat is on the mat.	This boy is his brother.	False	True	1.3491061	266	266, 718, 450	0.5	718
+765	A lánynak kevés pénze volt.	Eva is not such an ugly girl.	She had a little money.	False	True	1.2528943	488	488, 639, 540	0.5	639
+766	Ki mondta ezt neki.	Take it home.	Who told him that?	False	False	1.3808337	797	797, 375, 174	0	499
+767	A könyv illusztrációi nagyon jók.	The book's illustrations are very good.	The book's illustrations are very good.	True	True	1.3133535	781	781, 364, 391	1.0	781
+768	Nem akar beszélni róla.	You have foul breath.	She doesn't want to talk about it.	False	False	1.3309867	738	738, 300, 80	0	159
+769	Elnéztem valamit?	You have foul breath.	Did I miss something?	False	False	1.3244536	738	738, 91, 628	0	39
+770	Tudom, hogy még mindig nem vagy vele elégedett.	Leave that there.	I know you're still not satisfied.	False	False	1.355382	300	300, 91, 705	0	922
+771	Sajnálom, hogy nem tudtam korábban írni, de beteg voltam.	Leave that there.	I'm sorry, I couldn't write earlier because I was ill.	False	False	1.2849522	300	300, 779, 364	0	476
+772	Hetente három órát tanulunk angolul.	We learn English three hours a week.	We learn English three hours a week.	True	True	1.3035765	987	987, 174, 375	1.0	987
+773	Egy cigi?	What are they doing there?	How about a smoke?	False	False	1.4388541	353	353, 359, 400	0	802
+774	Ne próbálj meg mindenért engem hibáztatni!	Do not be so vengeful!	Don't try to blame this all on me.	False	False	1.3287828	437	437, 734, 971	0	761
+775	A matematikaoktatás ma érdekesebb volt, mint máskor.	We spent more money than was expected.	Today's math class was more interesting than usual.	False	True	1.2833512	873	873, 736, 397	0.5	736
+776	Nagyjából két órát tanulok minden nap.	Children love to dig in the sand.	I study about two hours every day.	False	True	1.3077321	174	174, 375, 330	0.3333333333333333	330
+777	Pénzen nem tudod megvenni sem az egészséget, sem a boldogságot.	You have foul breath.	Money cannot buy health, nor happiness.	False	True	1.2362084	738	738, 451, 737	0.5	451
+778	- Tetszett neki a film? -Igen, tetszett.	Who told him that?	"""Did she like the film?"" - ""Yes, she did."""	False	False	1.2409954	499	499, 300, 444	0	202
+779	Ennyire egyszerű.	What a palaver!	It's just that simple.	False	False	1.3925232	294	294, 738, 611	0	606
+780	A rendőrség nagyon hamar megtalálta.	The police found them out very soon.	The police found them out very soon.	True	True	1.2712755	958	958, 16, 369	1.0	958
+781	Ez a könyv a lányé.	You lent a book.	This book is hers.	False	False	1.3748921	364	364, 779, 864	0	2
+782	Így felhasználsz a művedben, anélkül, hogy beszéltél volna velem?	Our teacher is a gentleman in the true sense of the word.	You're using me in your art like this without consulting me?	False	False	1.2963938	672	672, 804, 247	0	277
+783	Az olaj ára emelkedik.	Storm in a teacup.	The price of oil is going up.	False	True	1.3519454	728	728, 611, 163	0.3333333333333333	163
+784	Tom egy szót sem fog elhinni abból, amit mondasz neki.	We'll make a sailor out of you yet.	Tom won't believe a word you tell him.	False	False	1.2551247	485	485, 835, 628	0	209
+785	Tom azt mondta, hogy Mary eljön vacsorára.	Tom said Mary was coming over for dinner.	Tom said Mary was coming over for dinner.	True	True	1.3414792	621	621, 800, 715	1.0	621
+786	Tom nem kedveli a családomat.	Tom doesn't watch war movies.	Tom doesn't like my family.	False	False	1.3067052	944	944, 375, 58	0	264
+787	A hősök most mind a föld alatt fekszenek.	Now all heros lie under the earth.	Now all heros lie under the earth.	True	True	1.2883365	696	696, 605, 174	1.0	696
+788	Az utolsó személy, akinek elmondtam az ötletemet, őrültnek tartott.	Leave that there.	The last person I told my idea to thought I was nuts.	False	False	1.2784381	300	300, 738, 150	0	902
+789	Feltehetőleg megölte őt.	I will shoot him.	She allegedly killed him.	False	False	1.2815303	444	444, 108, 930	0	16
+790	Amit feltaláltak, mind igaz.	Who is sick?	All that which is invented, is true.	False	False	1.3365085	400	400, 375, 548	0	530
+791	Nem látta a táblát?	May I sit here?	Didn't you read the sign?	False	False	1.2905092	705	705, 91, 220	0	693
+792	Szívesen veled mentem volna, de nem volt rá időm.	You have foul breath.	I would have liked to come with you, but I didn't have time.	False	False	1.2583427	738	738, 817, 166	0	368
+793	Tom és Mary fenn voltak a Mayflower fedélzetén.	Tom and Mary were on board the Mayflower.	Tom and Mary were on board the Mayflower.	True	True	1.2548078	109	109, 183, 611	1.0	109
+794	Sajnos igaz.	Leave that there.	It is unfortunately true.	False	False	1.3523833	300	300, 628, 375	0	404
+795	Ezt a tévékészüléket HDMI kábel nélkül szállítjuk.	This TV doesn't come with an HDMI cable.	This TV doesn't come with an HDMI cable.	True	True	1.1923515	37	37, 658, 217	1.0	37
+796	Nyilvánosan megaláztak.	You have foul breath.	I was humiliated in public.	False	False	1.3385429	738	738, 294, 728	0	249
+797	Elfogyott a szappanunk.	Gather your toys together.	We're out of soap.	False	False	1.3585219	971	971, 300, 696	0	813
+798	A buszunk főképp akkor jön késve, ha sietünk.	What a palaver!	Our bus comes late particularly when we are in a hurry.	False	False	1.3040469	294	294, 835, 591	0	492
+799	Mióta figyeltetek minket?	Do you mind their coming too?	How long have you been watching us?	False	False	1.3416281	91	91, 385, 39	0	248
+800	Gyuri osztotta-szorozta az utazás költségeit.	Someone stole my travelers checks.	George calculated the cost of the trip.	False	False	1.3625805	396	396, 779, 375	0	946
+801	Laurie otthon van?	Do you mind their coming too?	Is Laurie at home?	False	False	1.350423	91	91, 705, 628	0	345
+802	Tomi ellátta aláírásával a szerződést.	Tom signed the document.	Tom signed the contract.	False	True	1.2219665	129	129, 131, 127	0.5	131
+803	Ereszt a gumi.	That toy is selling like hot cakes.	The tire leaks air.	False	False	1.4214338	864	864, 841, 375	0	509
+804	CD-ket veszünk.	Blue suits you well.	We buy CDs.	False	False	1.3455354	628	628, 738, 779	0	181
+805	Kérte a számomat.	Give me the knife.	He asked for my number.	False	False	1.360235	491	491, 300, 738	0	122
+806	Apám holnap jóízű ételt főz majd nekem.	The 23 fits you better.	My father will prepare a tasty meal for me tomorrow.	False	False	1.3114271	375	375, 344, 738	0	515
+807	Azt mondják, megfázott.	You have foul breath.	He is said to have a cold.	False	False	1.3195956	738	738, 300, 375	0	952
+808	A saját szememmel láttam és a saját fülemmel hallottam őt.	You have foul breath.	I've seen him with my own eyes and heard him with my own ears.	False	True	1.2865201	738	738, 166, 36	0.3333333333333333	36
+809	Tudja, mit akar.	Leave that there.	She knows what she wants.	False	False	1.360559	300	300, 444, 738	0	826
+810	Ez a szövegkörnyezettől függ.	Self-pity won't help you.	It depends on the context.	False	False	1.422007	139	139, 886, 932	0	910
+811	Miért fehér a hó?	Who is sick?	Why is snow white?	False	False	1.3161175	400	400, 359, 802	0	212
+812	Ha megfogadtad volna a tanácsom, most nem ülnél a slamasztikában.	You have foul breath.	If you had taken my advice, you wouldn't be in such trouble.	False	False	1.3170761	738	738, 628, 455	0	957
+813	Nem kevesebbet, mint száz dollárt fizettem ezért a tollért.	Blue suits you well.	I paid not less than a hundred dollars for this pen.	False	True	1.2766814	628	628, 375, 888	0.3333333333333333	888
+814	Tomi jól vezet.	The 23 fits you better.	Tom is good at driving.	False	False	1.2777297	375	375, 364, 482	0	449
+815	Mr. Smith angolul tanít engem.	Mr. Smith teaches me English.	Mr. Smith teaches me English.	True	True	1.2870636	150	150, 455, 628	1.0	150
+816	Tom szeret írni.	You got shot, Tom.	Tom likes writing.	False	False	1.3365774	482	482, 364, 300	0	805
+817	Egy darabka sült halat belemártottam a majonézbe.	Son of a bitch stole my backpack, ate my sandwich, and shit in my Thermos!	I dipped a piece of the fried fish in the mayonnaise.	False	True	1.3515918	828	828, 439, 818	0.5	439
+818	Hányan vannak most a listán?	What are they doing there?	How many people are on the list now?	False	True	1.4029639	353	353, 359, 213	0.3333333333333333	213
+819	A kutya bizonyára éhes.	I saw somebody steal the merchandise.	The dog must be hungry.	False	False	1.272813	835	835, 728, 795	0	358
+820	Tom azt mondta, hogy nem látott semmit.	I saw somebody steal the merchandise.	Tom said that he didn't see anything.	False	False	1.29738	835	835, 385, 209	0	124
+821	Mussolini volt a fasizmus alapítója.	Mussolini was the founder of fascism.	Mussolini was the founder of fascism.	True	True	1.0959661	649	649, 647, 650	1.0	649
+822	Őrült volt Tom.	Leave that there.	Tom was mad.	False	False	1.3017414	300	300, 444, 569	0	915
+823	Ó, itt van egy pillangó!	Son of a bitch!	Oh, there's a butterfly!	False	True	1.2936704	818	818, 421, 495	0.5	421
+824	Az úszóverseny lesz a következő olimpia fő eseménye.	Swimming will be the main event of the next Olympics.	Swimming will be the main event of the next Olympics.	True	True	1.3161302	336	336, 863, 183	1.0	336
+825	Vissza kell utasítanod.	You have your right sock on wrong side out.	You must deny it.	False	False	1.3644288	998	998, 738, 779	0	552
+826	Azt mondják, a háborúnak nemsokára vége.	Leave that there.	It is said that the war will end soon.	False	False	1.3287923	300	300, 597, 696	0	782
+827	Bizonyára tévedsz.	Leave that there.	You must be mistaken.	False	False	1.3664336	300	300, 628, 375	0	570
+828	Holnap matekdoga lesz.	You have your right sock on wrong side out.	There's a math test tomorrow.	False	False	1.5035486	998	998, 450, 344	0	581
+829	Egy cégnél, ahol dolgoztam, az összes dolgozó fizetését ellopták egy sötét téli éjszakán.	I saw somebody steal the merchandise.	I have worked for one company where the payroll was snatched on a dark winter's night.	False	True	1.1572633	835	835, 192, 828	0.5	192
+830	A gyakori szex nem jó.	Do I detect sarcasm?	Frequent sex is not good.	False	False	1.310298	391	391, 737, 824	0	764
+831	Kérem.	I will shoot him.	Don't mention it.	False	False	1.439219	444	444, 300, 611	0	89
+832	Ma jó a kedve.	You have foul breath.	She's in a good mood today.	False	False	1.3690343	738	738, 375, 291	0	154
+833	A gyermekek már elmentek az iskolába.	They are looking at only the sunny side of the American economy.	The children have already gone to school.	False	False	1.2999418	931	931, 375, 174	0	712
+834	Nem akarlak lelőni, de megteszem, ha kell.	You sent me your photo.	I don't want to shoot you, but I will if I have to.	False	False	1.2692367	779	779, 375, 364	0	160
+835	Be kell avatkoznunk.	Leave that there.	We must intervene.	False	False	1.3148406	300	300, 971, 612	0	653
+836	Beveszed azt a magyarázatot?	Do you speak Russian?	Do you buy that explanation?	False	False	1.4076276	881	881, 304, 341	0	947
+837	Nagyon beteg.	Take it home.	He's very ill.	False	False	1.422376	797	797, 400, 887	0	387
+838	Büdös ez a tojás.	Leave that there.	This egg smells bad.	False	False	1.388713	300	300, 738, 437	0	795
+839	Ön szereti a szardellát?	Will you go with Tom?	Do you like anchovies?	False	False	1.4223204	304	304, 738, 300	0	844
+840	Tegnap nem voltunk otthon.	You have foul breath.	We weren't at home yesterday.	False	False	1.3114088	738	738, 300, 705	0	189
+841	György sok sajtot evett reggelire.	You lent a book.	George had a lot of cheese for breakfast.	False	False	1.2679331	364	364, 728, 628	0	961
+842	Nem iszol túl sok kávét.	You have foul breath.	Don't drink too much coffee.	False	False	1.3432044	738	738, 300, 628	0	616
+843	Valaki néz engem.	Blue suits you well.	Something is watching me.	False	False	1.355465	628	628, 326, 300	0	111
+844	Nem döntenek fontos dolgokról.	You have foul breath.	They don't decide important matters.	False	False	1.3195747	738	738, 91, 391	0	348
+845	Nagyanyám 75 éves.	My grandma is 75 years old.	My grandma is 75 years old.	True	True	1.3561633	118	118, 795, 611	1.0	118
+846	Bíznod kell bennünk.	You have foul breath.	You must trust us.	False	False	1.3678241	738	738, 300, 91	0	669
+847	Jársz iskolába?	Do you mind their coming too?	Do you go to school?	False	False	1.4677442	91	91, 628, 344	0	407
+848	Első pillantásra felismertem.	You have foul breath.	I recognized her at first glance.	False	False	1.4050918	738	738, 166, 779	0	964
+849	Ha itt talál, megöl.	Leave that there.	If he'll find you here, he'll kill you.	False	False	1.322826	300	300, 375, 696	0	405
+850	Más megoldás is kell, hogy legyen.	What a palaver!	There must be another way.	False	False	1.2254465	294	294, 617, 400	0	460
+851	Számítok önre, hogy csatlakozik hozzánk.	You sent me your photo.	I'm counting on you to join us.	False	False	1.238508	779	779, 375, 217	0	722
+852	Jelenléte fontos nekem.	You have foul breath.	Its presence is important for me.	False	False	1.3518578	738	738, 491, 69	0	114
+853	Az én franciám egyáltalán nem jó.	We'll make a sailor out of you yet.	My French is not good at all.	False	False	1.2824328	485	485, 835, 738	0	847
+854	A politikai reformok talán javítanak a szegények életkörülményein.	More and more couples go on honeymoon trips abroad.	Political reforms may ameliorate the living conditions of the poor.	False	False	1.3052071	183	183, 294, 375	0	794
+855	Nincs benne elég kurázsi.	Blue suits you well.	He doesn't have the courage.	False	False	1.3173699	628	628, 738, 375	0	652
+856	Már nyertél.	Leave that there.	You've already won.	False	False	1.439107	300	300, 611, 747	0	508
+857	Kíváncsi vagyok, élvezte-e az utolsó meccset.	Give me the knife.	I wonder if he enjoyed the last match.	False	False	1.2413732	491	491, 455, 375	0	280
+858	Itt van a nyelvemen a szó.	That ship has sailed.	I have the word on the tip of my tongue.	False	False	1.4020019	611	611, 300, 294	0	644
+859	Hagyd azt itt.	Leave that there.	Leave that there.	True	True	1.3756356	300	300, 628, 375	1.0	300
+860	Biztos, szomjas vagy.	You have foul breath.	You must be thirsty.	False	False	1.2986755	738	738, 454, 300	0	631
+861	Tom nem tudja, mi történt, mert nem volt ott.	Who told him that?	Tom doesn't know what happened because he wasn't there.	False	False	1.2819923	499	499, 391, 350	0	81
+862	Kért minket, hogy mi is menjünk vele.	Leave that there.	He begged us to go with him.	False	False	1.3302841	300	300, 779, 491	0	514
+863	Tominak szüksége volt rád.	You have foul breath.	Tom needed you.	False	False	1.3155423	738	738, 835, 818	0	882
+864	A kommunizmus az a rendszer, amelyet a Szovjetunióban gyakoroltak.	Communism is the system practiced in the Soviet Union.	Communism is the system practiced in the Soviet Union.	True	True	1.217664	936	936, 554, 125	1.0	936
+865	Nem számít, milyen sokáig maradhatsz fenn, reggel hétkor kelj fel.	Blue suits you well.	No matter how late you may stay up, get up by seven in the morning.	False	True	1.2657295	628	628, 738, 141	0.3333333333333333	141
+866	A túlkínálat csökkenő árakat von maga után.	That toy is selling like hot cakes.	Excessive supply leads to a drop in prices.	False	True	1.3528461	864	864, 517, 179	0.5	517
+867	Ellentmondásos választ kaptam tőle.	You have foul breath.	She gave me a conflicting answer.	False	False	1.2506675	738	738, 287, 450	0	766
+868	Tomnak együtt kellett élnie a tettei következményeivel.	You have foul breath.	Tom had to live with the consequences of his actions.	False	False	1.3537476	738	738, 318, 58	0	62
+869	A házat egy tornádó rombolta le.	Storm in a teacup.	The house was destroyed by a tornado.	False	False	1.3263875	728	728, 396, 864	0	206
+870	Tom látni akarja a fiát.	The 23 fits you better.	Tom wants to see his son.	False	False	1.3289615	375	375, 971, 209	0	505
+871	Egy új műsort néztünk a tv-ben.	We watched a new program on television.	We watched a new program on television.	True	True	1.1167064	941	941, 725, 835	1.0	941
+872	Mindenki arról beszél, hogy mi történt a megbeszélésen.	Who told him that?	Everybody's talking about what happened at the meeting.	False	False	1.2693812	499	499, 350, 500	0	227
+873	Tudod, hogy nem a spanyol nyelv rovására terjesztem a portugált.	We'll make a sailor out of you yet.	You know that I am not promoting Portuguese over Spanish.	False	False	1.2901626	485	485, 364, 738	0	765
+874	Kapcsold be a rádiót!	Japan is full of surprises!	Turn on the radio.	False	False	1.3767208	495	495, 735, 818	0	115
+875	Szeretek szotyolát rágcsálni.	You have foul breath.	I like cracking sunflower seeds.	False	False	1.3993677	738	738, 375, 612	0	60
+876	Kezdek belefáradni a panaszáradatodba.	The 23 fits you better.	I'm getting tired of your complaints.	False	False	1.341075	375	375, 738, 734	0	440
+877	Lehetnék boldogtalan, de nem lennék öngyilkos.	Leave that there.	I'd be unhappy, but I wouldn't kill myself.	False	False	1.2068622	300	300, 437, 738	0	448
+878	Ez egy véletlenszerű mondat.	I only ask out of curiosity.	This is a random sentence.	False	False	1.3286544	184	184, 294, 818	0	780
+879	Kápéra van szükségem.	You have foul breath.	I need cash.	False	False	1.2646952	738	738, 300, 491	0	424
+880	Melyik országból jöttél?	Did you sleep well?	Which country are you from?	False	False	1.4088725	220	220, 943, 91	0	890
+881	Hol van a szépművészeti múzeum?	Who is sick?	Where's the museum?	False	False	1.3288732	400	400, 353, 359	0	5
+882	Tom véletlenül besétált egy szobába, ami tele volt öltönyös emberekkel.	I saw somebody steal the merchandise.	Tom accidentally walked into a room full of people wearing suits.	False	False	1.2374717	835	835, 551, 828	0	678
+883	Mi a kedvenc festményed?	You have foul breath.	What's your favorite painting?	False	False	1.4192166	738	738, 896, 91	0	25
+884	Ő nem a testvérem, hanem a feleségem.	Teach judo to me.	She is not my sister, she's my wife.	False	False	1.3355488	326	326, 300, 919	0	856
+885	Több pénzt költöttünk a vártnál.	You have foul breath.	We spent more money than was expected.	False	False	1.2317789	738	738, 751, 396	0	873
+886	Olyan kövér vagyok.	Leave that there.	I'm so fat.	False	False	1.3882359	300	300, 364, 628	0	438
+887	Tom elsápadt.	You got shot, Tom.	Tom turned pale.	False	False	1.3235612	482	482, 300, 738	0	4
+888	A lányom kórházban van, mert megsérült egy közlekedési balesetben.	My daughter is in hospital because she was injured in a traffic accident.	My daughter is in hospital because she was injured in a traffic accident.	True	True	1.2268556	155	155, 835, 483	1.0	155
+889	Nyáron szeretek meztelenül úszni a tóban.	Children love to dig in the sand.	In the summer I like to swim naked in the pond.	False	False	1.1999778	174	174, 738, 728	0	711
+890	Hogyan kezeli ön a stresszt?	How do you handle stress?	How do you handle stress?	True	True	1.3779867	793	793, 39, 738	1.0	793
+891	Tájfun közelít Japánhoz.	That ship has sailed.	A typhoon is approaching Japan.	False	False	1.3548645	611	611, 375, 728	0	464
+892	Valamikor asztrofizikus akartam lenni.	You have foul breath.	I once wanted to be an astrophysicist.	False	False	1.3729665	738	738, 554, 391	0	402
+893	Ne lépjél üvegcserepekre!	Get your arse into gear!	Don't step on the broken glass.	False	False	1.3621806	734	734, 971, 396	0	591
+894	Lelövöm!	Please let go of my arm.	I will shoot him.	False	False	1.4234343	381	381, 437, 817	0	444
+895	Bejött a szobába.	The 23 fits you better.	He came into the room.	False	False	1.2995517	375	375, 291, 738	0	225
+896	Bajban van, mert látott valamit, amit nem kellett volna.	You have foul breath.	She's in trouble because she saw something that she shouldn't have.	False	False	1.2507846	738	738, 174, 375	0	357
+897	Tom megjelenésében és személyiségében is az apjára hasonlít.	In both appearance and personality, Tom is exactly like his father.	In both appearance and personality, Tom is exactly like his father.	True	True	1.2569492	602	602, 506, 365	1.0	602
+898	Tisztában vagy vele, mi a barátság?	Who is sick?	Do you know what friendship is?	False	True	1.2689788	400	400, 304, 343	0.3333333333333333	343
+899	Told ide vissza a segged!	Please let go of my arm.	Get your butt over here!	False	False	1.4837487	381	381, 971, 734	0	735
+900	Mindig panaszkodik a főnökére.	Storm in a teacup.	He is always complaining about his boss.	False	False	1.2890177	728	728, 450, 375	0	29
+901	Tom már nem lakik Bosztonban.	The 23 fits you better.	Tom doesn't live in Boston anymore.	False	False	1.2986813	375	375, 815, 628	0	717
+902	Elég jól ismerjük egymást.	The 23 fits you better.	We know each other quite well.	False	False	1.3085121	375	375, 738, 971	0	66
+903	Miért nem szeretsz minket?	You have foul breath.	Why don't you like us?	False	True	1.3763227	738	738, 341, 503	0.3333333333333333	503
+904	Támogatjuk ebben az ügyben.	They are looking at only the sunny side of the American economy.	We aided him in his business.	False	False	1.3306464	931	931, 205, 217	0	506
+905	Egy padon ült.	You have foul breath.	She sat on a bench.	False	False	1.3635976	738	738, 483, 300	0	553
+906	Elmegyek a boltba.	Blue suits you well.	I am going to the store now.	False	False	1.3948811	628	628, 300, 723	0	272
+907	Fejbevágott, és elszaladt.	Now all heros lie under the earth.	She hit me on the head and she ran away.	False	False	1.2742248	696	696, 375, 450	0	775
+908	Hogy lehetsz ennyire érzéketlen?	Are you mad?	How can you be so insensitive?	False	False	1.2511739	896	896, 520, 144	0	614
+909	Találkoztál a húgommal, igaz?	Where is the laundry?	You met my sister, didn't you?	False	False	1.3533324	633	633, 341, 91	0	324
+910	A kurva életbe.	What a palaver!	Life is a bitch.	False	False	1.375077	294	294, 728, 738	0	821
+911	Letörölte verejtékező homlokát.	Don't step on the broken glass.	He dried his sweaty forehead.	False	False	1.402364	591	591, 450, 364	0	771
+912	A szobámban nincs óra.	You have foul breath.	In my room, there are no clocks.	False	False	1.2271309	738	738, 300, 728	0	969
+913	Nem az igazi.	Leave that there.	Something's not quite right.	False	False	1.3659644	300	300, 400, 375	0	337
+914	Én tegnap érkeztem ide.	The 23 fits you better.	I arrived here yesterday.	False	False	1.4749869	375	375, 734, 779	0	871
+915	A pénz szeretete minden gonosz forrása.	You have foul breath.	Love of money is the root of all evil.	False	False	1.2897837	738	738, 294, 174	0	977
+916	Szorosan ölelkeztek.	You have foul breath.	They embraced tightly.	False	False	1.3800246	738	738, 591, 455	0	351
+917	Meglepődni, csodálkozni, - ez a megértés kezdete.	You have foul breath.	To be surprised, to wonder, is to begin to understand.	False	False	1.2760909	738	738, 69, 375	0	533
+918	Tom és Mary párnacsatáztak.	More and more couples go on honeymoon trips abroad.	Tom and Mary had a pillow fight.	False	True	1.3106946	183	183, 975, 58	0.5	975
+919	Nem bánod, ha ők is jönnek?	Do you mind their coming too?	Do you mind their coming too?	True	True	1.294236	91	91, 359, 503	1.0	91
+920	Egy ruhát varr.	The 23 fits you better.	She is sewing a dress.	False	False	1.3265786	375	375, 300, 364	0	504
+921	Itt a környéken laknak.	Leave that there.	They live nearby.	False	False	1.332478	300	300, 696, 174	0	456
+922	Elmentem egy sörre a barátokkal.	Storm in a teacup.	I went to drink a beer with friends.	False	False	1.3250495	728	728, 300, 875	0	831
+923	Szakértő kell nekünk.	You are drunk!	We need experts.	False	False	1.3936523	612	612, 738, 69	0	589
+924	Tom telve van reménnyel.	You have foul breath.	Tom is full of hope.	False	False	1.3314549	738	738, 300, 628	0	72
+925	Ez benne volt a tervedben?	Who is sick?	Was that part of your plan?	False	False	1.3836341	400	400, 705, 353	0	251
+926	Nem más, mint egy barát.	What a palaver!	He's just a friend.	False	False	1.2748731	294	294, 364, 728	0	21
+927	Kérlek, gondold át!	Please let go of my arm.	Please think it over.	False	False	1.3697318	381	381, 386, 300	0	685
+928	Tegnap későn értem haza.	You have foul breath.	I got home late yesterday.	False	False	1.3716623	738	738, 491, 591	0	868
+929	Nekem ne rendelj semmit.	You sent me your photo.	Don't order anything for me.	False	False	1.3969283	779	779, 628, 300	0	697
+930	Pénzre volt szükségem.	You sent me your photo.	I needed money.	False	False	1.3130238	779	779, 738, 875	0	573
+931	Én magam írtam a dalaimat.	Your old grandma dances well.	I wrote my songs myself.	False	False	1.3801868	344	344, 375, 491	0	54
+932	Ács vagyok.	Leave that there.	I'm a carpenter.	False	False	1.3119498	300	300, 454, 628	0	679
+933	Ezt az időt sajnos a családomtól kellett elvenni.	The 23 fits you better.	Unfortunately, I had to take this time away from my family.	False	False	1.2537885	375	375, 294, 738	0	447
+934	Ugye nem panaszkodik mindig Tom?	Do you mind their coming too?	Tom doesn't always complain, does he?	False	False	1.3543465	91	91, 705, 534	0	198
+935	Maga részeg!	This is silly!	You are drunk!	False	False	1.3940909	830	830, 818, 495	0	612
+936	Nem fogok neked hazudni.	You have foul breath.	I won't lie to you.	False	False	1.3499501	738	738, 91, 437	0	487
+937	Nem kétlem, hogy ide fog jönni.	Get your arse into gear!	I don't doubt that she will come here.	False	False	1.3740892	734	734, 875, 300	0	281
+938	Tom meghalt.	Tom has died.	Tom has died.	True	True	1.3485733	651	651, 800, 841	1.0	651
+939	Nem tudod ezt bizonyítani.	You have foul breath.	You can't prove that.	False	False	1.3136806	738	738, 455, 91	0	749
+940	Hosszú szárazság után tegnap esett az eső.	Storm in a teacup.	It rained yesterday after it had been dry for a long time.	False	False	1.3253114	728	728, 738, 696	0	242
+941	Ez az aktuális ár.	The price of oil is going up.	That's the going rate.	False	False	1.4110495	163	163, 864, 300	0	441
+942	Csak kíváncsiságból kérdezem.	You have foul breath.	I only ask out of curiosity.	False	False	1.3731613	738	738, 875, 723	0	184
+943	Nincs mitől félned.	You have foul breath.	There is nothing to be scared of.	False	False	1.4935246	738	738, 385, 166	0	38
+944	Éva nem is olyan csúnya lány.	Storm in a teacup.	Eva is not such an ugly girl.	False	False	1.3274337	728	728, 375, 294	0	488
+945	1969-ben adták ki.	It was published in 1969.	It was published in 1969.	True	True	1.3245119	177	177, 728, 797	1.0	177
+946	Szereti a narancsot.	The 23 fits you better.	She likes oranges.	False	False	1.3426745	375	375, 628, 738	0	699
+947	Választ akarok kapni.	Leave that there.	I need answers.	False	False	1.3282261	300	300, 738, 569	0	204
+948	Tudod, hogy mennek itt a dolgok?	Do you mind their coming too?	Do you know what's going on?	False	False	1.2589791	91	91, 705, 948	0	486
+949	Tom gyakran gondolja meg magát.	Do I detect sarcasm?	Tom changes his mind a lot.	False	False	1.2913642	391	391, 815, 675	0	171
+950	- Ezt a szerelemért vagy a pénzért fogod megtenni. - A pénzért.	You have foul breath.	"""Are you gonna do it for the love or the money?"" ""I'm gonna do it for the money."""	False	False	1.285377	738	738, 364, 779	0	559
+951	Mit csinálnak ott?	What are they doing there?	What are they doing there?	True	True	1.3689828	353	353, 943, 91	1.0	353
+952	Ha egy filozófus válaszol, többé már nem értem meg a kérdésemet.	I saw somebody steal the merchandise.	When a philosopher answers me, I no longer understand my question.	False	False	1.2816119	835	835, 69, 875	0	561
+953	A nővérem titkárnőként dolgozik egy bankban.	My sister works as a secretary at a bank.	My sister works as a secretary at a bank.	True	True	1.239506	720	720, 58, 183	1.0	720
+954	Nem úgy látjuk a dolgokat, mint amilyenek, hanem úgy, amilyenek mi vagyunk.	What are they doing there?	We don't see things as they are, but as we are.	False	False	1.2003598	353	353, 91, 618	0	550
+955	Szükségem van egy bélyegre.	You have foul breath.	I need to get a stamp.	False	False	1.2941424	738	738, 812, 818	0	259
+956	Megevett egy darab tortát.	You lent a book.	He ate a piece of the pie.	False	False	1.3694851	364	364, 375, 728	0	879
+957	Tomi nem részeg, Mari viszont igen.	You got shot, Tom.	Tom isn't drunk, but Mary is.	False	False	1.3707007	482	482, 364, 300	0	657
+958	Munkát keresel?	You have foul breath.	Are you looking for work?	False	False	1.343548	738	738, 705, 948	0	567
+959	A legutóbbi felmérések kimutatták, hogy a nagyvárosok népsűrűsége folyamatosan csökken.	More and more couples go on honeymoon trips abroad.	A recent survey revealed that the population density in the metropolis was decreasing.	False	True	1.3040613	183	183, 428, 517	0.5	428
+960	Tom egy szökevény.	I saw somebody steal the merchandise.	Tom is a refugee.	False	False	1.3153145	835	835, 551, 728	0	484
+961	Én túlléptem rajta. Neked is ezt kellene tenned.	You have foul breath.	I got over it. You should, too.	False	False	1.3529038	738	738, 779, 326	0	784
+962	Ma este nem akarok Tomi mellé ülni.	Leave that there.	I don't want to sit next to Tom tonight.	False	False	1.3819804	300	300, 482, 146	0	507
+963	Nem tudok törökül.	Leave that there.	I can't speak Turkish.	False	False	1.3530536	300	300, 450, 437	0	666
+964	Vennünk kellett volna még egy üveg bort.	We should have bought another bottle of wine.	We should have bought another bottle of wine.	True	True	1.333823	762	762, 814, 738	1.0	762
+965	Amikor utoljára láttalak titeket, akkor még csak kislányok voltatok.	The 23 fits you better.	When I saw you last time, you were just little girls.	False	False	1.2769821	375	375, 779, 174	0	394
+966	Igazi tengerészt faragunk belőled.	You have foul breath.	We'll make a sailor out of you yet.	False	False	1.3229759	738	738, 450, 174	0	485
+967	Idővel jön a tapasztalat.	You have foul breath.	Experience is acquired with time.	False	False	1.3335373	738	738, 734, 166	0	98
+968	Az újságban olvastam róla.	We watched a new program on television.	I read about it in the newspaper.	False	False	1.4075036	941	941, 450, 628	0	191
+969	Nem olvasnak annyi regényt, mint valamikor.	We'll make a sailor out of you yet.	Novels aren't being read as much as they used to be.	False	False	1.3051409	485	485, 294, 628	0	596
+970	Elnyerte a szeretetét.	You have foul breath.	He won her love.	False	False	1.3125592	738	738, 300, 375	0	468
+971	Ki kell kapcsolódnod.	You have your right sock on wrong side out.	You must relax.	False	False	1.4603429	998	998, 971, 738	0	420
+972	Túlságosan elfoglaltak az egymás elleni küzdelemmel ahhoz, hogy közös eszméknek szenteljék magukat.	They are too busy fighting against each other to care for common ideals.	They are too busy fighting against each other to care for common ideals.	True	True	1.3403248	904	904, 554, 971	1.0	904
+973	Minden szobához van saját fürdőszoba.	Each room has its own bathroom.	Each room has its own bathroom.	True	True	1.2804104	937	937, 971, 864	1.0	937
+974	Elküldted nekem a fényképedet.	You sent me your photo.	You sent me your photo.	True	True	1.3602543	779	779, 247, 69	1.0	779
+975	Esküszöm égre és földre, hogy nem hazugság.	Storm in a teacup.	I'm not lying. I swear to God!	False	False	1.2714764	728	728, 738, 437	0	466
+976	Légy kedves másokhoz!	Get your arse into gear!	Be kind to others.	False	False	1.3205924	734	734, 381, 738	0	635
+977	Nagy lelkesedéssel beszélt a színházi előadásról.	He spoke with great enthusiasm of the theatrical performance.	He spoke with great enthusiasm of the theatrical performance.	True	True	1.2612975	399	399, 249, 318	1.0	399
+978	Tudtam, hogy meg tudod csinálni, Tom.	You got shot, Tom.	I knew you could do it, Tom.	False	False	1.286414	482	482, 364, 779	0	210
+979	Mi van veled? Sápadtnak tűnsz.	You have foul breath.	What's the matter with you? You look pale.	False	False	1.3932668	738	738, 300, 91	0	315
+980	Hatig ott maradok.	Blue suits you well.	I'll stay there till six o'clock.	False	False	1.4769766	628	628, 375, 91	0	951
+981	A kapitalizmus az ember ember által történő kizsákmányolása. A kommunizmus pontosan ennek az ellentéte.	Capitalism is the exploitation of man by man. Communism is the exact opposite.	Capitalism is the exploitation of man by man. Communism is the exact opposite.	True	True	1.2456264	933	933, 554, 935	1.0	933
+982	Ez az egyik kedvenc kifejezésem.	You have foul breath.	That's one of my favorite expressions.	False	False	1.3769655	738	738, 439, 375	0	688
+983	Pierce-t 1852-ben választották meg.	Pierce was elected in 1852.	Pierce was elected in 1852.	True	True	1.2271034	175	175, 880, 660	1.0	175
+984	Tominak figyelemre van szüksége.	You have foul breath.	Tom needs attention.	False	False	1.2889282	738	738, 400, 675	0	884
+985	Hová jár a húgod iskolába?	May I sit here?	Where does your sister go to school?	False	False	1.4410765	705	705, 91, 998	0	412
+986	Két hét telt el.	You have foul breath.	Two weeks went by.	False	False	1.3556597	738	738, 300, 454	0	371
+987	Ez az utolsó vonat.	That's MY line!	This is the last train.	False	False	1.3670236	411	411, 611, 163	0	237
+988	Beállt a sérült játékos helyett.	He substituted for the injured player.	He substituted for the injured player.	True	True	1.355099	997	997, 797, 611	1.0	997
+989	1941-ben tért haza Európából, mikor kitört a háború.	He returned home from Europe in 1941, when the war broke out.	He returned home from Europe in 1941, when the war broke out.	True	True	1.2413366	363	363, 373, 610	1.0	363
+990	Anyám sokat segít.	The 23 fits you better.	My mom helps me a lot.	False	False	1.4079549	375	375, 482, 495	0	132
+991	Három táncos táncolta a nehéz táncot.	Storm in a teacup.	Three dancers danced the difficult dance.	False	True	1.3279365	728	728, 791, 591	0.5	791
+992	Ne csináld ezt! Ez nem a te munkád.	May I sit here?	Don't do that. It's not your job.	False	False	1.4116788	705	705, 998, 738	0	787
+993	Ellene vagyok a gyerek előkészítő iskolába járatásának az ő akarata ellenére.	I'm against us forcing the child to go to cram school.	I'm against us forcing the child to go to cram school.	True	True	1.3488886	866	866, 375, 485	1.0	866
+994	Régóta ismerem őket.	You have foul breath.	I've known them a long time.	False	False	1.3565776	738	738, 628, 375	0	963
+995	Aludnunk kell.	Leave that there.	We need sleep.	False	False	1.3549452	300	300, 611, 450	0	592
+996	Egy szivar volt Tomi szájában.	You got shot, Tom.	Tom had a cigar in his mouth.	False	False	1.3192399	482	482, 628, 454	0	493
+997	Szeretnék még egyszer beszélgetni vele.	I saw somebody steal the merchandise.	I'd like to talk to her again.	False	False	1.296662	835	835, 941, 388	0	846
+998	Mindig kevesli a fizetését.	The 23 fits you better.	He is always complaining about his low salary.	False	False	1.3640187	375	375, 779, 738	0	199
+999	Ő egy kurva.	What a palaver!	She's a bitch.	False	False	1.3347174	294	294, 444, 821	0	819
